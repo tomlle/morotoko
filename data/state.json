@@ -31,7 +31,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-11T18:00:52.392Z",
+      "lastSeenAt": "2026-10-11T21:00:59.205Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -85,7 +85,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-11T18:00:52.392Z",
+      "lastSeenAt": "2026-10-11T21:00:59.205Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -126,7 +126,19 @@
         "キャラクターカスタマイズ",
         "リアル",
         "+"
-      ]
+      ],
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-11T21:00:59.206Z",
+        "postText": "まもなく終了⏰\n\n『ARC Raiders』\n無料プレイは 10/12 17:00まで\n\n遊び忘れに注意！\n\n『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。\n\nhttps://store.steampowered.com/app/1808500/",
+        "attemptedAt": "2026-10-11T21:00:59.481Z",
+        "bufferPostId": "6acbf90bfa026cfb8115bc09",
+        "submittedAt": "2026-10-11T21:01:00.871Z",
+        "postedAt": "2026-10-11T21:01:00.871Z"
+      },
+      "endingReminderBufferPostId": "6acbf90bfa026cfb8115bc09",
+      "endingReminderPostedAt": "2026-10-11T21:01:00.871Z"
     },
     "steam:1621690:temporary_play:1": {
       "kind": "temporary_play",
@@ -140,7 +152,7 @@
       "currency": "JPY",
       "discountPercent": 40,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-11T18:00:52.392Z",
+      "lastSeenAt": "2026-10-11T21:00:59.205Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -195,7 +207,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T21:53:16.044Z",
-      "lastSeenAt": "2026-10-11T18:00:52.392Z",
+      "lastSeenAt": "2026-10-11T21:00:59.205Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
