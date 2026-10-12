@@ -32,7 +32,7 @@
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "delivery": {
@@ -165,7 +165,7 @@
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "startsAt": "2026-10-08T17:00:00.000Z",
@@ -232,7 +232,7 @@
       "firstSeenAt": "2026-10-09T21:53:16.044Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "delivery": {
