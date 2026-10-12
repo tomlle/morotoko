@@ -31,7 +31,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-12T03:01:02.794Z",
+      "lastSeenAt": "2026-10-12T06:00:57.152Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -71,7 +71,19 @@
         "Memes",
         "Gore",
         "+"
-      ]
+      ],
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-12T06:00:57.152Z",
+        "postText": "まもなく終了⏰\n\n『Pony Island』\n無料配布は 10/13 02:00まで\n\nライブラリへの追加忘れに注意！\n\nダークな雰囲気の中で、パズルを楽しめるインディーゲーム。\n\nhttps://store.steampowered.com/app/405640/",
+        "attemptedAt": "2026-10-12T06:00:57.613Z",
+        "bufferPostId": "6acc77998e8dd50ffc6b8272",
+        "submittedAt": "2026-10-12T06:00:59.051Z",
+        "postedAt": "2026-10-12T06:00:59.051Z"
+      },
+      "endingReminderBufferPostId": "6acc77998e8dd50ffc6b8272",
+      "endingReminderPostedAt": "2026-10-12T06:00:59.051Z"
     },
     "steam:1808500:temporary_play:1": {
       "kind": "temporary_play",
@@ -85,7 +97,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-12T03:01:02.794Z",
+      "lastSeenAt": "2026-10-12T06:00:57.152Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -152,7 +164,7 @@
       "currency": "JPY",
       "discountPercent": 40,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-12T03:01:02.794Z",
+      "lastSeenAt": "2026-10-12T06:00:57.152Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -193,7 +205,19 @@
         "インディー",
         "2D",
         "+"
-      ]
+      ],
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-12T06:00:57.152Z",
+        "postText": "まもなく終了⏰\n\n『Core Keeper』\n無料プレイは 10/13 02:00まで\n\n遊び忘れに注意！\n\n1から8人のプレイヤー対応の採掘サンドボックスアドベンチャーで、クリーチャーやレリック、資源が潜む無限の洞窟を探索しよう。採掘、建設、バトル、クラフト、そして農業し、古代のコ…\n\nhttps://store.steampowered.com/app/1621690/",
+        "attemptedAt": "2026-10-12T06:00:59.347Z",
+        "bufferPostId": "6acc779b7db619a2915e0d6f",
+        "submittedAt": "2026-10-12T06:01:00.649Z",
+        "postedAt": "2026-10-12T06:01:00.649Z"
+      },
+      "endingReminderBufferPostId": "6acc779b7db619a2915e0d6f",
+      "endingReminderPostedAt": "2026-10-12T06:01:00.649Z"
     },
     "steam:2990600:1": {
       "kind": "free_to_keep",
@@ -207,7 +231,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T21:53:16.044Z",
-      "lastSeenAt": "2026-10-12T03:01:02.794Z",
+      "lastSeenAt": "2026-10-12T06:00:57.152Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -247,7 +271,19 @@
         "Sandbox",
         "Sexual Content",
         "+"
-      ]
+      ],
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-12T06:00:57.152Z",
+        "postText": "まもなく終了⏰\n\n『Fireside Feelings』\n無料配布は 10/13 02:00まで\n\nライブラリへの追加忘れに注意！\n\n焚き火を囲み、自分の思いを分かち合いながら、時を越えて届くほかの人の言葉に触れる対話体験。\n\nhttps://store.steampowered.com/app/2990600/",
+        "attemptedAt": "2026-10-12T06:01:01.004Z",
+        "bufferPostId": "6acc779d63ff33d8c9ab79ab",
+        "submittedAt": "2026-10-12T06:01:02.392Z",
+        "postedAt": "2026-10-12T06:01:02.392Z"
+      },
+      "endingReminderBufferPostId": "6acc779d63ff33d8c9ab79ab",
+      "endingReminderPostedAt": "2026-10-12T06:01:02.392Z"
     }
   }
 }
