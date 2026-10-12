@@ -6,8 +6,7 @@
       "activeCampaignId": "steam:405640:1"
     },
     "steam:1808500:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1808500:temporary_play:1"
+      "generation": 1
     },
     "steam:1621690:temporary_play": {
       "generation": 1,
@@ -31,7 +30,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-12T09:00:56.906Z",
+      "lastSeenAt": "2026-10-12T12:01:00.226Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -98,8 +97,8 @@
       "discountPercent": 50,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
       "lastSeenAt": "2026-10-12T06:00:57.152Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "startsAt": "2026-10-08T08:00:00.000Z",
@@ -164,7 +163,7 @@
       "currency": "JPY",
       "discountPercent": 40,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
-      "lastSeenAt": "2026-10-12T09:00:56.906Z",
+      "lastSeenAt": "2026-10-12T12:01:00.226Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -231,7 +230,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T21:53:16.044Z",
-      "lastSeenAt": "2026-10-12T09:00:56.906Z",
+      "lastSeenAt": "2026-10-12T12:01:00.226Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
