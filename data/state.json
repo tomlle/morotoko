@@ -2,19 +2,16 @@
   "schemaVersion": 1,
   "products": {
     "steam:405640": {
-      "generation": 1,
-      "activeCampaignId": "steam:405640:1"
+      "generation": 1
     },
     "steam:1808500:temporary_play": {
       "generation": 1
     },
     "steam:1621690:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1621690:temporary_play:1"
+      "generation": 1
     },
     "steam:2990600": {
-      "generation": 1,
-      "activeCampaignId": "steam:2990600:1"
+      "generation": 1
     }
   },
   "campaigns": {
@@ -31,8 +28,8 @@
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "delivery": {
@@ -164,8 +161,8 @@
       "discountPercent": 40,
       "firstSeenAt": "2026-10-09T02:39:41.685Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "startsAt": "2026-10-08T17:00:00.000Z",
@@ -231,8 +228,8 @@
       "discountPercent": 100,
       "firstSeenAt": "2026-10-09T21:53:16.044Z",
       "lastSeenAt": "2026-10-12T15:02:10.184Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "delivery": {
