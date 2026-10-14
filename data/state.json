@@ -24,6 +24,18 @@
     "steam:5034980:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5034980:permanent_free:1"
+    },
+    "steam:4956060:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4956060:permanent_free:1"
+    },
+    "steam:5262490:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5262490:permanent_free:1"
+    },
+    "steam:4854020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4854020:permanent_free:1"
     }
   },
   "campaigns": {
@@ -382,11 +394,101 @@
       },
       "bufferPostId": "6acfc36d9b63fb37e4575dac",
       "postedAt": "2026-10-14T18:01:18.327Z"
+    },
+    "steam:4956060:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4956060:permanent_free:1",
+      "store": "steam",
+      "productId": "4956060",
+      "generation": 1,
+      "title": "Bid Rivals",
+      "storeUrl": "https://store.steampowered.com/app/4956060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T21:01:00.572Z",
+      "lastSeenAt": "2026-10-14T21:01:00.572Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "木箱がひとつ。中身は誰も知らない。Bid Rivalsは基本プレイ無料のマルチプレイ・オークションバトラー。情報を買い、場を読み、ライバルを欺き、価値のほんの一部でロットをさらえ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T21:01:00.572Z",
+        "postText": "新作無料ゲーム🎮\n\n『Bid Rivals』\n無料でプレイできます\n\n木箱がひとつ。中身は誰も知らない。Bid Rivalsは基本プレイ無料のマルチプレイ・オークションバトラー。情報を買い、場を読み、ライバルを欺き、価値のほんの一部でロットをさらえ。\n\nhttps://store.steampowered.com/app/4956060/",
+        "attemptedAt": "2026-10-14T21:01:01.166Z",
+        "bufferPostId": "6acfed8dac16d08dd4db0a63",
+        "submittedAt": "2026-10-14T21:01:02.573Z",
+        "postedAt": "2026-10-14T21:01:02.573Z"
+      },
+      "bufferPostId": "6acfed8dac16d08dd4db0a63",
+      "postedAt": "2026-10-14T21:01:02.573Z"
+    },
+    "steam:5262490:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5262490:permanent_free:1",
+      "store": "steam",
+      "productId": "5262490",
+      "generation": 1,
+      "title": "Poco Loco",
+      "storeUrl": "https://store.steampowered.com/app/5262490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T21:01:00.572Z",
+      "lastSeenAt": "2026-10-14T21:01:00.572Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Turn your Twitch and Kick chats into racing chaos! Dive into the interactive racing action with up to 100 players, on tracks built by the Poco Loco community. Are you ready to go Loco?!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T21:01:00.572Z",
+        "postText": "新作無料ゲーム🎮\n\n『Poco Loco』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/5262490/",
+        "attemptedAt": "2026-10-14T21:01:02.910Z",
+        "bufferPostId": "6acfed8f384901ac0840d3cb",
+        "submittedAt": "2026-10-14T21:01:04.293Z",
+        "postedAt": "2026-10-14T21:01:04.293Z"
+      },
+      "bufferPostId": "6acfed8f384901ac0840d3cb",
+      "postedAt": "2026-10-14T21:01:04.293Z"
+    },
+    "steam:4854020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4854020:permanent_free:1",
+      "store": "steam",
+      "productId": "4854020",
+      "generation": 1,
+      "title": "March of the Emissaries",
+      "storeUrl": "https://store.steampowered.com/app/4854020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T21:01:00.572Z",
+      "lastSeenAt": "2026-10-14T21:01:00.572Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Enjoy a short, kinetic visual novel where the remorseful Caius seeks atonement by joining a dark organization in hopes of making the country a safer place for the person he wronged.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T21:01:00.572Z",
+        "postText": "新作無料ゲーム🎮\n\n『March of the Emissaries』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/4854020/",
+        "attemptedAt": "2026-10-14T21:01:04.620Z",
+        "bufferPostId": "6acfed90384901ac0840d466",
+        "submittedAt": "2026-10-14T21:01:06.020Z",
+        "postedAt": "2026-10-14T21:01:06.020Z"
+      },
+      "bufferPostId": "6acfed90384901ac0840d466",
+      "postedAt": "2026-10-14T21:01:06.020Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-14T18:01:12.359Z",
+    "lastSuccessfulScanAt": "2026-10-14T21:01:00.572Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -425,12 +527,14 @@
       "4823850": "2026-10-14T15:30:36.000Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
+      "4854020": "2026-10-14T21:01:00.572Z",
       "4885100": "2026-10-14T15:30:36.000Z",
       "4894260": "2026-10-14T15:30:36.000Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
+      "4956060": "2026-10-14T21:01:00.572Z",
       "4963800": "2026-10-14T15:30:36.000Z",
       "4979300": "2026-10-14T15:30:36.000Z",
       "4979430": "2026-10-14T15:30:36.000Z",
@@ -475,6 +579,7 @@
       "5252510": "2026-10-14T15:30:36.000Z",
       "5255280": "2026-10-14T15:30:36.000Z",
       "5261940": "2026-10-14T15:30:36.000Z",
+      "5262490": "2026-10-14T21:01:00.572Z",
       "5269000": "2026-10-14T15:30:36.000Z",
       "5270020": "2026-10-14T15:30:36.000Z",
       "5272920": "2026-10-14T15:30:36.000Z",

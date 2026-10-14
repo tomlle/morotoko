@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38636826802",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-14T21:00:48.654Z",
+    "finishedAt": "2026-10-14T21:01:06.023Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38636826802"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4956060",
+      "title": "Bid Rivals",
+      "storeUrl": "https://store.steampowered.com/app/4956060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956060/9ec5788cfe846b8e9342ad8bbf913a4a78926dde/header_japanese.jpg?t=1792007520",
+      "officialDescription": "木箱がひとつ。中身は誰も知らない。Bid Rivalsは基本プレイ無料のマルチプレイ・オークションバトラー。情報を買い、場を読み、ライバルを欺き、価値のほんの一部でロットをさらえ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5262490",
+      "title": "Poco Loco",
+      "storeUrl": "https://store.steampowered.com/app/5262490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262490/b5e085bc87306a76348de2e3759adfc21e024928/header.jpg?t=1792001947",
+      "officialDescription": "Turn your Twitch and Kick chats into racing chaos! Dive into the interactive racing action with up to 100 players, on tracks built by the Poco Loco community. Are you ready to go Loco?!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4854020",
+      "title": "March of the Emissaries",
+      "storeUrl": "https://store.steampowered.com/app/4854020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854020/148678014977e5fb50319b995f0ff727fd2fdde0/header.jpg?t=1791924598",
+      "officialDescription": "Enjoy a short, kinetic visual novel where the remorseful Caius seeks atonement by joining a dark organization in hopes of making the country a safer place for the person he wronged."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4956060:permanent_free:1",
+      "productId": "4956060",
+      "title": "Bid Rivals",
+      "status": "sent",
+      "bufferPostId": "6acfed8dac16d08dd4db0a63"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5262490:permanent_free:1",
+      "productId": "5262490",
+      "title": "Poco Loco",
+      "status": "sent",
+      "bufferPostId": "6acfed8f384901ac0840d3cb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4854020:permanent_free:1",
+      "productId": "4854020",
+      "title": "March of the Emissaries",
+      "status": "sent",
+      "bufferPostId": "6acfed90384901ac0840d466"
+    }
+  ],
+  "errors": []
+}
