@@ -37,15 +37,21 @@ function promotionLine(promotion: Promotion): string {
       timeStyle: "short",
     }).format(new Date(value));
   const period =
-    promotion.startsAt && promotion.endsAt
-      ? `${format(promotion.startsAt)}〜${format(promotion.endsAt)}`
-      : promotion.endsAt
-        ? `${format(promotion.endsAt)}まで`
-        : promotion.startsAt
-          ? `${format(promotion.startsAt)}から`
-          : "不明";
+    promotion.kind === "permanent_free"
+      ? "常時"
+      : promotion.startsAt && promotion.endsAt
+        ? `${format(promotion.startsAt)}〜${format(promotion.endsAt)}`
+        : promotion.endsAt
+          ? `${format(promotion.endsAt)}まで`
+          : promotion.startsAt
+            ? `${format(promotion.startsAt)}から`
+            : "不明";
   const kind =
-    promotion.kind === "temporary_play" ? "一時プレイ無料" : "無料配布";
+    promotion.kind === "temporary_play"
+      ? "一時プレイ無料"
+      : promotion.kind === "permanent_free"
+        ? "常時無料"
+        : "無料配布";
   return `- [${promotion.title}](${promotion.storeUrl}) — 種別: ${kind}, AppID: ${promotion.productId}, 期間: ${period}`;
 }
 
@@ -68,8 +74,8 @@ export function renderMarkdown(report: RunReport): string {
     "## 検出結果",
     "",
     `- Steam検索件数: ${report.detection.searched}`,
-    `- 100%割引候補: ${report.detection.candidates}`,
-    `- 検証済み配布: ${report.detection.verified}`,
+    `- 無料候補: ${report.detection.candidates}`,
+    `- 検証済み無料ゲーム・配布: ${report.detection.verified}`,
     `- 新規キャンペーン: ${report.detection.newPromotions}`,
     `- 既知のキャンペーン: ${report.detection.knownPromotions}`,
     `- 除外件数: ${report.detection.excluded}`,

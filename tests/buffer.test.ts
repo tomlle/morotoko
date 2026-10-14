@@ -132,6 +132,20 @@ describe("Buffer publisher", () => {
     assert.ok(xWeightedLength(text) <= 280);
   });
 
+  it("uses a permanent-free template without discount or deadline claims", () => {
+    const { endsAt: _endsAt, ...campaignWithoutEnd } = campaign;
+    const text = buildPostText({
+      ...campaignWithoutEnd,
+      kind: "permanent_free",
+      initialPrice: 0,
+      discountPercent: 0,
+    });
+
+    assert.match(text, /新作無料ゲーム🎮/u);
+    assert.match(text, /無料でプレイできます/u);
+    assert.doesNotMatch(text, /100% OFF|まで/u);
+  });
+
   it("truncates any long title without splitting grapheme clusters", () => {
     const text = buildPostText({
       ...campaign,

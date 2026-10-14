@@ -74,7 +74,8 @@ describe("Steam completeness and scoped deadlines", () => {
       return new Response("");
     });
     const scan = await new SteamProvider("JP", "japanese").scan();
-    assert.equal(starts.length, 20);
+    // 20 promotional pages plus one newest permanent-free window.
+    assert.equal(starts.length, 21);
     assert.equal(scan.promotions.length, 1);
     assert.equal(scan.sourceHealthy, false);
     assert.ok(

@@ -40,6 +40,10 @@ export interface ReconcileResult {
   knownPromotions: number;
 }
 
+export interface ReconcileOptions {
+  permanentFreeCandidateIds?: readonly string[];
+}
+
 const ENDING_REMINDER_WINDOW_MS = 12 * 60 * 60 * 1_000;
 
 export function shouldSendEndingReminder(
@@ -78,23 +82,66 @@ export function reconcilePromotions(
   promotions: Promotion[],
   now: string,
   markMissing = true,
+  options: ReconcileOptions = {},
 ): ReconcileResult {
   const seen = new Set<string>();
   const newCampaigns: CampaignState[] = [];
   let knownPromotions = 0;
+  const initializingPermanentFreeBaseline =
+    !state.permanentFreeBaseline &&
+    options.permanentFreeCandidateIds !== undefined;
+  if (initializingPermanentFreeBaseline) {
+    state.permanentFreeBaseline = {
+      initializedAt: now,
+      lastSuccessfulScanAt: now,
+      seenProductIds: Object.fromEntries(
+        options.permanentFreeCandidateIds!.map((productId) => [productId, now]),
+      ),
+    };
+  } else if (
+    state.permanentFreeBaseline &&
+    options.permanentFreeCandidateIds !== undefined
+  ) {
+    state.permanentFreeBaseline.lastSuccessfulScanAt = now;
+  }
 
   for (const promotion of promotions) {
     // Keep the original key for free-to-keep campaigns so existing state files
     // do not cause already-announced promotions to be posted again.
     const productKey =
-      promotion.kind === "temporary_play"
-        ? `${promotion.store}:${promotion.productId}:temporary_play`
-        : `${promotion.store}:${promotion.productId}`;
+      promotion.kind === "free_to_keep"
+        ? `${promotion.store}:${promotion.productId}`
+        : `${promotion.store}:${promotion.productId}:${promotion.kind}`;
     seen.add(productKey);
     const product = state.products[productKey] ?? { generation: 0 };
     const active = product.activeCampaignId
       ? state.campaigns[product.activeCampaignId]
       : undefined;
+
+    if (promotion.kind === "permanent_free") {
+      if (!state.permanentFreeBaseline) {
+        // Never publish permanent-free results until a complete initial
+        // candidate snapshot has established the historical boundary.
+        knownPromotions += 1;
+        continue;
+      }
+      // Reconciliation initializes this baseline on its first successful run.
+      const baseline = state.permanentFreeBaseline!;
+      const firstObservedAt = baseline.seenProductIds[promotion.productId];
+      baseline.seenProductIds[promotion.productId] ??= now;
+
+      // The first successful scan establishes a baseline. Likewise, a game
+      // that was already in that baseline must never become a "new" campaign
+      // merely because it temporarily fell outside the recent-release window.
+      if (!firstObservedAt && initializingPermanentFreeBaseline) {
+        knownPromotions += 1;
+        continue;
+      }
+      if (firstObservedAt && !active?.active) {
+        knownPromotions += 1;
+        continue;
+      }
+    }
 
     if (active?.active) {
       active.kind = promotion.kind;
@@ -153,6 +200,7 @@ export function reconcilePromotions(
     if (seen.has(productKey) || !product.activeCampaignId) continue;
     const campaign = state.campaigns[product.activeCampaignId];
     if (!campaign?.active) continue;
+    if (campaign.kind === "permanent_free") continue;
     campaign.consecutiveMisses += 1;
     if (campaign.consecutiveMisses >= 2) {
       campaign.active = false;

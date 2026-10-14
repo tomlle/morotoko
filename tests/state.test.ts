@@ -89,6 +89,118 @@ describe("campaign reconciliation", () => {
     );
   });
 
+  it("baselines existing permanent-free games and emits only newly observed ones", () => {
+    const current = state();
+    const oldFree: Promotion = {
+      ...promotion,
+      kind: "permanent_free",
+      productId: "200",
+      title: "Existing Free Game",
+      initialPrice: 0,
+      discountPercent: 0,
+    };
+    const newFree: Promotion = {
+      ...oldFree,
+      productId: "201",
+      title: "New Free Game",
+    };
+
+    const baseline = reconcilePromotions(
+      current,
+      [oldFree],
+      "2026-10-06T00:00:00Z",
+      true,
+      { permanentFreeCandidateIds: ["200"] },
+    );
+    const next = reconcilePromotions(
+      current,
+      [oldFree, newFree],
+      "2026-10-07T00:00:00Z",
+      true,
+      { permanentFreeCandidateIds: ["200", "201"] },
+    );
+
+    assert.equal(baseline.newCampaigns.length, 0);
+    assert.deepEqual(current.permanentFreeBaseline?.seenProductIds, {
+      "200": "2026-10-06T00:00:00Z",
+      "201": "2026-10-07T00:00:00Z",
+    });
+    assert.deepEqual(
+      next.newCampaigns.map((campaign) => campaign.id),
+      ["steam:201:permanent_free:1"],
+    );
+  });
+
+  it("never reposts a permanent-free game that leaves and returns to the recent window", () => {
+    const current = state();
+    const freeGame: Promotion = {
+      ...promotion,
+      kind: "permanent_free",
+      productId: "200",
+      initialPrice: 0,
+      discountPercent: 0,
+    };
+    reconcilePromotions(current, [], "2026-10-01T00:00:00Z", true, {
+      permanentFreeCandidateIds: [],
+    });
+    reconcilePromotions(current, [freeGame], "2026-10-02T00:00:00Z");
+    reconcilePromotions(current, [], "2026-10-03T00:00:00Z");
+    reconcilePromotions(current, [], "2026-10-04T00:00:00Z");
+    const returned = reconcilePromotions(
+      current,
+      [freeGame],
+      "2026-10-05T00:00:00Z",
+    );
+
+    assert.equal(returned.newCampaigns.length, 0);
+  });
+
+  it("includes raw candidates in the initial baseline even when detail validation failed", () => {
+    const current = state();
+    const existingFree: Promotion = {
+      ...promotion,
+      kind: "permanent_free",
+      productId: "200",
+      initialPrice: 0,
+      discountPercent: 0,
+    };
+
+    reconcilePromotions(current, [], "2026-10-01T00:00:00Z", false, {
+      permanentFreeCandidateIds: ["200"],
+    });
+    const recovered = reconcilePromotions(
+      current,
+      [existingFree],
+      "2026-10-02T00:00:00Z",
+      true,
+      { permanentFreeCandidateIds: ["200"] },
+    );
+
+    assert.equal(recovered.newCampaigns.length, 0);
+    assert.equal(current.products["steam:200:permanent_free"], undefined);
+  });
+
+  it("does not initialize or publish permanent-free games from an incomplete first scan", () => {
+    const current = state();
+    const freeGame: Promotion = {
+      ...promotion,
+      kind: "permanent_free",
+      productId: "200",
+      initialPrice: 0,
+      discountPercent: 0,
+    };
+
+    const incomplete = reconcilePromotions(
+      current,
+      [freeGame],
+      "2026-10-01T00:00:00Z",
+      false,
+    );
+
+    assert.equal(current.permanentFreeBaseline, undefined);
+    assert.equal(incomplete.newCampaigns.length, 0);
+  });
+
   it("selects a posted campaign once during its final 12 hours", () => {
     const current = state();
     reconcilePromotions(current, [promotion], "2026-10-06T00:00:00Z");

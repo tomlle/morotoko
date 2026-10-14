@@ -18,9 +18,20 @@ const poll = ["confirm", "confirm-failed", "recover", "unconfirmed"].includes(
 );
 const row =
   '<a class="search_result_row" data-ds-appid="100" href="https://store.steampowered.com/app/100/"><span class="title">Test Game</span><div class="discount_pct">-100%</div><div class="discount_original_price">¥1,200</div><div class="discount_final_price">無料</div></a>';
+const permanentFreeRow =
+  '<a class="search_result_row" data-ds-appid="200" href="https://store.steampowered.com/app/200/"><span class="title">Existing Free Game</span><div class="search_released">14 Oct, 2026</div><div class="discount_final_price">Free</div></a>';
 
 globalThis.fetch = async (input, init) => {
   const url = new URL(String(input));
+  if (
+    url.pathname === "/search/results/" &&
+    url.searchParams.get("sort_by") === "Released_DESC"
+  )
+    return Response.json({
+      success: 1,
+      total_count: 1,
+      results_html: permanentFreeRow,
+    });
   if (url.pathname === "/search/results/")
     return Response.json({
       success: 1,
@@ -29,6 +40,20 @@ globalThis.fetch = async (input, init) => {
     });
   if (url.pathname === "/api/featuredcategories")
     return Response.json({ specials: { id: "cat_specials", items: [] } });
+  if (
+    url.pathname === "/api/appdetails" &&
+    url.searchParams.get("appids") === "200"
+  )
+    return Response.json({
+      "200": {
+        success: true,
+        data: {
+          type: "game",
+          name: "Existing Free Game",
+          is_free: true,
+        },
+      },
+    });
   if (url.pathname === "/api/appdetails")
     return Response.json({
       "100": {
@@ -47,6 +72,7 @@ globalThis.fetch = async (input, init) => {
       },
     });
   if (url.pathname === "/app/100/") return new Response("");
+  if (url.pathname === "/app/200/") return new Response("");
   if (url.pathname === "/news/search/")
     return new Response(
       poll

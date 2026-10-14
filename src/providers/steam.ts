@@ -10,6 +10,7 @@ export interface SteamSearchCandidate {
   initialPriceText: string;
   finalPriceText: string;
   discountPercent: number;
+  releasedAt?: string;
 }
 
 interface SteamSearchResponse {
@@ -72,10 +73,52 @@ export interface SteamScanResult {
   errors: ReportError[];
   sourceHealthy: boolean;
   emptyResultValidated: boolean;
+  permanentFreeCandidateIds: string[];
+  permanentFreeSourceHealthy: boolean;
+}
+
+export interface SteamScanOptions {
+  permanentFreeSince?: string;
+  knownPermanentFreeIds?: ReadonlySet<string>;
+  refreshPermanentFreeIds?: ReadonlySet<string>;
+  initializePermanentFreeBaseline?: boolean;
 }
 
 const FREE_TEXT =
   /^(?:free|無料|(?:(?:¥|￥|\$|€|£)\s*)?0(?:[.,]0+)?(?:\s*(?:円|USD|JPY|EUR))?)$/iu;
+
+function parseEnglishReleaseDate(text: string): string | undefined {
+  const match = text
+    .replace(/\s+/gu, " ")
+    .trim()
+    .match(/^(\d{1,2}) ([A-Z][a-z]{2}), (\d{4})$/u);
+  if (!match) return undefined;
+  const month = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ].indexOf(match[2]!);
+  const day = Number(match[1]);
+  const year = Number(match[3]);
+  const date = new Date(Date.UTC(year, month, day));
+  if (
+    month < 0 ||
+    date.getUTCFullYear() !== year ||
+    date.getUTCMonth() !== month ||
+    date.getUTCDate() !== day
+  )
+    return undefined;
+  return date.toISOString();
+}
 
 function normalizeStoreUrl(href: string, appId: string): string {
   try {
@@ -129,7 +172,7 @@ export function parseSteamSearchHtml(
       return;
     }
 
-    candidates.push({
+    const candidate: SteamSearchCandidate = {
       kind,
       appId,
       title: row.find(".title").first().text().trim() || `Steam App ${appId}`,
@@ -137,7 +180,12 @@ export function parseSteamSearchHtml(
       initialPriceText,
       finalPriceText,
       discountPercent,
-    });
+    };
+    const releasedAt = parseEnglishReleaseDate(
+      row.find(".search_released").first().text(),
+    );
+    if (releasedAt) candidate.releasedAt = releasedAt;
+    candidates.push(candidate);
   });
 
   return candidates;
@@ -260,9 +308,35 @@ export function validateSteamAppDetails(
   kind: PromotionKind = "free_to_keep",
   storeHtml = "",
 ): Promotion | undefined {
+  if (details.type !== "game") return undefined;
+
+  if (kind === "permanent_free") {
+    if (details.is_free !== true || (details.price_overview?.initial ?? 0) > 0)
+      return undefined;
+    const promotion: Promotion = {
+      kind,
+      store: "steam",
+      productId: appId,
+      title: details.name?.trim() || fallbackTitle,
+      storeUrl,
+      initialPrice: 0,
+      currency: details.price_overview?.currency ?? "JPY",
+      discountPercent: 0,
+    };
+    if (details.header_image) promotion.imageUrl = details.header_image;
+    const officialDescription = details.short_description
+      ? load(`<body>${details.short_description}</body>`)("body")
+          .text()
+          .replace(/\s+/gu, " ")
+          .trim()
+      : "";
+    if (officialDescription)
+      promotion.officialDescription = officialDescription;
+    return promotion;
+  }
+
   const price = details.price_overview;
   if (
-    details.type !== "game" ||
     !price ||
     price.initial === undefined ||
     price.final === undefined ||
@@ -441,7 +515,7 @@ export class SteamProvider {
     private readonly language: string,
   ) {}
 
-  async scan(): Promise<SteamScanResult> {
+  async scan(options: SteamScanOptions = {}): Promise<SteamScanResult> {
     const errors: ReportError[] = [];
     const allRows = new Map<string, SteamSearchCandidate>();
     const pageSize = 50;
@@ -502,6 +576,100 @@ export class SteamProvider {
         message:
           "Steam search exceeded the 1000-result scan limit; missing campaigns will not be expired",
       });
+
+    const permanentFreeCandidateIds = new Set<string>();
+    let permanentFreeSourceHealthy = true;
+    try {
+      const freePageSize = 50;
+      const maxFreeRows = 5_000;
+      let freeStart = 0;
+      let freeTotal = Number.POSITIVE_INFINITY;
+      let reachedPreviousScan = false;
+      const sinceMs = options.permanentFreeSince
+        ? Date.parse(options.permanentFreeSince)
+        : Number.NaN;
+      // Steam exposes release dates at day precision. Re-read seven days of
+      // overlap so delayed indexing and runs around a date boundary are safe.
+      const cutoffMs = Number.isNaN(sinceMs)
+        ? undefined
+        : sinceMs - 7 * 86_400_000;
+
+      while (
+        freeStart < freeTotal &&
+        freeStart < maxFreeRows &&
+        !reachedPreviousScan
+      ) {
+        const permanentFreeUrl = new URL(
+          "https://store.steampowered.com/search/results/",
+        );
+        permanentFreeUrl.search = new URLSearchParams({
+          query: "",
+          start: String(freeStart),
+          count: String(freePageSize),
+          dynamic_data: "",
+          sort_by: "Released_DESC",
+          maxprice: "free",
+          category1: "998",
+          infinite: "1",
+          force_infinite: "1",
+          cc: this.country.toLowerCase(),
+          l: "english",
+        }).toString();
+        const permanentFreeResponse = await fetchWithRetry(
+          permanentFreeUrl.toString(),
+        );
+        const permanentFreePayload =
+          (await permanentFreeResponse.json()) as SteamSearchResponse;
+        const permanentFreeSearch =
+          validateSteamSearchResponse(permanentFreePayload);
+        const permanentFreeRows = parseSteamSearchHtml(
+          permanentFreeSearch.html,
+          "permanent_free",
+        );
+        if (
+          permanentFreeSearch.total > 0 &&
+          (!permanentFreeSearch.html.includes("search_result_row") ||
+            permanentFreeRows.length === 0)
+        ) {
+          throw new Error(
+            "Steam permanent-free search returned rows, but none could be parsed. The storefront markup may have changed.",
+          );
+        }
+
+        for (const row of permanentFreeRows) {
+          permanentFreeCandidateIds.add(row.appId);
+          if (cutoffMs !== undefined && row.releasedAt !== undefined) {
+            reachedPreviousScan ||= Date.parse(row.releasedAt) < cutoffMs;
+          }
+          if (
+            !options.initializePermanentFreeBaseline &&
+            (!options.knownPermanentFreeIds?.has(row.appId) ||
+              options.refreshPermanentFreeIds?.has(row.appId)) &&
+            !allRows.has(`free_to_keep:${row.appId}`)
+          ) {
+            allRows.set(`${row.kind}:${row.appId}`, row);
+          }
+        }
+
+        freeTotal = permanentFreeSearch.total;
+        if (!permanentFreeSearch.html.trim() && freeStart < freeTotal) {
+          throw new Error(
+            "Steam permanent-free search ended before all required rows were retrieved",
+          );
+        }
+        freeStart += freePageSize;
+        if (cutoffMs === undefined) reachedPreviousScan = true;
+      }
+
+      if (!reachedPreviousScan && freeStart < freeTotal) {
+        throw new Error(
+          "Steam permanent-free search exceeded the 5000-result safety limit",
+        );
+      }
+    } catch (error) {
+      permanentFreeSourceHealthy = false;
+      errors.push(toReportError(error, "steam_search"));
+    }
 
     let emptyResultValidated = false;
     if (total === 0) {
@@ -620,7 +788,7 @@ export class SteamProvider {
               storeHtml,
             );
           }
-        } else {
+        } else if (candidate.kind === "temporary_play") {
           try {
             const pageUrl = new URL(candidate.storeUrl);
             pageUrl.search = new URLSearchParams({
@@ -698,6 +866,9 @@ export class SteamProvider {
 
         promotions.push(promotion);
       } catch (error) {
+        if (candidate.kind === "permanent_free") {
+          permanentFreeSourceHealthy = false;
+        }
         errors.push(toReportError(error, "steam_details", candidate.appId));
       }
     }
@@ -705,6 +876,7 @@ export class SteamProvider {
     return {
       searched:
         (total === Number.POSITIVE_INFINITY ? 0 : total) +
+        permanentFreeCandidateIds.size +
         featuredCandidates.length,
       candidates: allRows.size,
       promotions,
@@ -712,6 +884,8 @@ export class SteamProvider {
       errors,
       sourceHealthy: !errors.some((error) => error.severity === "error"),
       emptyResultValidated,
+      permanentFreeCandidateIds: [...permanentFreeCandidateIds],
+      permanentFreeSourceHealthy,
     };
   }
 }

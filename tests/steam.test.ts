@@ -81,6 +81,49 @@ describe("Steam promotion parsing", () => {
     );
   });
 
+  it("accepts a permanently free game without a price as its own kind", () => {
+    const promotion = validateSteamAppDetails(
+      "200",
+      {
+        type: "game",
+        name: "New Free Game",
+        is_free: true,
+        short_description: "Free forever.",
+      },
+      "Fallback",
+      "https://store.steampowered.com/app/200/",
+      "permanent_free",
+    );
+
+    assert.equal(promotion?.kind, "permanent_free");
+    assert.equal(promotion?.initialPrice, 0);
+    assert.equal(promotion?.discountPercent, 0);
+    assert.equal(promotion?.officialDescription, "Free forever.");
+  });
+
+  it("does not mistake a paid title with a separate free license for permanently free", () => {
+    assert.equal(
+      validateSteamAppDetails(
+        "201",
+        {
+          type: "game",
+          name: "Paid Game",
+          is_free: true,
+          price_overview: {
+            currency: "JPY",
+            initial: 120000,
+            final: 120000,
+            discount_percent: 0,
+          },
+        },
+        "Fallback",
+        "https://store.steampowered.com/app/201/",
+        "permanent_free",
+      ),
+      undefined,
+    );
+  });
+
   it("accepts a paid game discounted to zero", () => {
     const promotion = validateSteamAppDetails(
       "100",
@@ -324,6 +367,16 @@ describe("real Steam promotional packages and free weekends", () => {
     t.mock.method(globalThis, "fetch", async (input: string) => {
       const url = new URL(String(input));
       requests.push(url);
+      if (
+        url.pathname === "/search/results/" &&
+        url.searchParams.get("sort_by") === "Released_DESC"
+      )
+        return Response.json({
+          success: 1,
+          total_count: 1,
+          results_html:
+            '<a class="search_result_row" data-ds-appid="777" href="https://store.steampowered.com/app/777/"><span class="title">New Free Game</span><div class="discount_final_price">無料</div></a>',
+        });
       if (url.pathname === "/search/results/")
         return Response.json({
           success: 1,
@@ -346,6 +399,17 @@ describe("real Steam promotional packages and free weekends", () => {
           return Response.json(JSON.parse(fixture("pony-details.json")));
         if (id === "1621690")
           return Response.json(JSON.parse(fixture("core-details.json")));
+        if (id === "777")
+          return Response.json({
+            "777": {
+              success: true,
+              data: {
+                type: "game",
+                name: "New Free Game",
+                is_free: true,
+              },
+            },
+          });
         return Response.json({
           "42": {
             success: true,
@@ -367,6 +431,7 @@ describe("real Steam promotional packages and free weekends", () => {
         return new Response(
           '<div class="glance_tags"><a class="app_tag">探索</a><a class="app_tag">サンドボックス</a></div>',
         );
+      if (url.pathname === "/app/777/") return new Response("");
       if (url.pathname === "/app/42/") return new Response("");
       if (url.pathname === "/IStoreBrowseService/GetItems/v1/") {
         const appId = JSON.parse(url.searchParams.get("input_json")!).ids[0]
@@ -382,13 +447,17 @@ describe("real Steam promotional packages and free weekends", () => {
       result.promotions.map((p) => [p.productId, p.kind]),
       [
         ["405640", "free_to_keep"],
+        ["777", "permanent_free"],
         ["1621690", "temporary_play"],
       ],
     );
     assert.equal(result.excluded, 1);
     assert.deepEqual(result.errors, []);
-    assert.ok(result.promotions[1]?.endsAt);
-    assert.deepEqual(result.promotions[1]?.tags, ["探索", "サンドボックス"]);
+    const temporaryPlay = result.promotions.find(
+      (promotion) => promotion.kind === "temporary_play",
+    );
+    assert.ok(temporaryPlay?.endsAt);
+    assert.deepEqual(temporaryPlay?.tags, ["探索", "サンドボックス"]);
     assert.ok(
       requests.some(
         (url) =>
@@ -396,5 +465,123 @@ describe("real Steam promotional packages and free weekends", () => {
           !url.searchParams.has("maxprice"),
       ),
     );
+    assert.ok(
+      requests.some(
+        (url) =>
+          url.pathname === "/search/results/" &&
+          url.searchParams.get("sort_by") === "Released_DESC" &&
+          !url.searchParams.has("specials"),
+      ),
+    );
+  });
+
+  it("pages through every release since the overlap cutoff", async (t) => {
+    const permanentStarts: number[] = [];
+    const paidRow =
+      '<a class="search_result_row" data-ds-appid="100" href="https://store.steampowered.com/app/100/"><span class="title">Paid Promo</span><div class="discount_pct">-100%</div><div class="discount_original_price">¥100</div><div class="discount_final_price">無料</div></a>';
+    const freeRow = (id: string, date: string) =>
+      `<a class="search_result_row" data-ds-appid="${id}" href="https://store.steampowered.com/app/${id}/"><span class="title">Free ${id}</span><div class="search_released">${date}</div><div class="discount_final_price">Free</div></a>`;
+
+    t.mock.method(globalThis, "fetch", async (input: string) => {
+      const url = new URL(String(input));
+      if (
+        url.pathname === "/search/results/" &&
+        url.searchParams.get("sort_by") === "Released_DESC"
+      ) {
+        const start = Number(url.searchParams.get("start"));
+        permanentStarts.push(start);
+        return Response.json({
+          success: 1,
+          total_count: 101,
+          results_html:
+            start === 0
+              ? freeRow("777", "14 Oct, 2026")
+              : freeRow("778", "1 Oct, 2026"),
+        });
+      }
+      if (url.pathname === "/search/results/")
+        return Response.json({
+          success: 1,
+          total_count: 1,
+          results_html: paidRow,
+        });
+      if (url.pathname === "/api/featuredcategories")
+        return Response.json({ specials: { id: "cat_specials", items: [] } });
+      if (url.pathname === "/api/appdetails")
+        return Response.json({
+          "100": {
+            success: true,
+            data: {
+              type: "game",
+              is_free: false,
+              price_overview: {
+                currency: "JPY",
+                initial: 10000,
+                final: 0,
+                discount_percent: 100,
+              },
+            },
+          },
+        });
+      if (url.pathname === "/app/100/") return new Response("");
+      throw new Error(`Unexpected request ${url}`);
+    });
+
+    const result = await new SteamProvider("JP", "japanese").scan({
+      permanentFreeSince: "2026-10-13T00:00:00Z",
+      knownPermanentFreeIds: new Set(["777", "778"]),
+    });
+
+    assert.deepEqual(permanentStarts, [0, 50]);
+    assert.deepEqual(result.permanentFreeCandidateIds, ["777", "778"]);
+    assert.equal(result.permanentFreeSourceHealthy, true);
+  });
+
+  it("keeps limited promotions when permanent-free discovery fails", async (t) => {
+    const paidRow =
+      '<a class="search_result_row" data-ds-appid="100" href="https://store.steampowered.com/app/100/"><span class="title">Paid Promo</span><div class="discount_pct">-100%</div><div class="discount_original_price">¥100</div><div class="discount_final_price">無料</div></a>';
+    t.mock.method(globalThis, "fetch", async (input: string) => {
+      const url = new URL(String(input));
+      if (
+        url.pathname === "/search/results/" &&
+        url.searchParams.get("sort_by") === "Released_DESC"
+      )
+        return new Response("unavailable", { status: 400 });
+      if (url.pathname === "/search/results/")
+        return Response.json({
+          success: 1,
+          total_count: 1,
+          results_html: paidRow,
+        });
+      if (url.pathname === "/api/featuredcategories")
+        return Response.json({ specials: { id: "cat_specials", items: [] } });
+      if (url.pathname === "/api/appdetails")
+        return Response.json({
+          "100": {
+            success: true,
+            data: {
+              type: "game",
+              is_free: false,
+              price_overview: {
+                currency: "JPY",
+                initial: 10000,
+                final: 0,
+                discount_percent: 100,
+              },
+            },
+          },
+        });
+      if (url.pathname === "/app/100/") return new Response("");
+      throw new Error(`Unexpected request ${url}`);
+    });
+
+    const result = await new SteamProvider("JP", "japanese").scan();
+
+    assert.deepEqual(
+      result.promotions.map((promotion) => promotion.productId),
+      ["100"],
+    );
+    assert.equal(result.permanentFreeSourceHealthy, false);
+    assert.equal(result.sourceHealthy, false);
   });
 });

@@ -81,6 +81,18 @@ function formatJst(value: string): string {
 
 export function buildPostText(campaign: CampaignState): string {
   const render = (title: string, description?: string): string => {
+    if (campaign.kind === "permanent_free") {
+      const lines = [
+        "新作無料ゲーム🎮",
+        "",
+        `『${title}』`,
+        "無料でプレイできます",
+      ];
+      if (description) lines.push("", description);
+      lines.push("", campaign.storeUrl);
+      return lines.join("\n");
+    }
+
     if (campaign.kind === "temporary_play") {
       const lines = [
         "一時プレイ無料🎮",

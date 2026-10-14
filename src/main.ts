@@ -97,7 +97,26 @@ async function run(): Promise<number> {
   try {
     const config = loadConfig();
     const steam = new SteamProvider(config.steamCountry, config.steamLanguage);
-    const scan = await steam.scan();
+    const permanentFreeBaseline = state.permanentFreeBaseline;
+    const scan = await steam.scan({
+      permanentFreeSince: permanentFreeBaseline
+        ? (permanentFreeBaseline.lastSuccessfulScanAt ??
+          permanentFreeBaseline.initializedAt)
+        : startedAt,
+      knownPermanentFreeIds: new Set(
+        Object.keys(permanentFreeBaseline?.seenProductIds ?? {}),
+      ),
+      refreshPermanentFreeIds: new Set(
+        Object.values(state.campaigns)
+          .filter(
+            (campaign) =>
+              campaign.kind === "permanent_free" &&
+              campaign.postStatus === "pending",
+          )
+          .map((campaign) => campaign.productId),
+      ),
+      initializePermanentFreeBaseline: !permanentFreeBaseline,
+    });
     activePromotions = scan.promotions;
     report.activePromotions = activePromotions;
     report.errors.push(...scan.errors);
@@ -114,6 +133,9 @@ async function run(): Promise<number> {
       scan.promotions,
       now,
       !scan.errors.some((error) => error.severity === "error"),
+      scan.permanentFreeSourceHealthy
+        ? { permanentFreeCandidateIds: scan.permanentFreeCandidateIds }
+        : {},
     );
     report.detection.newPromotions = reconciliation.newCampaigns.length;
     report.detection.knownPromotions = reconciliation.knownPromotions;

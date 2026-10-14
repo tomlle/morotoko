@@ -1,4 +1,4 @@
-name: 期間限定無料配布レーダー
+name: 無料ゲームレーダー
 
 on:
   workflow_dispatch:
@@ -54,7 +54,7 @@ jobs:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
 
-      - name: 期間限定無料配布を検出・投稿
+      - name: 無料ゲームと無料キャンペーンを検出・投稿
         id: free_to_keep
         continue-on-error: true
         run: npm start

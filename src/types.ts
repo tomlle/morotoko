@@ -1,5 +1,6 @@
 export type StoreId = "steam";
-export type PromotionKind = "free_to_keep" | "temporary_play";
+export type PromotionKind =
+  "free_to_keep" | "temporary_play" | "permanent_free";
 
 export interface RelativeFreePeriod {
   amount: number;
@@ -76,6 +77,11 @@ export interface RadarState {
   schemaVersion: 1;
   products: Record<string, ProductState>;
   campaigns: Record<string, CampaignState>;
+  permanentFreeBaseline?: {
+    initializedAt: string;
+    lastSuccessfulScanAt?: string;
+    seenProductIds: Record<string, string>;
+  };
 }
 
 export interface ReportError {
