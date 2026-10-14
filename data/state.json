@@ -12,6 +12,18 @@
     },
     "steam:2990600": {
       "generation": 1
+    },
+    "steam:5100440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5100440:permanent_free:1"
+    },
+    "steam:5090350:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5090350:permanent_free:1"
+    },
+    "steam:5034980:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5034980:permanent_free:1"
     }
   },
   "campaigns": {
@@ -280,11 +292,101 @@
       },
       "endingReminderBufferPostId": "6acc779d63ff33d8c9ab79ab",
       "endingReminderPostedAt": "2026-10-12T06:01:02.392Z"
+    },
+    "steam:5100440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5100440:permanent_free:1",
+      "store": "steam",
+      "productId": "5100440",
+      "generation": 1,
+      "title": "Thief Simulator 3: First Loot",
+      "storeUrl": "https://store.steampowered.com/app/5100440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T18:01:12.359Z",
+      "lastSeenAt": "2026-10-14T18:01:12.359Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "プロのように盗みを働く方法を学ぼう！情報収集、お宝の窃盗、質屋での換金といった基本から、ハイテク機器の操作まで。ソロプレイ、または最大4人での協力プレイで、泥棒としての人生を体験しよう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T18:01:12.359Z",
+        "postText": "新作無料ゲーム🎮\n\n『Thief Simulator 3: First Loot』\n無料でプレイできます\n\nプロのように盗みを働く方法を学ぼう！情報収集、お宝の窃盗、質屋での換金といった基本から、ハイテク機器の操作まで。ソロプレイ、または最大4人での協力プレイで、泥棒としての人生を体験し…\n\nhttps://store.steampowered.com/app/5100440/",
+        "attemptedAt": "2026-10-14T18:01:12.882Z",
+        "bufferPostId": "6acfc369c3d6c8430114538e",
+        "submittedAt": "2026-10-14T18:01:14.409Z",
+        "postedAt": "2026-10-14T18:01:14.409Z"
+      },
+      "bufferPostId": "6acfc369c3d6c8430114538e",
+      "postedAt": "2026-10-14T18:01:14.409Z"
+    },
+    "steam:5090350:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5090350:permanent_free:1",
+      "store": "steam",
+      "productId": "5090350",
+      "generation": 1,
+      "title": "The WHEELJAM Collection",
+      "storeUrl": "https://store.steampowered.com/app/5090350/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T18:01:12.359Z",
+      "lastSeenAt": "2026-10-14T18:01:12.359Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A collection of 22 games making up submissions from the WHEELJAM game jams in 2025 and 2026.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T18:01:12.359Z",
+        "postText": "新作無料ゲーム🎮\n\n『The WHEELJAM Collection』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/5090350/",
+        "attemptedAt": "2026-10-14T18:01:14.898Z",
+        "bufferPostId": "6acfc36b9b63fb37e4575cef",
+        "submittedAt": "2026-10-14T18:01:16.228Z",
+        "postedAt": "2026-10-14T18:01:16.228Z"
+      },
+      "bufferPostId": "6acfc36b9b63fb37e4575cef",
+      "postedAt": "2026-10-14T18:01:16.228Z"
+    },
+    "steam:5034980:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5034980:permanent_free:1",
+      "store": "steam",
+      "productId": "5034980",
+      "generation": 1,
+      "title": "Coin Survivor",
+      "storeUrl": "https://store.steampowered.com/app/5034980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-14T18:01:12.359Z",
+      "lastSeenAt": "2026-10-14T18:01:12.359Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Gold is your health and your strength. Grow richer, grow stronger—but also become a bigger target. Choose when to spend or hoard your gold, build powerful synergies, and survive endless enemies in this 2D action roguelike, Coin Survivor.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-14T18:01:12.359Z",
+        "postText": "新作無料ゲーム🎮\n\n『Coin Survivor』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/5034980/",
+        "attemptedAt": "2026-10-14T18:01:16.962Z",
+        "bufferPostId": "6acfc36d9b63fb37e4575dac",
+        "submittedAt": "2026-10-14T18:01:18.327Z",
+        "postedAt": "2026-10-14T18:01:18.327Z"
+      },
+      "bufferPostId": "6acfc36d9b63fb37e4575dac",
+      "postedAt": "2026-10-14T18:01:18.327Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-14T15:30:36.000Z",
+    "lastSuccessfulScanAt": "2026-10-14T18:01:12.359Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -339,9 +441,12 @@
       "5021380": "2026-10-14T15:30:36.000Z",
       "5021400": "2026-10-14T15:30:36.000Z",
       "5023780": "2026-10-14T15:30:36.000Z",
+      "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
       "5057270": "2026-10-14T15:30:36.000Z",
+      "5090350": "2026-10-14T18:01:12.359Z",
       "5099990": "2026-10-14T15:30:36.000Z",
+      "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5129250": "2026-10-14T15:30:36.000Z",
