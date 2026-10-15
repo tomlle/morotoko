@@ -40,10 +40,10 @@ describe("Buffer publisher", () => {
     assert.equal(
       text,
       [
-        "もうすぐ有料⚠️",
+        "⚠️ 無料で入手できるのは今のうち！",
         "",
         "『Eco inc. Save the Earth』",
-        "現在無料 → 10月13日以降に有料化予定",
+        "💰 現在無料 → 10月13日以降に有料化予定",
         "",
         "https://store.steampowered.com/app/2236920/",
       ].join("\n"),
@@ -72,8 +72,11 @@ describe("Buffer publisher", () => {
     const text = buildPostText(campaign);
     assert.match(text, /Test Game/u);
     assert.match(text, /100% OFF/u);
-    assert.match(text, /無料配布🎁/u);
+    assert.match(text, /🎁 今だけ無料でもらえる！/u);
+    assert.match(text, /💰 ￥1,200 → 無料（100% OFF）/u);
     assert.match(text, /⏰ 10\/8 09:00まで/u);
+    assert.match(text, /✅ 期間内に入手すれば、終了後も遊べます/u);
+    assert.doesNotMatch(text, /Steamでチェック/u);
     assert.doesNotMatch(text, /JST/u);
     assert.doesNotMatch(text, /もらえるもんは/u);
     assert.doesNotMatch(text, /#/u);
@@ -89,9 +92,9 @@ describe("Buffer publisher", () => {
       officialDescription: "短い公式日本語説明です。",
     });
 
-    assert.match(text, /まもなく終了⏰/u);
-    assert.match(text, /無料配布は 10\/8 09:00まで/u);
-    assert.match(text, /ライブラリへの追加忘れに注意！/u);
+    assert.match(text, /⏰ 無料期間、まもなく終了！/u);
+    assert.match(text, /🎁 無料配布は 10\/8 09:00まで/u);
+    assert.match(text, /🚨 ライブラリへの追加をお忘れなく！/u);
     assert.match(text, /短い公式日本語説明です。/u);
     assert.match(text, /https:\/\/store\.steampowered\.com\/app\/100\//u);
     assert.ok(xWeightedLength(text) <= 280);
@@ -120,15 +123,16 @@ describe("Buffer publisher", () => {
       startsAt: "2026-10-05T00:00:00.000Z",
     });
 
-    assert.match(text, /一時プレイ無料🎮/u);
-    assert.match(text, /気になってたゲームを、この機会に遊んでみよう！/u);
+    assert.match(text, /🎮 今だけ無料で遊べる！/u);
+    assert.match(text, /🆓 期間限定の無料プレイ/u);
+    assert.match(text, /✨ 気になっていたなら、今がチャンス！/u);
     assert.doesNotMatch(text, /終了後も遊ぶには購入が必要/u);
     assert.match(text, /⏰ 10\/5 09:00〜10\/8 09:00/u);
     assert.doesNotMatch(text, /JST/u);
-    assert.ok(text.indexOf("⏰") < text.indexOf("気になってたゲームを"));
-    assert.match(text, /⏰ 10\/5 09:00〜10\/8 09:00\n\n気になってたゲームを/u);
+    assert.ok(text.indexOf("⏰") < text.indexOf("気になっていたなら"));
+    assert.match(text, /⏰ 10\/5 09:00〜10\/8 09:00/u);
     assert.doesNotMatch(text, /#/u);
-    assert.doesNotMatch(text, /無料配布🎁|100% OFF/u);
+    assert.doesNotMatch(text, /今だけ無料でもらえる|100% OFF/u);
     assert.ok(xWeightedLength(text) <= 280);
   });
 
@@ -141,8 +145,9 @@ describe("Buffer publisher", () => {
       discountPercent: 0,
     });
 
-    assert.match(text, /新作無料ゲーム🎮/u);
-    assert.match(text, /無料でプレイできます/u);
+    assert.match(text, /🎮 新作の無料ゲームを発見！/u);
+    assert.match(text, /✨ いつでも無料でプレイ/u);
+    assert.doesNotMatch(text, /Steamでチェック/u);
     assert.doesNotMatch(text, /100% OFF|まで/u);
   });
 
@@ -168,7 +173,7 @@ describe("Buffer publisher", () => {
     });
 
     assert.match(text, /焚き火を囲みながら/u);
-    assert.match(text, /…\n\nhttps:\/\//u);
+    assert.match(text, /…\n\n✅ 期間内に入手すれば、終了後も遊べます/u);
     assert.doesNotMatch(text, /#/u);
     assert.ok(xWeightedLength(text) <= 280);
   });

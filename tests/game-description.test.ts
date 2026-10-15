@@ -6,14 +6,15 @@ import {
 } from "../src/game-description.js";
 
 describe("deterministic Japanese game descriptions", () => {
-  it("prefers an official Japanese description", () => {
+  it("prefers the complete official Japanese description", () => {
     assert.equal(
       selectGameDescription({
         productId: "2990600",
-        officialDescription: "Steamの公式日本語説明です。",
+        officialDescription:
+          "Steamの公式日本語説明です。続きの文章もそのまま使います。",
         tags: ["心温まる", "会話重視"],
       }),
-      "Steamの公式日本語説明です。",
+      "Steamの公式日本語説明です。続きの文章もそのまま使います。",
     );
   });
 

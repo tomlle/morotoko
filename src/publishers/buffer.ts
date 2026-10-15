@@ -83,10 +83,10 @@ export function buildPostText(campaign: CampaignState): string {
   const render = (title: string, description?: string): string => {
     if (campaign.kind === "permanent_free") {
       const lines = [
-        "新作無料ゲーム🎮",
+        "🎮 新作の無料ゲームを発見！",
         "",
         `『${title}』`,
-        "無料でプレイできます",
+        "✨ いつでも無料でプレイ",
       ];
       if (description) lines.push("", description);
       lines.push("", campaign.storeUrl);
@@ -95,10 +95,10 @@ export function buildPostText(campaign: CampaignState): string {
 
     if (campaign.kind === "temporary_play") {
       const lines = [
-        "一時プレイ無料🎮",
+        "🎮 今だけ無料で遊べる！",
         "",
         `『${title}』`,
-        "期間限定で無料プレイ",
+        "🆓 期間限定の無料プレイ",
       ];
       if (campaign.startsAt && campaign.endsAt) {
         lines.push(
@@ -109,23 +109,30 @@ export function buildPostText(campaign: CampaignState): string {
       } else if (campaign.startsAt) {
         lines.push(`⏰ ${formatJst(campaign.startsAt)}から`);
       }
-      lines.push("", "気になってたゲームを、この機会に遊んでみよう！");
       if (description) lines.push("", description);
-      lines.push("", campaign.storeUrl);
+      lines.push(
+        "",
+        "✨ 気になっていたなら、今がチャンス！",
+        campaign.storeUrl,
+      );
       return lines.join("\n");
     }
 
     const lines = [
-      "無料配布🎁",
+      "🎁 今だけ無料でもらえる！",
       "",
       `『${title}』`,
-      `${formatPrice(campaign.initialPrice, campaign.currency)} → 無料（100% OFF）`,
+      `💰 ${formatPrice(campaign.initialPrice, campaign.currency)} → 無料（100% OFF）`,
     ];
     if (campaign.endsAt) {
       lines.push(`⏰ ${formatJst(campaign.endsAt)}まで`);
     }
     if (description) lines.push("", description);
-    lines.push("", campaign.storeUrl);
+    lines.push(
+      "",
+      "✅ 期間内に入手すれば、終了後も遊べます",
+      campaign.storeUrl,
+    );
     return lines.join("\n");
   };
 
@@ -179,20 +186,19 @@ export function buildEndingReminderPostText(campaign: CampaignState): string {
   const render = (title: string, description?: string): string => {
     const campaignType =
       campaign.kind === "temporary_play" ? "無料プレイ" : "無料配布";
+    const campaignTypeEmoji = campaign.kind === "temporary_play" ? "🎮" : "🎁";
     const callToAction =
       campaign.kind === "temporary_play"
-        ? "遊び忘れに注意！"
-        : "ライブラリへの追加忘れに注意！";
+        ? "🚨 遊ぶなら今！"
+        : "🚨 ライブラリへの追加をお忘れなく！";
     const lines = [
-      "まもなく終了⏰",
+      "⏰ 無料期間、まもなく終了！",
       "",
       `『${title}』`,
-      `${campaignType}は ${formatJst(endsAt)}まで`,
-      "",
-      callToAction,
+      `${campaignTypeEmoji} ${campaignType}は ${formatJst(endsAt)}まで`,
     ];
     if (description) lines.push("", description);
-    lines.push("", campaign.storeUrl);
+    lines.push("", callToAction, campaign.storeUrl);
     return lines.join("\n");
   };
 
@@ -260,7 +266,12 @@ export function buildPaidTransitionPostText(
     statusLine = `現在無料 → ${parts.month}月${parts.day}日以降に有料化予定`;
   }
   const render = (title: string, description?: string): string => {
-    const lines = ["もうすぐ有料⚠️", "", `『${title}』`, statusLine];
+    const lines = [
+      "⚠️ 無料で入手できるのは今のうち！",
+      "",
+      `『${title}』`,
+      `💰 ${statusLine}`,
+    ];
     if (description) lines.push("", description);
     lines.push("", transition.storeUrl);
     return lines.join("\n");
