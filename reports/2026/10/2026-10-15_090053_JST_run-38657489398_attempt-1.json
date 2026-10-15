@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38657489398",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-15T00:00:53.247Z",
+    "finishedAt": "2026-10-15T00:01:04.259Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38657489398"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 16,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4732690",
+      "title": "アークナイツ：エンドフィールド",
+      "storeUrl": "https://store.steampowered.com/app/4732690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/d0b2987d12a07a69bc14fe6deb6c457e4007c2ac/header_japanese.jpg?t=1792018464",
+      "officialDescription": "『アークナイツ：エンドフィールド』はGryphlineが運営する3Dリアルタイム戦略RPGゲームです。プレイヤーはエンドフィールドの管理人としてタロⅡを探索し、文明の境界を守り、開拓していきます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4732690:permanent_free:1",
+      "productId": "4732690",
+      "title": "アークナイツ：エンドフィールド",
+      "status": "sent",
+      "bufferPostId": "6ad017bf5f62d3c5af10e29f"
+    }
+  ],
+  "errors": []
+}

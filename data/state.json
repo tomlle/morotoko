@@ -36,6 +36,10 @@
     "steam:4854020:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4854020:permanent_free:1"
+    },
+    "steam:4732690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4732690:permanent_free:1"
     }
   },
   "campaigns": {
@@ -484,11 +488,41 @@
       },
       "bufferPostId": "6acfed90384901ac0840d466",
       "postedAt": "2026-10-14T21:01:06.020Z"
+    },
+    "steam:4732690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4732690:permanent_free:1",
+      "store": "steam",
+      "productId": "4732690",
+      "generation": 1,
+      "title": "アークナイツ：エンドフィールド",
+      "storeUrl": "https://store.steampowered.com/app/4732690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T00:01:02.108Z",
+      "lastSeenAt": "2026-10-15T00:01:02.108Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『アークナイツ：エンドフィールド』はGryphlineが運営する3Dリアルタイム戦略RPGゲームです。プレイヤーはエンドフィールドの管理人としてタロⅡを探索し、文明の境界を守り、開拓していきます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T00:01:02.108Z",
+        "postText": "新作無料ゲーム🎮\n\n『アークナイツ：エンドフィールド』\n無料でプレイできます\n\n『アークナイツ：エンドフィールド』はGryphlineが運営する3Dリアルタイム戦略RPGゲームです。プレイヤーはエンドフィールドの管理人としてタロⅡを探索し、文明の境界を守り、開拓していきま…\n\nhttps://store.steampowered.com/app/4732690/",
+        "attemptedAt": "2026-10-15T00:01:02.848Z",
+        "bufferPostId": "6ad017bf5f62d3c5af10e29f",
+        "submittedAt": "2026-10-15T00:01:04.257Z",
+        "postedAt": "2026-10-15T00:01:04.257Z"
+      },
+      "bufferPostId": "6ad017bf5f62d3c5af10e29f",
+      "postedAt": "2026-10-15T00:01:04.257Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-14T21:01:00.572Z",
+    "lastSuccessfulScanAt": "2026-10-15T00:01:02.108Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -521,6 +555,7 @@
       "4711830": "2026-10-14T15:30:36.000Z",
       "4725520": "2026-10-14T15:30:36.000Z",
       "4731030": "2026-10-14T15:30:36.000Z",
+      "4732690": "2026-10-15T00:01:02.108Z",
       "4744800": "2026-10-14T15:30:36.000Z",
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
