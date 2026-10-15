@@ -84,6 +84,14 @@
     "steam:2807960:temporary_play": {
       "generation": 1,
       "activeCampaignId": "steam:2807960:temporary_play:1"
+    },
+    "steam:5196510:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5196510:permanent_free:1"
+    },
+    "steam:4022530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4022530:permanent_free:1"
     }
   },
   "campaigns": {
@@ -845,7 +853,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-15T18:01:01.152Z",
+      "lastSeenAt": "2026-10-15T21:00:58.160Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -900,7 +908,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-15T18:01:01.152Z",
+      "lastSeenAt": "2026-10-15T21:00:58.160Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -942,11 +950,71 @@
       },
       "bufferPostId": "6ad114e54cb0ab15f7d75386",
       "postedAt": "2026-10-15T18:01:10.994Z"
+    },
+    "steam:5196510:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5196510:permanent_free:1",
+      "store": "steam",
+      "productId": "5196510",
+      "generation": 1,
+      "title": "Chobots - Your Family Game",
+      "storeUrl": "https://store.steampowered.com/app/5196510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T21:00:58.160Z",
+      "lastSeenAt": "2026-10-15T21:00:58.160Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free-to-play virtual world for families. Explore a colourful city in space as your own round little robot — customize your look, chat with friends in staffed, moderated rooms, and play together with racing, fishing, and parties. No ads, ever.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T21:00:58.160Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Chobots - Your Family Game』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5196510/",
+        "attemptedAt": "2026-10-15T21:00:58.667Z",
+        "bufferPostId": "6ad13f0a7998c185a61a7ca7",
+        "submittedAt": "2026-10-15T21:00:59.955Z",
+        "postedAt": "2026-10-15T21:00:59.955Z"
+      },
+      "bufferPostId": "6ad13f0a7998c185a61a7ca7",
+      "postedAt": "2026-10-15T21:00:59.955Z"
+    },
+    "steam:4022530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4022530:permanent_free:1",
+      "store": "steam",
+      "productId": "4022530",
+      "generation": 1,
+      "title": "Genesis - The Original LPMud",
+      "storeUrl": "https://store.steampowered.com/app/4022530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T21:00:58.160Z",
+      "lastSeenAt": "2026-10-15T21:00:58.160Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Enjoy an old school text adventure game where your imagination is more important than your video card. Everyone is welcome and the game is entirely free to play.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T21:00:58.160Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Genesis - The Original LPMud』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4022530/",
+        "attemptedAt": "2026-10-15T21:01:00.147Z",
+        "bufferPostId": "6ad13f0c3ccfcf93aab94bac",
+        "submittedAt": "2026-10-15T21:01:01.445Z",
+        "postedAt": "2026-10-15T21:01:01.445Z"
+      },
+      "bufferPostId": "6ad13f0c3ccfcf93aab94bac",
+      "postedAt": "2026-10-15T21:01:01.445Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-15T18:01:01.152Z",
+    "lastSuccessfulScanAt": "2026-10-15T21:00:58.160Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -962,6 +1030,7 @@
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
+      "4022530": "2026-10-15T21:00:58.160Z",
       "4080860": "2026-10-14T15:30:36.000Z",
       "4096710": "2026-10-14T15:30:36.000Z",
       "4112730": "2026-10-14T15:30:36.000Z",
@@ -1028,6 +1097,7 @@
       "5178350": "2026-10-14T15:30:36.000Z",
       "5180840": "2026-10-14T15:30:36.000Z",
       "5186550": "2026-10-14T15:30:36.000Z",
+      "5196510": "2026-10-15T21:00:58.160Z",
       "5206450": "2026-10-14T15:30:36.000Z",
       "5210050": "2026-10-14T15:30:36.000Z",
       "5217620": "2026-10-14T15:30:36.000Z",
