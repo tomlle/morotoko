@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38709767628",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-15T09:00:56.191Z",
+    "finishedAt": "2026-10-15T09:01:10.308Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38709767628"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5231360",
+      "title": "Thinki - Brain Games",
+      "storeUrl": "https://store.steampowered.com/app/5231360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5231360/eecfea12b58258cd3976ae2860ca981c8e719512/header.jpg?t=1792054058",
+      "officialDescription": "A small collection of brain games built around logic, thinking, and problem-solving. Pick a game, learn the rules in seconds, and enjoy quick challenges made for short, casual sessions."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3945720",
+      "title": "Tribal Trouble: Resurrected",
+      "storeUrl": "https://store.steampowered.com/app/3945720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3945720/d13e029759eaf277af48f11718015198dfd1fca8/header.jpg?t=1792047698",
+      "officialDescription": "The most troublesome RTS returns, free forever. Easy to pick up, tough to put down. Play as Vikings or Natives, build your tribe, and battle across randomly generated islands with up to 12 players online. A community-driven revival of a cult classic. Come cause some trouble!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5231360:permanent_free:1",
+      "productId": "5231360",
+      "title": "Thinki - Brain Games",
+      "status": "sent",
+      "bufferPostId": "6ad096515ca32ad3c7eed163"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3945720:permanent_free:1",
+      "productId": "3945720",
+      "title": "Tribal Trouble: Resurrected",
+      "status": "sent",
+      "bufferPostId": "6ad09655de79014f82c84bcc"
+    }
+  ],
+  "errors": []
+}

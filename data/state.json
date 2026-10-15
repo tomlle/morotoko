@@ -40,6 +40,14 @@
     "steam:4732690:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4732690:permanent_free:1"
+    },
+    "steam:5231360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5231360:permanent_free:1"
+    },
+    "steam:3945720:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3945720:permanent_free:1"
     }
   },
   "campaigns": {
@@ -518,11 +526,71 @@
       },
       "bufferPostId": "6ad017bf5f62d3c5af10e29f",
       "postedAt": "2026-10-15T00:01:04.257Z"
+    },
+    "steam:5231360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5231360:permanent_free:1",
+      "store": "steam",
+      "productId": "5231360",
+      "generation": 1,
+      "title": "Thinki - Brain Games",
+      "storeUrl": "https://store.steampowered.com/app/5231360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T09:01:04.942Z",
+      "lastSeenAt": "2026-10-15T09:01:04.942Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A small collection of brain games built around logic, thinking, and problem-solving. Pick a game, learn the rules in seconds, and enjoy quick challenges made for short, casual sessions.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T09:01:04.942Z",
+        "postText": "新作無料ゲーム🎮\n\n『Thinki - Brain Games』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/5231360/",
+        "attemptedAt": "2026-10-15T09:01:05.547Z",
+        "bufferPostId": "6ad096515ca32ad3c7eed163",
+        "submittedAt": "2026-10-15T09:01:08.671Z",
+        "postedAt": "2026-10-15T09:01:08.671Z"
+      },
+      "bufferPostId": "6ad096515ca32ad3c7eed163",
+      "postedAt": "2026-10-15T09:01:08.671Z"
+    },
+    "steam:3945720:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3945720:permanent_free:1",
+      "store": "steam",
+      "productId": "3945720",
+      "generation": 1,
+      "title": "Tribal Trouble: Resurrected",
+      "storeUrl": "https://store.steampowered.com/app/3945720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T09:01:04.942Z",
+      "lastSeenAt": "2026-10-15T09:01:04.942Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The most troublesome RTS returns, free forever. Easy to pick up, tough to put down. Play as Vikings or Natives, build your tribe, and battle across randomly generated islands with up to 12 players online. A community-driven revival of a cult classic. Come cause some trouble!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T09:01:04.942Z",
+        "postText": "新作無料ゲーム🎮\n\n『Tribal Trouble: Resurrected』\n無料でプレイできます\n\nhttps://store.steampowered.com/app/3945720/",
+        "attemptedAt": "2026-10-15T09:01:08.945Z",
+        "bufferPostId": "6ad09655de79014f82c84bcc",
+        "submittedAt": "2026-10-15T09:01:10.306Z",
+        "postedAt": "2026-10-15T09:01:10.306Z"
+      },
+      "bufferPostId": "6ad09655de79014f82c84bcc",
+      "postedAt": "2026-10-15T09:01:10.306Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-15T06:01:02.043Z",
+    "lastSuccessfulScanAt": "2026-10-15T09:01:04.942Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -536,6 +604,7 @@
       "3775510": "2026-10-14T15:30:36.000Z",
       "3858540": "2026-10-14T15:30:36.000Z",
       "3923300": "2026-10-14T15:30:36.000Z",
+      "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
       "4080860": "2026-10-14T15:30:36.000Z",
       "4096710": "2026-10-14T15:30:36.000Z",
@@ -608,6 +677,7 @@
       "5224380": "2026-10-14T15:30:36.000Z",
       "5226810": "2026-10-14T15:30:36.000Z",
       "5230380": "2026-10-14T15:30:36.000Z",
+      "5231360": "2026-10-15T09:01:04.942Z",
       "5241530": "2026-10-14T15:30:36.000Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
