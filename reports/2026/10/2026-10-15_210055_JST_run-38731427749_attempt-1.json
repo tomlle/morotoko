@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38731427749",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-15T12:00:55.088Z",
+    "finishedAt": "2026-10-15T12:01:06.112Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38731427749"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 16,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5252490",
+      "title": "Bully Bully",
+      "storeUrl": "https://store.steampowered.com/app/5252490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5252490/b1e606293a00f3c8386d898b45ace982795453de/header.jpg?t=1792065620",
+      "officialDescription": "デスクトップに暮らすフレンチブルドッグと出会おう。なでたり、着せ替えたり、仕事中にそばにいてもらったり、ちょっとしたジャンプランに送り出したり。毎日のプレゼントや季節の装いとともに、いつでもそばにいる相棒です。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5252490:permanent_free:1",
+      "productId": "5252490",
+      "title": "Bully Bully",
+      "status": "sent",
+      "bufferPostId": "6ad0c080d38f38895d8e647a"
+    }
+  ],
+  "errors": []
+}

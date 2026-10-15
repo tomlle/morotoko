@@ -48,6 +48,10 @@
     "steam:3945720:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3945720:permanent_free:1"
+    },
+    "steam:5252490:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5252490:permanent_free:1"
     }
   },
   "campaigns": {
@@ -586,11 +590,41 @@
       },
       "bufferPostId": "6ad09655de79014f82c84bcc",
       "postedAt": "2026-10-15T09:01:10.306Z"
+    },
+    "steam:5252490:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5252490:permanent_free:1",
+      "store": "steam",
+      "productId": "5252490",
+      "generation": 1,
+      "title": "Bully Bully",
+      "storeUrl": "https://store.steampowered.com/app/5252490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T12:01:04.044Z",
+      "lastSeenAt": "2026-10-15T12:01:04.044Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "デスクトップに暮らすフレンチブルドッグと出会おう。なでたり、着せ替えたり、仕事中にそばにいてもらったり、ちょっとしたジャンプランに送り出したり。毎日のプレゼントや季節の装いとともに、いつでもそばにいる相棒です。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T12:01:04.044Z",
+        "postText": "新作無料ゲーム🎮\n\n『Bully Bully』\n無料でプレイできます\n\nデスクトップに暮らすフレンチブルドッグと出会おう。なでたり、着せ替えたり、仕事中にそばにいてもらったり、ちょっとしたジャンプランに送り出したり。毎日のプレゼントや季節の装いとともに、いつでもそばに…\n\nhttps://store.steampowered.com/app/5252490/",
+        "attemptedAt": "2026-10-15T12:01:04.662Z",
+        "bufferPostId": "6ad0c080d38f38895d8e647a",
+        "submittedAt": "2026-10-15T12:01:06.110Z",
+        "postedAt": "2026-10-15T12:01:06.110Z"
+      },
+      "bufferPostId": "6ad0c080d38f38895d8e647a",
+      "postedAt": "2026-10-15T12:01:06.110Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-15T09:01:04.942Z",
+    "lastSuccessfulScanAt": "2026-10-15T12:01:04.044Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -681,6 +715,7 @@
       "5241530": "2026-10-14T15:30:36.000Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
+      "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
       "5255280": "2026-10-14T15:30:36.000Z",
       "5261940": "2026-10-14T15:30:36.000Z",
