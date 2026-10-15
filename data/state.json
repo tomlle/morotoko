@@ -52,6 +52,18 @@
     "steam:5252490:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5252490:permanent_free:1"
+    },
+    "steam:4801520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4801520:permanent_free:1"
+    },
+    "steam:5266600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5266600:permanent_free:1"
+    },
+    "steam:4667790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4667790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -620,11 +632,101 @@
       },
       "bufferPostId": "6ad0c080d38f38895d8e647a",
       "postedAt": "2026-10-15T12:01:06.110Z"
+    },
+    "steam:4801520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4801520:permanent_free:1",
+      "store": "steam",
+      "productId": "4801520",
+      "generation": 1,
+      "title": "Adventures of Mack",
+      "storeUrl": "https://store.steampowered.com/app/4801520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T15:01:06.493Z",
+      "lastSeenAt": "2026-10-15T15:01:06.493Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Join Mack on an exciting sci-fi hero's journey through mysterious desert planets. Solve tricky puzzles, explore alien worlds, and uncover the incredible secret behind the universe's countless desert planets!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T15:01:06.493Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Adventures of Mack』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4801520/",
+        "attemptedAt": "2026-10-15T15:01:06.891Z",
+        "bufferPostId": "6ad0eab34ed96805c7c18153",
+        "submittedAt": "2026-10-15T15:01:08.317Z",
+        "postedAt": "2026-10-15T15:01:08.317Z"
+      },
+      "bufferPostId": "6ad0eab34ed96805c7c18153",
+      "postedAt": "2026-10-15T15:01:08.317Z"
+    },
+    "steam:5266600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5266600:permanent_free:1",
+      "store": "steam",
+      "productId": "5266600",
+      "generation": 1,
+      "title": "The Vector",
+      "storeUrl": "https://store.steampowered.com/app/5266600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T15:01:06.493Z",
+      "lastSeenAt": "2026-10-15T15:01:06.493Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The Vector is a deep unfolding idle/incremental game that begins with a single pixel and a voice asking for your help. The architect has grand blueprints to construct an entire cosmos, but suffers from one fatal cosmic inconvenience: it has no physical hands or direct agency in this realm.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T15:01:06.493Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Vector』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5266600/",
+        "attemptedAt": "2026-10-15T15:01:08.593Z",
+        "bufferPostId": "6ad0eab4f1387052691f4754",
+        "submittedAt": "2026-10-15T15:01:10.997Z",
+        "postedAt": "2026-10-15T15:01:10.997Z"
+      },
+      "bufferPostId": "6ad0eab4f1387052691f4754",
+      "postedAt": "2026-10-15T15:01:10.997Z"
+    },
+    "steam:4667790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4667790:permanent_free:1",
+      "store": "steam",
+      "productId": "4667790",
+      "generation": 1,
+      "title": "Muddi",
+      "storeUrl": "https://store.steampowered.com/app/4667790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-15T15:01:06.493Z",
+      "lastSeenAt": "2026-10-15T15:01:06.493Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Get rid of all your cards as quickly as possible. The one left with 0 cards wins. It's tactical and requires a bit of luck. A game is between 2-5 minutes. Ace is the lowest, then 2, 3 etc. J, Q, K = King is the highest. Clear the deck: with a 10 or 4 cards of the same rank. Make some legendary games",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-15T15:01:06.493Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Muddi』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4667790/",
+        "attemptedAt": "2026-10-15T15:01:11.258Z",
+        "bufferPostId": "6ad0eab79244f4b375b722d4",
+        "submittedAt": "2026-10-15T15:01:12.583Z",
+        "postedAt": "2026-10-15T15:01:12.583Z"
+      },
+      "bufferPostId": "6ad0eab79244f4b375b722d4",
+      "postedAt": "2026-10-15T15:01:12.583Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-15T12:01:04.044Z",
+    "lastSuccessfulScanAt": "2026-10-15T15:01:06.493Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -655,6 +757,7 @@
       "4622120": "2026-10-14T15:30:36.000Z",
       "4632980": "2026-10-14T15:30:36.000Z",
       "4666760": "2026-10-14T15:30:36.000Z",
+      "4667790": "2026-10-15T15:01:06.493Z",
       "4711830": "2026-10-14T15:30:36.000Z",
       "4725520": "2026-10-14T15:30:36.000Z",
       "4731030": "2026-10-14T15:30:36.000Z",
@@ -662,6 +765,7 @@
       "4744800": "2026-10-14T15:30:36.000Z",
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
+      "4801520": "2026-10-15T15:01:06.493Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
@@ -720,6 +824,7 @@
       "5255280": "2026-10-14T15:30:36.000Z",
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
+      "5266600": "2026-10-15T15:01:06.493Z",
       "5269000": "2026-10-14T15:30:36.000Z",
       "5270020": "2026-10-14T15:30:36.000Z",
       "5272920": "2026-10-14T15:30:36.000Z",

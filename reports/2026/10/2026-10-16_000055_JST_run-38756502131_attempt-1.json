@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38756502131",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-15T15:00:55.671Z",
+    "finishedAt": "2026-10-15T15:01:12.585Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38756502131"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4801520",
+      "title": "Adventures of Mack",
+      "storeUrl": "https://store.steampowered.com/app/4801520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801520/0ba5854937dc861503d677445548892f7e14cd25/header.jpg?t=1792073746",
+      "officialDescription": "Join Mack on an exciting sci-fi hero's journey through mysterious desert planets. Solve tricky puzzles, explore alien worlds, and uncover the incredible secret behind the universe's countless desert planets!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5266600",
+      "title": "The Vector",
+      "storeUrl": "https://store.steampowered.com/app/5266600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266600/7e6d200afb17f0de03d081d7af84c249205065aa/header.jpg?t=1792069210",
+      "officialDescription": "The Vector is a deep unfolding idle/incremental game that begins with a single pixel and a voice asking for your help. The architect has grand blueprints to construct an entire cosmos, but suffers from one fatal cosmic inconvenience: it has no physical hands or direct agency in this realm."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4667790",
+      "title": "Muddi",
+      "storeUrl": "https://store.steampowered.com/app/4667790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667790/784b16efa59c6f6669869aa855ab4abb126c05ba/header.jpg?t=1792063356",
+      "officialDescription": "Get rid of all your cards as quickly as possible. The one left with 0 cards wins. It's tactical and requires a bit of luck. A game is between 2-5 minutes. Ace is the lowest, then 2, 3 etc. J, Q, K = King is the highest. Clear the deck: with a 10 or 4 cards of the same rank. Make some legendary games"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4801520:permanent_free:1",
+      "productId": "4801520",
+      "title": "Adventures of Mack",
+      "status": "sent",
+      "bufferPostId": "6ad0eab34ed96805c7c18153"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5266600:permanent_free:1",
+      "productId": "5266600",
+      "title": "The Vector",
+      "status": "sent",
+      "bufferPostId": "6ad0eab4f1387052691f4754"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4667790:permanent_free:1",
+      "productId": "4667790",
+      "title": "Muddi",
+      "status": "sent",
+      "bufferPostId": "6ad0eab79244f4b375b722d4"
+    }
+  ],
+  "errors": []
+}
