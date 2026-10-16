@@ -112,6 +112,10 @@
     "steam:4855210:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4855210:permanent_free:1"
+    },
+    "steam:4355200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4355200:permanent_free:1"
     }
   },
   "campaigns": {
@@ -873,7 +877,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T03:01:04.575Z",
+      "lastSeenAt": "2026-10-16T06:01:00.623Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -928,7 +932,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T03:01:04.575Z",
+      "lastSeenAt": "2026-10-16T06:01:00.623Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1180,11 +1184,41 @@
       },
       "bufferPostId": "6ad193749597cd1662642666",
       "postedAt": "2026-10-16T03:01:09.891Z"
+    },
+    "steam:4355200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4355200:permanent_free:1",
+      "store": "steam",
+      "productId": "4355200",
+      "generation": 1,
+      "title": "Incredulity",
+      "storeUrl": "https://store.steampowered.com/app/4355200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T06:01:00.623Z",
+      "lastSeenAt": "2026-10-16T06:01:00.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Descend into mind of detective Zara Moreland in this dark, moody, short, story emphasized adventure game with fixed camera angles. Talk with people from her past, solve old school puzzles and try to figure out what is happening.... or what has happened.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T06:01:00.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Incredulity』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4355200/",
+        "attemptedAt": "2026-10-16T06:01:01.041Z",
+        "bufferPostId": "6ad1bd9da82f34dbe14aac17",
+        "submittedAt": "2026-10-16T06:01:03.439Z",
+        "postedAt": "2026-10-16T06:01:03.439Z"
+      },
+      "bufferPostId": "6ad1bd9da82f34dbe14aac17",
+      "postedAt": "2026-10-16T06:01:03.439Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T03:01:04.575Z",
+    "lastSuccessfulScanAt": "2026-10-16T06:01:00.623Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1210,6 +1244,7 @@
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
       "4347270": "2026-10-14T15:30:36.000Z",
+      "4355200": "2026-10-16T06:01:00.623Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
       "4567680": "2026-10-14T15:30:36.000Z",
