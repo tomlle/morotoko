@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38843331966",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-16T03:00:56.860Z",
+    "finishedAt": "2026-10-16T03:01:09.893Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38843331966"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 19,
+    "verified": 5,
+    "newPromotions": 3,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4930500",
+      "title": "盯着你！桌面喵小西",
+      "storeUrl": "https://store.steampowered.com/app/4930500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930500/36b86689d7afe632f295335994e4c6abdab80fae/header.jpg?t=1792119273",
+      "officialDescription": "\"Staring at You! Desktop Meow Xiaoxi\" is a cozy, relaxing desktop pet. Roaming freely along the bottom of your screen, she keeps you company during daily work and study, reminds you to stay hydrated and take breaks, and even quietly peeks at your screen."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5075110",
+      "title": "零氪超变",
+      "storeUrl": "https://store.steampowered.com/app/5075110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075110/a8595d38dc54ef31bf918b587f9a5848a69a0755/header.jpg?t=1792113697",
+      "officialDescription": "无首充！无套路! 无强制消费! 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4855210",
+      "title": "ドタバタVRランド",
+      "storeUrl": "https://store.steampowered.com/app/4855210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855210/7f727cc33d968d567d208d624d3cd61d99b89139/header_japanese.jpg?t=1792109756",
+      "officialDescription": "「ドタバタVRランド」は、ポップなテーマパークをメインモチーフとし、様々な世界観を体験しながら遊べるオンラインパーティゲームです。プレイヤーはVR空間で様々なアクションを体験しながらミニゲームで一位を目指します。オンラインで複数のプレイヤーと楽しみ、ドタバタ、ワイワイして楽しみましょう！"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792110409",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "シングルプレイヤー",
+        "ミリタリー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "暴力",
+        "人工知能",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4930500:permanent_free:1",
+      "productId": "4930500",
+      "title": "盯着你！桌面喵小西",
+      "status": "sent",
+      "bufferPostId": "6ad19371a82f34dbe142f782"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5075110:permanent_free:1",
+      "productId": "5075110",
+      "title": "零氪超变",
+      "status": "sent",
+      "bufferPostId": "6ad193739597cd1662642606"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4855210:permanent_free:1",
+      "productId": "4855210",
+      "title": "ドタバタVRランド",
+      "status": "sent",
+      "bufferPostId": "6ad193749597cd1662642666"
+    }
+  ],
+  "errors": []
+}

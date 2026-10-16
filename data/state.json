@@ -100,6 +100,18 @@
     "steam:5257930:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5257930:permanent_free:1"
+    },
+    "steam:4930500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4930500:permanent_free:1"
+    },
+    "steam:5075110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5075110:permanent_free:1"
+    },
+    "steam:4855210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4855210:permanent_free:1"
     }
   },
   "campaigns": {
@@ -861,7 +873,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T00:01:03.084Z",
+      "lastSeenAt": "2026-10-16T03:01:04.575Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -916,7 +928,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T00:01:03.084Z",
+      "lastSeenAt": "2026-10-16T03:01:04.575Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1078,11 +1090,101 @@
       },
       "bufferPostId": "6ad169419597cd16625af6c2",
       "postedAt": "2026-10-16T00:01:07.827Z"
+    },
+    "steam:4930500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4930500:permanent_free:1",
+      "store": "steam",
+      "productId": "4930500",
+      "generation": 1,
+      "title": "盯着你！桌面喵小西",
+      "storeUrl": "https://store.steampowered.com/app/4930500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T03:01:04.575Z",
+      "lastSeenAt": "2026-10-16T03:01:04.575Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "\"Staring at You! Desktop Meow Xiaoxi\" is a cozy, relaxing desktop pet. Roaming freely along the bottom of your screen, she keeps you company during daily work and study, reminds you to stay hydrated and take breaks, and even quietly peeks at your screen.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T03:01:04.575Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『盯着你！桌面喵小西』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4930500/",
+        "attemptedAt": "2026-10-16T03:01:05.050Z",
+        "bufferPostId": "6ad19371a82f34dbe142f782",
+        "submittedAt": "2026-10-16T03:01:06.451Z",
+        "postedAt": "2026-10-16T03:01:06.451Z"
+      },
+      "bufferPostId": "6ad19371a82f34dbe142f782",
+      "postedAt": "2026-10-16T03:01:06.451Z"
+    },
+    "steam:5075110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5075110:permanent_free:1",
+      "store": "steam",
+      "productId": "5075110",
+      "generation": 1,
+      "title": "零氪超变",
+      "storeUrl": "https://store.steampowered.com/app/5075110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T03:01:04.575Z",
+      "lastSeenAt": "2026-10-16T03:01:04.575Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "无首充！无套路! 无强制消费! 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T03:01:04.575Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『零氪超变』\n✨ いつでも無料でプレイ\n\n无首充！无套路! 无强制消费! 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！\n\nhttps://store.steampowered.com/app/5075110/",
+        "attemptedAt": "2026-10-16T03:01:06.825Z",
+        "bufferPostId": "6ad193739597cd1662642606",
+        "submittedAt": "2026-10-16T03:01:08.286Z",
+        "postedAt": "2026-10-16T03:01:08.286Z"
+      },
+      "bufferPostId": "6ad193739597cd1662642606",
+      "postedAt": "2026-10-16T03:01:08.286Z"
+    },
+    "steam:4855210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4855210:permanent_free:1",
+      "store": "steam",
+      "productId": "4855210",
+      "generation": 1,
+      "title": "ドタバタVRランド",
+      "storeUrl": "https://store.steampowered.com/app/4855210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T03:01:04.575Z",
+      "lastSeenAt": "2026-10-16T03:01:04.575Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "「ドタバタVRランド」は、ポップなテーマパークをメインモチーフとし、様々な世界観を体験しながら遊べるオンラインパーティゲームです。プレイヤーはVR空間で様々なアクションを体験しながらミニゲームで一位を目指します。オンラインで複数のプレイヤーと楽しみ、ドタバタ、ワイワイして楽しみましょう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T03:01:04.575Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ドタバタVRランド』\n✨ いつでも無料でプレイ\n\n「ドタバタVRランド」は、ポップなテーマパークをメインモチーフとし、様々な世界観を体験しながら遊べるオンラインパーティゲームです。プレイヤーはVR空間で様々なアクションを体験しながら…\n\nhttps://store.steampowered.com/app/4855210/",
+        "attemptedAt": "2026-10-16T03:01:08.589Z",
+        "bufferPostId": "6ad193749597cd1662642666",
+        "submittedAt": "2026-10-16T03:01:09.891Z",
+        "postedAt": "2026-10-16T03:01:09.891Z"
+      },
+      "bufferPostId": "6ad193749597cd1662642666",
+      "postedAt": "2026-10-16T03:01:09.891Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T00:01:03.084Z",
+    "lastSuccessfulScanAt": "2026-10-16T03:01:04.575Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1128,10 +1230,12 @@
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
       "4854020": "2026-10-14T21:01:00.572Z",
+      "4855210": "2026-10-16T03:01:04.575Z",
       "4885100": "2026-10-14T15:30:36.000Z",
       "4894260": "2026-10-14T15:30:36.000Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
+      "4930500": "2026-10-16T03:01:04.575Z",
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
       "4952950": "2026-10-15T18:01:01.152Z",
@@ -1149,6 +1253,7 @@
       "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
       "5057270": "2026-10-14T15:30:36.000Z",
+      "5075110": "2026-10-16T03:01:04.575Z",
       "5090350": "2026-10-14T18:01:12.359Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
