@@ -92,6 +92,14 @@
     "steam:4022530:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4022530:permanent_free:1"
+    },
+    "steam:5109640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5109640:permanent_free:1"
+    },
+    "steam:5257930:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5257930:permanent_free:1"
     }
   },
   "campaigns": {
@@ -853,7 +861,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-15T21:00:58.160Z",
+      "lastSeenAt": "2026-10-16T00:01:03.084Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -908,7 +916,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-15T21:00:58.160Z",
+      "lastSeenAt": "2026-10-16T00:01:03.084Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1010,11 +1018,71 @@
       },
       "bufferPostId": "6ad13f0c3ccfcf93aab94bac",
       "postedAt": "2026-10-15T21:01:01.445Z"
+    },
+    "steam:5109640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5109640:permanent_free:1",
+      "store": "steam",
+      "productId": "5109640",
+      "generation": 1,
+      "title": "Gas Station Horror",
+      "storeUrl": "https://store.steampowered.com/app/5109640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T00:01:03.084Z",
+      "lastSeenAt": "2026-10-16T00:01:03.084Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Gas Station Horror is a psychological, atmospheric 20-minute horror game where all the action takes place during a single night shift at a gas station",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T00:01:03.084Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gas Station Horror』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5109640/",
+        "attemptedAt": "2026-10-16T00:01:03.683Z",
+        "bufferPostId": "6ad1693ffb64fffcf1a74e1f",
+        "submittedAt": "2026-10-16T00:01:05.044Z",
+        "postedAt": "2026-10-16T00:01:05.044Z"
+      },
+      "bufferPostId": "6ad1693ffb64fffcf1a74e1f",
+      "postedAt": "2026-10-16T00:01:05.044Z"
+    },
+    "steam:5257930:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5257930:permanent_free:1",
+      "store": "steam",
+      "productId": "5257930",
+      "generation": 1,
+      "title": "Heartfall — A Tale in Three Lives",
+      "storeUrl": "https://store.steampowered.com/app/5257930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T00:01:03.084Z",
+      "lastSeenAt": "2026-10-16T00:01:03.084Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "From making new friends — or enemies — to exploring this island for secrets, how will your story end? Play as Grian in this visual-novel RPG and encounter new, shocking twists that you wouldn’t expect!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T00:01:03.084Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Heartfall — A Tale in Three Lives』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5257930/",
+        "attemptedAt": "2026-10-16T00:01:05.406Z",
+        "bufferPostId": "6ad169419597cd16625af6c2",
+        "submittedAt": "2026-10-16T00:01:07.827Z",
+        "postedAt": "2026-10-16T00:01:07.827Z"
+      },
+      "bufferPostId": "6ad169419597cd16625af6c2",
+      "postedAt": "2026-10-16T00:01:07.827Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-15T21:00:58.160Z",
+    "lastSuccessfulScanAt": "2026-10-16T00:01:03.084Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1085,6 +1153,7 @@
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
+      "5109640": "2026-10-16T00:01:03.084Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5129250": "2026-10-14T15:30:36.000Z",
       "5136630": "2026-10-14T15:30:36.000Z",
@@ -1114,6 +1183,7 @@
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
       "5255280": "2026-10-14T15:30:36.000Z",
+      "5257930": "2026-10-16T00:01:03.084Z",
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
       "5266600": "2026-10-15T15:01:06.493Z",
