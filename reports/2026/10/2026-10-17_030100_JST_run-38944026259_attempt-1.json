@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38944026259",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-16T18:01:00.583Z",
+    "finishedAt": "2026-10-16T18:01:22.728Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38944026259"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 23,
+    "verified": 9,
+    "newPromotions": 7,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4365790",
+      "title": "Fated Flatline DX",
+      "storeUrl": "https://store.steampowered.com/app/4365790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365790/7bfd2df292d6550303bfbf8f2a4ddfcc676304f6/header.jpg?t=1792169924",
+      "officialDescription": "Fated Flatline DX is a bullet hell RPG about taking your pills!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4931230",
+      "title": "Mars Directive",
+      "storeUrl": "https://store.steampowered.com/app/4931230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931230/ec243a49c98332c53ca78c9ddf10f5dbd824c39b/header.jpg?t=1792168987",
+      "officialDescription": "Following a mysterious blast aboard a shuttle on its way to Mars, communicate naturally with autonomous AI characters that observe, reason, remember, make independent decisions, and interact with the world around them as you work together to find a way forward."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4870820",
+      "title": "Shroomocracy! And The Wand Of Ages",
+      "storeUrl": "https://store.steampowered.com/app/4870820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870820/c1b043087bd74c5c2f733b3d9ed39032acaf0ff9/header.jpg?t=1792166679",
+      "officialDescription": "A fast‑paced top‑down bullet‑heaven shooter where you blast through massive hordes using your SPITE Canon, collect power‑ups, and fight varied spawn types with unique behaviors while exploring shops, dialog, and spacious maps."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5328820",
+      "title": "EmberQuest",
+      "storeUrl": "https://store.steampowered.com/app/5328820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328820/56dafbf811587f303af72b16af388c577751dac2/header.jpg?t=1792165039",
+      "officialDescription": "EmberQuest is a cozy fantasy MMORPG where you can fish, mine, chop, cook, craft, collect rare items, battle monsters, and explore a persistent world with other players. Take it easy and build your character, or jump into world PvP, arenas, and group PvP events."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5118700",
+      "title": "//トロイメライ・ノクターン",
+      "storeUrl": "https://store.steampowered.com/app/5118700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118700/0b58d65243087884b6003be6ba64d968aae82c99/header_japanese.jpg?t=1792164731",
+      "officialDescription": "星の稗史を記録する本屋で物語を紡ぐノベルゲームです。 貴方の選択は、果たして何を意味していましたか？"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5220890",
+      "title": "Old Times",
+      "storeUrl": "https://store.steampowered.com/app/5220890/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220890/ab0f7d54417e51ea824f99837ce7b3d6afd772e5/header.jpg?t=1792163814",
+      "officialDescription": "Build, expand, and outsmart your rivals in this competitive first person strategy game."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4795560",
+      "title": "Brand Nacht",
+      "storeUrl": "https://store.steampowered.com/app/4795560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795560/cb539e5e3f4fcd9930fc37e9192a167b25def601/header.jpg?t=1792163256",
+      "officialDescription": "Play as a bored and increasingly frustrated firefighter left behind by his crew in this short walking simulator. Explore the detailed rooms of an empty fire station and experience the restless hours in between call outs."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792168547",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "シングルプレイヤー",
+        "ミリタリー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "暴力",
+        "人工知能",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-20T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4365790:permanent_free:1",
+      "productId": "4365790",
+      "title": "Fated Flatline DX",
+      "status": "sent",
+      "bufferPostId": "6ad26666c5dca815991a5e70"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4931230:permanent_free:1",
+      "productId": "4931230",
+      "title": "Mars Directive",
+      "status": "sent",
+      "bufferPostId": "6ad26668505728588837453b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4870820:permanent_free:1",
+      "productId": "4870820",
+      "title": "Shroomocracy! And The Wand Of Ages",
+      "status": "sent",
+      "bufferPostId": "6ad2666a238ad5651ea97e55"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5328820:permanent_free:1",
+      "productId": "5328820",
+      "title": "EmberQuest",
+      "status": "sent",
+      "bufferPostId": "6ad2666bc5dca815991a5fa6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5118700:permanent_free:1",
+      "productId": "5118700",
+      "title": "//トロイメライ・ノクターン",
+      "status": "sent",
+      "bufferPostId": "6ad2666ec5dca815991a60cd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5220890:permanent_free:1",
+      "productId": "5220890",
+      "title": "Old Times",
+      "status": "sent",
+      "bufferPostId": "6ad2666fb54530c2c99c6018"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4795560:permanent_free:1",
+      "productId": "4795560",
+      "title": "Brand Nacht",
+      "status": "sent",
+      "bufferPostId": "6ad26671c5dca815991a6187"
+    }
+  ],
+  "errors": []
+}
