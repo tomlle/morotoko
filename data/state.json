@@ -180,6 +180,10 @@
     "steam:4795560:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4795560:permanent_free:1"
+    },
+    "steam:5250500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5250500:permanent_free:1"
     }
   },
   "campaigns": {
@@ -941,7 +945,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T18:01:10.079Z",
+      "lastSeenAt": "2026-10-16T21:01:03.467Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -996,7 +1000,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T18:01:10.079Z",
+      "lastSeenAt": "2026-10-16T21:01:03.467Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1007,8 +1011,8 @@
         "FPS",
         "シングルプレイヤー",
         "ミリタリー",
-        "シューティング",
         "アクション",
+        "シューティング",
         "戦争",
         "現代",
         "コンバット",
@@ -1758,11 +1762,41 @@
       },
       "bufferPostId": "6ad26671c5dca815991a6187",
       "postedAt": "2026-10-16T18:01:22.723Z"
+    },
+    "steam:5250500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5250500:permanent_free:1",
+      "store": "steam",
+      "productId": "5250500",
+      "generation": 1,
+      "title": "The Great Game of Cards",
+      "storeUrl": "https://store.steampowered.com/app/5250500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T21:01:03.467Z",
+      "lastSeenAt": "2026-10-16T21:01:03.467Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A turn-based strategy card game where everyone can draft from the same card pool, but what you build and how you play them is up to you. Draft your deck, fight your friends, and... boom. CARDS",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T21:01:03.467Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Great Game of Cards』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5250500/",
+        "attemptedAt": "2026-10-16T21:01:03.969Z",
+        "bufferPostId": "6ad2909052adf2bfae606f5e",
+        "submittedAt": "2026-10-16T21:01:08.446Z",
+        "postedAt": "2026-10-16T21:01:08.446Z"
+      },
+      "bufferPostId": "6ad2909052adf2bfae606f5e",
+      "postedAt": "2026-10-16T21:01:08.446Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T18:01:10.079Z",
+    "lastSuccessfulScanAt": "2026-10-16T21:01:03.467Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1876,6 +1910,7 @@
       "5241530": "2026-10-14T15:30:36.000Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
+      "5250500": "2026-10-16T21:01:03.467Z",
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
       "5255280": "2026-10-14T15:30:36.000Z",
