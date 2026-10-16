@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38897559850",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-16T12:00:52.545Z",
+    "finishedAt": "2026-10-16T12:01:09.752Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38897559850"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 4,
+    "newPromotions": 2,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4719360",
+      "title": "Duel Mahjong",
+      "storeUrl": "https://store.steampowered.com/app/4719360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719360/26486270f36e265b460ad155b7360376c496257a/header.jpg?t=1792148420",
+      "officialDescription": "\"Duel Mahjong\" is an online multiplayer mahjong game incorporating item cards and superpowers. During matches, there are many ways to acquire item cards. By combining various card effects, you can devise winning strategies, enjoy a thrilling game of Mahjong with your friends!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5302110",
+      "title": "搶孤",
+      "storeUrl": "https://store.steampowered.com/app/5302110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302110/ceea03e0d6039173689647532a1d67706b70b245/header.jpg?t=1792144052",
+      "officialDescription": "Defend the Ghost Festival tower in a free-to-play 2D pixel-art strategy RPG. Build your lineup, assign distinct classes, collect loot, trade for supplies, and survive waves of fantasy enemies in tactical auto-battles."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792110409",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "シングルプレイヤー",
+        "ミリタリー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "暴力",
+        "人工知能",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4719360:permanent_free:1",
+      "productId": "4719360",
+      "title": "Duel Mahjong",
+      "status": "sent",
+      "bufferPostId": "6ad21202b948bf9e9d929822"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5302110:permanent_free:1",
+      "productId": "5302110",
+      "title": "搶孤",
+      "status": "sent",
+      "bufferPostId": "6ad21204b948bf9e9d9298b6"
+    }
+  ],
+  "errors": []
+}

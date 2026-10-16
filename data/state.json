@@ -132,6 +132,14 @@
     "steam:5343970:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5343970:permanent_free:1"
+    },
+    "steam:4719360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4719360:permanent_free:1"
+    },
+    "steam:5302110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5302110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -893,7 +901,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T12:01:06.356Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -948,7 +956,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T12:01:06.356Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1350,11 +1358,71 @@
       },
       "bufferPostId": "6ad1e7d99597cd1662751a89",
       "postedAt": "2026-10-16T09:01:14.665Z"
+    },
+    "steam:4719360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4719360:permanent_free:1",
+      "store": "steam",
+      "productId": "4719360",
+      "generation": 1,
+      "title": "Duel Mahjong",
+      "storeUrl": "https://store.steampowered.com/app/4719360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T12:01:06.356Z",
+      "lastSeenAt": "2026-10-16T12:01:06.356Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "\"Duel Mahjong\" is an online multiplayer mahjong game incorporating item cards and superpowers. During matches, there are many ways to acquire item cards. By combining various card effects, you can devise winning strategies, enjoy a thrilling game of Mahjong with your friends!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T12:01:06.356Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Duel Mahjong』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4719360/",
+        "attemptedAt": "2026-10-16T12:01:06.785Z",
+        "bufferPostId": "6ad21202b948bf9e9d929822",
+        "submittedAt": "2026-10-16T12:01:08.275Z",
+        "postedAt": "2026-10-16T12:01:08.275Z"
+      },
+      "bufferPostId": "6ad21202b948bf9e9d929822",
+      "postedAt": "2026-10-16T12:01:08.275Z"
+    },
+    "steam:5302110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5302110:permanent_free:1",
+      "store": "steam",
+      "productId": "5302110",
+      "generation": 1,
+      "title": "搶孤",
+      "storeUrl": "https://store.steampowered.com/app/5302110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T12:01:06.356Z",
+      "lastSeenAt": "2026-10-16T12:01:06.356Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Defend the Ghost Festival tower in a free-to-play 2D pixel-art strategy RPG. Build your lineup, assign distinct classes, collect loot, trade for supplies, and survive waves of fantasy enemies in tactical auto-battles.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T12:01:06.356Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『搶孤』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5302110/",
+        "attemptedAt": "2026-10-16T12:01:08.458Z",
+        "bufferPostId": "6ad21204b948bf9e9d9298b6",
+        "submittedAt": "2026-10-16T12:01:09.725Z",
+        "postedAt": "2026-10-16T12:01:09.725Z"
+      },
+      "bufferPostId": "6ad21204b948bf9e9d9298b6",
+      "postedAt": "2026-10-16T12:01:09.725Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T09:01:06.129Z",
+    "lastSuccessfulScanAt": "2026-10-16T12:01:06.356Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1390,6 +1458,7 @@
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
       "4711830": "2026-10-14T15:30:36.000Z",
+      "4719360": "2026-10-16T12:01:06.356Z",
       "4725520": "2026-10-14T15:30:36.000Z",
       "4731030": "2026-10-14T15:30:36.000Z",
       "4732690": "2026-10-15T00:01:02.108Z",
@@ -1478,6 +1547,7 @@
       "5294050": "2026-10-14T15:30:36.000Z",
       "5299150": "2026-10-14T15:30:36.000Z",
       "5301420": "2026-10-14T15:30:36.000Z",
+      "5302110": "2026-10-16T12:01:06.356Z",
       "5303740": "2026-10-14T15:30:36.000Z",
       "5306270": "2026-10-14T15:30:36.000Z",
       "5309680": "2026-10-14T15:30:36.000Z",
