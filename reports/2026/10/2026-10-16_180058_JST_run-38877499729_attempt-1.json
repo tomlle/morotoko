@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "38877499729",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-16T09:00:58.599Z",
+    "finishedAt": "2026-10-16T09:01:14.671Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/38877499729"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4807880",
+      "title": "冒险者公会",
+      "storeUrl": "https://store.steampowered.com/app/4807880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807880/a1e75001f3fce05637b6502b4c091f18d63f3dd8/header.jpg?t=1792134040",
+      "officialDescription": "\"The 2026 Tribal Adventure MMORPG is Now Available! Answer the Call of the Wild. Start Your Hunt Now!\""
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4746110",
+      "title": "至尊传说之屠龙战神",
+      "storeUrl": "https://store.steampowered.com/app/4746110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4746110/478368077f828b669d689f775418b6a5d1c78656/header.jpg?t=1792119198",
+      "officialDescription": "⚔️ 踏入战场，挑战凶猛BOSS，夺取强力装备，通过锻造、神器与转生不断突破自身。获取充值红包，领取多种活动奖励，助力角色成长。集结行会兄弟，从夺宝混战杀入皇城攻防，在刀光与烈焰中争夺荣耀！铸造热血传奇人生！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5183540",
+      "title": "Music and Melody - Numbers and Letters",
+      "storeUrl": "https://store.steampowered.com/app/5183540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5183540/8978a07cf2c88812df268c638cfb738b8c259500/header.jpg?t=1792056039",
+      "officialDescription": "Hear It, Play It, Master It Ear Training: Identify notes - sharpen your ear Melody Mode: Learn 200+ songs Rhythm Mode: Hit notes to the beat Master Sheet Music: Read & play notes or compose your own Learn basics of music theory, practice reading sheet music. Jam out in a vibrant rhythm game"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5343970",
+      "title": "PINDEMONIUM",
+      "storeUrl": "https://store.steampowered.com/app/5343970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5343970/fa6ff534b0f396b4114066e744485d9cfa6a30f9/header.jpg?t=1792048386",
+      "officialDescription": "A roguelike pinball deckbuilder. Beat each stage's target score before you run out of balls. Between stages, buy passives and upgrades in the shop to build your deck. Choose from 10 flippers, clear 12 stages, then see how far your build can go in Endless Mode."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792110409",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "シングルプレイヤー",
+        "ミリタリー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "暴力",
+        "人工知能",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4807880:permanent_free:1",
+      "productId": "4807880",
+      "title": "冒险者公会",
+      "status": "sent",
+      "bufferPostId": "6ad1e7d24ed7d375a45202ec"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4746110:permanent_free:1",
+      "productId": "4746110",
+      "title": "至尊传说之屠龙战神",
+      "status": "sent",
+      "bufferPostId": "6ad1e7d4ee2c696029c915d2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5183540:permanent_free:1",
+      "productId": "5183540",
+      "title": "Music and Melody - Numbers and Letters",
+      "status": "sent",
+      "bufferPostId": "6ad1e7d7fb64fffcf1c18dde"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5343970:permanent_free:1",
+      "productId": "5343970",
+      "title": "PINDEMONIUM",
+      "status": "sent",
+      "bufferPostId": "6ad1e7d99597cd1662751a89"
+    }
+  ],
+  "errors": []
+}

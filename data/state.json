@@ -116,6 +116,22 @@
     "steam:4355200:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4355200:permanent_free:1"
+    },
+    "steam:4807880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4807880:permanent_free:1"
+    },
+    "steam:4746110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4746110:permanent_free:1"
+    },
+    "steam:5183540:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5183540:permanent_free:1"
+    },
+    "steam:5343970:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5343970:permanent_free:1"
     }
   },
   "campaigns": {
@@ -877,7 +893,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T06:01:00.623Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -932,7 +948,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T06:01:00.623Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1214,11 +1230,131 @@
       },
       "bufferPostId": "6ad1bd9da82f34dbe14aac17",
       "postedAt": "2026-10-16T06:01:03.439Z"
+    },
+    "steam:4807880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4807880:permanent_free:1",
+      "store": "steam",
+      "productId": "4807880",
+      "generation": 1,
+      "title": "冒险者公会",
+      "storeUrl": "https://store.steampowered.com/app/4807880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "\"The 2026 Tribal Adventure MMORPG is Now Available! Answer the Call of the Wild. Start Your Hunt Now!\"",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T09:01:06.129Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『冒险者公会』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4807880/",
+        "attemptedAt": "2026-10-16T09:01:06.696Z",
+        "bufferPostId": "6ad1e7d24ed7d375a45202ec",
+        "submittedAt": "2026-10-16T09:01:08.180Z",
+        "postedAt": "2026-10-16T09:01:08.180Z"
+      },
+      "bufferPostId": "6ad1e7d24ed7d375a45202ec",
+      "postedAt": "2026-10-16T09:01:08.180Z"
+    },
+    "steam:4746110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4746110:permanent_free:1",
+      "store": "steam",
+      "productId": "4746110",
+      "generation": 1,
+      "title": "至尊传说之屠龙战神",
+      "storeUrl": "https://store.steampowered.com/app/4746110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "⚔️ 踏入战场，挑战凶猛BOSS，夺取强力装备，通过锻造、神器与转生不断突破自身。获取充值红包，领取多种活动奖励，助力角色成长。集结行会兄弟，从夺宝混战杀入皇城攻防，在刀光与烈焰中争夺荣耀！铸造热血传奇人生！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T09:01:06.129Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『至尊传说之屠龙战神』\n✨ いつでも無料でプレイ\n\n⚔️ 踏入战场，挑战凶猛BOSS，夺取强力装备，通过锻造、神器与转生不断突破自身。获取充值红包，领取多种活动奖励，助力角色成长。集结行会兄弟，从夺宝混战杀入皇城攻防，在刀光与烈焰中…\n\nhttps://store.steampowered.com/app/4746110/",
+        "attemptedAt": "2026-10-16T09:01:08.511Z",
+        "bufferPostId": "6ad1e7d4ee2c696029c915d2",
+        "submittedAt": "2026-10-16T09:01:10.865Z",
+        "postedAt": "2026-10-16T09:01:10.865Z"
+      },
+      "bufferPostId": "6ad1e7d4ee2c696029c915d2",
+      "postedAt": "2026-10-16T09:01:10.865Z"
+    },
+    "steam:5183540:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5183540:permanent_free:1",
+      "store": "steam",
+      "productId": "5183540",
+      "generation": 1,
+      "title": "Music and Melody - Numbers and Letters",
+      "storeUrl": "https://store.steampowered.com/app/5183540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Hear It, Play It, Master It Ear Training: Identify notes - sharpen your ear Melody Mode: Learn 200+ songs Rhythm Mode: Hit notes to the beat Master Sheet Music: Read & play notes or compose your own Learn basics of music theory, practice reading sheet music. Jam out in a vibrant rhythm game",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T09:01:06.129Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Music and Melody - Numbers and Letters』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5183540/",
+        "attemptedAt": "2026-10-16T09:01:11.210Z",
+        "bufferPostId": "6ad1e7d7fb64fffcf1c18dde",
+        "submittedAt": "2026-10-16T09:01:12.666Z",
+        "postedAt": "2026-10-16T09:01:12.666Z"
+      },
+      "bufferPostId": "6ad1e7d7fb64fffcf1c18dde",
+      "postedAt": "2026-10-16T09:01:12.666Z"
+    },
+    "steam:5343970:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5343970:permanent_free:1",
+      "store": "steam",
+      "productId": "5343970",
+      "generation": 1,
+      "title": "PINDEMONIUM",
+      "storeUrl": "https://store.steampowered.com/app/5343970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T09:01:06.129Z",
+      "lastSeenAt": "2026-10-16T09:01:06.129Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A roguelike pinball deckbuilder. Beat each stage's target score before you run out of balls. Between stages, buy passives and upgrades in the shop to build your deck. Choose from 10 flippers, clear 12 stages, then see how far your build can go in Endless Mode.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T09:01:06.129Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『PINDEMONIUM』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5343970/",
+        "attemptedAt": "2026-10-16T09:01:12.976Z",
+        "bufferPostId": "6ad1e7d99597cd1662751a89",
+        "submittedAt": "2026-10-16T09:01:14.665Z",
+        "postedAt": "2026-10-16T09:01:14.665Z"
+      },
+      "bufferPostId": "6ad1e7d99597cd1662751a89",
+      "postedAt": "2026-10-16T09:01:14.665Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T06:01:00.623Z",
+    "lastSuccessfulScanAt": "2026-10-16T09:01:06.129Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1260,7 +1396,9 @@
       "4744800": "2026-10-14T15:30:36.000Z",
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
+      "4746110": "2026-10-16T09:01:06.129Z",
       "4801520": "2026-10-15T15:01:06.493Z",
+      "4807880": "2026-10-16T09:01:06.129Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
@@ -1305,6 +1443,7 @@
       "5173790": "2026-10-14T15:30:36.000Z",
       "5178350": "2026-10-14T15:30:36.000Z",
       "5180840": "2026-10-14T15:30:36.000Z",
+      "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
       "5196510": "2026-10-15T21:00:58.160Z",
       "5206450": "2026-10-14T15:30:36.000Z",
@@ -1343,7 +1482,8 @@
       "5306270": "2026-10-14T15:30:36.000Z",
       "5309680": "2026-10-14T15:30:36.000Z",
       "5314960": "2026-10-14T15:30:36.000Z",
-      "5319610": "2026-10-14T15:30:36.000Z"
+      "5319610": "2026-10-14T15:30:36.000Z",
+      "5343970": "2026-10-16T09:01:06.129Z"
     }
   }
 }
