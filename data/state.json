@@ -140,6 +140,18 @@
     "steam:5302110:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5302110:permanent_free:1"
+    },
+    "steam:5256770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5256770:permanent_free:1"
+    },
+    "steam:5233990:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5233990:permanent_free:1"
+    },
+    "steam:5199830:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5199830:permanent_free:1"
     }
   },
   "campaigns": {
@@ -901,7 +913,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T12:01:06.356Z",
+      "lastSeenAt": "2026-10-16T15:01:11.993Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -956,7 +968,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T12:01:06.356Z",
+      "lastSeenAt": "2026-10-16T15:01:11.993Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1418,11 +1430,101 @@
       },
       "bufferPostId": "6ad21204b948bf9e9d9298b6",
       "postedAt": "2026-10-16T12:01:09.725Z"
+    },
+    "steam:5256770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5256770:permanent_free:1",
+      "store": "steam",
+      "productId": "5256770",
+      "generation": 1,
+      "title": "PropHuntFPS",
+      "storeUrl": "https://store.steampowered.com/app/5256770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T15:01:11.993Z",
+      "lastSeenAt": "2026-10-16T15:01:11.993Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "PropHuntFPSはマルチプレイのかくれんぼ系FPSです。 -Hunter VS Chameleonモード Chameleonはオブジェクトに変装し、迷彩を塗って周囲に溶け込みます。一方、視界を封じられたHunterは音と笛の合図を頼りに狩ります。知恵とペイントと粘りで出し抜き、この緊迫のかくれんぼバトルを制しよう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T15:01:11.993Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『PropHuntFPS』\n✨ いつでも無料でプレイ\n\nPropHuntFPSはマルチプレイのかくれんぼ系FPSです。 -Hunter VS Chameleonモード Chameleonはオブジェクトに変装し、迷彩を塗って周囲に溶け込みます。一方、視界を封じられたHunterは音と笛の合図…\n\nhttps://store.steampowered.com/app/5256770/",
+        "attemptedAt": "2026-10-16T15:01:12.566Z",
+        "bufferPostId": "6ad23c38193eb243e2c0baaf",
+        "submittedAt": "2026-10-16T15:01:14.011Z",
+        "postedAt": "2026-10-16T15:01:14.011Z"
+      },
+      "bufferPostId": "6ad23c38193eb243e2c0baaf",
+      "postedAt": "2026-10-16T15:01:14.011Z"
+    },
+    "steam:5233990:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5233990:permanent_free:1",
+      "store": "steam",
+      "productId": "5233990",
+      "generation": 1,
+      "title": "ノルヴェール戦記-紫水晶の旅物語-",
+      "storeUrl": "https://store.steampowered.com/app/5233990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T15:01:11.993Z",
+      "lastSeenAt": "2026-10-16T15:01:11.993Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "魔法により発展したヘリヤ大陸を舞台としたSRPG。 大陸北東部のノルヴェールという地での戦乱に端を発する陰謀に、仲間を指揮して立ち向かえ！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T15:01:11.993Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ノルヴェール戦記-紫水晶の旅物語-』\n✨ いつでも無料でプレイ\n\n魔法により発展したヘリヤ大陸を舞台としたSRPG。 大陸北東部のノルヴェールという地での戦乱に端を発する陰謀に、仲間を指揮して立ち向かえ！\n\nhttps://store.steampowered.com/app/5233990/",
+        "attemptedAt": "2026-10-16T15:01:14.184Z",
+        "bufferPostId": "6ad23c3afd83dd559b9e2b72",
+        "submittedAt": "2026-10-16T15:01:15.409Z",
+        "postedAt": "2026-10-16T15:01:15.409Z"
+      },
+      "bufferPostId": "6ad23c3afd83dd559b9e2b72",
+      "postedAt": "2026-10-16T15:01:15.409Z"
+    },
+    "steam:5199830:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5199830:permanent_free:1",
+      "store": "steam",
+      "productId": "5199830",
+      "generation": 1,
+      "title": "Dynastia FC",
+      "storeUrl": "https://store.steampowered.com/app/5199830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-16T15:01:11.993Z",
+      "lastSeenAt": "2026-10-16T15:01:11.993Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Dynastia FC is an idle football incremental where you watch matches unfold from above. Manage your roster, upgrade your club, and squeeze every coin from your fans. Rise from a dirt-pitch underdog, conquer the multiverse, and build a football empire.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-16T15:01:11.993Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dynastia FC』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5199830/",
+        "attemptedAt": "2026-10-16T15:01:15.594Z",
+        "bufferPostId": "6ad23c3b7521b876061520db",
+        "submittedAt": "2026-10-16T15:01:17.011Z",
+        "postedAt": "2026-10-16T15:01:17.011Z"
+      },
+      "bufferPostId": "6ad23c3b7521b876061520db",
+      "postedAt": "2026-10-16T15:01:17.011Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T12:01:06.356Z",
+    "lastSuccessfulScanAt": "2026-10-16T15:01:11.993Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1515,6 +1617,7 @@
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
       "5196510": "2026-10-15T21:00:58.160Z",
+      "5199830": "2026-10-16T15:01:11.993Z",
       "5206450": "2026-10-14T15:30:36.000Z",
       "5210050": "2026-10-14T15:30:36.000Z",
       "5217620": "2026-10-14T15:30:36.000Z",
@@ -1525,12 +1628,14 @@
       "5226810": "2026-10-14T15:30:36.000Z",
       "5230380": "2026-10-14T15:30:36.000Z",
       "5231360": "2026-10-15T09:01:04.942Z",
+      "5233990": "2026-10-16T15:01:11.993Z",
       "5241530": "2026-10-14T15:30:36.000Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
       "5255280": "2026-10-14T15:30:36.000Z",
+      "5256770": "2026-10-16T15:01:11.993Z",
       "5257930": "2026-10-16T00:01:03.084Z",
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
