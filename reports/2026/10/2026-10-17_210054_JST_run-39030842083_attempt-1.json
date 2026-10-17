@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39030842083",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-17T12:00:54.813Z",
+    "finishedAt": "2026-10-17T12:01:06.838Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39030842083"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 4,
+    "newPromotions": 2,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5114130",
+      "title": "Beta Earth: Sovereignty Next",
+      "storeUrl": "https://store.steampowered.com/app/5114130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114130/b85ada6bbf54c5c0bc3c598f96be6df3d83345b7/header.jpg?t=1792237035",
+      "officialDescription": "Welcome to Beta Earth, a text-driven sci-fi RPG with two journeys. Explore Sprawl 15 in Sovereignty or brave the harsher survival of Second Chances. Choose your class, find your footing, and make the story your own. Includes the Beta Earth Digital Library."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5168280",
+      "title": "S.S.D. SCP-1373",
+      "storeUrl": "https://store.steampowered.com/app/5168280/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5168280/894b996d97a2fb96577afbcc8fd223ccd6cce484/header.jpg?t=1792143788",
+      "officialDescription": "SCP-1373 - first‑person psychological horror game that immerses you in the atmosphere of a pioneer camp from the USSR. Face the horror in the darkness of the unknown. Search and use whatever means are at your disposal to uncover the mystery of the children’s disappearance and escape this nightmare."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792168547",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "ミリタリー",
+        "シングルプレイヤー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "人工知能",
+        "暴力",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-20T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5114130:permanent_free:1",
+      "productId": "5114130",
+      "title": "Beta Earth: Sovereignty Next",
+      "status": "sent",
+      "bufferPostId": "6ad363800a208cb3231b80d0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5168280:permanent_free:1",
+      "productId": "5168280",
+      "title": "S.S.D. SCP-1373",
+      "status": "sent",
+      "bufferPostId": "6ad36381dd83363c4dce20b3"
+    }
+  ],
+  "errors": []
+}

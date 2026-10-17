@@ -200,6 +200,14 @@
     "steam:4729580:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4729580:permanent_free:1"
+    },
+    "steam:5114130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5114130:permanent_free:1"
+    },
+    "steam:5168280:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5168280:permanent_free:1"
     }
   },
   "campaigns": {
@@ -961,7 +969,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T09:00:57.157Z",
+      "lastSeenAt": "2026-10-17T12:01:03.272Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1016,7 +1024,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T09:00:57.157Z",
+      "lastSeenAt": "2026-10-17T12:01:03.272Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1027,8 +1035,8 @@
         "FPS",
         "ミリタリー",
         "シングルプレイヤー",
-        "アクション",
         "シューティング",
+        "アクション",
         "戦争",
         "現代",
         "コンバット",
@@ -1038,8 +1046,8 @@
         "壮大",
         "破壊",
         "PvP",
-        "暴力",
         "人工知能",
+        "暴力",
         "協力プレイ",
         "雰囲気",
         "サンドボックス",
@@ -1928,11 +1936,71 @@
       },
       "bufferPostId": "6ad30f1d52adf2bfae79b950",
       "postedAt": "2026-10-17T06:01:02.464Z"
+    },
+    "steam:5114130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5114130:permanent_free:1",
+      "store": "steam",
+      "productId": "5114130",
+      "generation": 1,
+      "title": "Beta Earth: Sovereignty Next",
+      "storeUrl": "https://store.steampowered.com/app/5114130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T12:01:03.272Z",
+      "lastSeenAt": "2026-10-17T12:01:03.272Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Welcome to Beta Earth, a text-driven sci-fi RPG with two journeys. Explore Sprawl 15 in Sovereignty or brave the harsher survival of Second Chances. Choose your class, find your footing, and make the story your own. Includes the Beta Earth Digital Library.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T12:01:03.272Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Beta Earth: Sovereignty Next』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5114130/",
+        "attemptedAt": "2026-10-17T12:01:03.756Z",
+        "bufferPostId": "6ad363800a208cb3231b80d0",
+        "submittedAt": "2026-10-17T12:01:05.164Z",
+        "postedAt": "2026-10-17T12:01:05.164Z"
+      },
+      "bufferPostId": "6ad363800a208cb3231b80d0",
+      "postedAt": "2026-10-17T12:01:05.164Z"
+    },
+    "steam:5168280:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5168280:permanent_free:1",
+      "store": "steam",
+      "productId": "5168280",
+      "generation": 1,
+      "title": "S.S.D. SCP-1373",
+      "storeUrl": "https://store.steampowered.com/app/5168280/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T12:01:03.272Z",
+      "lastSeenAt": "2026-10-17T12:01:03.272Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "SCP-1373 - first‑person psychological horror game that immerses you in the atmosphere of a pioneer camp from the USSR. Face the horror in the darkness of the unknown. Search and use whatever means are at your disposal to uncover the mystery of the children’s disappearance and escape this nightmare.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T12:01:03.272Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『S.S.D. SCP-1373』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5168280/",
+        "attemptedAt": "2026-10-17T12:01:05.506Z",
+        "bufferPostId": "6ad36381dd83363c4dce20b3",
+        "submittedAt": "2026-10-17T12:01:06.834Z",
+        "postedAt": "2026-10-17T12:01:06.834Z"
+      },
+      "bufferPostId": "6ad36381dd83363c4dce20b3",
+      "postedAt": "2026-10-17T12:01:06.834Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-17T09:00:57.157Z",
+    "lastSuccessfulScanAt": "2026-10-17T12:01:03.272Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2019,6 +2087,7 @@
       "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
       "5109640": "2026-10-16T00:01:03.084Z",
+      "5114130": "2026-10-17T12:01:03.272Z",
       "5118700": "2026-10-16T18:01:10.079Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5129250": "2026-10-14T15:30:36.000Z",
@@ -2027,6 +2096,7 @@
       "5144300": "2026-10-14T15:30:36.000Z",
       "5159730": "2026-10-14T15:30:36.000Z",
       "5162260": "2026-10-14T15:30:36.000Z",
+      "5168280": "2026-10-17T12:01:03.272Z",
       "5170050": "2026-10-14T15:30:36.000Z",
       "5173790": "2026-10-14T15:30:36.000Z",
       "5178350": "2026-10-14T15:30:36.000Z",
