@@ -184,6 +184,14 @@
     "steam:5250500:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5250500:permanent_free:1"
+    },
+    "steam:4350900:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4350900:permanent_free:1"
+    },
+    "steam:4561260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4561260:permanent_free:1"
     }
   },
   "campaigns": {
@@ -945,7 +953,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T21:01:03.467Z",
+      "lastSeenAt": "2026-10-17T00:01:02.592Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1000,7 +1008,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-16T21:01:03.467Z",
+      "lastSeenAt": "2026-10-17T00:01:02.592Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1009,8 +1017,8 @@
       "tags": [
         "マルチプレイヤー",
         "FPS",
-        "シングルプレイヤー",
         "ミリタリー",
+        "シングルプレイヤー",
         "アクション",
         "シューティング",
         "戦争",
@@ -1792,11 +1800,71 @@
       },
       "bufferPostId": "6ad2909052adf2bfae606f5e",
       "postedAt": "2026-10-16T21:01:08.446Z"
+    },
+    "steam:4350900:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4350900:permanent_free:1",
+      "store": "steam",
+      "productId": "4350900",
+      "generation": 1,
+      "title": "Just a Cat",
+      "storeUrl": "https://store.steampowered.com/app/4350900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T00:01:02.592Z",
+      "lastSeenAt": "2026-10-17T00:01:02.592Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Just a Cat は、画面のそばでいつも寄り添ってくれる猫を描いた、かわいいカジュアルな放置ゲームです。帽子やメガネで着せ替えを楽しみ、反応を観察しながら、作業中や休憩中にマウスクリックやキー入力の統計を確認できます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T00:01:02.592Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Just a Cat』\n✨ いつでも無料でプレイ\n\nJust a Cat は、画面のそばでいつも寄り添ってくれる猫を描いた、かわいいカジュアルな放置ゲームです。帽子やメガネで着せ替えを楽しみ、反応を観察しながら、作業中や休憩中にマウスクリックやキ…\n\nhttps://store.steampowered.com/app/4350900/",
+        "attemptedAt": "2026-10-17T00:01:03.880Z",
+        "bufferPostId": "6ad2bac0c34368e4b09bed6c",
+        "submittedAt": "2026-10-17T00:01:05.450Z",
+        "postedAt": "2026-10-17T00:01:05.450Z"
+      },
+      "bufferPostId": "6ad2bac0c34368e4b09bed6c",
+      "postedAt": "2026-10-17T00:01:05.450Z"
+    },
+    "steam:4561260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4561260:permanent_free:1",
+      "store": "steam",
+      "productId": "4561260",
+      "generation": 1,
+      "title": "Open Sourcerer",
+      "storeUrl": "https://store.steampowered.com/app/4561260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T00:01:02.592Z",
+      "lastSeenAt": "2026-10-17T00:01:02.592Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Open Sourcerer was a 2D platformer where players created and customized their spells in JavaScript.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T00:01:02.592Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Open Sourcerer』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4561260/",
+        "attemptedAt": "2026-10-17T00:01:05.700Z",
+        "bufferPostId": "6ad2bac11694d771d510b462",
+        "submittedAt": "2026-10-17T00:01:07.090Z",
+        "postedAt": "2026-10-17T00:01:07.090Z"
+      },
+      "bufferPostId": "6ad2bac11694d771d510b462",
+      "postedAt": "2026-10-17T00:01:07.090Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-16T21:01:03.467Z",
+    "lastSuccessfulScanAt": "2026-10-17T00:01:02.592Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1822,10 +1890,12 @@
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
       "4347270": "2026-10-14T15:30:36.000Z",
+      "4350900": "2026-10-17T00:01:02.592Z",
       "4355200": "2026-10-16T06:01:00.623Z",
       "4365790": "2026-10-16T18:01:10.079Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
+      "4561260": "2026-10-17T00:01:02.592Z",
       "4567680": "2026-10-14T15:30:36.000Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
