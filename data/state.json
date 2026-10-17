@@ -208,6 +208,14 @@
     "steam:5168280:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5168280:permanent_free:1"
+    },
+    "steam:3703550:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3703550:permanent_free:1"
+    },
+    "steam:1979510:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1979510:permanent_free:1"
     }
   },
   "campaigns": {
@@ -969,7 +977,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T12:01:03.272Z",
+      "lastSeenAt": "2026-10-17T15:01:03.979Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1024,7 +1032,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T12:01:03.272Z",
+      "lastSeenAt": "2026-10-17T15:01:03.979Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1996,20 +2004,82 @@
       },
       "bufferPostId": "6ad36381dd83363c4dce20b3",
       "postedAt": "2026-10-17T12:01:06.834Z"
+    },
+    "steam:3703550:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3703550:permanent_free:1",
+      "store": "steam",
+      "productId": "3703550",
+      "generation": 1,
+      "title": "Astrowar",
+      "storeUrl": "https://store.steampowered.com/app/3703550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T15:01:03.979Z",
+      "lastSeenAt": "2026-10-17T15:01:03.979Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "AstroWar is a fast 2D multiplayer space arena shooter. Create quick lobbies, customize your ship, add bots, dodge meteorites, grab power-ups, and fight through chaotic battles across a wide starfield.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T15:01:03.979Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Astrowar』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3703550/",
+        "attemptedAt": "2026-10-17T15:01:04.564Z",
+        "bufferPostId": "6ad38db0dd83363c4dd90456",
+        "submittedAt": "2026-10-17T15:01:06.193Z",
+        "postedAt": "2026-10-17T15:01:06.193Z"
+      },
+      "bufferPostId": "6ad38db0dd83363c4dd90456",
+      "postedAt": "2026-10-17T15:01:06.193Z"
+    },
+    "steam:1979510:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1979510:permanent_free:1",
+      "store": "steam",
+      "productId": "1979510",
+      "generation": 1,
+      "title": "Madcar Multiplayer",
+      "storeUrl": "https://store.steampowered.com/app/1979510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T15:01:03.979Z",
+      "lastSeenAt": "2026-10-17T15:01:03.979Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "One rule : Press the pedal ! Madcar: Multiplayer brings together the craziest drivers ! Enjoy the funniest online races !",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T15:01:03.979Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Madcar Multiplayer』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1979510/",
+        "attemptedAt": "2026-10-17T15:01:06.382Z",
+        "bufferPostId": "6ad38db2ae173d6e00c01b50",
+        "submittedAt": "2026-10-17T15:01:07.694Z",
+        "postedAt": "2026-10-17T15:01:07.694Z"
+      },
+      "bufferPostId": "6ad38db2ae173d6e00c01b50",
+      "postedAt": "2026-10-17T15:01:07.694Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-17T12:01:03.272Z",
+    "lastSuccessfulScanAt": "2026-10-17T15:01:03.979Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
       "1333410": "2026-10-14T15:30:36.000Z",
       "1674270": "2026-10-14T15:30:36.000Z",
       "1965430": "2026-10-14T15:30:36.000Z",
+      "1979510": "2026-10-17T15:01:03.979Z",
       "2331730": "2026-10-14T15:30:36.000Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "3371490": "2026-10-14T15:30:36.000Z",
+      "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
       "3858540": "2026-10-14T15:30:36.000Z",
