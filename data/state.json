@@ -196,6 +196,10 @@
     "steam:4360980:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4360980:permanent_free:1"
+    },
+    "steam:4729580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4729580:permanent_free:1"
     }
   },
   "campaigns": {
@@ -957,7 +961,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T03:01:07.080Z",
+      "lastSeenAt": "2026-10-17T06:01:00.886Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1012,7 +1016,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T03:01:07.080Z",
+      "lastSeenAt": "2026-10-17T06:01:00.886Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1894,11 +1898,41 @@
       },
       "bufferPostId": "6ad2e4f31c7e49ea4c34a6a0",
       "postedAt": "2026-10-17T03:01:08.771Z"
+    },
+    "steam:4729580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4729580:permanent_free:1",
+      "store": "steam",
+      "productId": "4729580",
+      "generation": 1,
+      "title": "Wolf Island",
+      "storeUrl": "https://store.steampowered.com/app/4729580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-17T06:01:00.886Z",
+      "lastSeenAt": "2026-10-17T06:01:00.886Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 4-player co-op survival game. Played in a third-person perspective, players must explore the island to gather and craft resources while surviving against various threats. The ultimate goal is to collect repair parts, fix the boat, and escape the island.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-17T06:01:00.886Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Wolf Island』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4729580/",
+        "attemptedAt": "2026-10-17T06:01:01.194Z",
+        "bufferPostId": "6ad30f1d52adf2bfae79b950",
+        "submittedAt": "2026-10-17T06:01:02.464Z",
+        "postedAt": "2026-10-17T06:01:02.464Z"
+      },
+      "bufferPostId": "6ad30f1d52adf2bfae79b950",
+      "postedAt": "2026-10-17T06:01:02.464Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-17T03:01:07.080Z",
+    "lastSuccessfulScanAt": "2026-10-17T06:01:00.886Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -1940,6 +1974,7 @@
       "4711830": "2026-10-14T15:30:36.000Z",
       "4719360": "2026-10-16T12:01:06.356Z",
       "4725520": "2026-10-14T15:30:36.000Z",
+      "4729580": "2026-10-17T06:01:00.886Z",
       "4731030": "2026-10-14T15:30:36.000Z",
       "4732690": "2026-10-15T00:01:02.108Z",
       "4744800": "2026-10-14T15:30:36.000Z",
