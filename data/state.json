@@ -228,6 +228,10 @@
     "steam:5115590:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5115590:permanent_free:1"
+    },
+    "steam:5345030:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5345030:permanent_free:1"
     }
   },
   "campaigns": {
@@ -989,7 +993,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T06:01:03.221Z",
+      "lastSeenAt": "2026-10-18T09:00:58.727Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1044,7 +1048,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T06:01:03.221Z",
+      "lastSeenAt": "2026-10-18T09:00:58.727Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2166,11 +2170,41 @@
       },
       "bufferPostId": "6ad4609f0a208cb32351330a",
       "postedAt": "2026-10-18T06:01:05.044Z"
+    },
+    "steam:5345030:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5345030:permanent_free:1",
+      "store": "steam",
+      "productId": "5345030",
+      "generation": 1,
+      "title": "Volleyball Mania",
+      "storeUrl": "https://store.steampowered.com/app/5345030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-18T09:00:58.727Z",
+      "lastSeenAt": "2026-10-18T09:00:58.727Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Volleyball Mania is a 3D beach and indoor volleyball game. Pass, set, spike, read the block, aim past the defender, and finish the rally. Take on the World Tour across three stadiums, or challenge a friend online.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-18T09:00:58.727Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Volleyball Mania』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5345030/",
+        "attemptedAt": "2026-10-18T09:00:59.342Z",
+        "bufferPostId": "6ad48acbae173d6e00f37671",
+        "submittedAt": "2026-10-18T09:01:00.584Z",
+        "postedAt": "2026-10-18T09:01:00.584Z"
+      },
+      "bufferPostId": "6ad48acbae173d6e00f37671",
+      "postedAt": "2026-10-18T09:01:00.584Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-18T06:01:03.221Z",
+    "lastSuccessfulScanAt": "2026-10-18T09:00:58.727Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2323,7 +2357,8 @@
       "5314960": "2026-10-14T15:30:36.000Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
-      "5343970": "2026-10-16T09:01:06.129Z"
+      "5343970": "2026-10-16T09:01:06.129Z",
+      "5345030": "2026-10-18T09:00:58.727Z"
     }
   }
 }
