@@ -224,6 +224,10 @@
     "steam:4410900:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4410900:permanent_free:1"
+    },
+    "steam:5115590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5115590:permanent_free:1"
     }
   },
   "campaigns": {
@@ -985,7 +989,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T03:00:59.260Z",
+      "lastSeenAt": "2026-10-18T06:01:03.221Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1040,7 +1044,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T03:00:59.260Z",
+      "lastSeenAt": "2026-10-18T06:01:03.221Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2132,11 +2136,41 @@
       },
       "bufferPostId": "6ad40c45938409f1d0a9bee5",
       "postedAt": "2026-10-18T00:01:10.342Z"
+    },
+    "steam:5115590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5115590:permanent_free:1",
+      "store": "steam",
+      "productId": "5115590",
+      "generation": 1,
+      "title": "Crypto Market Rivals",
+      "storeUrl": "https://store.steampowered.com/app/5115590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-18T06:01:03.221Z",
+      "lastSeenAt": "2026-10-18T06:01:03.221Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Find your trading style in a single-player game with simulated funds. Explore markets, revisit crypto history, build a Wild run, and grow a career at your own pace.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-18T06:01:03.221Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crypto Market Rivals』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5115590/",
+        "attemptedAt": "2026-10-18T06:01:03.760Z",
+        "bufferPostId": "6ad4609f0a208cb32351330a",
+        "submittedAt": "2026-10-18T06:01:05.044Z",
+        "postedAt": "2026-10-18T06:01:05.044Z"
+      },
+      "bufferPostId": "6ad4609f0a208cb32351330a",
+      "postedAt": "2026-10-18T06:01:05.044Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-18T03:00:59.260Z",
+    "lastSuccessfulScanAt": "2026-10-18T06:01:03.221Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2228,6 +2262,7 @@
       "5105400": "2026-10-14T15:30:36.000Z",
       "5109640": "2026-10-16T00:01:03.084Z",
       "5114130": "2026-10-17T12:01:03.272Z",
+      "5115590": "2026-10-18T06:01:03.221Z",
       "5118700": "2026-10-16T18:01:10.079Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5129250": "2026-10-14T15:30:36.000Z",
