@@ -220,6 +220,10 @@
     "steam:4437770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4437770:permanent_free:1"
+    },
+    "steam:4410900:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4410900:permanent_free:1"
     }
   },
   "campaigns": {
@@ -981,7 +985,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T21:01:00.535Z",
+      "lastSeenAt": "2026-10-18T00:01:08.594Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1036,7 +1040,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-17T21:01:00.535Z",
+      "lastSeenAt": "2026-10-18T00:01:08.594Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2098,11 +2102,41 @@
       },
       "bufferPostId": "6ad3e20d0a208cb3233943ec",
       "postedAt": "2026-10-17T21:01:02.369Z"
+    },
+    "steam:4410900:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4410900:permanent_free:1",
+      "store": "steam",
+      "productId": "4410900",
+      "generation": 1,
+      "title": "Bad Actor",
+      "storeUrl": "https://store.steampowered.com/app/4410900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-18T00:01:08.594Z",
+      "lastSeenAt": "2026-10-18T00:01:08.594Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A theatrical deduction brain-teaser inspired by the Vancouver Orpheum!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-18T00:01:08.594Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bad Actor』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4410900/",
+        "attemptedAt": "2026-10-18T00:01:09.051Z",
+        "bufferPostId": "6ad40c45938409f1d0a9bee5",
+        "submittedAt": "2026-10-18T00:01:10.342Z",
+        "postedAt": "2026-10-18T00:01:10.342Z"
+      },
+      "bufferPostId": "6ad40c45938409f1d0a9bee5",
+      "postedAt": "2026-10-18T00:01:10.342Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-17T21:01:00.535Z",
+    "lastSuccessfulScanAt": "2026-10-18T00:01:08.594Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2134,6 +2168,7 @@
       "4355200": "2026-10-16T06:01:00.623Z",
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
+      "4410900": "2026-10-18T00:01:08.594Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
