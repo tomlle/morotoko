@@ -232,6 +232,10 @@
     "steam:5345030:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5345030:permanent_free:1"
+    },
+    "steam:5108310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5108310:permanent_free:1"
     }
   },
   "campaigns": {
@@ -993,7 +997,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T09:00:58.727Z",
+      "lastSeenAt": "2026-10-18T12:00:59.249Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1048,7 +1052,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T09:00:58.727Z",
+      "lastSeenAt": "2026-10-18T12:00:59.249Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2200,11 +2204,41 @@
       },
       "bufferPostId": "6ad48acbae173d6e00f37671",
       "postedAt": "2026-10-18T09:01:00.584Z"
+    },
+    "steam:5108310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5108310:permanent_free:1",
+      "store": "steam",
+      "productId": "5108310",
+      "generation": 1,
+      "title": "ArtRise Illustrator Growth Plan: Are you kidding me?",
+      "storeUrl": "https://store.steampowered.com/app/5108310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-18T12:00:59.249Z",
+      "lastSeenAt": "2026-10-18T12:00:59.249Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ArtRise Illustrator Growth Plan is a text-based role-playing game in which players take on the role of a freelance artist just starting out. By accepting commissions, communicating with clients, dealing with payment disputes, and experience the real-world challenges faced by professional artists.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-18T12:00:59.249Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ArtRise Illustrator Growth Plan: Are you kidding me?』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5108310/",
+        "attemptedAt": "2026-10-18T12:00:59.725Z",
+        "bufferPostId": "6ad4b4fbae173d6e00fd4f1c",
+        "submittedAt": "2026-10-18T12:01:01.160Z",
+        "postedAt": "2026-10-18T12:01:01.160Z"
+      },
+      "bufferPostId": "6ad4b4fbae173d6e00fd4f1c",
+      "postedAt": "2026-10-18T12:01:01.160Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-18T09:00:58.727Z",
+    "lastSuccessfulScanAt": "2026-10-18T12:00:59.249Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2294,6 +2328,7 @@
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
+      "5108310": "2026-10-18T12:00:59.249Z",
       "5109640": "2026-10-16T00:01:03.084Z",
       "5114130": "2026-10-17T12:01:03.272Z",
       "5115590": "2026-10-18T06:01:03.221Z",
