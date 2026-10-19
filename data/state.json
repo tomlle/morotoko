@@ -252,6 +252,10 @@
     "steam:4694770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4694770:permanent_free:1"
+    },
+    "steam:4714620:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4714620:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1013,7 +1017,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T03:01:01.402Z",
+      "lastSeenAt": "2026-10-19T06:01:01.979Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1054,7 +1058,19 @@
         "postedAt": "2026-10-15T18:01:09.314Z"
       },
       "bufferPostId": "6ad114e3c8368667edee557b",
-      "postedAt": "2026-10-15T18:01:09.314Z"
+      "postedAt": "2026-10-15T18:01:09.314Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T06:01:04.231Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Stranded Deep』\n🎮 無料プレイは 10/20 02:00まで\n\n雰囲気豊かな雰囲気の中で、クラフトを楽しめるアドベンチャーゲーム。\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/313120/",
+        "attemptedAt": "2026-10-19T06:01:04.458Z",
+        "bufferPostId": "6ad5b220ee362c3569423f39",
+        "submittedAt": "2026-10-19T06:01:05.749Z",
+        "postedAt": "2026-10-19T06:01:05.749Z"
+      },
+      "endingReminderBufferPostId": "6ad5b220ee362c3569423f39",
+      "endingReminderPostedAt": "2026-10-19T06:01:05.749Z"
     },
     "steam:2807960:temporary_play:1": {
       "kind": "temporary_play",
@@ -1068,7 +1084,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T03:01:01.402Z",
+      "lastSeenAt": "2026-10-19T06:01:01.979Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2370,11 +2386,41 @@
       },
       "bufferPostId": "6ad587f00b0d72757a4baa56",
       "postedAt": "2026-10-19T03:01:05.813Z"
+    },
+    "steam:4714620:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4714620:permanent_free:1",
+      "store": "steam",
+      "productId": "4714620",
+      "generation": 1,
+      "title": "Dynamite Blue",
+      "storeUrl": "https://store.steampowered.com/app/4714620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T06:01:01.979Z",
+      "lastSeenAt": "2026-10-19T06:01:01.979Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "キャラクター重視のストーリー主導型ターン制RPG。空と街と影のサイバーパンク都市ビアヘイブンで、それぞれの物語を持つ60体以上の英雄と出会う。『エグゾス ヒーローズ』チームの新作。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T06:01:01.979Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dynamite Blue』\n✨ いつでも無料でプレイ\n\nキャラクター重視のストーリー主導型ターン制RPG。空と街と影のサイバーパンク都市ビアヘイブンで、それぞれの物語を持つ60体以上の英雄と出会う。『エグゾス ヒーローズ』チームの新作。\n\nhttps://store.steampowered.com/app/4714620/",
+        "attemptedAt": "2026-10-19T06:01:02.768Z",
+        "bufferPostId": "6ad5b21e38c1835cd43d93ff",
+        "submittedAt": "2026-10-19T06:01:04.229Z",
+        "postedAt": "2026-10-19T06:01:04.229Z"
+      },
+      "bufferPostId": "6ad5b21e38c1835cd43d93ff",
+      "postedAt": "2026-10-19T06:01:04.229Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T03:01:01.402Z",
+    "lastSuccessfulScanAt": "2026-10-19T06:01:01.979Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2421,6 +2467,7 @@
       "4667790": "2026-10-15T15:01:06.493Z",
       "4694770": "2026-10-19T03:01:01.402Z",
       "4711830": "2026-10-14T15:30:36.000Z",
+      "4714620": "2026-10-19T06:01:01.979Z",
       "4719360": "2026-10-16T12:01:06.356Z",
       "4725520": "2026-10-14T15:30:36.000Z",
       "4729580": "2026-10-17T06:01:00.886Z",
