@@ -240,6 +240,10 @@
     "steam:4795350:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4795350:permanent_free:1"
+    },
+    "steam:4079960:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4079960:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1001,7 +1005,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T21:01:04.021Z",
+      "lastSeenAt": "2026-10-19T00:01:02.686Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1056,7 +1060,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-18T21:01:04.021Z",
+      "lastSeenAt": "2026-10-19T00:01:02.686Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2268,11 +2272,41 @@
       },
       "bufferPostId": "6ad4df2f938409f1d0d5dbaf",
       "postedAt": "2026-10-18T15:01:04.263Z"
+    },
+    "steam:4079960:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4079960:permanent_free:1",
+      "store": "steam",
+      "productId": "4079960",
+      "generation": 1,
+      "title": "Dicey Desk",
+      "storeUrl": "https://store.steampowered.com/app/4079960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T00:01:02.686Z",
+      "lastSeenAt": "2026-10-19T00:01:02.686Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "There's a die on your taskbar. It charges while you type, so the more work you get done the more you get to roll. Collect an unreasonable number of dies, trade your spares up into rarer ones, and watch it tumble across your desktop instead of finishing that email.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T00:01:02.686Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dicey Desk』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4079960/",
+        "attemptedAt": "2026-10-19T00:01:03.274Z",
+        "bufferPostId": "6ad55dbf769b457934e4eab0",
+        "submittedAt": "2026-10-19T00:01:05.323Z",
+        "postedAt": "2026-10-19T00:01:05.323Z"
+      },
+      "bufferPostId": "6ad55dbf769b457934e4eab0",
+      "postedAt": "2026-10-19T00:01:05.323Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-18T21:01:04.021Z",
+    "lastSuccessfulScanAt": "2026-10-19T00:01:02.686Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2291,6 +2325,7 @@
       "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
       "4022530": "2026-10-15T21:00:58.160Z",
+      "4079960": "2026-10-19T00:01:02.686Z",
       "4080860": "2026-10-14T15:30:36.000Z",
       "4096710": "2026-10-14T15:30:36.000Z",
       "4112730": "2026-10-14T15:30:36.000Z",
