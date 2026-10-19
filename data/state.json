@@ -264,6 +264,14 @@
     "steam:5126160:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5126160:permanent_free:1"
+    },
+    "steam:4769150:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4769150:permanent_free:1"
+    },
+    "steam:3620040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3620040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1027,7 +1035,7 @@
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
       "lastSeenAt": "2026-10-19T15:01:14.718Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
@@ -1094,7 +1102,7 @@
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
       "lastSeenAt": "2026-10-19T15:01:14.718Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
@@ -2484,11 +2492,71 @@
       },
       "bufferPostId": "6ad630bb3ed3c094e9830bc6",
       "postedAt": "2026-10-19T15:01:16.707Z"
+    },
+    "steam:4769150:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4769150:permanent_free:1",
+      "store": "steam",
+      "productId": "4769150",
+      "generation": 1,
+      "title": "Anomaly Jobs : Death Row",
+      "storeUrl": "https://store.steampowered.com/app/4769150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T18:01:19.647Z",
+      "lastSeenAt": "2026-10-19T18:01:19.647Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Same Path again and again. Everything looks familiar, until it does not. Some Anomalies hide in plain sight. Some are hard to spot. Find them, then take the correct exit. Every wrong choice lets the night draw closer.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T18:01:19.647Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Anomaly Jobs : Death Row』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4769150/",
+        "attemptedAt": "2026-10-19T18:01:20.411Z",
+        "bufferPostId": "6ad65af00af09e40f01fd37c",
+        "submittedAt": "2026-10-19T18:01:21.719Z",
+        "postedAt": "2026-10-19T18:01:21.719Z"
+      },
+      "bufferPostId": "6ad65af00af09e40f01fd37c",
+      "postedAt": "2026-10-19T18:01:21.719Z"
+    },
+    "steam:3620040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3620040:permanent_free:1",
+      "store": "steam",
+      "productId": "3620040",
+      "generation": 1,
+      "title": "Fly Cowboy Online",
+      "storeUrl": "https://store.steampowered.com/app/3620040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T18:01:19.647Z",
+      "lastSeenAt": "2026-10-19T18:01:19.647Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "フライカウボーイオンラインは、文明の遺跡の戦略的資源のための派閥の戦いに捧げられた大規模な無料のオンラインマルチプレイヤーゲームです。 惑星「Naviika」のさまざまな部分で絶えず行われる空中戦は、あなたを無関心にさせません。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T18:01:19.647Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fly Cowboy Online』\n✨ いつでも無料でプレイ\n\nフライカウボーイオンラインは、文明の遺跡の戦略的資源のための派閥の戦いに捧げられた大規模な無料のオンラインマルチプレイヤーゲームです。 惑星「Naviika」のさまざまな部分で絶えず行…\n\nhttps://store.steampowered.com/app/3620040/",
+        "attemptedAt": "2026-10-19T18:01:22.077Z",
+        "bufferPostId": "6ad65af22d69a6fbbf3c44fc",
+        "submittedAt": "2026-10-19T18:01:23.495Z",
+        "postedAt": "2026-10-19T18:01:23.495Z"
+      },
+      "bufferPostId": "6ad65af22d69a6fbbf3c44fc",
+      "postedAt": "2026-10-19T18:01:23.495Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T15:01:14.718Z",
+    "lastSuccessfulScanAt": "2026-10-19T18:01:19.647Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2499,6 +2567,7 @@
       "2331730": "2026-10-14T15:30:36.000Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "3371490": "2026-10-14T15:30:36.000Z",
+      "3620040": "2026-10-19T18:01:19.647Z",
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
@@ -2545,6 +2614,7 @@
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
       "4746110": "2026-10-16T09:01:06.129Z",
+      "4769150": "2026-10-19T18:01:19.647Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
