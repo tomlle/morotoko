@@ -244,6 +244,14 @@
     "steam:4079960:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4079960:permanent_free:1"
+    },
+    "steam:4491130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4491130:permanent_free:1"
+    },
+    "steam:4694770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4694770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1005,7 +1013,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T00:01:02.686Z",
+      "lastSeenAt": "2026-10-19T03:01:01.402Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1060,7 +1068,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T00:01:02.686Z",
+      "lastSeenAt": "2026-10-19T03:01:01.402Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2302,11 +2310,71 @@
       },
       "bufferPostId": "6ad55dbf769b457934e4eab0",
       "postedAt": "2026-10-19T00:01:05.323Z"
+    },
+    "steam:4491130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4491130:permanent_free:1",
+      "store": "steam",
+      "productId": "4491130",
+      "generation": 1,
+      "title": "Kings Call 2",
+      "storeUrl": "https://store.steampowered.com/app/4491130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T03:01:01.402Z",
+      "lastSeenAt": "2026-10-19T03:01:01.402Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Become the Lord of Silver Heron Ridge in Kings Call 2. Collect cards to summon creatures, cast spells and defeat monsters. Four classes: Mage for area damage, Priest with Holy Light, Ranger for precision, Warrior boosting team power. Cards from White to Gold. Test your strategy and courage!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T03:01:01.402Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Kings Call 2』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4491130/",
+        "attemptedAt": "2026-10-19T03:01:02.146Z",
+        "bufferPostId": "6ad587eeae173d6e002ae42c",
+        "submittedAt": "2026-10-19T03:01:03.535Z",
+        "postedAt": "2026-10-19T03:01:03.535Z"
+      },
+      "bufferPostId": "6ad587eeae173d6e002ae42c",
+      "postedAt": "2026-10-19T03:01:03.535Z"
+    },
+    "steam:4694770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4694770:permanent_free:1",
+      "store": "steam",
+      "productId": "4694770",
+      "generation": 1,
+      "title": "HELLBENT",
+      "storeUrl": "https://store.steampowered.com/app/4694770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T03:01:01.402Z",
+      "lastSeenAt": "2026-10-19T03:01:01.402Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "HELLBENT is a souls like inspired game where you play as a knight of the Heavenly Order tasked with defeating a lord of hell who resides in purgatory.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T03:01:01.402Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『HELLBENT』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4694770/",
+        "attemptedAt": "2026-10-19T03:01:03.938Z",
+        "bufferPostId": "6ad587f00b0d72757a4baa56",
+        "submittedAt": "2026-10-19T03:01:05.813Z",
+        "postedAt": "2026-10-19T03:01:05.813Z"
+      },
+      "bufferPostId": "6ad587f00b0d72757a4baa56",
+      "postedAt": "2026-10-19T03:01:05.813Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T00:01:02.686Z",
+    "lastSuccessfulScanAt": "2026-10-19T03:01:01.402Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2341,6 +2409,7 @@
       "4365790": "2026-10-16T18:01:10.079Z",
       "4410900": "2026-10-18T00:01:08.594Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4491130": "2026-10-19T03:01:01.402Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
       "4561260": "2026-10-17T00:01:02.592Z",
@@ -2350,6 +2419,7 @@
       "4632980": "2026-10-14T15:30:36.000Z",
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
+      "4694770": "2026-10-19T03:01:01.402Z",
       "4711830": "2026-10-14T15:30:36.000Z",
       "4719360": "2026-10-16T12:01:06.356Z",
       "4725520": "2026-10-14T15:30:36.000Z",
