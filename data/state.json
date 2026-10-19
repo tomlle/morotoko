@@ -78,12 +78,10 @@
       "activeCampaignId": "steam:5278650:permanent_free:1"
     },
     "steam:313120:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:313120:temporary_play:1"
+      "generation": 1
     },
     "steam:2807960:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:2807960:temporary_play:1"
+      "generation": 1
     },
     "steam:5196510:permanent_free": {
       "generation": 1,
@@ -272,6 +270,14 @@
     "steam:3620040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3620040:permanent_free:1"
+    },
+    "steam:1624430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1624430:permanent_free:1"
+    },
+    "steam:4889610:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4889610:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1034,8 +1040,8 @@
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
       "lastSeenAt": "2026-10-19T15:01:14.718Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
@@ -1101,8 +1107,8 @@
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
       "lastSeenAt": "2026-10-19T15:01:14.718Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
@@ -2552,15 +2558,76 @@
       },
       "bufferPostId": "6ad65af22d69a6fbbf3c44fc",
       "postedAt": "2026-10-19T18:01:23.495Z"
+    },
+    "steam:1624430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1624430:permanent_free:1",
+      "store": "steam",
+      "productId": "1624430",
+      "generation": 1,
+      "title": "Vahnora",
+      "storeUrl": "https://store.steampowered.com/app/1624430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T21:01:06.551Z",
+      "lastSeenAt": "2026-10-19T21:01:06.551Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Vahnora is a free-to-play 3D MMORPG of faction war. Choose Sanctum or Forsaken, master one of eight classes, hunt world bosses for gear, carry relics through enemy lines in Mortis Pass and storm your faction's castle with your guild.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T21:01:06.551Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Vahnora』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1624430/",
+        "attemptedAt": "2026-10-19T21:01:07.324Z",
+        "bufferPostId": "6ad685134d4b4350314fc09a",
+        "submittedAt": "2026-10-19T21:01:08.688Z",
+        "postedAt": "2026-10-19T21:01:08.688Z"
+      },
+      "bufferPostId": "6ad685134d4b4350314fc09a",
+      "postedAt": "2026-10-19T21:01:08.688Z"
+    },
+    "steam:4889610:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4889610:permanent_free:1",
+      "store": "steam",
+      "productId": "4889610",
+      "generation": 1,
+      "title": "Ice Cream Hero",
+      "storeUrl": "https://store.steampowered.com/app/4889610/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T21:01:06.551Z",
+      "lastSeenAt": "2026-10-19T21:01:06.551Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Ice Cream Hero is a sweet tower defense challenge for one to eight players. Team up with friends or play solo as Nilla, a brave little ice cream hero defending his land’s precious Sprinkle Bank from hungry silverware, chaotic waves, and big bad bosses!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T21:01:06.551Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ice Cream Hero』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4889610/",
+        "attemptedAt": "2026-10-19T21:01:09.071Z",
+        "bufferPostId": "6ad685154d814f3c38397aec",
+        "submittedAt": "2026-10-19T21:01:10.436Z",
+        "postedAt": "2026-10-19T21:01:10.436Z"
+      },
+      "bufferPostId": "6ad685154d814f3c38397aec",
+      "postedAt": "2026-10-19T21:01:10.436Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T18:01:19.647Z",
+    "lastSuccessfulScanAt": "2026-10-19T21:01:06.551Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
       "1333410": "2026-10-14T15:30:36.000Z",
+      "1624430": "2026-10-19T21:01:06.551Z",
       "1674270": "2026-10-14T15:30:36.000Z",
       "1965430": "2026-10-14T15:30:36.000Z",
       "1979510": "2026-10-17T15:01:03.979Z",
@@ -2626,6 +2693,7 @@
       "4855210": "2026-10-16T03:01:04.575Z",
       "4870820": "2026-10-16T18:01:10.079Z",
       "4885100": "2026-10-14T15:30:36.000Z",
+      "4889610": "2026-10-19T21:01:06.551Z",
       "4894260": "2026-10-14T15:30:36.000Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
