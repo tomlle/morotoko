@@ -256,6 +256,10 @@
     "steam:4714620:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4714620:permanent_free:1"
+    },
+    "steam:5359760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5359760:permanent_free:1"
     }
   },
   "campaigns": {
@@ -1017,7 +1021,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T06:01:01.979Z",
+      "lastSeenAt": "2026-10-19T09:01:06.915Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -1084,7 +1088,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-10-15T18:01:01.152Z",
-      "lastSeenAt": "2026-10-19T06:01:01.979Z",
+      "lastSeenAt": "2026-10-19T09:01:06.915Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -2416,11 +2420,41 @@
       },
       "bufferPostId": "6ad5b21e38c1835cd43d93ff",
       "postedAt": "2026-10-19T06:01:04.229Z"
+    },
+    "steam:5359760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5359760:permanent_free:1",
+      "store": "steam",
+      "productId": "5359760",
+      "generation": 1,
+      "title": "The Harbour Between Us",
+      "storeUrl": "https://store.steampowered.com/app/5359760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-19T09:01:06.915Z",
+      "lastSeenAt": "2026-10-19T09:01:06.915Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "小さな港と、歳を重ねても色あせない恋を描く、無料の癒やし系デスクトップ釣りゲーム。魚を釣り、夕暮れの市場を歩き、猫をなでながら、届かなかった手紙をたどって年老いた二人の再会をお手伝い。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-19T09:01:06.915Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Harbour Between Us』\n✨ いつでも無料でプレイ\n\n小さな港と、歳を重ねても色あせない恋を描く、無料の癒やし系デスクトップ釣りゲーム。魚を釣り、夕暮れの市場を歩き、猫をなでながら、届かなかった手紙をたどって年老いた二人の再会…\n\nhttps://store.steampowered.com/app/5359760/",
+        "attemptedAt": "2026-10-19T09:01:07.700Z",
+        "bufferPostId": "6ad5dc534eb85d76d18ff24a",
+        "submittedAt": "2026-10-19T09:01:09.185Z",
+        "postedAt": "2026-10-19T09:01:09.185Z"
+      },
+      "bufferPostId": "6ad5dc534eb85d76d18ff24a",
+      "postedAt": "2026-10-19T09:01:09.185Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T06:01:01.979Z",
+    "lastSuccessfulScanAt": "2026-10-19T09:01:06.915Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2580,7 +2614,8 @@
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5343970": "2026-10-16T09:01:06.129Z",
-      "5345030": "2026-10-18T09:00:58.727Z"
+      "5345030": "2026-10-18T09:00:58.727Z",
+      "5359760": "2026-10-19T09:01:06.915Z"
     }
   }
 }
