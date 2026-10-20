@@ -294,6 +294,18 @@
     "steam:5178180:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5178180:permanent_free:1"
+    },
+    "steam:5224050:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5224050:permanent_free:1"
+    },
+    "steam:5246400:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5246400:permanent_free:1"
+    },
+    "steam:3847310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3847310:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2754,11 +2766,101 @@
       },
       "bufferPostId": "6ad72dd19aa7670040a75677",
       "postedAt": "2026-10-20T09:01:06.742Z"
+    },
+    "steam:5224050:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5224050:permanent_free:1",
+      "store": "steam",
+      "productId": "5224050",
+      "generation": 1,
+      "title": "Random & Unfair Battlefields",
+      "storeUrl": "https://store.steampowered.com/app/5224050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T12:00:59.724Z",
+      "lastSeenAt": "2026-10-20T12:00:59.724Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Random & Unfair Battlefields is a chaotic fantasy RTS where you barely control your own army. Pick a faction, muster your forces, and issue decrees (spells) to tilt the odds in your favour. Randomly generated maps and daily events mean no two battles play out the same.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T12:00:59.724Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Random & Unfair Battlefields』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5224050/",
+        "attemptedAt": "2026-10-20T12:01:00.841Z",
+        "bufferPostId": "6ad757fd31ed850c40e09f20",
+        "submittedAt": "2026-10-20T12:01:02.397Z",
+        "postedAt": "2026-10-20T12:01:02.397Z"
+      },
+      "bufferPostId": "6ad757fd31ed850c40e09f20",
+      "postedAt": "2026-10-20T12:01:02.397Z"
+    },
+    "steam:5246400:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5246400:permanent_free:1",
+      "store": "steam",
+      "productId": "5246400",
+      "generation": 1,
+      "title": "Bloom",
+      "storeUrl": "https://store.steampowered.com/app/5246400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T12:00:59.724Z",
+      "lastSeenAt": "2026-10-20T12:00:59.724Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A puzzle-platformer about an innocent, curious being exploring the planets of Bloom, planting seeds and sprouting flowers with its song. Sing! Use your voice and impact the ecosystem that birthed you, and become one with the cosmos.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T12:00:59.724Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bloom』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5246400/",
+        "attemptedAt": "2026-10-20T12:01:02.898Z",
+        "bufferPostId": "6ad757ff3935fb9401261a72",
+        "submittedAt": "2026-10-20T12:01:04.400Z",
+        "postedAt": "2026-10-20T12:01:04.400Z"
+      },
+      "bufferPostId": "6ad757ff3935fb9401261a72",
+      "postedAt": "2026-10-20T12:01:04.400Z"
+    },
+    "steam:3847310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3847310:permanent_free:1",
+      "store": "steam",
+      "productId": "3847310",
+      "generation": 1,
+      "title": "BONG FLIP",
+      "storeUrl": "https://store.steampowered.com/app/3847310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T12:00:59.724Z",
+      "lastSeenAt": "2026-10-20T12:00:59.724Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "BONG FLIP is a fast-paced arcade game about launching, flipping, dodging enemies, and landing. Build your score, collect ridiculous skins, and see what you can survive before you crash. Flip it. Land it.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T12:00:59.724Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『BONG FLIP』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3847310/",
+        "attemptedAt": "2026-10-20T12:01:04.897Z",
+        "bufferPostId": "6ad7580159946a79ac7779d0",
+        "submittedAt": "2026-10-20T12:01:06.309Z",
+        "postedAt": "2026-10-20T12:01:06.309Z"
+      },
+      "bufferPostId": "6ad7580159946a79ac7779d0",
+      "postedAt": "2026-10-20T12:01:06.309Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-20T09:01:01.492Z",
+    "lastSuccessfulScanAt": "2026-10-20T12:00:59.724Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2774,6 +2876,7 @@
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
+      "3847310": "2026-10-20T12:00:59.724Z",
       "3858540": "2026-10-14T15:30:36.000Z",
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
@@ -2889,12 +2992,14 @@
       "5220890": "2026-10-16T18:01:10.079Z",
       "5223700": "2026-10-14T15:30:36.000Z",
       "5223810": "2026-10-14T15:30:36.000Z",
+      "5224050": "2026-10-20T12:00:59.724Z",
       "5224380": "2026-10-14T15:30:36.000Z",
       "5226810": "2026-10-14T15:30:36.000Z",
       "5230380": "2026-10-14T15:30:36.000Z",
       "5231360": "2026-10-15T09:01:04.942Z",
       "5233990": "2026-10-16T15:01:11.993Z",
       "5241530": "2026-10-14T15:30:36.000Z",
+      "5246400": "2026-10-20T12:00:59.724Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
       "5250500": "2026-10-16T21:01:03.467Z",
