@@ -282,6 +282,18 @@
     "steam:5126170:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5126170:permanent_free:1"
+    },
+    "steam:5269430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5269430:permanent_free:1"
+    },
+    "steam:4910060:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4910060:permanent_free:1"
+    },
+    "steam:5178180:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5178180:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2652,11 +2664,101 @@
       },
       "bufferPostId": "6ad6af429d034d7aedccaa7d",
       "postedAt": "2026-10-20T00:01:07.683Z"
+    },
+    "steam:5269430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5269430:permanent_free:1",
+      "store": "steam",
+      "productId": "5269430",
+      "generation": 1,
+      "title": "Campagnol",
+      "storeUrl": "https://store.steampowered.com/app/5269430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T09:01:01.492Z",
+      "lastSeenAt": "2026-10-20T09:01:01.492Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Take control of the most powerful columns indicated by the voles, string together alignments, and secure the Compost: every move can tip the balance of the game.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T09:01:01.492Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Campagnol』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5269430/",
+        "attemptedAt": "2026-10-20T09:01:02.238Z",
+        "bufferPostId": "6ad72dcedd13ed293956dcef",
+        "submittedAt": "2026-10-20T09:01:03.546Z",
+        "postedAt": "2026-10-20T09:01:03.546Z"
+      },
+      "bufferPostId": "6ad72dcedd13ed293956dcef",
+      "postedAt": "2026-10-20T09:01:03.546Z"
+    },
+    "steam:4910060:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4910060:permanent_free:1",
+      "store": "steam",
+      "productId": "4910060",
+      "generation": 1,
+      "title": "Bible Putt Putt",
+      "storeUrl": "https://store.steampowered.com/app/4910060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T09:01:01.492Z",
+      "lastSeenAt": "2026-10-20T09:01:01.492Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Journey through the Bible from Creation to the Great Commission in an 18-hole miniature golf adventure. Experience fully voiced storytelling, creative puzzles, cinematic moments, and unique gameplay inspired by each hole inspired by a Bible story.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T09:01:01.492Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bible Putt Putt』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4910060/",
+        "attemptedAt": "2026-10-20T09:01:03.893Z",
+        "bufferPostId": "6ad72dd08c1133338d576959",
+        "submittedAt": "2026-10-20T09:01:05.197Z",
+        "postedAt": "2026-10-20T09:01:05.197Z"
+      },
+      "bufferPostId": "6ad72dd08c1133338d576959",
+      "postedAt": "2026-10-20T09:01:05.197Z"
+    },
+    "steam:5178180:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5178180:permanent_free:1",
+      "store": "steam",
+      "productId": "5178180",
+      "generation": 1,
+      "title": "Forge Shop",
+      "storeUrl": "https://store.steampowered.com/app/5178180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T09:01:01.492Z",
+      "lastSeenAt": "2026-10-20T09:01:01.492Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "あなたはゾンビがはびこる荒廃地の生存者です。自分の鍛冶屋を建てて経営しましょう。店をデザインし、装備を製作・販売し、他の生存者を募集して武装させ、あなたのために戦わせてください。みんなで一緒に、ナンバーワンの伝説を鍛え上げましょう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T09:01:01.492Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Forge Shop』\n✨ いつでも無料でプレイ\n\nあなたはゾンビがはびこる荒廃地の生存者です。自分の鍛冶屋を建てて経営しましょう。店をデザインし、装備を製作・販売し、他の生存者を募集して武装させ、あなたのために戦わせてください。みんな…\n\nhttps://store.steampowered.com/app/5178180/",
+        "attemptedAt": "2026-10-20T09:01:05.512Z",
+        "bufferPostId": "6ad72dd19aa7670040a75677",
+        "submittedAt": "2026-10-20T09:01:06.742Z",
+        "postedAt": "2026-10-20T09:01:06.742Z"
+      },
+      "bufferPostId": "6ad72dd19aa7670040a75677",
+      "postedAt": "2026-10-20T09:01:06.742Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-20T06:01:01.443Z",
+    "lastSuccessfulScanAt": "2026-10-20T09:01:01.492Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2731,6 +2833,7 @@
       "4894260": "2026-10-14T15:30:36.000Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
+      "4910060": "2026-10-20T09:01:01.492Z",
       "4930500": "2026-10-16T03:01:04.575Z",
       "4931230": "2026-10-16T18:01:10.079Z",
       "4941580": "2026-10-14T15:30:36.000Z",
@@ -2772,6 +2875,7 @@
       "5168280": "2026-10-17T12:01:03.272Z",
       "5170050": "2026-10-14T15:30:36.000Z",
       "5173790": "2026-10-14T15:30:36.000Z",
+      "5178180": "2026-10-20T09:01:01.492Z",
       "5178350": "2026-10-14T15:30:36.000Z",
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
@@ -2803,6 +2907,7 @@
       "5262490": "2026-10-14T21:01:00.572Z",
       "5266600": "2026-10-15T15:01:06.493Z",
       "5269000": "2026-10-14T15:30:36.000Z",
+      "5269430": "2026-10-20T09:01:01.492Z",
       "5270020": "2026-10-14T15:30:36.000Z",
       "5272920": "2026-10-14T15:30:36.000Z",
       "5277750": "2026-10-14T15:30:36.000Z",
