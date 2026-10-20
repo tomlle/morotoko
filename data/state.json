@@ -306,6 +306,14 @@
     "steam:3847310:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3847310:permanent_free:1"
+    },
+    "steam:3976340:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3976340:permanent_free:1"
+    },
+    "steam:5357680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5357680:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2856,11 +2864,71 @@
       },
       "bufferPostId": "6ad7580159946a79ac7779d0",
       "postedAt": "2026-10-20T12:01:06.309Z"
+    },
+    "steam:3976340:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3976340:permanent_free:1",
+      "store": "steam",
+      "productId": "3976340",
+      "generation": 1,
+      "title": "Cucina Stellata",
+      "storeUrl": "https://store.steampowered.com/app/3976340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T18:01:06.119Z",
+      "lastSeenAt": "2026-10-20T18:01:06.119Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "19世紀イタリアの伝統料理を調理。飢餓に取り憑かれた厨房で。美食、儀式、宇宙的食欲が食卓で一堂に会す短編サイコロジカルホラー。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T18:01:06.119Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cucina Stellata』\n✨ いつでも無料でプレイ\n\n19世紀イタリアの伝統料理を調理。飢餓に取り憑かれた厨房で。美食、儀式、宇宙的食欲が食卓で一堂に会す短編サイコロジカルホラー。\n\nhttps://store.steampowered.com/app/3976340/",
+        "attemptedAt": "2026-10-20T18:01:06.863Z",
+        "bufferPostId": "6ad7ac6204c37bdd053b93c4",
+        "submittedAt": "2026-10-20T18:01:08.194Z",
+        "postedAt": "2026-10-20T18:01:08.194Z"
+      },
+      "bufferPostId": "6ad7ac6204c37bdd053b93c4",
+      "postedAt": "2026-10-20T18:01:08.194Z"
+    },
+    "steam:5357680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5357680:permanent_free:1",
+      "store": "steam",
+      "productId": "5357680",
+      "generation": 1,
+      "title": "O'BLOCK",
+      "storeUrl": "https://store.steampowered.com/app/5357680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T18:01:06.119Z",
+      "lastSeenAt": "2026-10-20T18:01:06.119Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "300ドルと靴箱ひとつ。できることは一つだけ:値段を言うこと。スニーカーを転売し、買い手を読み、アングルを重ねてとんでもないコンボを作り、各ゲートのボスを倒せ。10億ドルに届けば本当のゲームが始まる。リアルタイム経済、本物のコーポレートファイナンス、そして潰せる6つの銀行。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T18:01:06.119Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『O'BLOCK』\n✨ いつでも無料でプレイ\n\n300ドルと靴箱ひとつ。できることは一つだけ:値段を言うこと。スニーカーを転売し、買い手を読み、アングルを重ねてとんでもないコンボを作り、各ゲートのボスを倒せ。10億ドルに届けば本当のゲームが…\n\nhttps://store.steampowered.com/app/5357680/",
+        "attemptedAt": "2026-10-20T18:01:08.501Z",
+        "bufferPostId": "6ad7ac6458633da51389445a",
+        "submittedAt": "2026-10-20T18:01:09.844Z",
+        "postedAt": "2026-10-20T18:01:09.844Z"
+      },
+      "bufferPostId": "6ad7ac6458633da51389445a",
+      "postedAt": "2026-10-20T18:01:09.844Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-20T15:01:07.821Z",
+    "lastSuccessfulScanAt": "2026-10-20T18:01:06.119Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2881,6 +2949,7 @@
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
+      "3976340": "2026-10-20T18:01:06.119Z",
       "4022530": "2026-10-15T21:00:58.160Z",
       "4079960": "2026-10-19T00:01:02.686Z",
       "4080860": "2026-10-14T15:30:36.000Z",
@@ -3033,6 +3102,7 @@
       "5328820": "2026-10-16T18:01:10.079Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
+      "5357680": "2026-10-20T18:01:06.119Z",
       "5359760": "2026-10-19T09:01:06.915Z"
     }
   }

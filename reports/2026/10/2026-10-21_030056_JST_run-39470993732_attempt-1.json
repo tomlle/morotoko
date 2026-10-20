@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39470993732",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-20T18:00:56.977Z",
+    "finishedAt": "2026-10-20T18:01:09.848Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39470993732"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3976340",
+      "title": "Cucina Stellata",
+      "storeUrl": "https://store.steampowered.com/app/3976340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976340/78fcef4341d46098656d290c6624b17194a85801/header.jpg?t=1792517844",
+      "officialDescription": "19世紀イタリアの伝統料理を調理。飢餓に取り憑かれた厨房で。美食、儀式、宇宙的食欲が食卓で一堂に会す短編サイコロジカルホラー。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5357680",
+      "title": "O'BLOCK",
+      "storeUrl": "https://store.steampowered.com/app/5357680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5357680/4ad41995bfbb4343c6865d0b694191572e7c12c4/header.jpg?t=1792512315",
+      "officialDescription": "300ドルと靴箱ひとつ。できることは一つだけ:値段を言うこと。スニーカーを転売し、買い手を読み、アングルを重ねてとんでもないコンボを作り、各ゲートのボスを倒せ。10億ドルに届けば本当のゲームが始まる。リアルタイム経済、本物のコーポレートファイナンス、そして潰せる6つの銀行。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3976340:permanent_free:1",
+      "productId": "3976340",
+      "title": "Cucina Stellata",
+      "status": "sent",
+      "bufferPostId": "6ad7ac6204c37bdd053b93c4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5357680:permanent_free:1",
+      "productId": "5357680",
+      "title": "O'BLOCK",
+      "status": "sent",
+      "bufferPostId": "6ad7ac6458633da51389445a"
+    }
+  ],
+  "errors": []
+}
