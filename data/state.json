@@ -278,6 +278,10 @@
     "steam:4889610:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4889610:permanent_free:1"
+    },
+    "steam:5126170:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5126170:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2618,11 +2622,41 @@
       },
       "bufferPostId": "6ad685154d814f3c38397aec",
       "postedAt": "2026-10-19T21:01:10.436Z"
+    },
+    "steam:5126170:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5126170:permanent_free:1",
+      "store": "steam",
+      "productId": "5126170",
+      "generation": 1,
+      "title": "Phasewright",
+      "storeUrl": "https://store.steampowered.com/app/5126170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-20T00:01:05.177Z",
+      "lastSeenAt": "2026-10-20T00:01:05.177Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A pulse crosses one cell per tick — the longer way arrives later. From that one rule you build machines out of light: lay conduits, split colours, hit the beat. Quiet, untimed, free.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-20T00:01:05.177Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Phasewright』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5126170/",
+        "attemptedAt": "2026-10-20T00:01:06.141Z",
+        "bufferPostId": "6ad6af429d034d7aedccaa7d",
+        "submittedAt": "2026-10-20T00:01:07.683Z",
+        "postedAt": "2026-10-20T00:01:07.683Z"
+      },
+      "bufferPostId": "6ad6af429d034d7aedccaa7d",
+      "postedAt": "2026-10-20T00:01:07.683Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-19T21:01:06.551Z",
+    "lastSuccessfulScanAt": "2026-10-20T00:01:05.177Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2728,6 +2762,7 @@
       "5118700": "2026-10-16T18:01:10.079Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5126160": "2026-10-19T15:01:14.718Z",
+      "5126170": "2026-10-20T00:01:05.177Z",
       "5129250": "2026-10-14T15:30:36.000Z",
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138180": "2026-10-14T15:30:36.000Z",
