@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39648842512",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-21T18:00:54.001Z",
+    "finishedAt": "2026-10-21T18:01:16.884Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39648842512"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 19,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4896360",
+      "title": "Ceto-7",
+      "storeUrl": "https://store.steampowered.com/app/4896360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896360/77b57222b79ba0214c8b17acfecca3e36a395e32/header.jpg?t=1792602462",
+      "officialDescription": "Ceto-7 is a single-player underwater survival horror. Play as a salvage diver navigating a flooded alien mining facility, hunted by an apex predator, and hired to destroy sensitive corporate data. The deeper you go, the harder it becomes to ignore what you've been hired to bury."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5279620",
+      "title": "Halloween On Goober Street",
+      "storeUrl": "https://store.steampowered.com/app/5279620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5279620/dad2740197c7c8ea38fa329bed0316c27fdfb8a0/header.jpg?t=1792601829",
+      "officialDescription": "Halloween On Goober Street is a first-person horror-comedy taking place on Halloween night. Players must Trick-or-Treat their way to 100 candies or face the consequences. With lots of fun interactions and scares with the zippiest of characters, this Halloween night is one sure to be remembered."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4246850",
+      "title": "TitleIt!",
+      "storeUrl": "https://store.steampowered.com/app/4246850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246850/b0a6652c8090a1a1c68cc7e939f0a34bbbea0f11/header.jpg?t=1792600248",
+      "officialDescription": "Turn a photo into the funniest caption. Write, vote and compete in quick online rounds with friends on Steam, Android and the web. Play for free, join with a room code and collect your winning moments. Optional purchases available."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3665700",
+      "title": "Myrridon",
+      "storeUrl": "https://store.steampowered.com/app/3665700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3665700/66dca9de3e797dd08cdbdae6e378d7bb71525267/header.jpg?t=1792598353",
+      "officialDescription": "The land of Myrridon awaits: a living, text-driven fantasy world inside a modern graphical client. Set out from castle Steepmarch into human-voiced quests, RNG dungeons, raids, and a sprawling Mastery Tree. Fully playable by screen reader. Read the world, type your intent, and go deeper."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4731070",
+      "title": "Kron Wars",
+      "storeUrl": "https://store.steampowered.com/app/4731070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731070/ac71c3e4b05eb6bdc59e082cef36c34cbc67466a/header.jpg?t=1792595328",
+      "officialDescription": "A persistent space MMO that runs in your browser. No download. No installation. Open a tab and you are in the Frontier. Trade, mine and fight across 2 universes and 12,000 sectors, in an economy that players build. And one mechanic that no other MMO has: war rewrites the map."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4896360:permanent_free:1",
+      "productId": "4896360",
+      "title": "Ceto-7",
+      "status": "sent",
+      "bufferPostId": "6ad8fde4f303dbf7aba1f81a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5279620:permanent_free:1",
+      "productId": "5279620",
+      "title": "Halloween On Goober Street",
+      "status": "sent",
+      "bufferPostId": "6ad8fde6cb531f41084566a0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4246850:permanent_free:1",
+      "productId": "4246850",
+      "title": "TitleIt!",
+      "status": "sent",
+      "bufferPostId": "6ad8fde8cb531f4108456a69"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3665700:permanent_free:1",
+      "productId": "3665700",
+      "title": "Myrridon",
+      "status": "sent",
+      "bufferPostId": "6ad8fde97a62b75650efe614"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4731070:permanent_free:1",
+      "productId": "4731070",
+      "title": "Kron Wars",
+      "status": "sent",
+      "bufferPostId": "6ad8fdebf303dbf7aba1fc2a"
+    }
+  ],
+  "errors": []
+}
