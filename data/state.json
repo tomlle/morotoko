@@ -330,6 +330,14 @@
     "steam:4898790:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4898790:permanent_free:1"
+    },
+    "steam:5164130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5164130:permanent_free:1"
+    },
+    "steam:2582880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2582880:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3060,11 +3068,71 @@
       },
       "bufferPostId": "6ad87f54d0cc3336f115ace6",
       "postedAt": "2026-10-21T09:01:10.923Z"
+    },
+    "steam:5164130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5164130:permanent_free:1",
+      "store": "steam",
+      "productId": "5164130",
+      "generation": 1,
+      "title": "Bio Inc. Classic",
+      "storeUrl": "https://store.steampowered.com/app/5164130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T12:01:06.252Z",
+      "lastSeenAt": "2026-10-21T12:01:06.252Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "15周年を記念し、PC向けにゼロから作り直されたオリジナル版Bio Inc.を再び体験しよう。致命的な病気を開発し、犠牲者の体を蝕み、その最期の運命を決める生物医学ストラテジーシミュレーター。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T12:01:06.252Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bio Inc. Classic』\n✨ いつでも無料でプレイ\n\n15周年を記念し、PC向けにゼロから作り直されたオリジナル版Bio Inc.を再び体験しよう。致命的な病気を開発し、犠牲者の体を蝕み、その最期の運命を決める生物医学ストラテジーシミュレーター。\n\nhttps://store.steampowered.com/app/5164130/",
+        "attemptedAt": "2026-10-21T12:01:06.646Z",
+        "bufferPostId": "6ad8a9823021c1ef52b4afe6",
+        "submittedAt": "2026-10-21T12:01:07.938Z",
+        "postedAt": "2026-10-21T12:01:07.938Z"
+      },
+      "bufferPostId": "6ad8a9823021c1ef52b4afe6",
+      "postedAt": "2026-10-21T12:01:07.938Z"
+    },
+    "steam:2582880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2582880:permanent_free:1",
+      "store": "steam",
+      "productId": "2582880",
+      "generation": 1,
+      "title": "Northrealm Tribes",
+      "storeUrl": "https://store.steampowered.com/app/2582880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T12:01:06.252Z",
+      "lastSeenAt": "2026-10-21T12:01:06.252Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build a Viking village, manage resources and guide families through generations. Develop production chains, trade with visiting merchants and defend your settlement against longship raids. Join an online guild to strengthen a shared clan base and wage asynchronous guild wars.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T12:01:06.252Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Northrealm Tribes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2582880/",
+        "attemptedAt": "2026-10-21T12:01:08.180Z",
+        "bufferPostId": "6ad8a984dd065d615894bd89",
+        "submittedAt": "2026-10-21T12:01:09.393Z",
+        "postedAt": "2026-10-21T12:01:09.393Z"
+      },
+      "bufferPostId": "6ad8a984dd065d615894bd89",
+      "postedAt": "2026-10-21T12:01:09.393Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T09:01:07.569Z",
+    "lastSuccessfulScanAt": "2026-10-21T12:01:06.252Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3074,6 +3142,7 @@
       "1965430": "2026-10-14T15:30:36.000Z",
       "1979510": "2026-10-17T15:01:03.979Z",
       "2331730": "2026-10-14T15:30:36.000Z",
+      "2582880": "2026-10-21T12:01:06.252Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3620040": "2026-10-19T18:01:19.647Z",
@@ -3184,6 +3253,7 @@
       "5156550": "2026-10-21T06:00:58.776Z",
       "5159730": "2026-10-14T15:30:36.000Z",
       "5162260": "2026-10-14T15:30:36.000Z",
+      "5164130": "2026-10-21T12:01:06.252Z",
       "5168280": "2026-10-17T12:01:03.272Z",
       "5170050": "2026-10-14T15:30:36.000Z",
       "5173790": "2026-10-14T15:30:36.000Z",
