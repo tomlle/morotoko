@@ -338,6 +338,10 @@
     "steam:2582880:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2582880:permanent_free:1"
+    },
+    "steam:3323980:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3323980:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3128,11 +3132,41 @@
       },
       "bufferPostId": "6ad8a984dd065d615894bd89",
       "postedAt": "2026-10-21T12:01:09.393Z"
+    },
+    "steam:3323980:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3323980:permanent_free:1",
+      "store": "steam",
+      "productId": "3323980",
+      "generation": 1,
+      "title": "Sweet Swipe",
+      "storeUrl": "https://store.steampowered.com/app/3323980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T15:01:01.280Z",
+      "lastSeenAt": "2026-10-21T15:01:01.280Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Sweet Swipe』で、スタイリッシュに走り、跳び、滑り込もう！シンプルな操作、パルクールにインスパイアされた動き、手描きのストリートアート、オリジナルサウンドトラック、そして勇気、レジリエンス、正義をテーマにした活気に満ちたストーリーが楽しめる、エキサイティングな2Dプラットフォーマー。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T15:01:01.280Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Sweet Swipe』\n✨ いつでも無料でプレイ\n\n『Sweet Swipe』で、スタイリッシュに走り、跳び、滑り込もう！シンプルな操作、パルクールにインスパイアされた動き、手描きのストリートアート、オリジナルサウンドトラック、そして勇気、レジリ…\n\nhttps://store.steampowered.com/app/3323980/",
+        "attemptedAt": "2026-10-21T15:01:02.206Z",
+        "bufferPostId": "6ad8d3ae528a4622a850a141",
+        "submittedAt": "2026-10-21T15:01:03.840Z",
+        "postedAt": "2026-10-21T15:01:03.840Z"
+      },
+      "bufferPostId": "6ad8d3ae528a4622a850a141",
+      "postedAt": "2026-10-21T15:01:03.840Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T12:01:06.252Z",
+    "lastSuccessfulScanAt": "2026-10-21T15:01:01.280Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3144,6 +3178,7 @@
       "2331730": "2026-10-14T15:30:36.000Z",
       "2582880": "2026-10-21T12:01:06.252Z",
       "2902720": "2026-10-14T15:30:36.000Z",
+      "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3620040": "2026-10-19T18:01:19.647Z",
       "3693930": "2026-10-21T03:01:00.123Z",
