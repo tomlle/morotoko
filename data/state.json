@@ -314,6 +314,10 @@
     "steam:5357680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5357680:permanent_free:1"
+    },
+    "steam:5043860:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5043860:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2924,11 +2928,41 @@
       },
       "bufferPostId": "6ad7ac6458633da51389445a",
       "postedAt": "2026-10-20T18:01:09.844Z"
+    },
+    "steam:5043860:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5043860:permanent_free:1",
+      "store": "steam",
+      "productId": "5043860",
+      "generation": 1,
+      "title": "Aether.Garden",
+      "storeUrl": "https://store.steampowered.com/app/5043860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T00:01:08.212Z",
+      "lastSeenAt": "2026-10-21T00:01:08.212Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The original New RTS. One race, many styles, no limit. Play head-to-head, enjoy the co-op Adventure, or seek the leader board, battling to become the King of the Hill in an endless spectator-friendly five player revolving struggle.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T00:01:08.212Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Aether.Garden』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5043860/",
+        "attemptedAt": "2026-10-21T00:01:09.334Z",
+        "bufferPostId": "6ad800c51f7fff44939d7538",
+        "submittedAt": "2026-10-21T00:01:10.972Z",
+        "postedAt": "2026-10-21T00:01:10.972Z"
+      },
+      "bufferPostId": "6ad800c51f7fff44939d7538",
+      "postedAt": "2026-10-21T00:01:10.972Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-20T21:01:01.059Z",
+    "lastSuccessfulScanAt": "2026-10-21T00:01:08.212Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3024,6 +3058,7 @@
       "5023780": "2026-10-14T15:30:36.000Z",
       "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
+      "5043860": "2026-10-21T00:01:08.212Z",
       "5057270": "2026-10-14T15:30:36.000Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5090350": "2026-10-14T18:01:12.359Z",
