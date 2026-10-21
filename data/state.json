@@ -362,6 +362,10 @@
     "steam:4731070:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4731070:permanent_free:1"
+    },
+    "steam:5341000:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5341000:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3332,11 +3336,41 @@
       },
       "bufferPostId": "6ad8fdebf303dbf7aba1fc2a",
       "postedAt": "2026-10-21T18:01:16.879Z"
+    },
+    "steam:5341000:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5341000:permanent_free:1",
+      "store": "steam",
+      "productId": "5341000",
+      "generation": 1,
+      "title": "Ashnar's Lair",
+      "storeUrl": "https://store.steampowered.com/app/5341000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T21:00:59.332Z",
+      "lastSeenAt": "2026-10-21T21:00:59.332Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A traditional roguelike built around your character. Unlock seven classes by your deeds, grow them through three talent trees and hunt gear with rolled affixes. Elite foes and whole dungeons roll affixes too, and every one changes how you fight. One life per run. Will you defeat Ashnar?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T21:00:59.332Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ashnar's Lair』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5341000/",
+        "attemptedAt": "2026-10-21T21:00:59.676Z",
+        "bufferPostId": "6ad9280bcecd7a6cc164cb85",
+        "submittedAt": "2026-10-21T21:01:01.226Z",
+        "postedAt": "2026-10-21T21:01:01.226Z"
+      },
+      "bufferPostId": "6ad9280bcecd7a6cc164cb85",
+      "postedAt": "2026-10-21T21:01:01.226Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T18:01:08.108Z",
+    "lastSuccessfulScanAt": "2026-10-21T21:00:59.332Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3520,6 +3554,7 @@
       "5314960": "2026-10-14T15:30:36.000Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
+      "5341000": "2026-10-21T21:00:59.332Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5357680": "2026-10-20T18:01:06.119Z",
