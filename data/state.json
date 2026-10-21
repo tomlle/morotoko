@@ -322,6 +322,10 @@
     "steam:3693930:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3693930:permanent_free:1"
+    },
+    "steam:5156550:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5156550:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2992,11 +2996,41 @@
       },
       "bufferPostId": "6ad82aec9fdbc474fbf99566",
       "postedAt": "2026-10-21T03:01:02.133Z"
+    },
+    "steam:5156550:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5156550:permanent_free:1",
+      "store": "steam",
+      "productId": "5156550",
+      "generation": 1,
+      "title": "墨痕の塔",
+      "storeUrl": "https://store.steampowered.com/app/5156550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T06:00:58.776Z",
+      "lastSeenAt": "2026-10-21T06:00:58.776Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『墨痕の塔』は、手描き風のデッキ構築型ローグライクです。個性豊かな5人から一人を選び、カードを組み合わせ、印を集め、戦闘や商店、未知のイベントが待つ変化し続ける塔を登りましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T06:00:58.776Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『墨痕の塔』\n✨ いつでも無料でプレイ\n\n『墨痕の塔』は、手描き風のデッキ構築型ローグライクです。個性豊かな5人から一人を選び、カードを組み合わせ、印を集め、戦闘や商店、未知のイベントが待つ変化し続ける塔を登りましょう。\n\nhttps://store.steampowered.com/app/5156550/",
+        "attemptedAt": "2026-10-21T06:00:59.451Z",
+        "bufferPostId": "6ad8551bd894396f66caecfe",
+        "submittedAt": "2026-10-21T06:01:00.792Z",
+        "postedAt": "2026-10-21T06:01:00.792Z"
+      },
+      "bufferPostId": "6ad8551bd894396f66caecfe",
+      "postedAt": "2026-10-21T06:01:00.792Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T03:01:00.123Z",
+    "lastSuccessfulScanAt": "2026-10-21T06:00:58.776Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3112,6 +3146,7 @@
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138180": "2026-10-14T15:30:36.000Z",
       "5144300": "2026-10-14T15:30:36.000Z",
+      "5156550": "2026-10-21T06:00:58.776Z",
       "5159730": "2026-10-14T15:30:36.000Z",
       "5162260": "2026-10-14T15:30:36.000Z",
       "5168280": "2026-10-17T12:01:03.272Z",
