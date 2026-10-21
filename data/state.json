@@ -326,6 +326,10 @@
     "steam:5156550:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5156550:permanent_free:1"
+    },
+    "steam:4898790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4898790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3026,11 +3030,41 @@
       },
       "bufferPostId": "6ad8551bd894396f66caecfe",
       "postedAt": "2026-10-21T06:01:00.792Z"
+    },
+    "steam:4898790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4898790:permanent_free:1",
+      "store": "steam",
+      "productId": "4898790",
+      "generation": 1,
+      "title": "Crosstalk",
+      "storeUrl": "https://store.steampowered.com/app/4898790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T09:01:07.569Z",
+      "lastSeenAt": "2026-10-21T09:01:07.569Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Crosstalk is a hardware architecture design sandbox with a built-in, fully inspectable simulator and emulator. Players build designs ranging from LED controllers to complex computers using SystemVerilog, then program them. It has a gate-level simulator, introspection tools, a compiler, and more.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T09:01:07.569Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crosstalk』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4898790/",
+        "attemptedAt": "2026-10-21T09:01:08.497Z",
+        "bufferPostId": "6ad87f54d0cc3336f115ace6",
+        "submittedAt": "2026-10-21T09:01:10.923Z",
+        "postedAt": "2026-10-21T09:01:10.923Z"
+      },
+      "bufferPostId": "6ad87f54d0cc3336f115ace6",
+      "postedAt": "2026-10-21T09:01:10.923Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T06:00:58.776Z",
+    "lastSuccessfulScanAt": "2026-10-21T09:01:07.569Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3106,6 +3140,7 @@
       "4885100": "2026-10-14T15:30:36.000Z",
       "4889610": "2026-10-19T21:01:06.551Z",
       "4894260": "2026-10-14T15:30:36.000Z",
+      "4898790": "2026-10-21T09:01:07.569Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4910060": "2026-10-20T09:01:01.492Z",
