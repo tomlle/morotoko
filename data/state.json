@@ -318,6 +318,10 @@
     "steam:5043860:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5043860:permanent_free:1"
+    },
+    "steam:3693930:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3693930:permanent_free:1"
     }
   },
   "campaigns": {
@@ -2958,11 +2962,41 @@
       },
       "bufferPostId": "6ad800c51f7fff44939d7538",
       "postedAt": "2026-10-21T00:01:10.972Z"
+    },
+    "steam:3693930:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3693930:permanent_free:1",
+      "store": "steam",
+      "productId": "3693930",
+      "generation": 1,
+      "title": "Skies End",
+      "storeUrl": "https://store.steampowered.com/app/3693930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-21T03:01:00.123Z",
+      "lastSeenAt": "2026-10-21T03:01:00.123Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The Ultimate Hardcore Engineering Game",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-21T03:01:00.123Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Skies End』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3693930/",
+        "attemptedAt": "2026-10-21T03:01:00.808Z",
+        "bufferPostId": "6ad82aec9fdbc474fbf99566",
+        "submittedAt": "2026-10-21T03:01:02.133Z",
+        "postedAt": "2026-10-21T03:01:02.133Z"
+      },
+      "bufferPostId": "6ad82aec9fdbc474fbf99566",
+      "postedAt": "2026-10-21T03:01:02.133Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T00:01:08.212Z",
+    "lastSuccessfulScanAt": "2026-10-21T03:01:00.123Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -2975,6 +3009,7 @@
       "2902720": "2026-10-14T15:30:36.000Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3620040": "2026-10-19T18:01:19.647Z",
+      "3693930": "2026-10-21T03:01:00.123Z",
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
