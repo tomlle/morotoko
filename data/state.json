@@ -382,6 +382,10 @@
     "steam:4437140:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4437140:permanent_free:1"
+    },
+    "steam:5127780:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5127780:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3502,11 +3506,41 @@
       },
       "bufferPostId": "6ad9a6947dadc432f7404322",
       "postedAt": "2026-10-22T06:00:53.633Z"
+    },
+    "steam:5127780:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5127780:permanent_free:1",
+      "store": "steam",
+      "productId": "5127780",
+      "generation": 1,
+      "title": "Biblioclash Digital",
+      "storeUrl": "https://store.steampowered.com/app/5127780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T09:00:56.350Z",
+      "lastSeenAt": "2026-10-22T09:00:56.350Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Biblioclash Digital is the official digital version of Biblioclash for Windows and macOS. In this deck-building game players bring their own custom set of cards to play and try to defeat their opponent in a magical duel.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T09:00:56.350Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Biblioclash Digital』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5127780/",
+        "attemptedAt": "2026-10-22T09:00:57.332Z",
+        "bufferPostId": "6ad9d0c9a013397d93286034",
+        "submittedAt": "2026-10-22T09:00:58.681Z",
+        "postedAt": "2026-10-22T09:00:58.682Z"
+      },
+      "bufferPostId": "6ad9d0c9a013397d93286034",
+      "postedAt": "2026-10-22T09:00:58.682Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T06:00:50.818Z",
+    "lastSuccessfulScanAt": "2026-10-22T09:00:56.350Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3627,6 +3661,7 @@
       "5123480": "2026-10-14T15:30:36.000Z",
       "5126160": "2026-10-19T15:01:14.718Z",
       "5126170": "2026-10-20T00:01:05.177Z",
+      "5127780": "2026-10-22T09:00:56.350Z",
       "5129250": "2026-10-14T15:30:36.000Z",
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138180": "2026-10-14T15:30:36.000Z",
