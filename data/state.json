@@ -390,6 +390,14 @@
     "steam:4036370:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4036370:permanent_free:1"
+    },
+    "steam:5354880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5354880:permanent_free:1"
+    },
+    "steam:3522130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3522130:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3570,11 +3578,71 @@
       },
       "bufferPostId": "6ad9fb1b1cc831fdc3b77c0a",
       "postedAt": "2026-10-22T12:01:33.233Z"
+    },
+    "steam:5354880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5354880:permanent_free:1",
+      "store": "steam",
+      "productId": "5354880",
+      "generation": 1,
+      "title": "A Hoard in Order",
+      "storeUrl": "https://store.steampowered.com/app/5354880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T15:01:07.818Z",
+      "lastSeenAt": "2026-10-22T15:01:07.818Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "After a storm made a mess on The Salty Scallop, it is up to you, the Quartermaster, to put everything back in its place in this cozy sorting game.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T15:01:07.818Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A Hoard in Order』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5354880/",
+        "attemptedAt": "2026-10-22T15:01:08.797Z",
+        "bufferPostId": "6ada2534f09f431dcae477a0",
+        "submittedAt": "2026-10-22T15:01:10.186Z",
+        "postedAt": "2026-10-22T15:01:10.186Z"
+      },
+      "bufferPostId": "6ada2534f09f431dcae477a0",
+      "postedAt": "2026-10-22T15:01:10.186Z"
+    },
+    "steam:3522130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3522130:permanent_free:1",
+      "store": "steam",
+      "productId": "3522130",
+      "generation": 1,
+      "title": "Dunthera - Tower Defense",
+      "storeUrl": "https://store.steampowered.com/app/3522130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T15:01:07.818Z",
+      "lastSeenAt": "2026-10-22T15:01:07.818Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "塔たちはいつもあなたを守ってきました…今度はあなたが塔たちを守る番です！個性的な能力、見た目、ステータスを持つユニークなモンスターと、さまざまなマップで戦いましょう。ヒーローを強化し、構造物を強化してラインを守り抜いてください！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T15:01:07.818Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dunthera - Tower Defense』\n✨ いつでも無料でプレイ\n\n塔たちはいつもあなたを守ってきました…今度はあなたが塔たちを守る番です！個性的な能力、見た目、ステータスを持つユニークなモンスターと、さまざまなマップで戦いましょう。ヒー…\n\nhttps://store.steampowered.com/app/3522130/",
+        "attemptedAt": "2026-10-22T15:01:10.614Z",
+        "bufferPostId": "6ada2536e8cca8cdcc59996f",
+        "submittedAt": "2026-10-22T15:01:12.282Z",
+        "postedAt": "2026-10-22T15:01:12.282Z"
+      },
+      "bufferPostId": "6ada2536e8cca8cdcc59996f",
+      "postedAt": "2026-10-22T15:01:12.282Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T12:01:30.927Z",
+    "lastSuccessfulScanAt": "2026-10-22T15:01:07.818Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3588,6 +3656,7 @@
       "2902720": "2026-10-14T15:30:36.000Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
+      "3522130": "2026-10-22T15:01:07.818Z",
       "3620040": "2026-10-19T18:01:19.647Z",
       "3665700": "2026-10-21T18:01:08.108Z",
       "3693930": "2026-10-21T03:01:00.123Z",
@@ -3767,6 +3836,7 @@
       "5341000": "2026-10-21T21:00:59.332Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
+      "5354880": "2026-10-22T15:01:07.818Z",
       "5357680": "2026-10-20T18:01:06.119Z",
       "5359760": "2026-10-19T09:01:06.915Z"
     }
