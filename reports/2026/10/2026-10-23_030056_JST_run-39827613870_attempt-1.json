@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39827613870",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T18:00:56.704Z",
+    "finishedAt": "2026-10-22T18:01:15.603Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39827613870"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4527880",
+      "title": "Hell's Handbook",
+      "storeUrl": "https://store.steampowered.com/app/4527880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527880/5644409125c4934e7d82781aa08dd2dfb789c619/header.jpg?t=1792688925",
+      "officialDescription": "With your trusty handbook, banishing monstrosities beyond mortal comprehension is as simple as 1-2-3!! In this turn-based tactics puzzle game, you lead a team of contractor ghost busters through a series of haunted houses, each with a different set of unidentified monstrosities."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5273460",
+      "title": "Rouge and Run",
+      "storeUrl": "https://store.steampowered.com/app/5273460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5273460/8aab1e6b2a0f9651f6e3b63608eb42b5e87f1cd5/header.jpg?t=1792684966",
+      "officialDescription": "Dive into the cursed world of Rouge and Run. Customize your loadout, strategies, and plan your time management wisely to escape The Fog of Rouge from consuming you."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4756450",
+      "title": "Evercursed: Act I",
+      "storeUrl": "https://store.steampowered.com/app/4756450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4756450/5335395542a90d678a24e2c3c6eab509a0565619/header.jpg?t=1792684827",
+      "officialDescription": "Evercursed is a narrative-driven, atmospheric horror experience that delves into the world of sleep paralysis, and the demons that lurk within it. Step into Amelia's haunting nightmares, where the line between dreams and reality is blurred."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4527880:permanent_free:1",
+      "productId": "4527880",
+      "title": "Hell's Handbook",
+      "status": "sent",
+      "bufferPostId": "6ada4f66399af6f1f72ba75d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5273460:permanent_free:1",
+      "productId": "5273460",
+      "title": "Rouge and Run",
+      "status": "sent",
+      "bufferPostId": "6ada4f689a8a68d3cd729733"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4756450:permanent_free:1",
+      "productId": "4756450",
+      "title": "Evercursed: Act I",
+      "status": "sent",
+      "bufferPostId": "6ada4f6aca69a1b7d3ce2ad6"
+    }
+  ],
+  "errors": []
+}

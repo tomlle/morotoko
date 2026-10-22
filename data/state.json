@@ -398,6 +398,18 @@
     "steam:3522130:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3522130:permanent_free:1"
+    },
+    "steam:4527880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4527880:permanent_free:1"
+    },
+    "steam:5273460:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5273460:permanent_free:1"
+    },
+    "steam:4756450:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4756450:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3638,11 +3650,101 @@
       },
       "bufferPostId": "6ada2536e8cca8cdcc59996f",
       "postedAt": "2026-10-22T15:01:12.282Z"
+    },
+    "steam:4527880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4527880:permanent_free:1",
+      "store": "steam",
+      "productId": "4527880",
+      "generation": 1,
+      "title": "Hell's Handbook",
+      "storeUrl": "https://store.steampowered.com/app/4527880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T18:01:09.344Z",
+      "lastSeenAt": "2026-10-22T18:01:09.344Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "With your trusty handbook, banishing monstrosities beyond mortal comprehension is as simple as 1-2-3!! In this turn-based tactics puzzle game, you lead a team of contractor ghost busters through a series of haunted houses, each with a different set of unidentified monstrosities.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T18:01:09.344Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Hell's Handbook』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4527880/",
+        "attemptedAt": "2026-10-22T18:01:10.710Z",
+        "bufferPostId": "6ada4f66399af6f1f72ba75d",
+        "submittedAt": "2026-10-22T18:01:12.288Z",
+        "postedAt": "2026-10-22T18:01:12.288Z"
+      },
+      "bufferPostId": "6ada4f66399af6f1f72ba75d",
+      "postedAt": "2026-10-22T18:01:12.288Z"
+    },
+    "steam:5273460:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5273460:permanent_free:1",
+      "store": "steam",
+      "productId": "5273460",
+      "generation": 1,
+      "title": "Rouge and Run",
+      "storeUrl": "https://store.steampowered.com/app/5273460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T18:01:09.344Z",
+      "lastSeenAt": "2026-10-22T18:01:09.344Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Dive into the cursed world of Rouge and Run. Customize your loadout, strategies, and plan your time management wisely to escape The Fog of Rouge from consuming you.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T18:01:09.344Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Rouge and Run』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5273460/",
+        "attemptedAt": "2026-10-22T18:01:12.616Z",
+        "bufferPostId": "6ada4f689a8a68d3cd729733",
+        "submittedAt": "2026-10-22T18:01:13.962Z",
+        "postedAt": "2026-10-22T18:01:13.962Z"
+      },
+      "bufferPostId": "6ada4f689a8a68d3cd729733",
+      "postedAt": "2026-10-22T18:01:13.962Z"
+    },
+    "steam:4756450:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4756450:permanent_free:1",
+      "store": "steam",
+      "productId": "4756450",
+      "generation": 1,
+      "title": "Evercursed: Act I",
+      "storeUrl": "https://store.steampowered.com/app/4756450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T18:01:09.344Z",
+      "lastSeenAt": "2026-10-22T18:01:09.344Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Evercursed is a narrative-driven, atmospheric horror experience that delves into the world of sleep paralysis, and the demons that lurk within it. Step into Amelia's haunting nightmares, where the line between dreams and reality is blurred.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T18:01:09.344Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Evercursed: Act I』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4756450/",
+        "attemptedAt": "2026-10-22T18:01:14.301Z",
+        "bufferPostId": "6ada4f6aca69a1b7d3ce2ad6",
+        "submittedAt": "2026-10-22T18:01:15.587Z",
+        "postedAt": "2026-10-22T18:01:15.587Z"
+      },
+      "bufferPostId": "6ada4f6aca69a1b7d3ce2ad6",
+      "postedAt": "2026-10-22T18:01:15.587Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T15:01:07.818Z",
+    "lastSuccessfulScanAt": "2026-10-22T18:01:09.344Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3690,6 +3792,7 @@
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4491130": "2026-10-19T03:01:01.402Z",
+      "4527880": "2026-10-22T18:01:09.344Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
       "4561260": "2026-10-17T00:01:02.592Z",
@@ -3712,6 +3815,7 @@
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
       "4746110": "2026-10-16T09:01:06.129Z",
+      "4756450": "2026-10-22T18:01:09.344Z",
       "4769150": "2026-10-19T18:01:19.647Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
@@ -3814,6 +3918,7 @@
       "5269430": "2026-10-20T09:01:01.492Z",
       "5270020": "2026-10-14T15:30:36.000Z",
       "5272920": "2026-10-14T15:30:36.000Z",
+      "5273460": "2026-10-22T18:01:09.344Z",
       "5277750": "2026-10-14T15:30:36.000Z",
       "5278650": "2026-10-15T18:01:01.152Z",
       "5279620": "2026-10-21T18:01:08.108Z",
