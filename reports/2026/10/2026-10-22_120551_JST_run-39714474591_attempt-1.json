@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39714474591",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T03:05:51.181Z",
+    "finishedAt": "2026-10-22T03:06:27.025Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39714474591"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5281080",
+      "title": "水族派對",
+      "storeUrl": "https://store.steampowered.com/app/5281080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281080/8be766062899f45eb9139f49e60e445017f67000/header.jpg?t=1792636987",
+      "officialDescription": "Aquarium Party is a heartwarming underwater simulation and collection game featuring a soothing, healing art style. Step into the role of an aquarium curator, manage your daily life on a cute fish island, and collect over 1,000 types of fantastical, adorable fish."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5281080:permanent_free:1",
+      "productId": "5281080",
+      "title": "水族派對",
+      "status": "sent",
+      "bufferPostId": "6ad97db1deacf5d2532906d0"
+    }
+  ],
+  "errors": []
+}

@@ -374,6 +374,10 @@
     "steam:4813620:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4813620:permanent_free:1"
+    },
+    "steam:5281080:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5281080:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3434,11 +3438,41 @@
       },
       "bufferPostId": "6ad9523cb086d40f572605f1",
       "postedAt": "2026-10-22T00:01:01.204Z"
+    },
+    "steam:5281080:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5281080:permanent_free:1",
+      "store": "steam",
+      "productId": "5281080",
+      "generation": 1,
+      "title": "水族派對",
+      "storeUrl": "https://store.steampowered.com/app/5281080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T03:06:25.291Z",
+      "lastSeenAt": "2026-10-22T03:06:25.291Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Aquarium Party is a heartwarming underwater simulation and collection game featuring a soothing, healing art style. Step into the role of an aquarium curator, manage your daily life on a cute fish island, and collect over 1,000 types of fantastical, adorable fish.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T03:06:25.291Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『水族派對』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5281080/",
+        "attemptedAt": "2026-10-22T03:06:25.754Z",
+        "bufferPostId": "6ad97db1deacf5d2532906d0",
+        "submittedAt": "2026-10-22T03:06:27.013Z",
+        "postedAt": "2026-10-22T03:06:27.013Z"
+      },
+      "bufferPostId": "6ad97db1deacf5d2532906d0",
+      "postedAt": "2026-10-22T03:06:27.013Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T00:00:57.495Z",
+    "lastSuccessfulScanAt": "2026-10-22T03:06:25.291Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3609,6 +3643,7 @@
       "5277750": "2026-10-14T15:30:36.000Z",
       "5278650": "2026-10-15T18:01:01.152Z",
       "5279620": "2026-10-21T18:01:08.108Z",
+      "5281080": "2026-10-22T03:06:25.291Z",
       "5284190": "2026-10-14T15:30:36.000Z",
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289970": "2026-10-14T15:30:36.000Z",
