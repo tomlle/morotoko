@@ -378,6 +378,10 @@
     "steam:5281080:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5281080:permanent_free:1"
+    },
+    "steam:4437140:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4437140:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3468,11 +3472,41 @@
       },
       "bufferPostId": "6ad97db1deacf5d2532906d0",
       "postedAt": "2026-10-22T03:06:27.013Z"
+    },
+    "steam:4437140:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4437140:permanent_free:1",
+      "store": "steam",
+      "productId": "4437140",
+      "generation": 1,
+      "title": "if you stay",
+      "storeUrl": "https://store.steampowered.com/app/4437140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T06:00:50.818Z",
+      "lastSeenAt": "2026-10-22T06:00:50.818Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Winter 1999. Kicked out of your house after being outed by your closest friend, you plan to leave your hometown. Your girlfriend, Mika, wants to see you one more time. Decide whether or not you'll stay together.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T06:00:50.818Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『if you stay』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4437140/",
+        "attemptedAt": "2026-10-22T06:00:52.160Z",
+        "bufferPostId": "6ad9a6947dadc432f7404322",
+        "submittedAt": "2026-10-22T06:00:53.633Z",
+        "postedAt": "2026-10-22T06:00:53.633Z"
+      },
+      "bufferPostId": "6ad9a6947dadc432f7404322",
+      "postedAt": "2026-10-22T06:00:53.633Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T03:06:25.291Z",
+    "lastSuccessfulScanAt": "2026-10-22T06:00:50.818Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3515,6 +3549,7 @@
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
       "4410900": "2026-10-18T00:01:08.594Z",
+      "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4491130": "2026-10-19T03:01:01.402Z",
       "4536570": "2026-10-14T15:30:36.000Z",
