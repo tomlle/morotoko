@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39853690005",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T21:00:53.622Z",
+    "finishedAt": "2026-10-22T21:01:19.687Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39853690005"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2488560",
+      "title": "Abandoned Hearts",
+      "storeUrl": "https://store.steampowered.com/app/2488560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488560/7d4532ca058c6e3f11c18357010299afbb8c858b/header.jpg?t=1792696351",
+      "officialDescription": "Abandoned Hearts is a single-player detective horror game. Investigate a fatal castle fire, connect clues on an evidence board, and draw your own conclusions. Run, hide, and distract what stalks the halls. The families need answers. You need to make it out alive."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5278050",
+      "title": "Fish Wrangler",
+      "storeUrl": "https://store.steampowered.com/app/5278050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5278050/01bb777372e81630090407e319dffab266a61236/header.jpg?t=1792694843",
+      "officialDescription": "The idle fishing RPG that has been running since 2008. Cast your line, walk away, and let your crew keep fishing while life happens. Catch and collect 2,200+ species across 111 towns, level up ridiculous poles, and find out what Cousin Earl keeps in the bait shed."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:2488560:permanent_free:1",
+      "productId": "2488560",
+      "title": "Abandoned Hearts",
+      "status": "sent",
+      "bufferPostId": "6ada799c128ac937cfcfbc77"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5278050:permanent_free:1",
+      "productId": "5278050",
+      "title": "Fish Wrangler",
+      "status": "sent",
+      "bufferPostId": "6ada799eaa18e1c19383856e"
+    }
+  ],
+  "errors": []
+}
