@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39774900904",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T12:00:55.083Z",
+    "finishedAt": "2026-10-22T12:01:33.238Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39774900904"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4036370",
+      "title": "Risk it Little Biscuit",
+      "storeUrl": "https://store.steampowered.com/app/4036370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4036370/25e8876b9a8cb55d7e3567fe6f9e5cf62b0788d3/header.jpg?t=1792665042",
+      "officialDescription": "Risk it, little biscuit! Crunch through endless hordes of sugar-crazed sweets in this bite-sized bullet-heaven roguelite. Pick a hero from the pantry, stack absurd snack weapons, evolve them into pure kitchen chaos and topple crowned bosses, one crumbly run at a time."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4036370:permanent_free:1",
+      "productId": "4036370",
+      "title": "Risk it Little Biscuit",
+      "status": "sent",
+      "bufferPostId": "6ad9fb1b1cc831fdc3b77c0a"
+    }
+  ],
+  "errors": []
+}
