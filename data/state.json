@@ -366,6 +366,14 @@
     "steam:5341000:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5341000:permanent_free:1"
+    },
+    "steam:5310070:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5310070:permanent_free:1"
+    },
+    "steam:4813620:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4813620:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3366,11 +3374,71 @@
       },
       "bufferPostId": "6ad9280bcecd7a6cc164cb85",
       "postedAt": "2026-10-21T21:01:01.226Z"
+    },
+    "steam:5310070:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5310070:permanent_free:1",
+      "store": "steam",
+      "productId": "5310070",
+      "generation": 1,
+      "title": "Backrooms Blocks",
+      "storeUrl": "https://store.steampowered.com/app/5310070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T00:00:57.495Z",
+      "lastSeenAt": "2026-10-22T00:00:57.495Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Mine the walls. Build a shelter. Keep the almond milk. Backrooms Blocks is a first-person voxel survival game filled with strange creatures, tiny clown familiars, dangerous lucky blocks, and doors into impossible places. You were only going to the grocery store.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T00:00:57.495Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Backrooms Blocks』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5310070/",
+        "attemptedAt": "2026-10-22T00:00:58.231Z",
+        "bufferPostId": "6ad9523a1093844846d21a66",
+        "submittedAt": "2026-10-22T00:00:59.582Z",
+        "postedAt": "2026-10-22T00:00:59.582Z"
+      },
+      "bufferPostId": "6ad9523a1093844846d21a66",
+      "postedAt": "2026-10-22T00:00:59.582Z"
+    },
+    "steam:4813620:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4813620:permanent_free:1",
+      "store": "steam",
+      "productId": "4813620",
+      "generation": 1,
+      "title": "TankFall Arena",
+      "storeUrl": "https://store.steampowered.com/app/4813620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-22T00:00:57.495Z",
+      "lastSeenAt": "2026-10-22T00:00:57.495Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Retro-inspired tank arena combat where every wall can become a weapon. Master ricochets, random battlefields, powerful pickups, and chaotic multiplayer battles against friends or AI opponents. Supports solo play, team battles, local multiplayer, and Remote Play Together.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-22T00:00:57.495Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『TankFall Arena』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4813620/",
+        "attemptedAt": "2026-10-22T00:00:59.910Z",
+        "bufferPostId": "6ad9523cb086d40f572605f1",
+        "submittedAt": "2026-10-22T00:01:01.204Z",
+        "postedAt": "2026-10-22T00:01:01.204Z"
+      },
+      "bufferPostId": "6ad9523cb086d40f572605f1",
+      "postedAt": "2026-10-22T00:01:01.204Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-21T21:00:59.332Z",
+    "lastSuccessfulScanAt": "2026-10-22T00:00:57.495Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3442,6 +3510,7 @@
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
       "4807880": "2026-10-16T09:01:06.129Z",
+      "4813620": "2026-10-22T00:00:57.495Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
@@ -3551,6 +3620,7 @@
       "5303740": "2026-10-14T15:30:36.000Z",
       "5306270": "2026-10-14T15:30:36.000Z",
       "5309680": "2026-10-14T15:30:36.000Z",
+      "5310070": "2026-10-22T00:00:57.495Z",
       "5314960": "2026-10-14T15:30:36.000Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
