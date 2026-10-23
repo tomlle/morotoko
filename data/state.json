@@ -506,6 +506,14 @@
     "steam:5254090:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5254090:permanent_free:1"
+    },
+    "steam:5049940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5049940:permanent_free:1"
+    },
+    "steam:4997960:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4997960:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4556,11 +4564,71 @@
       },
       "bufferPostId": "6adba0e7e4be8a4d861c67a6",
       "postedAt": "2026-10-23T18:01:12.683Z"
+    },
+    "steam:5049940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5049940:permanent_free:1",
+      "store": "steam",
+      "productId": "5049940",
+      "generation": 1,
+      "title": "Beyond Dawn",
+      "storeUrl": "https://store.steampowered.com/app/5049940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T21:00:59.012Z",
+      "lastSeenAt": "2026-10-23T21:00:59.012Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Scavenge a dying city before sunrise in a first-person world rendered in 3D ASCII. Follow hidden routes, build a home beneath the streets, and descend toward Liminal Corp. Explore a possible future in Wasteland, where repairs made in the past can change what survives.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T21:00:59.012Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Beyond Dawn』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5049940/",
+        "attemptedAt": "2026-10-23T21:00:59.633Z",
+        "bufferPostId": "6adbcb0b9acae620d81a3aab",
+        "submittedAt": "2026-10-23T21:01:00.921Z",
+        "postedAt": "2026-10-23T21:01:00.921Z"
+      },
+      "bufferPostId": "6adbcb0b9acae620d81a3aab",
+      "postedAt": "2026-10-23T21:01:00.921Z"
+    },
+    "steam:4997960:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4997960:permanent_free:1",
+      "store": "steam",
+      "productId": "4997960",
+      "generation": 1,
+      "title": "FarmWings",
+      "storeUrl": "https://store.steampowered.com/app/4997960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T21:00:59.012Z",
+      "lastSeenAt": "2026-10-23T21:00:59.012Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A vertical idle shmup: your fighter flies, dodges and shoots on its own, and you command its evolution. Beat adaptive AI bosses across 5 biomes and 3 difficulty modes, forge gear up to +10 and trade items on the Steam Community Market. Always in a corner of your screen.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T21:00:59.012Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『FarmWings』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4997960/",
+        "attemptedAt": "2026-10-23T21:01:01.224Z",
+        "bufferPostId": "6adbcb0de4be8a4d86265fbd",
+        "submittedAt": "2026-10-23T21:01:02.580Z",
+        "postedAt": "2026-10-23T21:01:02.580Z"
+      },
+      "bufferPostId": "6adbcb0de4be8a4d86265fbd",
+      "postedAt": "2026-10-23T21:01:02.580Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T18:01:08.113Z",
+    "lastSuccessfulScanAt": "2026-10-23T21:00:59.012Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4672,6 +4740,7 @@
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
       "4994410": "2026-10-14T15:30:36.000Z",
+      "4997960": "2026-10-23T21:00:59.012Z",
       "5005680": "2026-10-14T15:30:36.000Z",
       "5006180": "2026-10-14T15:30:36.000Z",
       "5021380": "2026-10-14T15:30:36.000Z",
@@ -4681,6 +4750,7 @@
       "5037330": "2026-10-14T15:30:36.000Z",
       "5039290": "2026-10-23T12:01:18.754Z",
       "5043860": "2026-10-21T00:01:08.212Z",
+      "5049940": "2026-10-23T21:00:59.012Z",
       "5057270": "2026-10-14T15:30:36.000Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5090350": "2026-10-14T18:01:12.359Z",

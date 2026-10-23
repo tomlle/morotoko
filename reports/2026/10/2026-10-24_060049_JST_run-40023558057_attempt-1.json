@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40023558057",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T21:00:49.514Z",
+    "finishedAt": "2026-10-23T21:01:02.583Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40023558057"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5049940",
+      "title": "Beyond Dawn",
+      "storeUrl": "https://store.steampowered.com/app/5049940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049940/b1e08072034750480908941b20d0db1a64501e1c/header.jpg?t=1792699138",
+      "officialDescription": "Scavenge a dying city before sunrise in a first-person world rendered in 3D ASCII. Follow hidden routes, build a home beneath the streets, and descend toward Liminal Corp. Explore a possible future in Wasteland, where repairs made in the past can change what survives."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4997960",
+      "title": "FarmWings",
+      "storeUrl": "https://store.steampowered.com/app/4997960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997960/b6d852de3a1c7e5140bb76a01961c06c05eeb8b2/header.jpg?t=1792695650",
+      "officialDescription": "A vertical idle shmup: your fighter flies, dodges and shoots on its own, and you command its evolution. Beat adaptive AI bosses across 5 biomes and 3 difficulty modes, forge gear up to +10 and trade items on the Steam Community Market. Always in a corner of your screen."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5049940:permanent_free:1",
+      "productId": "5049940",
+      "title": "Beyond Dawn",
+      "status": "sent",
+      "bufferPostId": "6adbcb0b9acae620d81a3aab"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4997960:permanent_free:1",
+      "productId": "4997960",
+      "title": "FarmWings",
+      "status": "sent",
+      "bufferPostId": "6adbcb0de4be8a4d86265fbd"
+    }
+  ],
+  "errors": []
+}
