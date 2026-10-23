@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39875433126",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T00:00:54.269Z",
+    "finishedAt": "2026-10-23T00:01:12.148Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39875433126"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 17,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5371940",
+      "title": "One Must Fall 2197: Singularity",
+      "storeUrl": "https://store.steampowered.com/app/5371940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371940/b9ce86f56aad2e65637fe1bca81e8f7bfc2c96fe/header.jpg?t=1792708879",
+      "officialDescription": "A free 1v1 robot fighting game: the 1994 classic One Must Fall 2097, rebuilt in HD. 21 giant robots, 15 arenas, a Tournament career with a mech lab, Arcade, Training, and versus on one PC or online with Steam friends. Fight with supers and EX moves, or switch to the original rules."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4706500",
+      "title": "Hivemind",
+      "storeUrl": "https://store.steampowered.com/app/4706500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706500/8f378610cee45b818204537c47792452c61e8716/header.jpg?t=1792707064",
+      "officialDescription": "Hivemind is a free online party game where players give clues, guess hidden targets on fun spectrums, and score points by thinking alike. Perfect for game nights, remote hangouts, icebreakers, and quick laughs with friends."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5365780",
+      "title": "Deckbound",
+      "storeUrl": "https://store.steampowered.com/app/5365780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365780/045cd4bfac8e2940f3f6bad77eafd6cb0501fc62/header.jpg?t=1792707005",
+      "officialDescription": "Summoned to a world ruled by the Demon Lord, your only power is your deck. Dodge bullet-hell attacks in real time, fight with a 4-card hand, and loot a permanent card collection from procedural dungeons. Teleport home before you lose it all. Solo or 2-4 player co-op."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3558100",
+      "title": "Eyes On Me",
+      "storeUrl": "https://store.steampowered.com/app/3558100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558100/bd4a2e71a5c7d471ec324102c6c822439a3a9a14/header.jpg?t=1792702994",
+      "officialDescription": "Live a girls life while being stalked by a serial killer with an insteresting sexual fantasy. Can you reveal the story without completely shitting yourself?"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5371940:permanent_free:1",
+      "productId": "5371940",
+      "title": "One Must Fall 2197: Singularity",
+      "status": "sent",
+      "bufferPostId": "6adaa3c21dc335d347e547a1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4706500:permanent_free:1",
+      "productId": "4706500",
+      "title": "Hivemind",
+      "status": "sent",
+      "bufferPostId": "6adaa3c3535235087b71438b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5365780:permanent_free:1",
+      "productId": "5365780",
+      "title": "Deckbound",
+      "status": "sent",
+      "bufferPostId": "6adaa3c51dc335d347e54bbc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3558100:permanent_free:1",
+      "productId": "3558100",
+      "title": "Eyes On Me",
+      "status": "sent",
+      "bufferPostId": "6adaa3c6535235087b71452b"
+    }
+  ],
+  "errors": []
+}

@@ -418,6 +418,22 @@
     "steam:5278050:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5278050:permanent_free:1"
+    },
+    "steam:5371940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5371940:permanent_free:1"
+    },
+    "steam:4706500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4706500:permanent_free:1"
+    },
+    "steam:5365780:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5365780:permanent_free:1"
+    },
+    "steam:3558100:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3558100:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3808,11 +3824,131 @@
       },
       "bufferPostId": "6ada799eaa18e1c19383856e",
       "postedAt": "2026-10-22T21:01:19.682Z"
+    },
+    "steam:5371940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5371940:permanent_free:1",
+      "store": "steam",
+      "productId": "5371940",
+      "generation": 1,
+      "title": "One Must Fall 2197: Singularity",
+      "storeUrl": "https://store.steampowered.com/app/5371940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T00:01:04.971Z",
+      "lastSeenAt": "2026-10-23T00:01:04.971Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free 1v1 robot fighting game: the 1994 classic One Must Fall 2097, rebuilt in HD. 21 giant robots, 15 arenas, a Tournament career with a mech lab, Arcade, Training, and versus on one PC or online with Steam friends. Fight with supers and EX moves, or switch to the original rules.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T00:01:04.971Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『One Must Fall 2197: Singularity』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5371940/",
+        "attemptedAt": "2026-10-23T00:01:06.072Z",
+        "bufferPostId": "6adaa3c21dc335d347e547a1",
+        "submittedAt": "2026-10-23T00:01:07.452Z",
+        "postedAt": "2026-10-23T00:01:07.452Z"
+      },
+      "bufferPostId": "6adaa3c21dc335d347e547a1",
+      "postedAt": "2026-10-23T00:01:07.452Z"
+    },
+    "steam:4706500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4706500:permanent_free:1",
+      "store": "steam",
+      "productId": "4706500",
+      "generation": 1,
+      "title": "Hivemind",
+      "storeUrl": "https://store.steampowered.com/app/4706500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T00:01:04.971Z",
+      "lastSeenAt": "2026-10-23T00:01:04.971Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Hivemind is a free online party game where players give clues, guess hidden targets on fun spectrums, and score points by thinking alike. Perfect for game nights, remote hangouts, icebreakers, and quick laughs with friends.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T00:01:04.971Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Hivemind』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4706500/",
+        "attemptedAt": "2026-10-23T00:01:07.718Z",
+        "bufferPostId": "6adaa3c3535235087b71438b",
+        "submittedAt": "2026-10-23T00:01:08.930Z",
+        "postedAt": "2026-10-23T00:01:08.930Z"
+      },
+      "bufferPostId": "6adaa3c3535235087b71438b",
+      "postedAt": "2026-10-23T00:01:08.930Z"
+    },
+    "steam:5365780:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5365780:permanent_free:1",
+      "store": "steam",
+      "productId": "5365780",
+      "generation": 1,
+      "title": "Deckbound",
+      "storeUrl": "https://store.steampowered.com/app/5365780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T00:01:04.971Z",
+      "lastSeenAt": "2026-10-23T00:01:04.971Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Summoned to a world ruled by the Demon Lord, your only power is your deck. Dodge bullet-hell attacks in real time, fight with a 4-card hand, and loot a permanent card collection from procedural dungeons. Teleport home before you lose it all. Solo or 2-4 player co-op.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T00:01:04.971Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Deckbound』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5365780/",
+        "attemptedAt": "2026-10-23T00:01:09.216Z",
+        "bufferPostId": "6adaa3c51dc335d347e54bbc",
+        "submittedAt": "2026-10-23T00:01:10.544Z",
+        "postedAt": "2026-10-23T00:01:10.544Z"
+      },
+      "bufferPostId": "6adaa3c51dc335d347e54bbc",
+      "postedAt": "2026-10-23T00:01:10.544Z"
+    },
+    "steam:3558100:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3558100:permanent_free:1",
+      "store": "steam",
+      "productId": "3558100",
+      "generation": 1,
+      "title": "Eyes On Me",
+      "storeUrl": "https://store.steampowered.com/app/3558100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T00:01:04.971Z",
+      "lastSeenAt": "2026-10-23T00:01:04.971Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Live a girls life while being stalked by a serial killer with an insteresting sexual fantasy. Can you reveal the story without completely shitting yourself?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T00:01:04.971Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Eyes On Me』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3558100/",
+        "attemptedAt": "2026-10-23T00:01:10.798Z",
+        "bufferPostId": "6adaa3c6535235087b71452b",
+        "submittedAt": "2026-10-23T00:01:12.143Z",
+        "postedAt": "2026-10-23T00:01:12.143Z"
+      },
+      "bufferPostId": "6adaa3c6535235087b71452b",
+      "postedAt": "2026-10-23T00:01:12.143Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-22T21:01:15.937Z",
+    "lastSuccessfulScanAt": "2026-10-23T00:01:04.971Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -3828,6 +3964,7 @@
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3522130": "2026-10-22T15:01:07.818Z",
+      "3558100": "2026-10-23T00:01:04.971Z",
       "3620040": "2026-10-19T18:01:19.647Z",
       "3665700": "2026-10-21T18:01:08.108Z",
       "3693930": "2026-10-21T03:01:00.123Z",
@@ -3872,6 +4009,7 @@
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
       "4694770": "2026-10-19T03:01:01.402Z",
+      "4706500": "2026-10-23T00:01:04.971Z",
       "4711830": "2026-10-14T15:30:36.000Z",
       "4714620": "2026-10-19T06:01:01.979Z",
       "4719360": "2026-10-16T12:01:06.356Z",
@@ -4013,7 +4151,9 @@
       "5345030": "2026-10-18T09:00:58.727Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5357680": "2026-10-20T18:01:06.119Z",
-      "5359760": "2026-10-19T09:01:06.915Z"
+      "5359760": "2026-10-19T09:01:06.915Z",
+      "5365780": "2026-10-23T00:01:04.971Z",
+      "5371940": "2026-10-23T00:01:04.971Z"
     }
   }
 }
