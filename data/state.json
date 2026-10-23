@@ -486,6 +486,18 @@
     "steam:2906990:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2906990:permanent_free:1"
+    },
+    "steam:5358500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5358500:permanent_free:1"
+    },
+    "steam:4348500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4348500:permanent_free:1"
+    },
+    "steam:5135750:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5135750:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4386,11 +4398,101 @@
       },
       "bufferPostId": "6adb4c9297d61d392143b746",
       "postedAt": "2026-10-23T12:01:24.047Z"
+    },
+    "steam:5358500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5358500:permanent_free:1",
+      "store": "steam",
+      "productId": "5358500",
+      "generation": 1,
+      "title": "Revving: Engine Simulator",
+      "storeUrl": "https://store.steampowered.com/app/5358500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T15:01:04.807Z",
+      "lastSeenAt": "2026-10-23T15:01:04.807Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Harley のVツインから F1 マシンの BRM H16 まで、19基のエンジンを始動し、空ぶかしし、シフトしよう。どのエンジンも目の前で3Dで回り、音はすべてシミュレーションした物理からリアルタイムに計算。ピストン、バルブ、吸排気の流れ、各シリンダーの燃焼まで再現し、録音もループ音源も使っていません。クラッチ、アクセル、ブレーキとHパターンのシフトレバーで操作し、クラッチを忘れるとギアが鳴ります。シーケンシャルやオートマも選べます。キーボード、マウス、ゲームパッドに対応。Honda B18C5 と Chevrolet 454 は無料。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T15:01:04.807Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Revving: Engine Simulator』\n✨ いつでも無料でプレイ\n\nHarley のVツインから F1 マシンの BRM H16 まで、19基のエンジンを始動し、空ぶかしし、シフトしよう。どのエンジンも目の前で3Dで回り、音はすべてシミュレーションした物理からリ…\n\nhttps://store.steampowered.com/app/5358500/",
+        "attemptedAt": "2026-10-23T15:01:05.437Z",
+        "bufferPostId": "6adb76b191ffb6bdb08db707",
+        "submittedAt": "2026-10-23T15:01:06.888Z",
+        "postedAt": "2026-10-23T15:01:06.888Z"
+      },
+      "bufferPostId": "6adb76b191ffb6bdb08db707",
+      "postedAt": "2026-10-23T15:01:06.888Z"
+    },
+    "steam:4348500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4348500:permanent_free:1",
+      "store": "steam",
+      "productId": "4348500",
+      "generation": 1,
+      "title": "Furniture Restoration Simulator: Garage Edition - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/4348500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T15:01:04.807Z",
+      "lastSeenAt": "2026-10-23T15:01:04.807Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "古く傷んだ家具を、再び美しい姿へと変えましょう。研磨、塗装、磨き上げを楽しみながら、リラックスした修復プロセスを体験してください。無料のプロローグ版をプレイして、リノベーションワークショップの第一歩を踏み出しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T15:01:04.807Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Furniture Restoration Simulator: Garage Edition - Prologue』\n✨ いつでも無料でプレイ\n\n古く傷んだ家具を、再び美しい姿へと変えましょう。研磨、塗装、磨き上げを楽しみながら、リラックスした修復プロセスを体験してください。無料の…\n\nhttps://store.steampowered.com/app/4348500/",
+        "attemptedAt": "2026-10-23T15:01:07.115Z",
+        "bufferPostId": "6adb76b36bf37011a37f8bb6",
+        "submittedAt": "2026-10-23T15:01:08.426Z",
+        "postedAt": "2026-10-23T15:01:08.426Z"
+      },
+      "bufferPostId": "6adb76b36bf37011a37f8bb6",
+      "postedAt": "2026-10-23T15:01:08.426Z"
+    },
+    "steam:5135750:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5135750:permanent_free:1",
+      "store": "steam",
+      "productId": "5135750",
+      "generation": 1,
+      "title": "The Adventures of Zippy and Bippy",
+      "storeUrl": "https://store.steampowered.com/app/5135750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T15:01:04.807Z",
+      "lastSeenAt": "2026-10-23T15:01:04.807Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Join Zippy and Bippy on a chaotic 2D action-platforming adventure packed with bizarre villains, motorcycles, unexpected worlds, and plenty of laughs. Fight, dash, explore, and save the day—assuming these two can keep it together long enough.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T15:01:04.807Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Adventures of Zippy and Bippy』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5135750/",
+        "attemptedAt": "2026-10-23T15:01:08.686Z",
+        "bufferPostId": "6adb76b491ffb6bdb08db897",
+        "submittedAt": "2026-10-23T15:01:09.889Z",
+        "postedAt": "2026-10-23T15:01:09.889Z"
+      },
+      "bufferPostId": "6adb76b491ffb6bdb08db897",
+      "postedAt": "2026-10-23T15:01:09.889Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T12:01:18.754Z",
+    "lastSuccessfulScanAt": "2026-10-23T15:01:04.807Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4433,6 +4535,7 @@
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
       "4347270": "2026-10-14T15:30:36.000Z",
+      "4348500": "2026-10-23T15:01:04.807Z",
       "4350900": "2026-10-17T00:01:02.592Z",
       "4355200": "2026-10-16T06:01:00.623Z",
       "4360980": "2026-10-17T03:01:07.080Z",
@@ -4526,6 +4629,7 @@
       "5126170": "2026-10-20T00:01:05.177Z",
       "5127780": "2026-10-22T09:00:56.350Z",
       "5129250": "2026-10-14T15:30:36.000Z",
+      "5135750": "2026-10-23T15:01:04.807Z",
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138180": "2026-10-14T15:30:36.000Z",
       "5144300": "2026-10-14T15:30:36.000Z",
@@ -4603,6 +4707,7 @@
       "5345030": "2026-10-18T09:00:58.727Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5357680": "2026-10-20T18:01:06.119Z",
+      "5358500": "2026-10-23T15:01:04.807Z",
       "5359760": "2026-10-19T09:01:06.915Z",
       "5365780": "2026-10-23T00:01:04.971Z",
       "5371940": "2026-10-23T00:01:04.971Z",
