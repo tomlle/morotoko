@@ -434,6 +434,26 @@
     "steam:3558100:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3558100:permanent_free:1"
+    },
+    "steam:4773930:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4773930:permanent_free:1"
+    },
+    "steam:5276120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5276120:permanent_free:1"
+    },
+    "steam:5179280:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5179280:permanent_free:1"
+    },
+    "steam:5120560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5120560:permanent_free:1"
+    },
+    "steam:5382570:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5382570:permanent_free:1"
     }
   },
   "campaigns": {
@@ -3944,11 +3964,161 @@
       },
       "bufferPostId": "6adaa3c6535235087b71452b",
       "postedAt": "2026-10-23T00:01:12.143Z"
+    },
+    "steam:4773930:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4773930:permanent_free:1",
+      "store": "steam",
+      "productId": "4773930",
+      "generation": 1,
+      "title": "君临传奇之风起云涌",
+      "storeUrl": "https://store.steampowered.com/app/4773930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T03:01:08.088Z",
+      "lastSeenAt": "2026-10-23T03:01:08.088Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "江湖将乱，风云已动！经典复古高爆国战版传奇，专为兄弟情义与热血厮杀而生！不氪金照样封神，不将就才能称王。极品装备、绝世武学全凭实力爆出，BOSS越狠，爆得越疯，捡到你手软！ 战鼓擂响，屠龙在手，兄弟们整装待发——攻沙、夺城、君临天下！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T03:01:08.088Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『君临传奇之风起云涌』\n✨ いつでも無料でプレイ\n\n江湖将乱，风云已动！经典复古高爆国战版传奇，专为兄弟情义与热血厮杀而生！不氪金照样封神，不将就才能称王。极品装备、绝世武学全凭实力爆出，BOSS越狠，爆得越疯，捡到你手软！ 战鼓擂…\n\nhttps://store.steampowered.com/app/4773930/",
+        "attemptedAt": "2026-10-23T03:01:08.716Z",
+        "bufferPostId": "6adacdf4cc1b7cdc08c945a0",
+        "submittedAt": "2026-10-23T03:01:10.041Z",
+        "postedAt": "2026-10-23T03:01:10.041Z"
+      },
+      "bufferPostId": "6adacdf4cc1b7cdc08c945a0",
+      "postedAt": "2026-10-23T03:01:10.041Z"
+    },
+    "steam:5276120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5276120:permanent_free:1",
+      "store": "steam",
+      "productId": "5276120",
+      "generation": 1,
+      "title": "1.76流派传奇",
+      "storeUrl": "https://store.steampowered.com/app/5276120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T03:01:08.088Z",
+      "lastSeenAt": "2026-10-23T03:01:08.088Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "全新传奇《1.76流派传奇》，耗时两年精心雕琢，倾尽心血打造诚意巨献！以原创剧情为灵魂的基础上，它保留了传奇的核心玩法（打怪、升级、爆装备、攻沙巴克）超级大陆为舞台🌏，秉持“不肝不氪”的友好理念🥰，同时增加了魂器、专属装备、不同职业的多种流派等独具特色的新内容，让游戏体验既怀旧又新奇，该版本节奏快，爆率高，材料易得，PK更爽快，主打一个“爽”字，为玩家开启一场别具一格的传奇冒险之旅🚀！！！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T03:01:08.088Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『1.76流派传奇』\n✨ いつでも無料でプレイ\n\n全新传奇《1.76流派传奇》，耗时两年精心雕琢，倾尽心血打造诚意巨献！以原创剧情为灵魂的基础上，它保留了传奇的核心玩法（打怪、升级、爆装备、攻沙巴克）超级大陆为舞台🌏，秉持“不肝不氪”的…\n\nhttps://store.steampowered.com/app/5276120/",
+        "attemptedAt": "2026-10-23T03:01:10.438Z",
+        "bufferPostId": "6adacdf6535235087b7a9e43",
+        "submittedAt": "2026-10-23T03:01:11.760Z",
+        "postedAt": "2026-10-23T03:01:11.760Z"
+      },
+      "bufferPostId": "6adacdf6535235087b7a9e43",
+      "postedAt": "2026-10-23T03:01:11.760Z"
+    },
+    "steam:5179280:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5179280:permanent_free:1",
+      "store": "steam",
+      "productId": "5179280",
+      "generation": 1,
+      "title": "女神育成：アイドルRPG",
+      "storeUrl": "https://store.steampowered.com/app/5179280/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T03:01:08.088Z",
+      "lastSeenAt": "2026-10-23T03:01:08.088Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『女神育成：アイドル RPG』は、デスクトップ放置育成に対応した王道美少女ファンタジー JRPG です。魔物が蔓延るファンタジー大陸を舞台に、プレイヤーは契約者として旅立ち、異なる文明から集めた美しい女神戦士と絆の契約を結び、パーティを組んでゴブリンやミノタウロスなどの邪悪な魔物軍団を討伐し、災厄の奥に隠された驚くべき陰謀を解き明かしていきます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T03:01:08.088Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『女神育成：アイドルRPG』\n✨ いつでも無料でプレイ\n\n『女神育成：アイドル RPG』は、デスクトップ放置育成に対応した王道美少女ファンタジー JRPG です。魔物が蔓延るファンタジー大陸を舞台に、プレイヤーは契約者として旅立ち、異なる文…\n\nhttps://store.steampowered.com/app/5179280/",
+        "attemptedAt": "2026-10-23T03:01:12.168Z",
+        "bufferPostId": "6adacdf8d447d56a6473223d",
+        "submittedAt": "2026-10-23T03:01:13.608Z",
+        "postedAt": "2026-10-23T03:01:13.608Z"
+      },
+      "bufferPostId": "6adacdf8d447d56a6473223d",
+      "postedAt": "2026-10-23T03:01:13.608Z"
+    },
+    "steam:5120560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5120560:permanent_free:1",
+      "store": "steam",
+      "productId": "5120560",
+      "generation": 1,
+      "title": "ERA-ming（时代：明末）",
+      "storeUrl": "https://store.steampowered.com/app/5120560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T03:01:08.088Z",
+      "lastSeenAt": "2026-10-23T03:01:08.088Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "这个游戏是我使用AI编写的，最大特色应该算是可以使用自然语言进行指令，进行游戏，不过游戏目前还只能算是有个主体框架，就像简介里说的，游戏还缺少大量素材使游戏丰满起来，当前的文本模式说实话还是有点乏味。如果有朋友有兴趣可以访问网站，来这里创建各类素材将游戏丰满起来。甚至可以在这里获取游戏代码，回去做重新创作。steam中的游戏包中有完整的可运行程序，可通过按钮和自然语言进行游戏。 官方网站在游戏压缩包中存在，访问官网后，您可以在剧本，素材等页面创建游戏相关文件，在代码页面看到本游戏的代码，游戏页面可以找到游戏压缩包，所以你想做点什么？ 欢迎您的加入。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T03:01:08.088Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ERA-ming（时代：明末）』\n✨ いつでも無料でプレイ\n\n这个游戏是我使用AI编写的，最大特色应该算是可以使用自然语言进行指令，进行游戏，不过游戏目前还只能算是有个主体框架，就像简介里说的，游戏还缺少大量素材使游戏丰满起来，当前的文…\n\nhttps://store.steampowered.com/app/5120560/",
+        "attemptedAt": "2026-10-23T03:01:14.136Z",
+        "bufferPostId": "6adacdfacc1b7cdc08c94801",
+        "submittedAt": "2026-10-23T03:01:17.634Z",
+        "postedAt": "2026-10-23T03:01:17.634Z"
+      },
+      "bufferPostId": "6adacdfacc1b7cdc08c94801",
+      "postedAt": "2026-10-23T03:01:17.634Z"
+    },
+    "steam:5382570:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5382570:permanent_free:1",
+      "store": "steam",
+      "productId": "5382570",
+      "generation": 1,
+      "title": "Rêverie: Audio Stories",
+      "storeUrl": "https://store.steampowered.com/app/5382570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T03:01:08.088Z",
+      "lastSeenAt": "2026-10-23T03:01:08.088Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Close your eyes, listen, and choose. Rêverie brings you illustrated audio stories where your choices change the ending. Two free stories: a king's messenger on a stormy medieval night, and a fairy tale full of songs for young and old. No ads.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T03:01:08.088Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Rêverie: Audio Stories』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5382570/",
+        "attemptedAt": "2026-10-23T03:01:17.951Z",
+        "bufferPostId": "6adacdfe8d2197cb2a112cdd",
+        "submittedAt": "2026-10-23T03:01:19.316Z",
+        "postedAt": "2026-10-23T03:01:19.316Z"
+      },
+      "bufferPostId": "6adacdfe8d2197cb2a112cdd",
+      "postedAt": "2026-10-23T03:01:19.316Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T00:01:04.971Z",
+    "lastSuccessfulScanAt": "2026-10-23T03:01:08.088Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4024,6 +4194,7 @@
       "4746110": "2026-10-16T09:01:06.129Z",
       "4756450": "2026-10-22T18:01:09.344Z",
       "4769150": "2026-10-19T18:01:19.647Z",
+      "4773930": "2026-10-23T03:01:08.088Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
@@ -4073,6 +4244,7 @@
       "5114130": "2026-10-17T12:01:03.272Z",
       "5115590": "2026-10-18T06:01:03.221Z",
       "5118700": "2026-10-16T18:01:10.079Z",
+      "5120560": "2026-10-23T03:01:08.088Z",
       "5123480": "2026-10-14T15:30:36.000Z",
       "5126160": "2026-10-19T15:01:14.718Z",
       "5126170": "2026-10-20T00:01:05.177Z",
@@ -4090,6 +4262,7 @@
       "5173790": "2026-10-14T15:30:36.000Z",
       "5178180": "2026-10-20T09:01:01.492Z",
       "5178350": "2026-10-14T15:30:36.000Z",
+      "5179280": "2026-10-23T03:01:08.088Z",
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
@@ -4126,6 +4299,7 @@
       "5270020": "2026-10-14T15:30:36.000Z",
       "5272920": "2026-10-14T15:30:36.000Z",
       "5273460": "2026-10-22T18:01:09.344Z",
+      "5276120": "2026-10-23T03:01:08.088Z",
       "5277750": "2026-10-14T15:30:36.000Z",
       "5278050": "2026-10-22T21:01:15.937Z",
       "5278650": "2026-10-15T18:01:01.152Z",
@@ -4153,7 +4327,8 @@
       "5357680": "2026-10-20T18:01:06.119Z",
       "5359760": "2026-10-19T09:01:06.915Z",
       "5365780": "2026-10-23T00:01:04.971Z",
-      "5371940": "2026-10-23T00:01:04.971Z"
+      "5371940": "2026-10-23T00:01:04.971Z",
+      "5382570": "2026-10-23T03:01:08.088Z"
     }
   }
 }
