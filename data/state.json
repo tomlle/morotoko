@@ -498,6 +498,14 @@
     "steam:5135750:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5135750:permanent_free:1"
+    },
+    "steam:4866750:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4866750:permanent_free:1"
+    },
+    "steam:5254090:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5254090:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4488,11 +4496,71 @@
       },
       "bufferPostId": "6adb76b491ffb6bdb08db897",
       "postedAt": "2026-10-23T15:01:09.889Z"
+    },
+    "steam:4866750:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4866750:permanent_free:1",
+      "store": "steam",
+      "productId": "4866750",
+      "generation": 1,
+      "title": "A Northern Evil: Tape One",
+      "storeUrl": "https://store.steampowered.com/app/4866750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T18:01:08.113Z",
+      "lastSeenAt": "2026-10-23T18:01:08.113Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A short atmospheric horror experience set in the remote north of Sweden. Explore an abandoned village where something is deeply wrong, uncover strange clues, and face a lurking evil hidden beneath the quiet surface.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T18:01:08.113Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A Northern Evil: Tape One』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4866750/",
+        "attemptedAt": "2026-10-23T18:01:09.557Z",
+        "bufferPostId": "6adba0e53d5b27036b46a079",
+        "submittedAt": "2026-10-23T18:01:11.025Z",
+        "postedAt": "2026-10-23T18:01:11.025Z"
+      },
+      "bufferPostId": "6adba0e53d5b27036b46a079",
+      "postedAt": "2026-10-23T18:01:11.025Z"
+    },
+    "steam:5254090:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5254090:permanent_free:1",
+      "store": "steam",
+      "productId": "5254090",
+      "generation": 1,
+      "title": "Muller Village",
+      "storeUrl": "https://store.steampowered.com/app/5254090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T18:01:08.113Z",
+      "lastSeenAt": "2026-10-23T18:01:08.113Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Muller Village is a Cozy Hangout about the present moment. Find your role in a cute village, communicate through drawings and song. Meet other Muller and contribute to the whole, through your unique specialisation.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T18:01:08.113Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Muller Village』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5254090/",
+        "attemptedAt": "2026-10-23T18:01:11.390Z",
+        "bufferPostId": "6adba0e7e4be8a4d861c67a6",
+        "submittedAt": "2026-10-23T18:01:12.683Z",
+        "postedAt": "2026-10-23T18:01:12.683Z"
+      },
+      "bufferPostId": "6adba0e7e4be8a4d861c67a6",
+      "postedAt": "2026-10-23T18:01:12.683Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T15:01:04.807Z",
+    "lastSuccessfulScanAt": "2026-10-23T18:01:08.113Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4582,6 +4650,7 @@
       "4846870": "2026-10-14T15:30:36.000Z",
       "4854020": "2026-10-14T21:01:00.572Z",
       "4855210": "2026-10-16T03:01:04.575Z",
+      "4866750": "2026-10-23T18:01:08.113Z",
       "4870820": "2026-10-16T18:01:10.079Z",
       "4885100": "2026-10-14T15:30:36.000Z",
       "4889610": "2026-10-19T21:01:06.551Z",
@@ -4668,6 +4737,7 @@
       "5250500": "2026-10-16T21:01:03.467Z",
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
+      "5254090": "2026-10-23T18:01:08.113Z",
       "5255280": "2026-10-14T15:30:36.000Z",
       "5256770": "2026-10-16T15:01:11.993Z",
       "5257930": "2026-10-16T00:01:03.084Z",
