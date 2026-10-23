@@ -474,6 +474,18 @@
     "steam:5318820:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5318820:permanent_free:1"
+    },
+    "steam:5039290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5039290:permanent_free:1"
+    },
+    "steam:5384900:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5384900:permanent_free:1"
+    },
+    "steam:2906990:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2906990:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4284,11 +4296,101 @@
       },
       "bufferPostId": "6adb2252e2b536ff313efb87",
       "postedAt": "2026-10-23T09:01:07.528Z"
+    },
+    "steam:5039290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5039290:permanent_free:1",
+      "store": "steam",
+      "productId": "5039290",
+      "generation": 1,
+      "title": "Soul",
+      "storeUrl": "https://store.steampowered.com/app/5039290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T12:01:18.754Z",
+      "lastSeenAt": "2026-10-23T12:01:18.754Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Lyr is a city where Souls are a product. Big corporations can change your soul for the right price. Smaller merchants can give you relief for an afternoon. This is a Visual Novel with some minor choices that change the dialogue a little. You progress through the story by clicking on the screen.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T12:01:18.754Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Soul』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5039290/",
+        "attemptedAt": "2026-10-23T12:01:19.735Z",
+        "bufferPostId": "6adb4c8f4553446d6b7cc084",
+        "submittedAt": "2026-10-23T12:01:21.087Z",
+        "postedAt": "2026-10-23T12:01:21.087Z"
+      },
+      "bufferPostId": "6adb4c8f4553446d6b7cc084",
+      "postedAt": "2026-10-23T12:01:21.087Z"
+    },
+    "steam:5384900:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5384900:permanent_free:1",
+      "store": "steam",
+      "productId": "5384900",
+      "generation": 1,
+      "title": "A Cruise for Murder",
+      "storeUrl": "https://store.steampowered.com/app/5384900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T12:01:18.754Z",
+      "lastSeenAt": "2026-10-23T12:01:18.754Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 3D modern remake of the classic Cruise for a Corpse, along with original music, different plot and 15 puzzles.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T12:01:18.754Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A Cruise for Murder』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5384900/",
+        "attemptedAt": "2026-10-23T12:01:21.354Z",
+        "bufferPostId": "6adb4c917c3aac797e7d495b",
+        "submittedAt": "2026-10-23T12:01:22.576Z",
+        "postedAt": "2026-10-23T12:01:22.576Z"
+      },
+      "bufferPostId": "6adb4c917c3aac797e7d495b",
+      "postedAt": "2026-10-23T12:01:22.576Z"
+    },
+    "steam:2906990:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2906990:permanent_free:1",
+      "store": "steam",
+      "productId": "2906990",
+      "generation": 1,
+      "title": "MoonTraum/ムーントラム",
+      "storeUrl": "https://store.steampowered.com/app/2906990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T12:01:18.754Z",
+      "lastSeenAt": "2026-10-23T12:01:18.754Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『MoonTraum』は夢の世界で釣りをするゲームです。 夢がサカナの姿になって泳ぐ不思議な世界に迷い込んだあなたはネコの釣り人ウェルトと出会い釣りをはじめます。 個性的な姿のサカナを釣りあげてコンプリートを目指しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T12:01:18.754Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『MoonTraum/ムーントラム』\n✨ いつでも無料でプレイ\n\n『MoonTraum』は夢の世界で釣りをするゲームです。 夢がサカナの姿になって泳ぐ不思議な世界に迷い込んだあなたはネコの釣り人ウェルトと出会い釣りをはじめます。 個性的な姿のサカナ…\n\nhttps://store.steampowered.com/app/2906990/",
+        "attemptedAt": "2026-10-23T12:01:22.811Z",
+        "bufferPostId": "6adb4c9297d61d392143b746",
+        "submittedAt": "2026-10-23T12:01:24.047Z",
+        "postedAt": "2026-10-23T12:01:24.047Z"
+      },
+      "bufferPostId": "6adb4c9297d61d392143b746",
+      "postedAt": "2026-10-23T12:01:24.047Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T09:01:01.018Z",
+    "lastSuccessfulScanAt": "2026-10-23T12:01:18.754Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4301,6 +4403,7 @@
       "2488560": "2026-10-22T21:01:15.937Z",
       "2582880": "2026-10-21T12:01:06.252Z",
       "2902720": "2026-10-14T15:30:36.000Z",
+      "2906990": "2026-10-23T12:01:18.754Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3522130": "2026-10-22T15:01:07.818Z",
@@ -4404,6 +4507,7 @@
       "5023780": "2026-10-14T15:30:36.000Z",
       "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
+      "5039290": "2026-10-23T12:01:18.754Z",
       "5043860": "2026-10-21T00:01:08.212Z",
       "5057270": "2026-10-14T15:30:36.000Z",
       "5075110": "2026-10-16T03:01:04.575Z",
@@ -4503,6 +4607,7 @@
       "5365780": "2026-10-23T00:01:04.971Z",
       "5371940": "2026-10-23T00:01:04.971Z",
       "5382570": "2026-10-23T03:01:08.088Z",
+      "5384900": "2026-10-23T12:01:18.754Z",
       "5394530": "2026-10-23T09:01:01.018Z"
     }
   }
