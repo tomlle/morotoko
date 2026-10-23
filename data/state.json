@@ -462,6 +462,18 @@
     "steam:4972430:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4972430:permanent_free:1"
+    },
+    "steam:4643480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4643480:permanent_free:1"
+    },
+    "steam:5394530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5394530:permanent_free:1"
+    },
+    "steam:5318820:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5318820:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4182,11 +4194,101 @@
       },
       "bufferPostId": "6adaf820d447d56a647d19f1",
       "postedAt": "2026-10-23T06:01:05.807Z"
+    },
+    "steam:4643480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4643480:permanent_free:1",
+      "store": "steam",
+      "productId": "4643480",
+      "generation": 1,
+      "title": "Shutterspeed",
+      "storeUrl": "https://store.steampowered.com/app/4643480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T09:01:01.018Z",
+      "lastSeenAt": "2026-10-23T09:01:01.018Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Use your awesome camera gadgets to drill through enemies and the environment, fly where no cameraman has flown before and most importantly, freeze the world like a photograph in this platforming adventure through cyberspace!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T09:01:01.018Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Shutterspeed』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4643480/",
+        "attemptedAt": "2026-10-23T09:01:02.036Z",
+        "bufferPostId": "6adb224ee2b536ff313ef9be",
+        "submittedAt": "2026-10-23T09:01:03.873Z",
+        "postedAt": "2026-10-23T09:01:03.873Z"
+      },
+      "bufferPostId": "6adb224ee2b536ff313ef9be",
+      "postedAt": "2026-10-23T09:01:03.873Z"
+    },
+    "steam:5394530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5394530:permanent_free:1",
+      "store": "steam",
+      "productId": "5394530",
+      "generation": 1,
+      "title": "Aim Tracer",
+      "storeUrl": "https://store.steampowered.com/app/5394530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T09:01:01.018Z",
+      "lastSeenAt": "2026-10-23T09:01:01.018Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A first-person shooter tracking game that leaving a trail that draws a design. Track it through circles, roses, stars, and Lissajous loops across 40 levels, and finish each drawing before the timer runs out.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T09:01:01.018Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Aim Tracer』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5394530/",
+        "attemptedAt": "2026-10-23T09:01:04.413Z",
+        "bufferPostId": "6adb2250b548d29b74035897",
+        "submittedAt": "2026-10-23T09:01:05.836Z",
+        "postedAt": "2026-10-23T09:01:05.836Z"
+      },
+      "bufferPostId": "6adb2250b548d29b74035897",
+      "postedAt": "2026-10-23T09:01:05.836Z"
+    },
+    "steam:5318820:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5318820:permanent_free:1",
+      "store": "steam",
+      "productId": "5318820",
+      "generation": 1,
+      "title": "記憶を食む虫",
+      "storeUrl": "https://store.steampowered.com/app/5318820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T09:01:01.018Z",
+      "lastSeenAt": "2026-10-23T09:01:01.018Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『記憶を食む虫』は、ローグライク、タワーディフェンス、農業、資源管理を融合したストラテジーゲーム。作物を育て、防衛設備を築き、動物たちと共に虫の群れを撃退しながら、自分だけのビルドを作り、失われゆく記憶を取り戻そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T09:01:01.018Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『記憶を食む虫』\n✨ いつでも無料でプレイ\n\n『記憶を食む虫』は、ローグライク、タワーディフェンス、農業、資源管理を融合したストラテジーゲーム。作物を育て、防衛設備を築き、動物たちと共に虫の群れを撃退しながら、自分だけのビルドを…\n\nhttps://store.steampowered.com/app/5318820/",
+        "attemptedAt": "2026-10-23T09:01:06.144Z",
+        "bufferPostId": "6adb2252e2b536ff313efb87",
+        "submittedAt": "2026-10-23T09:01:07.528Z",
+        "postedAt": "2026-10-23T09:01:07.528Z"
+      },
+      "bufferPostId": "6adb2252e2b536ff313efb87",
+      "postedAt": "2026-10-23T09:01:07.528Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T06:01:01.508Z",
+    "lastSuccessfulScanAt": "2026-10-23T09:01:01.018Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4244,6 +4346,7 @@
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
       "4632980": "2026-10-14T15:30:36.000Z",
+      "4643480": "2026-10-23T09:01:01.018Z",
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
       "4694770": "2026-10-19T03:01:01.402Z",
@@ -4387,6 +4490,7 @@
       "5309680": "2026-10-14T15:30:36.000Z",
       "5310070": "2026-10-22T00:00:57.495Z",
       "5314960": "2026-10-14T15:30:36.000Z",
+      "5318820": "2026-10-23T09:01:01.018Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",
@@ -4398,7 +4502,8 @@
       "5359760": "2026-10-19T09:01:06.915Z",
       "5365780": "2026-10-23T00:01:04.971Z",
       "5371940": "2026-10-23T00:01:04.971Z",
-      "5382570": "2026-10-23T03:01:08.088Z"
+      "5382570": "2026-10-23T03:01:08.088Z",
+      "5394530": "2026-10-23T09:01:01.018Z"
     }
   }
 }

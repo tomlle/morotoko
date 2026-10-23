@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39928733099",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T09:00:53.880Z",
+    "finishedAt": "2026-10-23T09:01:07.532Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39928733099"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4643480",
+      "title": "Shutterspeed",
+      "storeUrl": "https://store.steampowered.com/app/4643480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643480/e0e9ffcdb56abd6cb56dc79d35d2e82c3c644e2a/header.jpg?t=1792743604",
+      "officialDescription": "Use your awesome camera gadgets to drill through enemies and the environment, fly where no cameraman has flown before and most importantly, freeze the world like a photograph in this platforming adventure through cyberspace!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5394530",
+      "title": "Aim Tracer",
+      "storeUrl": "https://store.steampowered.com/app/5394530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5394530/bb7cf6a339154291eda1d87e531a08d0aa34d4df/header.jpg?t=1792743018",
+      "officialDescription": "A first-person shooter tracking game that leaving a trail that draws a design. Track it through circles, roses, stars, and Lissajous loops across 40 levels, and finish each drawing before the timer runs out."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5318820",
+      "title": "記憶を食む虫",
+      "storeUrl": "https://store.steampowered.com/app/5318820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318820/036ed6223d3571e5df30371008a58652e5a93c17/header_japanese.jpg?t=1792658191",
+      "officialDescription": "『記憶を食む虫』は、ローグライク、タワーディフェンス、農業、資源管理を融合したストラテジーゲーム。作物を育て、防衛設備を築き、動物たちと共に虫の群れを撃退しながら、自分だけのビルドを作り、失われゆく記憶を取り戻そう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4643480:permanent_free:1",
+      "productId": "4643480",
+      "title": "Shutterspeed",
+      "status": "sent",
+      "bufferPostId": "6adb224ee2b536ff313ef9be"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5394530:permanent_free:1",
+      "productId": "5394530",
+      "title": "Aim Tracer",
+      "status": "sent",
+      "bufferPostId": "6adb2250b548d29b74035897"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5318820:permanent_free:1",
+      "productId": "5318820",
+      "title": "記憶を食む虫",
+      "status": "sent",
+      "bufferPostId": "6adb2252e2b536ff313efb87"
+    }
+  ],
+  "errors": []
+}
