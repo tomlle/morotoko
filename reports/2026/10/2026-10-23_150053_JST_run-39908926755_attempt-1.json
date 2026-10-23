@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39908926755",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T06:00:53.495Z",
+    "finishedAt": "2026-10-23T06:01:05.812Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39908926755"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5329550",
+      "title": "Restore the Luminous",
+      "storeUrl": "https://store.steampowered.com/app/5329550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5329550/ef1ce5828d5a59402f089abdee4eb6a6265e9d1f/header.jpg?t=1792731201",
+      "officialDescription": "1対1で戦う対戦カードゲームです。どのリーダーを選んでも使えるカードは同じなのに、リーダーによって固有の能力も、最初の手札の枚数も、場に出せるユニットの数も変わります。全カードが最初から使えて、ガチャはありません。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4972430",
+      "title": "Andre Miri Cipa",
+      "storeUrl": "https://store.steampowered.com/app/4972430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972430/3ee89a755c3ef28c51035f8b6e39a716e4080f80/header.jpg?t=1792644726",
+      "officialDescription": "What if racism had been almost totally eradicated? An educational, narrative adventure, Andre Miri Cipa / In My Own Skin takes you on a journey to a hopeful future. From there, Robin, Vanessa and Marie return to painful experiences from their adolescence."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5329550:permanent_free:1",
+      "productId": "5329550",
+      "title": "Restore the Luminous",
+      "status": "sent",
+      "bufferPostId": "6adaf81ed447d56a647d15fb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4972430:permanent_free:1",
+      "productId": "4972430",
+      "title": "Andre Miri Cipa",
+      "status": "sent",
+      "bufferPostId": "6adaf820d447d56a647d19f1"
+    }
+  ],
+  "errors": []
+}

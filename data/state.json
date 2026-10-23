@@ -454,6 +454,14 @@
     "steam:5382570:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5382570:permanent_free:1"
+    },
+    "steam:5329550:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5329550:permanent_free:1"
+    },
+    "steam:4972430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4972430:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4114,11 +4122,71 @@
       },
       "bufferPostId": "6adacdfe8d2197cb2a112cdd",
       "postedAt": "2026-10-23T03:01:19.316Z"
+    },
+    "steam:5329550:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5329550:permanent_free:1",
+      "store": "steam",
+      "productId": "5329550",
+      "generation": 1,
+      "title": "Restore the Luminous",
+      "storeUrl": "https://store.steampowered.com/app/5329550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T06:01:01.508Z",
+      "lastSeenAt": "2026-10-23T06:01:01.508Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "1対1で戦う対戦カードゲームです。どのリーダーを選んでも使えるカードは同じなのに、リーダーによって固有の能力も、最初の手札の枚数も、場に出せるユニットの数も変わります。全カードが最初から使えて、ガチャはありません。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T06:01:01.508Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Restore the Luminous』\n✨ いつでも無料でプレイ\n\n1対1で戦う対戦カードゲームです。どのリーダーを選んでも使えるカードは同じなのに、リーダーによって固有の能力も、最初の手札の枚数も、場に出せるユニットの数も変わります。全カード…\n\nhttps://store.steampowered.com/app/5329550/",
+        "attemptedAt": "2026-10-23T06:01:02.555Z",
+        "bufferPostId": "6adaf81ed447d56a647d15fb",
+        "submittedAt": "2026-10-23T06:01:04.208Z",
+        "postedAt": "2026-10-23T06:01:04.208Z"
+      },
+      "bufferPostId": "6adaf81ed447d56a647d15fb",
+      "postedAt": "2026-10-23T06:01:04.208Z"
+    },
+    "steam:4972430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4972430:permanent_free:1",
+      "store": "steam",
+      "productId": "4972430",
+      "generation": 1,
+      "title": "Andre Miri Cipa",
+      "storeUrl": "https://store.steampowered.com/app/4972430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-23T06:01:01.508Z",
+      "lastSeenAt": "2026-10-23T06:01:01.508Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "What if racism had been almost totally eradicated? An educational, narrative adventure, Andre Miri Cipa / In My Own Skin takes you on a journey to a hopeful future. From there, Robin, Vanessa and Marie return to painful experiences from their adolescence.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-23T06:01:01.508Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Andre Miri Cipa』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4972430/",
+        "attemptedAt": "2026-10-23T06:01:04.478Z",
+        "bufferPostId": "6adaf820d447d56a647d19f1",
+        "submittedAt": "2026-10-23T06:01:05.807Z",
+        "postedAt": "2026-10-23T06:01:05.807Z"
+      },
+      "bufferPostId": "6adaf820d447d56a647d19f1",
+      "postedAt": "2026-10-23T06:01:05.807Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-23T03:01:08.088Z",
+    "lastSuccessfulScanAt": "2026-10-23T06:01:01.508Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4221,6 +4289,7 @@
       "4952950": "2026-10-15T18:01:01.152Z",
       "4956060": "2026-10-14T21:01:00.572Z",
       "4963800": "2026-10-14T15:30:36.000Z",
+      "4972430": "2026-10-23T06:01:01.508Z",
       "4979300": "2026-10-14T15:30:36.000Z",
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
@@ -4320,6 +4389,7 @@
       "5314960": "2026-10-14T15:30:36.000Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5328820": "2026-10-16T18:01:10.079Z",
+      "5329550": "2026-10-23T06:01:01.508Z",
       "5341000": "2026-10-21T21:00:59.332Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
