@@ -538,6 +538,10 @@
     "steam:4542390:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4542390:permanent_free:1"
+    },
+    "steam:5375180:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5375180:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4828,11 +4832,41 @@
       },
       "bufferPostId": "6adc73cdbd33ce99c313db78",
       "postedAt": "2026-10-24T09:01:02.987Z"
+    },
+    "steam:5375180:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5375180:permanent_free:1",
+      "store": "steam",
+      "productId": "5375180",
+      "generation": 1,
+      "title": "TaskBar VendingMachine",
+      "storeUrl": "https://store.steampowered.com/app/5375180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T12:01:06.666Z",
+      "lastSeenAt": "2026-10-24T12:01:06.666Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A tiny pixel-art vending machine that lives on your Windows taskbar. Customers line up while you work or play. Stock the shelves, set your prices, read the daily news to catch the next trend, and meet quirky regulars, all without leaving your desktop.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T12:01:06.666Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『TaskBar VendingMachine』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5375180/",
+        "attemptedAt": "2026-10-24T12:01:07.485Z",
+        "bufferPostId": "6adc9e038b3d437ddcb85b37",
+        "submittedAt": "2026-10-24T12:01:09.001Z",
+        "postedAt": "2026-10-24T12:01:09.001Z"
+      },
+      "bufferPostId": "6adc9e038b3d437ddcb85b37",
+      "postedAt": "2026-10-24T12:01:09.001Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T09:01:00.564Z",
+    "lastSuccessfulScanAt": "2026-10-24T12:01:06.666Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5061,6 +5095,7 @@
       "5365450": "2026-10-24T03:00:59.931Z",
       "5365780": "2026-10-23T00:01:04.971Z",
       "5371940": "2026-10-23T00:01:04.971Z",
+      "5375180": "2026-10-24T12:01:06.666Z",
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
       "5394530": "2026-10-23T09:01:01.018Z"
