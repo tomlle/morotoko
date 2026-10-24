@@ -534,6 +534,10 @@
     "steam:4522380:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4522380:permanent_free:1"
+    },
+    "steam:4542390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4542390:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4794,11 +4798,41 @@
       },
       "bufferPostId": "6adc499fe4be8a4d8642e280",
       "postedAt": "2026-10-24T06:01:04.873Z"
+    },
+    "steam:4542390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4542390:permanent_free:1",
+      "store": "steam",
+      "productId": "4542390",
+      "generation": 1,
+      "title": "Simon and Friends",
+      "storeUrl": "https://store.steampowered.com/app/4542390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T09:01:00.564Z",
+      "lastSeenAt": "2026-10-24T09:01:00.564Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "No heroes. No villains. Just friends. Pilot a diverse cast of characters through battles across destructible terrain. Level up your team to unlock more powerful weapons and tools. Utilize abilities and passives unique to each unit to gain an edge. Winning optional. Chaos mandatory. Fun guaranteed.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T09:01:00.564Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Simon and Friends』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4542390/",
+        "attemptedAt": "2026-10-24T09:01:01.390Z",
+        "bufferPostId": "6adc73cdbd33ce99c313db78",
+        "submittedAt": "2026-10-24T09:01:02.987Z",
+        "postedAt": "2026-10-24T09:01:02.987Z"
+      },
+      "bufferPostId": "6adc73cdbd33ce99c313db78",
+      "postedAt": "2026-10-24T09:01:02.987Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T06:01:02.274Z",
+    "lastSuccessfulScanAt": "2026-10-24T09:01:00.564Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4854,6 +4888,7 @@
       "4522380": "2026-10-24T06:01:02.274Z",
       "4527880": "2026-10-22T18:01:09.344Z",
       "4536570": "2026-10-14T15:30:36.000Z",
+      "4542390": "2026-10-24T09:01:00.564Z",
       "4546060": "2026-10-14T15:30:36.000Z",
       "4561260": "2026-10-17T00:01:02.592Z",
       "4567680": "2026-10-14T15:30:36.000Z",

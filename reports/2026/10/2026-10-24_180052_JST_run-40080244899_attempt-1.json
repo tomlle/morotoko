@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40080244899",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T09:00:52.941Z",
+    "finishedAt": "2026-10-24T09:01:02.993Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40080244899"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4542390",
+      "title": "Simon and Friends",
+      "storeUrl": "https://store.steampowered.com/app/4542390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542390/c413d180e67255858608b180098594ecb93dbee7/header.jpg?t=1792737700",
+      "officialDescription": "No heroes. No villains. Just friends. Pilot a diverse cast of characters through battles across destructible terrain. Level up your team to unlock more powerful weapons and tools. Utilize abilities and passives unique to each unit to gain an edge. Winning optional. Chaos mandatory. Fun guaranteed."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4542390:permanent_free:1",
+      "productId": "4542390",
+      "title": "Simon and Friends",
+      "status": "sent",
+      "bufferPostId": "6adc73cdbd33ce99c313db78"
+    }
+  ],
+  "errors": []
+}
