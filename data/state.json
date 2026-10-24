@@ -518,6 +518,18 @@
     "steam:4775990:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4775990:permanent_free:1"
+    },
+    "steam:5365450:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5365450:permanent_free:1"
+    },
+    "steam:3839200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3839200:permanent_free:1"
+    },
+    "steam:5195600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5195600:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4658,11 +4670,101 @@
       },
       "bufferPostId": "6adbf542bd33ce99c3f78c33",
       "postedAt": "2026-10-24T00:01:07.766Z"
+    },
+    "steam:5365450:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5365450:permanent_free:1",
+      "store": "steam",
+      "productId": "5365450",
+      "generation": 1,
+      "title": "BRASS: Hard Contact",
+      "storeUrl": "https://store.steampowered.com/app/5365450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T03:00:59.931Z",
+      "lastSeenAt": "2026-10-24T03:00:59.931Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A realistic 2D military shooter. Rounds drop, crack past and punch through boards; fire pins men down; sandbags, smoke and the dark decide fights. Lead squad bots or fight friends over Steam in six modes across eight maps. No killstreaks, no power-ups, no health regen.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T03:00:59.931Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『BRASS: Hard Contact』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5365450/",
+        "attemptedAt": "2026-10-24T03:01:01.879Z",
+        "bufferPostId": "6adc1f6ee4be8a4d863a92cb",
+        "submittedAt": "2026-10-24T03:01:04.413Z",
+        "postedAt": "2026-10-24T03:01:04.413Z"
+      },
+      "bufferPostId": "6adc1f6ee4be8a4d863a92cb",
+      "postedAt": "2026-10-24T03:01:04.413Z"
+    },
+    "steam:3839200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3839200:permanent_free:1",
+      "store": "steam",
+      "productId": "3839200",
+      "generation": 1,
+      "title": "Future Fab Heroes",
+      "storeUrl": "https://store.steampowered.com/app/3839200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T03:00:59.931Z",
+      "lastSeenAt": "2026-10-24T03:00:59.931Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Future Fab Hero, your mission begins now! Team up with your robot companion, CHIP-E, to complete hands-on technology and manufacturing simulations, earn rewards, unlock upgrades, and defend the Mars Innovation Zone from alien threats in a unique educational adventure.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T03:00:59.931Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Future Fab Heroes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3839200/",
+        "attemptedAt": "2026-10-24T03:01:04.764Z",
+        "bufferPostId": "6adc1f708b3d437ddc9b2982",
+        "submittedAt": "2026-10-24T03:01:06.232Z",
+        "postedAt": "2026-10-24T03:01:06.232Z"
+      },
+      "bufferPostId": "6adc1f708b3d437ddc9b2982",
+      "postedAt": "2026-10-24T03:01:06.232Z"
+    },
+    "steam:5195600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5195600:permanent_free:1",
+      "store": "steam",
+      "productId": "5195600",
+      "generation": 1,
+      "title": "QuestAway",
+      "storeUrl": "https://store.steampowered.com/app/5195600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T03:00:59.931Z",
+      "lastSeenAt": "2026-10-24T03:00:59.931Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "タスクバーのすぐ横で動く、小さな放置系RPG。ヒーローのパーティを組んで戦いに送り出したら、あとは作業に戻るだけ。戻ってきたときには、戦利品がたまっています。1日12回、みんなで巨大なコロッサスに挑みます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T03:00:59.931Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『QuestAway』\n✨ いつでも無料でプレイ\n\nタスクバーのすぐ横で動く、小さな放置系RPG。ヒーローのパーティを組んで戦いに送り出したら、あとは作業に戻るだけ。戻ってきたときには、戦利品がたまっています。1日12回、みんなで巨大なコロッ…\n\nhttps://store.steampowered.com/app/5195600/",
+        "attemptedAt": "2026-10-24T03:01:06.721Z",
+        "bufferPostId": "6adc1f723d5b27036b6448a6",
+        "submittedAt": "2026-10-24T03:01:08.162Z",
+        "postedAt": "2026-10-24T03:01:08.162Z"
+      },
+      "bufferPostId": "6adc1f723d5b27036b6448a6",
+      "postedAt": "2026-10-24T03:01:08.162Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T00:01:05.299Z",
+    "lastSuccessfulScanAt": "2026-10-24T03:00:59.931Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4686,6 +4788,7 @@
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
+      "3839200": "2026-10-24T03:00:59.931Z",
       "3847310": "2026-10-20T12:00:59.724Z",
       "3858540": "2026-10-14T15:30:36.000Z",
       "3923300": "2026-10-14T15:30:36.000Z",
@@ -4820,6 +4923,7 @@
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
+      "5195600": "2026-10-24T03:00:59.931Z",
       "5196510": "2026-10-15T21:00:58.160Z",
       "5199830": "2026-10-16T15:01:11.993Z",
       "5206450": "2026-10-14T15:30:36.000Z",
@@ -4884,6 +4988,7 @@
       "5357680": "2026-10-20T18:01:06.119Z",
       "5358500": "2026-10-23T15:01:04.807Z",
       "5359760": "2026-10-19T09:01:06.915Z",
+      "5365450": "2026-10-24T03:00:59.931Z",
       "5365780": "2026-10-23T00:01:04.971Z",
       "5371940": "2026-10-23T00:01:04.971Z",
       "5382570": "2026-10-23T03:01:08.088Z",
