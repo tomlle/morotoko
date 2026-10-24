@@ -530,6 +530,10 @@
     "steam:5195600:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5195600:permanent_free:1"
+    },
+    "steam:4522380:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4522380:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4760,11 +4764,41 @@
       },
       "bufferPostId": "6adc1f723d5b27036b6448a6",
       "postedAt": "2026-10-24T03:01:08.162Z"
+    },
+    "steam:4522380:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4522380:permanent_free:1",
+      "store": "steam",
+      "productId": "4522380",
+      "generation": 1,
+      "title": "Realize in Peace",
+      "storeUrl": "https://store.steampowered.com/app/4522380/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T06:01:02.274Z",
+      "lastSeenAt": "2026-10-24T06:01:02.274Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "大切な人をAIとして復活させた場合、何らかの要因で手放さなければならない、別れなければならなくなった時、私たちはその電源を切ることが出来るのだろうか？",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T06:01:02.274Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Realize in Peace』\n✨ いつでも無料でプレイ\n\n大切な人をAIとして復活させた場合、何らかの要因で手放さなければならない、別れなければならなくなった時、私たちはその電源を切ることが出来るのだろうか？\n\nhttps://store.steampowered.com/app/4522380/",
+        "attemptedAt": "2026-10-24T06:01:03.362Z",
+        "bufferPostId": "6adc499fe4be8a4d8642e280",
+        "submittedAt": "2026-10-24T06:01:04.873Z",
+        "postedAt": "2026-10-24T06:01:04.873Z"
+      },
+      "bufferPostId": "6adc499fe4be8a4d8642e280",
+      "postedAt": "2026-10-24T06:01:04.873Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T03:00:59.931Z",
+    "lastSuccessfulScanAt": "2026-10-24T06:01:02.274Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -4817,6 +4851,7 @@
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4491130": "2026-10-19T03:01:01.402Z",
+      "4522380": "2026-10-24T06:01:02.274Z",
       "4527880": "2026-10-22T18:01:09.344Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4546060": "2026-10-14T15:30:36.000Z",
