@@ -558,6 +558,10 @@
     "steam:5245030:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5245030:permanent_free:1"
+    },
+    "steam:4901700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4901700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4998,11 +5002,41 @@
       },
       "bufferPostId": "6adcf2656887a2efc1cc66e7",
       "postedAt": "2026-10-24T18:01:10.195Z"
+    },
+    "steam:4901700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4901700:permanent_free:1",
+      "store": "steam",
+      "productId": "4901700",
+      "generation": 1,
+      "title": "Grievance: Eye for an Eye",
+      "storeUrl": "https://store.steampowered.com/app/4901700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T21:01:02.500Z",
+      "lastSeenAt": "2026-10-24T21:01:02.500Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 2D animated choice-driven interactive superhero drama about the cycle of revenge and everyone affected by it. Watch the story unfold while making choices that lead to different story branches and endings.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T21:01:02.500Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Grievance: Eye for an Eye』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4901700/",
+        "attemptedAt": "2026-10-24T21:01:03.526Z",
+        "bufferPostId": "6add1c8f8b3d437ddcd9d95b",
+        "submittedAt": "2026-10-24T21:01:05.025Z",
+        "postedAt": "2026-10-24T21:01:05.025Z"
+      },
+      "bufferPostId": "6add1c8f8b3d437ddcd9d95b",
+      "postedAt": "2026-10-24T21:01:05.025Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T18:01:06.791Z",
+    "lastSuccessfulScanAt": "2026-10-24T21:01:02.500Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5103,6 +5137,7 @@
       "4894260": "2026-10-14T15:30:36.000Z",
       "4896360": "2026-10-21T18:01:08.108Z",
       "4898790": "2026-10-21T09:01:07.569Z",
+      "4901700": "2026-10-24T21:01:02.500Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4910060": "2026-10-20T09:01:01.492Z",
