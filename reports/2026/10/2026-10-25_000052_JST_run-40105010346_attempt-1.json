@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40105010346",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T15:00:52.107Z",
+    "finishedAt": "2026-10-24T15:01:04.036Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40105010346"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5281020",
+      "title": "Bungee Simulator: Freefall",
+      "storeUrl": "https://store.steampowered.com/app/5281020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281020/531b5ba427429b98f8fb8567718a5e07f6ac6c3d/header.jpg?t=1792762477",
+      "officialDescription": "An extreme bungee jumping simulation game that goes for real physics feedback. Leap from high up and feel the ultimate weightlessness of free fall and the adrenaline rush when the rope snaps back."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5339870",
+      "title": "図書館警察シミュレーター",
+      "storeUrl": "https://store.steampowered.com/app/5339870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339870/c96d7abc23f7d652d8f5685d3217f4d73c7f2b8e/header_japanese.jpg?t=1792753808",
+      "officialDescription": "本を返さないなら、弱みを握れ。貸出履歴、メール、SNS、校内探索から生徒の秘密を見つけ、本を返却させよう。口止め料で資金を集め、仲間を増やし、返却督促や見回りを自動化。「図書館警察」を学校最大の組織へ育てていく、一人称視点の短編ブラックコメディ職業シミュレーション。日ごとに変化する生徒や情報を調べ、効率よく組織を拡大しよう。弱みで人を動かすほど、学校は静かで従順になっていく。その変化を成功と呼ぶか、最後に決めるのはあなた自身だ。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5281020:permanent_free:1",
+      "productId": "5281020",
+      "title": "Bungee Simulator: Freefall",
+      "status": "sent",
+      "bufferPostId": "6adcc82d8b3d437ddcc4f3fa"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5339870:permanent_free:1",
+      "productId": "5339870",
+      "title": "図書館警察シミュレーター",
+      "status": "sent",
+      "bufferPostId": "6adcc82ee4be8a4d86649ea5"
+    }
+  ],
+  "errors": []
+}
