@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40118710876",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T18:00:55.249Z",
+    "finishedAt": "2026-10-24T18:01:10.200Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40118710876"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4929010",
+      "title": "Unforgiving Dungeon",
+      "storeUrl": "https://store.steampowered.com/app/4929010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929010/aa969a6d2c379d45bd11300cbb4064f517b7775f/header.jpg?t=1792854217",
+      "officialDescription": "Roguelike, Turn-Based Combat, Dungeon Crawler, 2D, Pixel Art"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5245030",
+      "title": "The Way: The Beloved's Testimony",
+      "storeUrl": "https://store.steampowered.com/app/5245030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245030/132d4ee2fb85627c0191e46e3fd5114264a41869/header.jpg?t=1792772868",
+      "officialDescription": "Carry an unfinished testimony from Jerusalem through fourteen districts. Build households, argue in public, and keep the tables fed while Saul's warrants, rival Houses, and Rome threaten the people who trust you. A strategy visual novel with four historical branches and eight ending accounts."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4929010:permanent_free:1",
+      "productId": "4929010",
+      "title": "Unforgiving Dungeon",
+      "status": "sent",
+      "bufferPostId": "6adcf2630b5343d0709775ed"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5245030:permanent_free:1",
+      "productId": "5245030",
+      "title": "The Way: The Beloved's Testimony",
+      "status": "sent",
+      "bufferPostId": "6adcf2656887a2efc1cc66e7"
+    }
+  ],
+  "errors": []
+}

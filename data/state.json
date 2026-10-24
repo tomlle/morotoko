@@ -550,6 +550,14 @@
     "steam:5339870:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5339870:permanent_free:1"
+    },
+    "steam:4929010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4929010:permanent_free:1"
+    },
+    "steam:5245030:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5245030:permanent_free:1"
     }
   },
   "campaigns": {
@@ -4930,11 +4938,71 @@
       },
       "bufferPostId": "6adcc82ee4be8a4d86649ea5",
       "postedAt": "2026-10-24T15:01:04.031Z"
+    },
+    "steam:4929010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4929010:permanent_free:1",
+      "store": "steam",
+      "productId": "4929010",
+      "generation": 1,
+      "title": "Unforgiving Dungeon",
+      "storeUrl": "https://store.steampowered.com/app/4929010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T18:01:06.791Z",
+      "lastSeenAt": "2026-10-24T18:01:06.791Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Roguelike, Turn-Based Combat, Dungeon Crawler, 2D, Pixel Art",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T18:01:06.791Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Unforgiving Dungeon』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4929010/",
+        "attemptedAt": "2026-10-24T18:01:07.265Z",
+        "bufferPostId": "6adcf2630b5343d0709775ed",
+        "submittedAt": "2026-10-24T18:01:08.572Z",
+        "postedAt": "2026-10-24T18:01:08.572Z"
+      },
+      "bufferPostId": "6adcf2630b5343d0709775ed",
+      "postedAt": "2026-10-24T18:01:08.572Z"
+    },
+    "steam:5245030:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5245030:permanent_free:1",
+      "store": "steam",
+      "productId": "5245030",
+      "generation": 1,
+      "title": "The Way: The Beloved's Testimony",
+      "storeUrl": "https://store.steampowered.com/app/5245030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-24T18:01:06.791Z",
+      "lastSeenAt": "2026-10-24T18:01:06.791Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Carry an unfinished testimony from Jerusalem through fourteen districts. Build households, argue in public, and keep the tables fed while Saul's warrants, rival Houses, and Rome threaten the people who trust you. A strategy visual novel with four historical branches and eight ending accounts.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-24T18:01:06.791Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Way: The Beloved's Testimony』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5245030/",
+        "attemptedAt": "2026-10-24T18:01:08.857Z",
+        "bufferPostId": "6adcf2656887a2efc1cc66e7",
+        "submittedAt": "2026-10-24T18:01:10.195Z",
+        "postedAt": "2026-10-24T18:01:10.195Z"
+      },
+      "bufferPostId": "6adcf2656887a2efc1cc66e7",
+      "postedAt": "2026-10-24T18:01:10.195Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T15:01:00.588Z",
+    "lastSuccessfulScanAt": "2026-10-24T18:01:06.791Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5038,6 +5106,7 @@
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4910060": "2026-10-20T09:01:01.492Z",
+      "4929010": "2026-10-24T18:01:06.791Z",
       "4930500": "2026-10-16T03:01:04.575Z",
       "4931230": "2026-10-16T18:01:10.079Z",
       "4941580": "2026-10-14T15:30:36.000Z",
@@ -5112,6 +5181,7 @@
       "5231360": "2026-10-15T09:01:04.942Z",
       "5233990": "2026-10-16T15:01:11.993Z",
       "5241530": "2026-10-14T15:30:36.000Z",
+      "5245030": "2026-10-24T18:01:06.791Z",
       "5246400": "2026-10-20T12:00:59.724Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
