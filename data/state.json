@@ -582,6 +582,14 @@
     "steam:5288120:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5288120:permanent_free:1"
+    },
+    "steam:4087210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4087210:permanent_free:1"
+    },
+    "steam:5198690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5198690:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5202,11 +5210,71 @@
       },
       "bufferPostId": "6addef806887a2efc102ddb1",
       "postedAt": "2026-10-25T12:01:05.912Z"
+    },
+    "steam:4087210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4087210:permanent_free:1",
+      "store": "steam",
+      "productId": "4087210",
+      "generation": 1,
+      "title": "Red Rain",
+      "storeUrl": "https://store.steampowered.com/app/4087210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T18:01:03.590Z",
+      "lastSeenAt": "2026-10-25T18:01:03.590Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Survive a decimated yet beautiful post-apocalyptic landscape as Allie, a competent survivalist and mother raising her daughter against the backdrop of a broken world.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T18:01:03.590Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Red Rain』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4087210/",
+        "attemptedAt": "2026-10-25T18:01:04.589Z",
+        "bufferPostId": "6ade43e06887a2efc119ec66",
+        "submittedAt": "2026-10-25T18:01:06.025Z",
+        "postedAt": "2026-10-25T18:01:06.025Z"
+      },
+      "bufferPostId": "6ade43e06887a2efc119ec66",
+      "postedAt": "2026-10-25T18:01:06.025Z"
+    },
+    "steam:5198690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5198690:permanent_free:1",
+      "store": "steam",
+      "productId": "5198690",
+      "generation": 1,
+      "title": "Balance Due",
+      "storeUrl": "https://store.steampowered.com/app/5198690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T18:01:03.590Z",
+      "lastSeenAt": "2026-10-25T18:01:03.590Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Balance Dueは、ソロまたはオンライン協力プレイで楽しめるファンタジーアクションゲームです。モンスターを狩り、戦利品を集め、武器を強化して、時間切れになる前にベースキャンプへ帰還しましょう。毎日のゴールドノルマを達成し、変動するDueを管理して、生き延びた先の結末を決めてください。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T18:01:03.590Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Balance Due』\n✨ いつでも無料でプレイ\n\nBalance Dueは、ソロまたはオンライン協力プレイで楽しめるファンタジーアクションゲームです。モンスターを狩り、戦利品を集め、武器を強化して、時間切れになる前にベースキャンプへ帰還しましょ…\n\nhttps://store.steampowered.com/app/5198690/",
+        "attemptedAt": "2026-10-25T18:01:06.404Z",
+        "bufferPostId": "6ade43e26887a2efc119ecf4",
+        "submittedAt": "2026-10-25T18:01:08.697Z",
+        "postedAt": "2026-10-25T18:01:08.697Z"
+      },
+      "bufferPostId": "6ade43e26887a2efc119ecf4",
+      "postedAt": "2026-10-25T18:01:08.697Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-25T15:01:07.075Z",
+    "lastSuccessfulScanAt": "2026-10-25T18:01:03.590Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5243,6 +5311,7 @@
       "4036370": "2026-10-22T12:01:30.927Z",
       "4079960": "2026-10-19T00:01:02.686Z",
       "4080860": "2026-10-14T15:30:36.000Z",
+      "4087210": "2026-10-25T18:01:03.590Z",
       "4096710": "2026-10-14T15:30:36.000Z",
       "4112730": "2026-10-14T15:30:36.000Z",
       "4150920": "2026-10-14T15:30:36.000Z",
@@ -5374,6 +5443,7 @@
       "5186550": "2026-10-14T15:30:36.000Z",
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196510": "2026-10-15T21:00:58.160Z",
+      "5198690": "2026-10-25T18:01:03.590Z",
       "5199830": "2026-10-16T15:01:11.993Z",
       "5206450": "2026-10-14T15:30:36.000Z",
       "5209250": "2026-10-25T09:01:01.104Z",
