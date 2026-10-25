@@ -566,6 +566,14 @@
     "steam:1930320:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:1930320:permanent_free:1"
+    },
+    "steam:5209250:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5209250:permanent_free:1"
+    },
+    "steam:3138080:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3138080:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5066,11 +5074,71 @@
       },
       "bufferPostId": "6add46c5bd33ce99c34947fb",
       "postedAt": "2026-10-25T00:01:10.911Z"
+    },
+    "steam:5209250:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5209250:permanent_free:1",
+      "store": "steam",
+      "productId": "5209250",
+      "generation": 1,
+      "title": "KING 4 A DAY",
+      "storeUrl": "https://store.steampowered.com/app/5209250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T09:01:01.104Z",
+      "lastSeenAt": "2026-10-25T09:01:01.104Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "KING 4 A DAY is a small, straightforward roguelike strategy game inspired by chess. Lead four humble pawns across procedurally generated levels, adapt to ever-changing laws, and brave a kingdom of black-and-white roads to rescue the kidnapped White King.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T09:01:01.104Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『KING 4 A DAY』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5209250/",
+        "attemptedAt": "2026-10-25T09:01:02.363Z",
+        "bufferPostId": "6addc54e8b3d437ddcfc0ff6",
+        "submittedAt": "2026-10-25T09:01:03.687Z",
+        "postedAt": "2026-10-25T09:01:03.687Z"
+      },
+      "bufferPostId": "6addc54e8b3d437ddcfc0ff6",
+      "postedAt": "2026-10-25T09:01:03.687Z"
+    },
+    "steam:3138080:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3138080:permanent_free:1",
+      "store": "steam",
+      "productId": "3138080",
+      "generation": 1,
+      "title": "Some Things Stay Broken",
+      "storeUrl": "https://store.steampowered.com/app/3138080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T09:01:01.104Z",
+      "lastSeenAt": "2026-10-25T09:01:01.104Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A short narrative adventure about repair, family, and a past left unanswered. Talk to customers, inspect objects, and make simple repairs as seven missed calls draw you back to an old phone. Around 30 minutes. Traditional Chinese only.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T09:01:01.104Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Some Things Stay Broken』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3138080/",
+        "attemptedAt": "2026-10-25T09:01:04.148Z",
+        "bufferPostId": "6addc5506887a2efc1f79101",
+        "submittedAt": "2026-10-25T09:01:05.795Z",
+        "postedAt": "2026-10-25T09:01:05.795Z"
+      },
+      "bufferPostId": "6addc5506887a2efc1f79101",
+      "postedAt": "2026-10-25T09:01:05.795Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-25T06:01:02.815Z",
+    "lastSuccessfulScanAt": "2026-10-25T09:01:01.104Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5085,6 +5153,7 @@
       "2582880": "2026-10-21T12:01:06.252Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
+      "3138080": "2026-10-25T09:01:01.104Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3522130": "2026-10-22T15:01:07.818Z",
@@ -5238,6 +5307,7 @@
       "5196510": "2026-10-15T21:00:58.160Z",
       "5199830": "2026-10-16T15:01:11.993Z",
       "5206450": "2026-10-14T15:30:36.000Z",
+      "5209250": "2026-10-25T09:01:01.104Z",
       "5210050": "2026-10-14T15:30:36.000Z",
       "5217620": "2026-10-14T15:30:36.000Z",
       "5218350": "2026-10-14T15:30:36.000Z",
