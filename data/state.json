@@ -562,6 +562,10 @@
     "steam:4901700:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4901700:permanent_free:1"
+    },
+    "steam:1930320:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1930320:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5032,17 +5036,48 @@
       },
       "bufferPostId": "6add1c8f8b3d437ddcd9d95b",
       "postedAt": "2026-10-24T21:01:05.025Z"
+    },
+    "steam:1930320:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1930320:permanent_free:1",
+      "store": "steam",
+      "productId": "1930320",
+      "generation": 1,
+      "title": "Iron Online",
+      "storeUrl": "https://store.steampowered.com/app/1930320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T00:01:08.164Z",
+      "lastSeenAt": "2026-10-25T00:01:08.164Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Iron Online is a new indie PvP MMO in Early Access! Designed around player vs player world events. Join our Discord! The invitation link is available on the game's login page.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T00:01:08.164Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Iron Online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1930320/",
+        "attemptedAt": "2026-10-25T00:01:09.409Z",
+        "bufferPostId": "6add46c5bd33ce99c34947fb",
+        "submittedAt": "2026-10-25T00:01:10.911Z",
+        "postedAt": "2026-10-25T00:01:10.911Z"
+      },
+      "bufferPostId": "6add46c5bd33ce99c34947fb",
+      "postedAt": "2026-10-25T00:01:10.911Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-24T21:01:02.500Z",
+    "lastSuccessfulScanAt": "2026-10-25T00:01:08.164Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
       "1333410": "2026-10-14T15:30:36.000Z",
       "1624430": "2026-10-19T21:01:06.551Z",
       "1674270": "2026-10-14T15:30:36.000Z",
+      "1930320": "2026-10-25T00:01:08.164Z",
       "1965430": "2026-10-14T15:30:36.000Z",
       "1979510": "2026-10-17T15:01:03.979Z",
       "2331730": "2026-10-14T15:30:36.000Z",

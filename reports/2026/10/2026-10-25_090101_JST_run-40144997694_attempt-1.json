@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40144997694",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-25T00:01:01.369Z",
+    "finishedAt": "2026-10-25T00:01:10.916Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40144997694"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1930320",
+      "title": "Iron Online",
+      "storeUrl": "https://store.steampowered.com/app/1930320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1930320/6f8ccaf682fbc40772cdc585fce8cf32750e4d8f/header.jpg?t=1792877569",
+      "officialDescription": "Iron Online is a new indie PvP MMO in Early Access! Designed around player vs player world events. Join our Discord! The invitation link is available on the game's login page."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:1930320:permanent_free:1",
+      "productId": "1930320",
+      "title": "Iron Online",
+      "status": "sent",
+      "bufferPostId": "6add46c5bd33ce99c34947fb"
+    }
+  ],
+  "errors": []
+}
