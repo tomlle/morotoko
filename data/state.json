@@ -574,6 +574,14 @@
     "steam:3138080:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3138080:permanent_free:1"
+    },
+    "steam:5084200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5084200:permanent_free:1"
+    },
+    "steam:5288120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5288120:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5134,11 +5142,71 @@
       },
       "bufferPostId": "6addc5506887a2efc1f79101",
       "postedAt": "2026-10-25T09:01:05.795Z"
+    },
+    "steam:5084200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5084200:permanent_free:1",
+      "store": "steam",
+      "productId": "5084200",
+      "generation": 1,
+      "title": "Task Bar Cube",
+      "storeUrl": "https://store.steampowered.com/app/5084200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T12:01:01.232Z",
+      "lastSeenAt": "2026-10-25T12:01:01.232Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Task Bar Cubeは、フルスクリーンまたはタスクバーから直接プレイできる放置型RPGです。キャラクターやペットを育成し、レアな装備を集め、数十種類の成長システムを楽しもう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T12:01:01.232Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Task Bar Cube』\n✨ いつでも無料でプレイ\n\nTask Bar Cubeは、フルスクリーンまたはタスクバーから直接プレイできる放置型RPGです。キャラクターやペットを育成し、レアな装備を集め、数十種類の成長システムを楽しもう。\n\nhttps://store.steampowered.com/app/5084200/",
+        "attemptedAt": "2026-10-25T12:01:02.657Z",
+        "bufferPostId": "6addef7e0b5343d070cde7bf",
+        "submittedAt": "2026-10-25T12:01:04.059Z",
+        "postedAt": "2026-10-25T12:01:04.059Z"
+      },
+      "bufferPostId": "6addef7e0b5343d070cde7bf",
+      "postedAt": "2026-10-25T12:01:04.059Z"
+    },
+    "steam:5288120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5288120:permanent_free:1",
+      "store": "steam",
+      "productId": "5288120",
+      "generation": 1,
+      "title": "赛博拼豆",
+      "storeUrl": "https://store.steampowered.com/app/5288120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-25T12:01:01.232Z",
+      "lastSeenAt": "2026-10-25T12:01:01.232Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free, offline bead-crafting game with 40 studio-original patterns, including 10 for Halloween, plus 6 starters. Turn photos into bead guides with background removal, then place beads and iron your work. No ads or in-app purchases. Simplified Chinese interface.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-25T12:01:01.232Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『赛博拼豆』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5288120/",
+        "attemptedAt": "2026-10-25T12:01:04.665Z",
+        "bufferPostId": "6addef806887a2efc102ddb1",
+        "submittedAt": "2026-10-25T12:01:05.912Z",
+        "postedAt": "2026-10-25T12:01:05.912Z"
+      },
+      "bufferPostId": "6addef806887a2efc102ddb1",
+      "postedAt": "2026-10-25T12:01:05.912Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-25T09:01:01.104Z",
+    "lastSuccessfulScanAt": "2026-10-25T12:01:01.232Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5271,6 +5339,7 @@
       "5049940": "2026-10-23T21:00:59.012Z",
       "5057270": "2026-10-14T15:30:36.000Z",
       "5075110": "2026-10-16T03:01:04.575Z",
+      "5084200": "2026-10-25T12:01:01.232Z",
       "5090350": "2026-10-14T18:01:12.359Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
@@ -5348,6 +5417,7 @@
       "5281020": "2026-10-24T15:01:00.588Z",
       "5281080": "2026-10-22T03:06:25.291Z",
       "5284190": "2026-10-14T15:30:36.000Z",
+      "5288120": "2026-10-25T12:01:01.232Z",
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289970": "2026-10-14T15:30:36.000Z",
       "5291650": "2026-10-14T15:30:36.000Z",

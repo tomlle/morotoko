@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40191244837",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-25T12:00:54.978Z",
+    "finishedAt": "2026-10-25T12:01:06.070Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40191244837"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5084200",
+      "title": "Task Bar Cube",
+      "storeUrl": "https://store.steampowered.com/app/5084200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084200/1d498d03902b7a57460f549f32e8d1bc1015cdd4/header.jpg?t=1792922301",
+      "officialDescription": "Task Bar Cubeは、フルスクリーンまたはタスクバーから直接プレイできる放置型RPGです。キャラクターやペットを育成し、レアな装備を集め、数十種類の成長システムを楽しもう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5288120",
+      "title": "赛博拼豆",
+      "storeUrl": "https://store.steampowered.com/app/5288120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288120/f7c20d5040d092ac7041a422d4aca2b58474184f/header.jpg?t=1792836179",
+      "officialDescription": "A free, offline bead-crafting game with 40 studio-original patterns, including 10 for Halloween, plus 6 starters. Turn photos into bead guides with background removal, then place beads and iron your work. No ads or in-app purchases. Simplified Chinese interface."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5084200:permanent_free:1",
+      "productId": "5084200",
+      "title": "Task Bar Cube",
+      "status": "sent",
+      "bufferPostId": "6addef7e0b5343d070cde7bf"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5288120:permanent_free:1",
+      "productId": "5288120",
+      "title": "赛博拼豆",
+      "status": "sent",
+      "bufferPostId": "6addef806887a2efc102ddb1"
+    }
+  ],
+  "errors": []
+}
