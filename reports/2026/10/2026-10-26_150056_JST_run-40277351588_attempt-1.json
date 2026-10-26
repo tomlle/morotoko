@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40277351588",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-26T06:00:56.755Z",
+    "finishedAt": "2026-10-26T06:01:06.839Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40277351588"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5010310",
+      "title": "フロントライン2042：現代戦シューター",
+      "storeUrl": "https://store.steampowered.com/app/5010310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010310/c6d5bb01b8ebc34256be7957249f29370d4f0289/header.jpg?t=1792992377",
+      "officialDescription": "Frontline 2042は、現代戦を舞台にしたハイスピードなオンラインFPSです。ロードアウトを組み、多彩な武器をアンロック・強化して、チーム戦やフリーフォーオールで世界中のプレイヤーと競い合いましょう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5010310:permanent_free:1",
+      "productId": "5010310",
+      "title": "フロントライン2042：現代戦シューター",
+      "status": "sent",
+      "bufferPostId": "6adeeca1906a941b7223da35"
+    }
+  ],
+  "errors": []
+}

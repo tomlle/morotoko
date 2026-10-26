@@ -594,6 +594,10 @@
     "steam:5324320:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5324320:permanent_free:1"
+    },
+    "steam:5010310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5010310:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5304,11 +5308,41 @@
       },
       "bufferPostId": "6ade9842e4be8a4d86d3a312",
       "postedAt": "2026-10-26T00:01:08.120Z"
+    },
+    "steam:5010310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5010310:permanent_free:1",
+      "store": "steam",
+      "productId": "5010310",
+      "generation": 1,
+      "title": "フロントライン2042：現代戦シューター",
+      "storeUrl": "https://store.steampowered.com/app/5010310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T06:01:04.083Z",
+      "lastSeenAt": "2026-10-26T06:01:04.083Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Frontline 2042は、現代戦を舞台にしたハイスピードなオンラインFPSです。ロードアウトを組み、多彩な武器をアンロック・強化して、チーム戦やフリーフォーオールで世界中のプレイヤーと競い合いましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T06:01:04.083Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『フロントライン2042：現代戦シューター』\n✨ いつでも無料でプレイ\n\nFrontline 2042は、現代戦を舞台にしたハイスピードなオンラインFPSです。ロードアウトを組み、多彩な武器をアンロック・強化して、チーム戦やフリーフォーオールで世界…\n\nhttps://store.steampowered.com/app/5010310/",
+        "attemptedAt": "2026-10-26T06:01:05.152Z",
+        "bufferPostId": "6adeeca1906a941b7223da35",
+        "submittedAt": "2026-10-26T06:01:06.834Z",
+        "postedAt": "2026-10-26T06:01:06.834Z"
+      },
+      "bufferPostId": "6adeeca1906a941b7223da35",
+      "postedAt": "2026-10-26T06:01:06.834Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T03:01:08.310Z",
+    "lastSuccessfulScanAt": "2026-10-26T06:01:04.083Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5432,6 +5466,7 @@
       "4997960": "2026-10-23T21:00:59.012Z",
       "5005680": "2026-10-14T15:30:36.000Z",
       "5006180": "2026-10-14T15:30:36.000Z",
+      "5010310": "2026-10-26T06:01:04.083Z",
       "5021380": "2026-10-14T15:30:36.000Z",
       "5021400": "2026-10-14T15:30:36.000Z",
       "5023780": "2026-10-14T15:30:36.000Z",
