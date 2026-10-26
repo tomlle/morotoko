@@ -598,6 +598,10 @@
     "steam:5010310:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5010310:permanent_free:1"
+    },
+    "steam:5242290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5242290:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5338,11 +5342,41 @@
       },
       "bufferPostId": "6adeeca1906a941b7223da35",
       "postedAt": "2026-10-26T06:01:06.834Z"
+    },
+    "steam:5242290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5242290:permanent_free:1",
+      "store": "steam",
+      "productId": "5242290",
+      "generation": 1,
+      "title": "Demon Face Punching Club",
+      "storeUrl": "https://store.steampowered.com/app/5242290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T09:01:11.947Z",
+      "lastSeenAt": "2026-10-26T09:01:11.947Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A loud, sweaty VR rhythm brawler. Demon heads come at you to the beat of real Norwegian punk and rock. Punch in their faces before they eat you, survive the song, and buy your way back from almost death with demon juice.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T09:01:11.947Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Demon Face Punching Club』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5242290/",
+        "attemptedAt": "2026-10-26T09:01:13.546Z",
+        "bufferPostId": "6adf16d9c869bde1a47fdf03",
+        "submittedAt": "2026-10-26T09:01:14.964Z",
+        "postedAt": "2026-10-26T09:01:14.964Z"
+      },
+      "bufferPostId": "6adf16d9c869bde1a47fdf03",
+      "postedAt": "2026-10-26T09:01:14.964Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T06:01:04.083Z",
+    "lastSuccessfulScanAt": "2026-10-26T09:01:11.947Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5529,6 +5563,7 @@
       "5231360": "2026-10-15T09:01:04.942Z",
       "5233990": "2026-10-16T15:01:11.993Z",
       "5241530": "2026-10-14T15:30:36.000Z",
+      "5242290": "2026-10-26T09:01:11.947Z",
       "5245030": "2026-10-24T18:01:06.791Z",
       "5246400": "2026-10-20T12:00:59.724Z",
       "5247100": "2026-10-14T15:30:36.000Z",
