@@ -590,6 +590,10 @@
     "steam:5198690:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5198690:permanent_free:1"
+    },
+    "steam:5324320:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5324320:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5270,11 +5274,41 @@
       },
       "bufferPostId": "6ade43e26887a2efc119ecf4",
       "postedAt": "2026-10-25T18:01:08.697Z"
+    },
+    "steam:5324320:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5324320:permanent_free:1",
+      "store": "steam",
+      "productId": "5324320",
+      "generation": 1,
+      "title": "Puzzle Peace: Cozy Jigsaw Puzzles",
+      "storeUrl": "https://store.steampowered.com/app/5324320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T00:01:03.264Z",
+      "lastSeenAt": "2026-10-26T00:01:03.264Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Free-to-play cozy jigsaw puzzles. Solve gorgeous scenes from 40 to 1,296 pieces, sort pieces into trays by edge, color or shape, and come back every day for a new Daily puzzle that everyone plays. No rush - just soft music and the click of a perfect fit on your cozy sunlit table space.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T00:01:03.264Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Puzzle Peace: Cozy Jigsaw Puzzles』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5324320/",
+        "attemptedAt": "2026-10-26T00:01:06.002Z",
+        "bufferPostId": "6ade9842e4be8a4d86d3a312",
+        "submittedAt": "2026-10-26T00:01:08.120Z",
+        "postedAt": "2026-10-26T00:01:08.120Z"
+      },
+      "bufferPostId": "6ade9842e4be8a4d86d3a312",
+      "postedAt": "2026-10-26T00:01:08.120Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-25T21:01:04.716Z",
+    "lastSuccessfulScanAt": "2026-10-26T00:01:03.264Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5502,6 +5536,7 @@
       "5314960": "2026-10-14T15:30:36.000Z",
       "5318820": "2026-10-23T09:01:01.018Z",
       "5319610": "2026-10-14T15:30:36.000Z",
+      "5324320": "2026-10-26T00:01:03.264Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",
       "5339870": "2026-10-24T15:01:00.588Z",
