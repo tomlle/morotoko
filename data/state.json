@@ -606,6 +606,14 @@
     "steam:5088140:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5088140:permanent_free:1"
+    },
+    "steam:5356470:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5356470:permanent_free:1"
+    },
+    "steam:5391500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5391500:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5406,11 +5414,71 @@
       },
       "bufferPostId": "6adf41049c091261b9141754",
       "postedAt": "2026-10-26T12:01:10.983Z"
+    },
+    "steam:5356470:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5356470:permanent_free:1",
+      "store": "steam",
+      "productId": "5356470",
+      "generation": 1,
+      "title": "Playable Archive",
+      "storeUrl": "https://store.steampowered.com/app/5356470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T15:01:10.225Z",
+      "lastSeenAt": "2026-10-26T15:01:10.225Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Review with caution.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T15:01:10.225Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Playable Archive』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5356470/",
+        "attemptedAt": "2026-10-26T15:01:11.586Z",
+        "bufferPostId": "6adf6b386b7765f94d5358af",
+        "submittedAt": "2026-10-26T15:01:13.441Z",
+        "postedAt": "2026-10-26T15:01:13.441Z"
+      },
+      "bufferPostId": "6adf6b386b7765f94d5358af",
+      "postedAt": "2026-10-26T15:01:13.441Z"
+    },
+    "steam:5391500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5391500:permanent_free:1",
+      "store": "steam",
+      "productId": "5391500",
+      "generation": 1,
+      "title": "Ardhan",
+      "storeUrl": "https://store.steampowered.com/app/5391500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T15:01:10.225Z",
+      "lastSeenAt": "2026-10-26T15:01:10.225Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Ardhanは、すべての戦いが本物の盤面で繰り広げられるデッキ構築ローグライクです。ミニオン同士がぶつかり合い、挑発が前線を支え、武器は砕け散る。旅を終えるころには、デッキは旅立ったときとまるで別物になっています。12の勢力、421枚のカード、全6幕、アセンション1〜15、そして全員が同じマップに挑むデイリーゲーム。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T15:01:10.225Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ardhan』\n✨ いつでも無料でプレイ\n\nArdhanは、すべての戦いが本物の盤面で繰り広げられるデッキ構築ローグライクです。ミニオン同士がぶつかり合い、挑発が前線を支え、武器は砕け散る。旅を終えるころには、デッキは旅立ったときとまるで…\n\nhttps://store.steampowered.com/app/5391500/",
+        "attemptedAt": "2026-10-26T15:01:14.184Z",
+        "bufferPostId": "6adf6b3a8678dce367ccc003",
+        "submittedAt": "2026-10-26T15:01:15.829Z",
+        "postedAt": "2026-10-26T15:01:15.829Z"
+      },
+      "bufferPostId": "6adf6b3a8678dce367ccc003",
+      "postedAt": "2026-10-26T15:01:15.829Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T12:01:07.373Z",
+    "lastSuccessfulScanAt": "2026-10-26T15:01:10.225Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5649,6 +5717,7 @@
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5354880": "2026-10-22T15:01:07.818Z",
+      "5356470": "2026-10-26T15:01:10.225Z",
       "5357680": "2026-10-20T18:01:06.119Z",
       "5358500": "2026-10-23T15:01:04.807Z",
       "5359760": "2026-10-19T09:01:06.915Z",
@@ -5658,6 +5727,7 @@
       "5375180": "2026-10-24T12:01:06.666Z",
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
+      "5391500": "2026-10-26T15:01:10.225Z",
       "5394530": "2026-10-23T09:01:01.018Z"
     }
   }
