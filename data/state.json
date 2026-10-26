@@ -602,6 +602,10 @@
     "steam:5242290:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5242290:permanent_free:1"
+    },
+    "steam:5088140:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5088140:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5372,11 +5376,41 @@
       },
       "bufferPostId": "6adf16d9c869bde1a47fdf03",
       "postedAt": "2026-10-26T09:01:14.964Z"
+    },
+    "steam:5088140:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5088140:permanent_free:1",
+      "store": "steam",
+      "productId": "5088140",
+      "generation": 1,
+      "title": "Phantom Line: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5088140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T12:01:07.373Z",
+      "lastSeenAt": "2026-10-26T12:01:07.373Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "悪夢の始まりを体感せよ。『Phantom Line: Prologue』は、超常現象が猛威を振るう戦乱のヨーロッパを舞台にした1～4人協力プレイのタクティカルシューターだ。怪物めいたアノマリーを封じ込め、核の混乱を生き延び、正式な任務が始まる前に小隊の生存能力を証明せよ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T12:01:07.373Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Phantom Line: Prologue』\n✨ いつでも無料でプレイ\n\n悪夢の始まりを体感せよ。『Phantom Line: Prologue』は、超常現象が猛威を振るう戦乱のヨーロッパを舞台にした1～4人協力プレイのタクティカルシューターだ。怪物めいたアノマリーを封…\n\nhttps://store.steampowered.com/app/5088140/",
+        "attemptedAt": "2026-10-26T12:01:08.517Z",
+        "bufferPostId": "6adf41049c091261b9141754",
+        "submittedAt": "2026-10-26T12:01:10.983Z",
+        "postedAt": "2026-10-26T12:01:10.983Z"
+      },
+      "bufferPostId": "6adf41049c091261b9141754",
+      "postedAt": "2026-10-26T12:01:10.983Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T09:01:11.947Z",
+    "lastSuccessfulScanAt": "2026-10-26T12:01:07.373Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5512,6 +5546,7 @@
       "5057270": "2026-10-14T15:30:36.000Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5084200": "2026-10-25T12:01:01.232Z",
+      "5088140": "2026-10-26T12:01:07.373Z",
       "5090350": "2026-10-14T18:01:12.359Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
