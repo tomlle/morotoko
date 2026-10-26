@@ -642,6 +642,10 @@
     "steam:5372440:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5372440:permanent_free:1"
+    },
+    "steam:5353310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5353310:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5712,11 +5716,41 @@
       },
       "bufferPostId": "6adf956f43b77056967bc486",
       "postedAt": "2026-10-26T18:01:20.928Z"
+    },
+    "steam:5353310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5353310:permanent_free:1",
+      "store": "steam",
+      "productId": "5353310",
+      "generation": 1,
+      "title": "Grindwick",
+      "storeUrl": "https://store.steampowered.com/app/5353310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-26T21:01:09.019Z",
+      "lastSeenAt": "2026-10-26T21:01:09.019Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Grindwick is a free-to-play 2D online action RPG built around the grind. Choose an expedition, hunt monsters, find better gear, and grow stronger through combat skills and a passive tree. Play solo or in a party of four. No quests, just the next hunt.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-26T21:01:09.019Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Grindwick』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5353310/",
+        "attemptedAt": "2026-10-26T21:01:09.932Z",
+        "bufferPostId": "6adfbf962e4832a623d6f80a",
+        "submittedAt": "2026-10-26T21:01:11.379Z",
+        "postedAt": "2026-10-26T21:01:11.379Z"
+      },
+      "bufferPostId": "6adfbf962e4832a623d6f80a",
+      "postedAt": "2026-10-26T21:01:11.379Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T18:01:07.648Z",
+    "lastSuccessfulScanAt": "2026-10-26T21:01:09.019Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5960,6 +5994,7 @@
       "5341000": "2026-10-21T21:00:59.332Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
+      "5353310": "2026-10-26T21:01:09.019Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5356470": "2026-10-26T15:01:10.225Z",
       "5357680": "2026-10-20T18:01:06.119Z",
