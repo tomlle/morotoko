@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40555915242",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T18:00:55.469Z",
+    "finishedAt": "2026-10-27T18:01:12.340Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40555915242"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5377530",
+      "title": "GRAVE SHIFT",
+      "storeUrl": "https://store.steampowered.com/app/5377530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377530/617c4f6c7c2fab2e327d83012a7ed13c9ea22dd6/header.jpg?t=1793123242",
+      "officialDescription": "An isometric survival-horror roguelite. Scavenge scarce supplies, solve puzzles and combine supernatural boons while relentless Tyrants hunt you. Explore a cemetery that changes every run, then return from death with permanent upgrades."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4429430",
+      "title": "Origins Trading Card Game",
+      "storeUrl": "https://store.steampowered.com/app/4429430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429430/bf6af505939c39d6d4539c8fc6b0cdb061b1f623/header.jpg?t=1793123931",
+      "officialDescription": "史上初の \"フリー・トゥ・コンピート\" 方式の TCG が登場。己のスキルのみで勝負 (課金による優位性は一切なし) を挑み、購入や売却、交換が可能なデジタル鑑定済み限定カードを巡って戦いを繰り広げましょう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4140580",
+      "title": "Ann's Parlor",
+      "storeUrl": "https://store.steampowered.com/app/4140580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140580/c491b4fdb47c23feaca1ca814194554fc1d1b88d/header.jpg?t=1793113818",
+      "officialDescription": "Awakened from years of slumber, the witch Ann returns to her old cabin, where visitors arrive seeking love, truth, or glimpses of fate. Through crystal-ball readings, you interpret their stories and guide their paths—every choice reshaping their destinies and the secrets that await within."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5377530:permanent_free:1",
+      "productId": "5377530",
+      "title": "GRAVE SHIFT",
+      "status": "sent",
+      "bufferPostId": "6ae0e6e351c7284440ea989d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4429430:permanent_free:1",
+      "productId": "4429430",
+      "title": "Origins Trading Card Game",
+      "status": "sent",
+      "bufferPostId": "6ae0e6e5b83eef4600d0754c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4140580:permanent_free:1",
+      "productId": "4140580",
+      "title": "Ann's Parlor",
+      "status": "sent",
+      "bufferPostId": "6ae0e6e751c7284440ea9a6d"
+    }
+  ],
+  "errors": []
+}

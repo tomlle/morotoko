@@ -698,6 +698,18 @@
     "steam:4435950:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4435950:permanent_free:1"
+    },
+    "steam:5377530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5377530:permanent_free:1"
+    },
+    "steam:4429430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4429430:permanent_free:1"
+    },
+    "steam:4140580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4140580:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6188,11 +6200,101 @@
       },
       "bufferPostId": "6ae0bcb901a7b9ebe43e37f1",
       "postedAt": "2026-10-27T15:01:14.747Z"
+    },
+    "steam:5377530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5377530:permanent_free:1",
+      "store": "steam",
+      "productId": "5377530",
+      "generation": 1,
+      "title": "GRAVE SHIFT",
+      "storeUrl": "https://store.steampowered.com/app/5377530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T18:01:06.530Z",
+      "lastSeenAt": "2026-10-27T18:01:06.530Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An isometric survival-horror roguelite. Scavenge scarce supplies, solve puzzles and combine supernatural boons while relentless Tyrants hunt you. Explore a cemetery that changes every run, then return from death with permanent upgrades.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T18:01:06.530Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GRAVE SHIFT』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5377530/",
+        "attemptedAt": "2026-10-27T18:01:07.437Z",
+        "bufferPostId": "6ae0e6e351c7284440ea989d",
+        "submittedAt": "2026-10-27T18:01:08.818Z",
+        "postedAt": "2026-10-27T18:01:08.818Z"
+      },
+      "bufferPostId": "6ae0e6e351c7284440ea989d",
+      "postedAt": "2026-10-27T18:01:08.818Z"
+    },
+    "steam:4429430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4429430:permanent_free:1",
+      "store": "steam",
+      "productId": "4429430",
+      "generation": 1,
+      "title": "Origins Trading Card Game",
+      "storeUrl": "https://store.steampowered.com/app/4429430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T18:01:06.530Z",
+      "lastSeenAt": "2026-10-27T18:01:06.530Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "史上初の \"フリー・トゥ・コンピート\" 方式の TCG が登場。己のスキルのみで勝負 (課金による優位性は一切なし) を挑み、購入や売却、交換が可能なデジタル鑑定済み限定カードを巡って戦いを繰り広げましょう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T18:01:06.530Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Origins Trading Card Game』\n✨ いつでも無料でプレイ\n\n史上初の \"フリー・トゥ・コンピート\" 方式の TCG が登場。己のスキルのみで勝負 (課金による優位性は一切なし) を挑み、購入や売却、交換が可能なデジタル鑑定済み限定カードを巡っ…\n\nhttps://store.steampowered.com/app/4429430/",
+        "attemptedAt": "2026-10-27T18:01:09.290Z",
+        "bufferPostId": "6ae0e6e5b83eef4600d0754c",
+        "submittedAt": "2026-10-27T18:01:10.603Z",
+        "postedAt": "2026-10-27T18:01:10.603Z"
+      },
+      "bufferPostId": "6ae0e6e5b83eef4600d0754c",
+      "postedAt": "2026-10-27T18:01:10.603Z"
+    },
+    "steam:4140580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4140580:permanent_free:1",
+      "store": "steam",
+      "productId": "4140580",
+      "generation": 1,
+      "title": "Ann's Parlor",
+      "storeUrl": "https://store.steampowered.com/app/4140580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T18:01:06.530Z",
+      "lastSeenAt": "2026-10-27T18:01:06.530Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Awakened from years of slumber, the witch Ann returns to her old cabin, where visitors arrive seeking love, truth, or glimpses of fate. Through crystal-ball readings, you interpret their stories and guide their paths—every choice reshaping their destinies and the secrets that await within.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T18:01:06.530Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ann's Parlor』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4140580/",
+        "attemptedAt": "2026-10-27T18:01:11.085Z",
+        "bufferPostId": "6ae0e6e751c7284440ea9a6d",
+        "submittedAt": "2026-10-27T18:01:12.335Z",
+        "postedAt": "2026-10-27T18:01:12.335Z"
+      },
+      "bufferPostId": "6ae0e6e751c7284440ea9a6d",
+      "postedAt": "2026-10-27T18:01:12.335Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T15:01:11.766Z",
+    "lastSuccessfulScanAt": "2026-10-27T18:01:06.530Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6236,6 +6338,7 @@
       "4087210": "2026-10-25T18:01:03.590Z",
       "4096710": "2026-10-14T15:30:36.000Z",
       "4112730": "2026-10-14T15:30:36.000Z",
+      "4140580": "2026-10-27T18:01:06.530Z",
       "4150920": "2026-10-14T15:30:36.000Z",
       "4190960": "2026-10-14T15:30:36.000Z",
       "4246850": "2026-10-21T18:01:08.108Z",
@@ -6249,6 +6352,7 @@
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
       "4410900": "2026-10-18T00:01:08.594Z",
+      "4429430": "2026-10-27T18:01:06.530Z",
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
@@ -6460,6 +6564,7 @@
       "5372440": "2026-10-26T18:01:07.648Z",
       "5375180": "2026-10-24T12:01:06.666Z",
       "5377010": "2026-10-27T12:01:11.410Z",
+      "5377530": "2026-10-27T18:01:06.530Z",
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
       "5391500": "2026-10-26T15:01:10.225Z",
