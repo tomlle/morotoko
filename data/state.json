@@ -694,6 +694,10 @@
     "steam:5034420:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5034420:permanent_free:1"
+    },
+    "steam:4435950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4435950:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6154,11 +6158,41 @@
       },
       "bufferPostId": "6ae0928a16e4b99deda7c807",
       "postedAt": "2026-10-27T12:01:15.611Z"
+    },
+    "steam:4435950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4435950:permanent_free:1",
+      "store": "steam",
+      "productId": "4435950",
+      "generation": 1,
+      "title": "Formation Builder Idle",
+      "storeUrl": "https://store.steampowered.com/app/4435950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T15:01:11.766Z",
+      "lastSeenAt": "2026-10-27T15:01:11.766Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Every hero changes the heroes beside it. Arrange 46+ heroes on a grid, chain their abilities, and find the layout that multiplies your damage. Then prestige across 21 worlds, fight with mounts, and run missions, mines and a workshop while you're away.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T15:01:11.766Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Formation Builder Idle』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4435950/",
+        "attemptedAt": "2026-10-27T15:01:13.212Z",
+        "bufferPostId": "6ae0bcb901a7b9ebe43e37f1",
+        "submittedAt": "2026-10-27T15:01:14.747Z",
+        "postedAt": "2026-10-27T15:01:14.747Z"
+      },
+      "bufferPostId": "6ae0bcb901a7b9ebe43e37f1",
+      "postedAt": "2026-10-27T15:01:14.747Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T12:01:11.410Z",
+    "lastSuccessfulScanAt": "2026-10-27T15:01:11.766Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6215,6 +6249,7 @@
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
       "4410900": "2026-10-18T00:01:08.594Z",
+      "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4491130": "2026-10-19T03:01:01.402Z",
