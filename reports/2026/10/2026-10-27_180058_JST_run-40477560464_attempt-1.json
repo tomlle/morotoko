@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40477560464",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T09:00:58.469Z",
+    "finishedAt": "2026-10-27T09:01:15.493Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40477560464"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 21,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4594300",
+      "title": "RACAR - Shooter FPS",
+      "storeUrl": "https://store.steampowered.com/app/4594300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594300/b4e65c4de59cc51163e84e92b646572d283b5cd5/header.jpg?t=1793090350",
+      "officialDescription": "Online FPS shooter with state-of-the-art graphics and total customization!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4856160",
+      "title": "Conquest of Empires 3",
+      "storeUrl": "https://store.steampowered.com/app/4856160/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856160/00c0891d190aa0e4d135edc40898a62f79f47dfe/header_japanese.jpg?t=1793088831",
+      "officialDescription": "エンパイアズ・ドーン 3 は、戦略を最優先する多文明戦争の世界を構築します。ここでは狡猾さこそが唯一の通行証であり、すべてのプレイヤーは知性を駆使して、壮大なサンドボックスの中で自身の帝国を切り開くことができます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5283330",
+      "title": "Wattverse",
+      "storeUrl": "https://store.steampowered.com/app/5283330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283330/d7b72cf06db83ec77229dd33252fbfec52eced91/header.jpg?t=1793083749",
+      "officialDescription": "Generate electricity in Wattverse! Build your power production, unlock powerful upgrades, automate your energy empire, and push your numbers to unimaginable scales in this addictive incremental game."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5308110",
+      "title": "Farm Story Life",
+      "storeUrl": "https://store.steampowered.com/app/5308110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308110/8ff17d0dc20d18cae2c06944fb126565fe6e5c78/header.jpg?t=1793083670",
+      "officialDescription": "Grow crops, care for adorable animals, customize your farm, and build your dream countryside home in this relaxing casual single-player farming adventure."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5367650",
+      "title": "Arche PG",
+      "storeUrl": "https://store.steampowered.com/app/5367650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367650/8b510bbfd1acc0fb24bb66b294c7e5a840963619/header.jpg?t=1793001720",
+      "officialDescription": "Idle archer RPG: your archer auto-battles endless waves of monsters while you forge and merge gear, socket runes, level twelve skills, raise pets, duel rivals in the PvP arena and team up with friends and guilds."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4594300:permanent_free:1",
+      "productId": "4594300",
+      "title": "RACAR - Shooter FPS",
+      "status": "sent",
+      "bufferPostId": "6ae068512445d7d8cabc352c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4856160:permanent_free:1",
+      "productId": "4856160",
+      "title": "Conquest of Empires 3",
+      "status": "sent",
+      "bufferPostId": "6ae06854ca5d1844c7c06852"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5283330:permanent_free:1",
+      "productId": "5283330",
+      "title": "Wattverse",
+      "status": "sent",
+      "bufferPostId": "6ae068564a68aa6474fbf12c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5308110:permanent_free:1",
+      "productId": "5308110",
+      "title": "Farm Story Life",
+      "status": "sent",
+      "bufferPostId": "6ae06858ca5d1844c7c06ab9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5367650:permanent_free:1",
+      "productId": "5367650",
+      "title": "Arche PG",
+      "status": "sent",
+      "bufferPostId": "6ae0685a88a6e988c9d52863"
+    }
+  ],
+  "errors": []
+}
