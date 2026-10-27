@@ -710,6 +710,14 @@
     "steam:4140580:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4140580:permanent_free:1"
+    },
+    "steam:5004590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5004590:permanent_free:1"
+    },
+    "steam:4651700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4651700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6290,11 +6298,71 @@
       },
       "bufferPostId": "6ae0e6e751c7284440ea9a6d",
       "postedAt": "2026-10-27T18:01:12.335Z"
+    },
+    "steam:5004590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5004590:permanent_free:1",
+      "store": "steam",
+      "productId": "5004590",
+      "generation": 1,
+      "title": "Darcnia Monster",
+      "storeUrl": "https://store.steampowered.com/app/5004590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T21:01:04.552Z",
+      "lastSeenAt": "2026-10-27T21:01:04.552Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "カードを盤に置くと、その中からモンスターが立ち上がります。Darcnia は基本プレイ無料のオンライン戦術カードゲームです。ペイ・トゥ・ウィンはありません。カードはすべてプレイして手に入り、ガチャはありません。手に入れたカードは交換所とオークションで、ほかのプレイヤーと自由にやり取りできます。深淵にそびえる十階の塔をのぼり、各階の番人を打ち倒してカードに封印し、五種のルーンを使いこなしてください。デュエルはすべてフル 3D の盤面で進み、封印できる 100+ 体のモンスターの一体ずつに、ドット絵の魂が宿っています。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T21:01:04.552Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Darcnia Monster』\n✨ いつでも無料でプレイ\n\nカードを盤に置くと、その中からモンスターが立ち上がります。Darcnia は基本プレイ無料のオンライン戦術カードゲームです。ペイ・トゥ・ウィンはありません。カードはすべてプレイして手に入…\n\nhttps://store.steampowered.com/app/5004590/",
+        "attemptedAt": "2026-10-27T21:01:05.475Z",
+        "bufferPostId": "6ae111114137b5e3590ca7a1",
+        "submittedAt": "2026-10-27T21:01:07.030Z",
+        "postedAt": "2026-10-27T21:01:07.031Z"
+      },
+      "bufferPostId": "6ae111114137b5e3590ca7a1",
+      "postedAt": "2026-10-27T21:01:07.031Z"
+    },
+    "steam:4651700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4651700:permanent_free:1",
+      "store": "steam",
+      "productId": "4651700",
+      "generation": 1,
+      "title": "Off Course",
+      "storeUrl": "https://store.steampowered.com/app/4651700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T21:01:04.552Z",
+      "lastSeenAt": "2026-10-27T21:01:04.552Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Off Course is a narrative boat-parkour game in which the overthinker Noi finds herself stranded in the depths of her flooded subconsciousness. Will you manage to overcome her roaring thoughts and doubts to stay in the flow?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T21:01:04.552Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Off Course』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4651700/",
+        "attemptedAt": "2026-10-27T21:01:07.633Z",
+        "bufferPostId": "6ae111132086adf9c1191f79",
+        "submittedAt": "2026-10-27T21:01:08.999Z",
+        "postedAt": "2026-10-27T21:01:08.999Z"
+      },
+      "bufferPostId": "6ae111132086adf9c1191f79",
+      "postedAt": "2026-10-27T21:01:08.999Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T18:01:06.530Z",
+    "lastSuccessfulScanAt": "2026-10-27T21:01:04.552Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6370,6 +6438,7 @@
       "4622120": "2026-10-14T15:30:36.000Z",
       "4632980": "2026-10-14T15:30:36.000Z",
       "4643480": "2026-10-23T09:01:01.018Z",
+      "4651700": "2026-10-27T21:01:04.552Z",
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
       "4694770": "2026-10-19T03:01:01.402Z",
@@ -6430,6 +6499,7 @@
       "4982770": "2026-10-14T15:30:36.000Z",
       "4994410": "2026-10-14T15:30:36.000Z",
       "4997960": "2026-10-23T21:00:59.012Z",
+      "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",
       "5006180": "2026-10-14T15:30:36.000Z",
       "5010310": "2026-10-26T06:01:04.083Z",
