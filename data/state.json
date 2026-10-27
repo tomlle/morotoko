@@ -686,6 +686,14 @@
     "steam:5367650:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5367650:permanent_free:1"
+    },
+    "steam:5377010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5377010:permanent_free:1"
+    },
+    "steam:5034420:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5034420:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6086,11 +6094,71 @@
       },
       "bufferPostId": "6ae0685a88a6e988c9d52863",
       "postedAt": "2026-10-27T09:01:15.486Z"
+    },
+    "steam:5377010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5377010:permanent_free:1",
+      "store": "steam",
+      "productId": "5377010",
+      "generation": 1,
+      "title": "OUTVOTE - Steam Version",
+      "storeUrl": "https://store.steampowered.com/app/5377010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T12:01:11.410Z",
+      "lastSeenAt": "2026-10-27T12:01:11.410Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "How many of your friends would say yes? Answer questions in secret, then guess how the room voted – or call every player's answer. Play with Steam friends, or with anyone in the browser. Free, up to 20 players.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T12:01:11.410Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『OUTVOTE - Steam Version』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5377010/",
+        "attemptedAt": "2026-10-27T12:01:12.498Z",
+        "bufferPostId": "6ae09288271cbd4e76b35a1d",
+        "submittedAt": "2026-10-27T12:01:13.911Z",
+        "postedAt": "2026-10-27T12:01:13.911Z"
+      },
+      "bufferPostId": "6ae09288271cbd4e76b35a1d",
+      "postedAt": "2026-10-27T12:01:13.911Z"
+    },
+    "steam:5034420:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5034420:permanent_free:1",
+      "store": "steam",
+      "productId": "5034420",
+      "generation": 1,
+      "title": "深海月光-第一章",
+      "storeUrl": "https://store.steampowered.com/app/5034420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T12:01:11.410Z",
+      "lastSeenAt": "2026-10-27T12:01:11.410Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "光の無い水底の最下層都市。番号で呼ばれる少年は、友人の夢を買う大金を得るために、禁じられたクラゲの密輸に手を出す。選択によって分岐し、時に破滅へ導かれる深海ビジュアルノベル。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T12:01:11.410Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『深海月光-第一章』\n✨ いつでも無料でプレイ\n\n光の無い水底の最下層都市。番号で呼ばれる少年は、友人の夢を買う大金を得るために、禁じられたクラゲの密輸に手を出す。選択によって分岐し、時に破滅へ導かれる深海ビジュアルノベル。\n\nhttps://store.steampowered.com/app/5034420/",
+        "attemptedAt": "2026-10-27T12:01:14.204Z",
+        "bufferPostId": "6ae0928a16e4b99deda7c807",
+        "submittedAt": "2026-10-27T12:01:15.611Z",
+        "postedAt": "2026-10-27T12:01:15.611Z"
+      },
+      "bufferPostId": "6ae0928a16e4b99deda7c807",
+      "postedAt": "2026-10-27T12:01:15.611Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T09:01:03.509Z",
+    "lastSuccessfulScanAt": "2026-10-27T12:01:11.410Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6229,6 +6297,7 @@
       "5021380": "2026-10-14T15:30:36.000Z",
       "5021400": "2026-10-14T15:30:36.000Z",
       "5023780": "2026-10-14T15:30:36.000Z",
+      "5034420": "2026-10-27T12:01:11.410Z",
       "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
       "5039290": "2026-10-23T12:01:18.754Z",
@@ -6355,6 +6424,7 @@
       "5371940": "2026-10-23T00:01:04.971Z",
       "5372440": "2026-10-26T18:01:07.648Z",
       "5375180": "2026-10-24T12:01:06.666Z",
+      "5377010": "2026-10-27T12:01:11.410Z",
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
       "5391500": "2026-10-26T15:01:10.225Z",
