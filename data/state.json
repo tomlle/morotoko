@@ -658,6 +658,14 @@
     "steam:2982680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2982680:permanent_free:1"
+    },
+    "steam:5112180:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5112180:permanent_free:1"
+    },
+    "steam:5168340:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5168340:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5848,11 +5856,71 @@
       },
       "bufferPostId": "6adfe9d25837b0fb9bf969bc",
       "postedAt": "2026-10-27T00:01:23.347Z"
+    },
+    "steam:5112180:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5112180:permanent_free:1",
+      "store": "steam",
+      "productId": "5112180",
+      "generation": 1,
+      "title": "神谕之窗.exe",
+      "storeUrl": "https://store.steampowered.com/app/5112180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T06:01:12.023Z",
+      "lastSeenAt": "2026-10-27T06:01:12.023Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A civilization-building simulation presented through an interface inspired by desktop operating systems. Become the divine steward of an ancient civilization, manipulate windows and resources, raise magnificent wonders, and guide your people through the rise and fall of an age.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T06:01:12.023Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『神谕之窗.exe』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5112180/",
+        "attemptedAt": "2026-10-27T06:01:13.496Z",
+        "bufferPostId": "6ae03e293db43338b84371bc",
+        "submittedAt": "2026-10-27T06:01:15.201Z",
+        "postedAt": "2026-10-27T06:01:15.201Z"
+      },
+      "bufferPostId": "6ae03e293db43338b84371bc",
+      "postedAt": "2026-10-27T06:01:15.201Z"
+    },
+    "steam:5168340:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5168340:permanent_free:1",
+      "store": "steam",
+      "productId": "5168340",
+      "generation": 1,
+      "title": "摸鱼小队",
+      "storeUrl": "https://store.steampowered.com/app/5168340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T06:01:12.023Z",
+      "lastSeenAt": "2026-10-27T06:01:12.023Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Slacker Squad is a lightweight desktop idle game that reacts to your keyboard and mouse activity. Work hard and your squad speeds up; slack off and they do too. Mine, cook, unlock characters, and capture defeated monsters as pets while your squad keeps you company.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T06:01:12.023Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『摸鱼小队』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5168340/",
+        "attemptedAt": "2026-10-27T06:01:15.657Z",
+        "bufferPostId": "6ae03e2ba5938c4b32d3894e",
+        "submittedAt": "2026-10-27T06:01:17.067Z",
+        "postedAt": "2026-10-27T06:01:17.067Z"
+      },
+      "bufferPostId": "6ae03e2ba5938c4b32d3894e",
+      "postedAt": "2026-10-27T06:01:17.067Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T03:01:05.082Z",
+    "lastSuccessfulScanAt": "2026-10-27T06:01:12.023Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6004,6 +6072,7 @@
       "5105400": "2026-10-14T15:30:36.000Z",
       "5108310": "2026-10-18T12:00:59.249Z",
       "5109640": "2026-10-16T00:01:03.084Z",
+      "5112180": "2026-10-27T06:01:12.023Z",
       "5114130": "2026-10-17T12:01:03.272Z",
       "5115590": "2026-10-18T06:01:03.221Z",
       "5118700": "2026-10-16T18:01:10.079Z",
@@ -6022,6 +6091,7 @@
       "5162260": "2026-10-14T15:30:36.000Z",
       "5164130": "2026-10-21T12:01:06.252Z",
       "5168280": "2026-10-17T12:01:03.272Z",
+      "5168340": "2026-10-27T06:01:12.023Z",
       "5170050": "2026-10-14T15:30:36.000Z",
       "5173790": "2026-10-14T15:30:36.000Z",
       "5178180": "2026-10-20T09:01:01.492Z",
