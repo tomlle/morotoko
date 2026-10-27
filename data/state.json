@@ -646,6 +646,18 @@
     "steam:5353310:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5353310:permanent_free:1"
+    },
+    "steam:4597820:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4597820:permanent_free:1"
+    },
+    "steam:4957910:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4957910:permanent_free:1"
+    },
+    "steam:2982680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2982680:permanent_free:1"
     }
   },
   "campaigns": {
@@ -5746,11 +5758,101 @@
       },
       "bufferPostId": "6adfbf962e4832a623d6f80a",
       "postedAt": "2026-10-26T21:01:11.379Z"
+    },
+    "steam:4597820:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4597820:permanent_free:1",
+      "store": "steam",
+      "productId": "4597820",
+      "generation": 1,
+      "title": "DRENCHED",
+      "storeUrl": "https://store.steampowered.com/app/4597820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T00:01:18.126Z",
+      "lastSeenAt": "2026-10-27T00:01:18.126Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Drenched is a 3D exploration adventure where a burnt-out artist becomes a fish. Switch between the two characters, and traverse two mirrored worlds to uncover her story. Splash puddles on the surface and blow bubbles underwater to explore, solve puzzles, and reconnect her past and present.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T00:01:18.126Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『DRENCHED』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4597820/",
+        "attemptedAt": "2026-10-27T00:01:18.690Z",
+        "bufferPostId": "6adfe9ce3bff354cec684d2a",
+        "submittedAt": "2026-10-27T00:01:20.112Z",
+        "postedAt": "2026-10-27T00:01:20.112Z"
+      },
+      "bufferPostId": "6adfe9ce3bff354cec684d2a",
+      "postedAt": "2026-10-27T00:01:20.112Z"
+    },
+    "steam:4957910:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4957910:permanent_free:1",
+      "store": "steam",
+      "productId": "4957910",
+      "generation": 1,
+      "title": "Veyrasol",
+      "storeUrl": "https://store.steampowered.com/app/4957910/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T00:01:18.126Z",
+      "lastSeenAt": "2026-10-27T00:01:18.126Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Veyrasolは、Veyra Spiral銀河を舞台にしたリアルタイムMMO戦略ゲームです。コロニーを築き、艦隊を指揮し、同盟を結び、約120日間続くシーズンで覇権を争いましょう。無料でプレイできるブラウザ発の戦略ゲームです。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T00:01:18.126Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Veyrasol』\n✨ いつでも無料でプレイ\n\nVeyrasolは、Veyra Spiral銀河を舞台にしたリアルタイムMMO戦略ゲームです。コロニーを築き、艦隊を指揮し、同盟を結び、約120日間続くシーズンで覇権を争いましょう。無料でプレイできるブラウザ発の…\n\nhttps://store.steampowered.com/app/4957910/",
+        "attemptedAt": "2026-10-27T00:01:20.447Z",
+        "bufferPostId": "6adfe9d00565644c947fdb1d",
+        "submittedAt": "2026-10-27T00:01:21.708Z",
+        "postedAt": "2026-10-27T00:01:21.708Z"
+      },
+      "bufferPostId": "6adfe9d00565644c947fdb1d",
+      "postedAt": "2026-10-27T00:01:21.708Z"
+    },
+    "steam:2982680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2982680:permanent_free:1",
+      "store": "steam",
+      "productId": "2982680",
+      "generation": 1,
+      "title": "Light Out of Sight",
+      "storeUrl": "https://store.steampowered.com/app/2982680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-27T00:01:18.126Z",
+      "lastSeenAt": "2026-10-27T00:01:18.126Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Turn The Power Back On Inside a Haunted Mansion, while Fighting Off Paranormal Monsters.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-27T00:01:18.126Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Light Out of Sight』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2982680/",
+        "attemptedAt": "2026-10-27T00:01:22.014Z",
+        "bufferPostId": "6adfe9d25837b0fb9bf969bc",
+        "submittedAt": "2026-10-27T00:01:23.347Z",
+        "postedAt": "2026-10-27T00:01:23.347Z"
+      },
+      "bufferPostId": "6adfe9d25837b0fb9bf969bc",
+      "postedAt": "2026-10-27T00:01:23.347Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-26T21:01:09.019Z",
+    "lastSuccessfulScanAt": "2026-10-27T00:01:18.126Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -5767,6 +5869,7 @@
       "2582880": "2026-10-21T12:01:06.252Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
+      "2982680": "2026-10-27T00:01:18.126Z",
       "3138080": "2026-10-25T09:01:01.104Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
@@ -5816,6 +5919,7 @@
       "4546060": "2026-10-14T15:30:36.000Z",
       "4561260": "2026-10-17T00:01:02.592Z",
       "4567680": "2026-10-14T15:30:36.000Z",
+      "4597820": "2026-10-27T00:01:18.126Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
       "4632980": "2026-10-14T15:30:36.000Z",
@@ -5871,6 +5975,7 @@
       "4949930": "2026-10-26T18:01:07.648Z",
       "4952950": "2026-10-15T18:01:01.152Z",
       "4956060": "2026-10-14T21:01:00.572Z",
+      "4957910": "2026-10-27T00:01:18.126Z",
       "4963800": "2026-10-14T15:30:36.000Z",
       "4972430": "2026-10-23T06:01:01.508Z",
       "4979300": "2026-10-14T15:30:36.000Z",
