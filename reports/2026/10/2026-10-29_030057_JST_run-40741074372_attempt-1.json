@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40741074372",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T18:00:57.767Z",
+    "finishedAt": "2026-10-28T18:01:16.767Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40741074372"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5256250",
+      "title": "FableBrawl",
+      "storeUrl": "https://store.steampowered.com/app/5256250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256250/5c4b2d7abe9a58fd75ba4e9257d7fad905946dd9/header.jpg?t=1793208243",
+      "officialDescription": "Draft a warband of storybook characters in this free-to-play fantasy auto-battler. Upgrade your recruits, collect treasures, and arrange your formation to outlast seven rivals. Learn against AI, play online, or host a private game with friends."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5191970",
+      "title": "Mimic2 - Idle MMORPG",
+      "storeUrl": "https://store.steampowered.com/app/5191970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191970/02fe7e50681f59c096634f12d10123f488508338/header.jpg?t=1793206762",
+      "officialDescription": "An idle incremental MMORPG that keeps auto battling while you are AFK or offline. Clear mimic maps, hunt bosses, and pour the loot into 7,522 item levels to reach the top. A free incremental idle MMO with RPG depth: no ads, no pay-to-win. Cross-platform: desktop, browser and mobile, one character."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5036700",
+      "title": "Pixel Coloring World",
+      "storeUrl": "https://store.steampowered.com/app/5036700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036700/352eb997b8e07fa5c72b8a79ea889aed57a9d521/header.jpg?t=1793203010",
+      "officialDescription": "Relax and complete 12 different themed pixel art images! Color 6 pictures at 50×50, 3 at 100×100, 2 at 150×150, and one large 200×200 artwork. Fill in a total of 130,000 pixels and reveal every hidden picture."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5256250:permanent_free:1",
+      "productId": "5256250",
+      "title": "FableBrawl",
+      "status": "sent",
+      "bufferPostId": "6ae23867105742705ddff328"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5191970:permanent_free:1",
+      "productId": "5191970",
+      "title": "Mimic2 - Idle MMORPG",
+      "status": "sent",
+      "bufferPostId": "6ae238695ab5a911b36811c9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5036700:permanent_free:1",
+      "productId": "5036700",
+      "title": "Pixel Coloring World",
+      "status": "sent",
+      "bufferPostId": "6ae2386be1bf4fa83be8979b"
+    }
+  ],
+  "errors": []
+}

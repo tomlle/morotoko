@@ -786,6 +786,18 @@
     "steam:4607590:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4607590:permanent_free:1"
+    },
+    "steam:5256250:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5256250:permanent_free:1"
+    },
+    "steam:5191970:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5191970:permanent_free:1"
+    },
+    "steam:5036700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5036700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6936,11 +6948,101 @@
       },
       "bufferPostId": "6ae20e4400f35d308c8278bf",
       "postedAt": "2026-10-28T15:01:26.148Z"
+    },
+    "steam:5256250:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5256250:permanent_free:1",
+      "store": "steam",
+      "productId": "5256250",
+      "generation": 1,
+      "title": "FableBrawl",
+      "storeUrl": "https://store.steampowered.com/app/5256250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T18:01:10.127Z",
+      "lastSeenAt": "2026-10-28T18:01:10.127Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Draft a warband of storybook characters in this free-to-play fantasy auto-battler. Upgrade your recruits, collect treasures, and arrange your formation to outlast seven rivals. Learn against AI, play online, or host a private game with friends.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T18:01:10.127Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『FableBrawl』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5256250/",
+        "attemptedAt": "2026-10-28T18:01:11.439Z",
+        "bufferPostId": "6ae23867105742705ddff328",
+        "submittedAt": "2026-10-28T18:01:12.932Z",
+        "postedAt": "2026-10-28T18:01:12.932Z"
+      },
+      "bufferPostId": "6ae23867105742705ddff328",
+      "postedAt": "2026-10-28T18:01:12.932Z"
+    },
+    "steam:5191970:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5191970:permanent_free:1",
+      "store": "steam",
+      "productId": "5191970",
+      "generation": 1,
+      "title": "Mimic2 - Idle MMORPG",
+      "storeUrl": "https://store.steampowered.com/app/5191970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T18:01:10.127Z",
+      "lastSeenAt": "2026-10-28T18:01:10.127Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An idle incremental MMORPG that keeps auto battling while you are AFK or offline. Clear mimic maps, hunt bosses, and pour the loot into 7,522 item levels to reach the top. A free incremental idle MMO with RPG depth: no ads, no pay-to-win. Cross-platform: desktop, browser and mobile, one character.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T18:01:10.127Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mimic2 - Idle MMORPG』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5191970/",
+        "attemptedAt": "2026-10-28T18:01:13.378Z",
+        "bufferPostId": "6ae238695ab5a911b36811c9",
+        "submittedAt": "2026-10-28T18:01:14.885Z",
+        "postedAt": "2026-10-28T18:01:14.885Z"
+      },
+      "bufferPostId": "6ae238695ab5a911b36811c9",
+      "postedAt": "2026-10-28T18:01:14.885Z"
+    },
+    "steam:5036700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5036700:permanent_free:1",
+      "store": "steam",
+      "productId": "5036700",
+      "generation": 1,
+      "title": "Pixel Coloring World",
+      "storeUrl": "https://store.steampowered.com/app/5036700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T18:01:10.127Z",
+      "lastSeenAt": "2026-10-28T18:01:10.127Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Relax and complete 12 different themed pixel art images! Color 6 pictures at 50×50, 3 at 100×100, 2 at 150×150, and one large 200×200 artwork. Fill in a total of 130,000 pixels and reveal every hidden picture.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T18:01:10.127Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pixel Coloring World』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5036700/",
+        "attemptedAt": "2026-10-28T18:01:15.378Z",
+        "bufferPostId": "6ae2386be1bf4fa83be8979b",
+        "submittedAt": "2026-10-28T18:01:16.761Z",
+        "postedAt": "2026-10-28T18:01:16.761Z"
+      },
+      "bufferPostId": "6ae2386be1bf4fa83be8979b",
+      "postedAt": "2026-10-28T18:01:16.761Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T15:01:16.098Z",
+    "lastSuccessfulScanAt": "2026-10-28T18:01:10.127Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -7097,6 +7199,7 @@
       "5023780": "2026-10-14T15:30:36.000Z",
       "5034420": "2026-10-27T12:01:11.410Z",
       "5034980": "2026-10-14T18:01:12.359Z",
+      "5036700": "2026-10-28T18:01:10.127Z",
       "5037330": "2026-10-14T15:30:36.000Z",
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
@@ -7141,6 +7244,7 @@
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
       "5188720": "2026-10-28T12:01:11.239Z",
+      "5191970": "2026-10-28T18:01:10.127Z",
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196510": "2026-10-15T21:00:58.160Z",
       "5198690": "2026-10-25T18:01:03.590Z",
@@ -7171,6 +7275,7 @@
       "5252510": "2026-10-14T15:30:36.000Z",
       "5254090": "2026-10-23T18:01:08.113Z",
       "5255280": "2026-10-14T15:30:36.000Z",
+      "5256250": "2026-10-28T18:01:10.127Z",
       "5256770": "2026-10-16T15:01:11.993Z",
       "5257930": "2026-10-16T00:01:03.084Z",
       "5261940": "2026-10-14T15:30:36.000Z",
