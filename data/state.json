@@ -762,6 +762,10 @@
     "steam:4997370:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4997370:permanent_free:1"
+    },
+    "steam:5188720:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5188720:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6732,11 +6736,41 @@
       },
       "bufferPostId": "6ae1b9d492a79b7aa16e753d",
       "postedAt": "2026-10-28T09:01:09.423Z"
+    },
+    "steam:5188720:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5188720:permanent_free:1",
+      "store": "steam",
+      "productId": "5188720",
+      "generation": 1,
+      "title": "MachineGunner3 : Cosmos Ascending True",
+      "storeUrl": "https://store.steampowered.com/app/5188720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T12:01:11.239Z",
+      "lastSeenAt": "2026-10-28T12:01:11.239Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "MachineGunner 3 is a casual 2d racing shooter game that Player moves AIM and accelerates or decelerates to take down the enemys. Rush through the space, Use proper type and carry proper speed for more score, And finish the stage!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T12:01:11.239Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『MachineGunner3 : Cosmos Ascending True』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5188720/",
+        "attemptedAt": "2026-10-28T12:01:12.610Z",
+        "bufferPostId": "6ae1e40838e33389fb5f8065",
+        "submittedAt": "2026-10-28T12:01:14.047Z",
+        "postedAt": "2026-10-28T12:01:14.047Z"
+      },
+      "bufferPostId": "6ae1e40838e33389fb5f8065",
+      "postedAt": "2026-10-28T12:01:14.047Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T09:01:06.160Z",
+    "lastSuccessfulScanAt": "2026-10-28T12:01:11.239Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6932,6 +6966,7 @@
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186550": "2026-10-14T15:30:36.000Z",
+      "5188720": "2026-10-28T12:01:11.239Z",
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196510": "2026-10-15T21:00:58.160Z",
       "5198690": "2026-10-25T18:01:03.590Z",
