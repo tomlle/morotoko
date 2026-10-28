@@ -766,6 +766,26 @@
     "steam:5188720:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5188720:permanent_free:1"
+    },
+    "steam:4836460:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4836460:permanent_free:1"
+    },
+    "steam:2213580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2213580:permanent_free:1"
+    },
+    "steam:5397330:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5397330:permanent_free:1"
+    },
+    "steam:2700640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2700640:permanent_free:1"
+    },
+    "steam:4607590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4607590:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6766,11 +6786,161 @@
       },
       "bufferPostId": "6ae1e40838e33389fb5f8065",
       "postedAt": "2026-10-28T12:01:14.047Z"
+    },
+    "steam:4836460:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4836460:permanent_free:1",
+      "store": "steam",
+      "productId": "4836460",
+      "generation": 1,
+      "title": "Portentum",
+      "storeUrl": "https://store.steampowered.com/app/4836460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T15:01:16.098Z",
+      "lastSeenAt": "2026-10-28T15:01:16.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "クリプティッドで戦うデッキ構築型オートバトラー。ビッグフット、Jimothy、ネッシー、チュパカブラたちと、壊れたコンボを探し出そう。1973年に誰かのおじさんが森で見たというなら、それはたぶん『Portentum』のカードだ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T15:01:16.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Portentum』\n✨ いつでも無料でプレイ\n\nクリプティッドで戦うデッキ構築型オートバトラー。ビッグフット、Jimothy、ネッシー、チュパカブラたちと、壊れたコンボを探し出そう。1973年に誰かのおじさんが森で見たというなら、それはたぶん『…\n\nhttps://store.steampowered.com/app/4836460/",
+        "attemptedAt": "2026-10-28T15:01:17.693Z",
+        "bufferPostId": "6ae20e3d00f35d308c8275f4",
+        "submittedAt": "2026-10-28T15:01:19.095Z",
+        "postedAt": "2026-10-28T15:01:19.095Z"
+      },
+      "bufferPostId": "6ae20e3d00f35d308c8275f4",
+      "postedAt": "2026-10-28T15:01:19.095Z"
+    },
+    "steam:2213580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2213580:permanent_free:1",
+      "store": "steam",
+      "productId": "2213580",
+      "generation": 1,
+      "title": "SpaceCorps",
+      "storeUrl": "https://store.steampowered.com/app/2213580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T15:01:16.098Z",
+      "lastSeenAt": "2026-10-28T15:01:16.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "アーリーアルファの基本プレイ無料の宇宙 MMO。3つのカンパニーのいずれかに入隊し、エイリアンを狩り、デンジャーセクターでライバルのパイロットと戦い、船を作ってクランに参加しよう。Rust で書いた独自ゲームエンジン Space3d で動作します。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T15:01:16.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『SpaceCorps』\n✨ いつでも無料でプレイ\n\nアーリーアルファの基本プレイ無料の宇宙 MMO。3つのカンパニーのいずれかに入隊し、エイリアンを狩り、デンジャーセクターでライバルのパイロットと戦い、船を作ってクランに参加しよう。Rust で書…\n\nhttps://store.steampowered.com/app/2213580/",
+        "attemptedAt": "2026-10-28T15:01:19.432Z",
+        "bufferPostId": "6ae20e3f522cb4d35118c434",
+        "submittedAt": "2026-10-28T15:01:20.674Z",
+        "postedAt": "2026-10-28T15:01:20.674Z"
+      },
+      "bufferPostId": "6ae20e3f522cb4d35118c434",
+      "postedAt": "2026-10-28T15:01:20.674Z"
+    },
+    "steam:5397330:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5397330:permanent_free:1",
+      "store": "steam",
+      "productId": "5397330",
+      "generation": 1,
+      "title": "Fine Dining Fraud",
+      "storeUrl": "https://store.steampowered.com/app/5397330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T15:01:16.098Z",
+      "lastSeenAt": "2026-10-28T15:01:16.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A chaotic co-op cooking game for 1–4 players. Run a fake fine dining restaurant bought with mafia money: cook badly, serve picky guests, lie your way out of complaints, put out fires and survive the health inspector – all while the Don comes to collect.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T15:01:16.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fine Dining Fraud』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5397330/",
+        "attemptedAt": "2026-10-28T15:01:21.025Z",
+        "bufferPostId": "6ae20e41522cb4d35118c4df",
+        "submittedAt": "2026-10-28T15:01:22.327Z",
+        "postedAt": "2026-10-28T15:01:22.327Z"
+      },
+      "bufferPostId": "6ae20e41522cb4d35118c4df",
+      "postedAt": "2026-10-28T15:01:22.327Z"
+    },
+    "steam:2700640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2700640:permanent_free:1",
+      "store": "steam",
+      "productId": "2700640",
+      "generation": 1,
+      "title": "Pigeon Online World",
+      "storeUrl": "https://store.steampowered.com/app/2700640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T15:01:16.098Z",
+      "lastSeenAt": "2026-10-28T15:01:16.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build your pigeon loft above the neighbourhood. Care for your birds, choose breeding pairs, raise squabs and follow their bloodlines. Develop different breeds' flying abilities through training, enter weekly competitions and grow your loft over time.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T15:01:16.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pigeon Online World』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2700640/",
+        "attemptedAt": "2026-10-28T15:01:22.624Z",
+        "bufferPostId": "6ae20e4224430b41b8a69d90",
+        "submittedAt": "2026-10-28T15:01:24.361Z",
+        "postedAt": "2026-10-28T15:01:24.361Z"
+      },
+      "bufferPostId": "6ae20e4224430b41b8a69d90",
+      "postedAt": "2026-10-28T15:01:24.361Z"
+    },
+    "steam:4607590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4607590:permanent_free:1",
+      "store": "steam",
+      "productId": "4607590",
+      "generation": 1,
+      "title": "GummyGom Delivery",
+      "storeUrl": "https://store.steampowered.com/app/4607590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T15:01:16.098Z",
+      "lastSeenAt": "2026-10-28T15:01:16.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ゼリーベアの仲間たちと一緒に、板に乗った荷物を運びましょう！各自の動きが板のバランスに影響を与え、小さなミス一つがすべてを台無しにするかもしれません。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T15:01:16.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GummyGom Delivery』\n✨ いつでも無料でプレイ\n\nゼリーベアの仲間たちと一緒に、板に乗った荷物を運びましょう！各自の動きが板のバランスに影響を与え、小さなミス一つがすべてを台無しにするかもしれません。\n\nhttps://store.steampowered.com/app/4607590/",
+        "attemptedAt": "2026-10-28T15:01:24.717Z",
+        "bufferPostId": "6ae20e4400f35d308c8278bf",
+        "submittedAt": "2026-10-28T15:01:26.148Z",
+        "postedAt": "2026-10-28T15:01:26.148Z"
+      },
+      "bufferPostId": "6ae20e4400f35d308c8278bf",
+      "postedAt": "2026-10-28T15:01:26.148Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T12:01:11.239Z",
+    "lastSuccessfulScanAt": "2026-10-28T15:01:16.098Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6781,11 +6951,13 @@
       "1930320": "2026-10-25T00:01:08.164Z",
       "1965430": "2026-10-14T15:30:36.000Z",
       "1979510": "2026-10-17T15:01:03.979Z",
+      "2213580": "2026-10-28T15:01:16.098Z",
       "2331730": "2026-10-14T15:30:36.000Z",
       "2488560": "2026-10-22T21:01:15.937Z",
       "2551970": "2026-10-26T18:01:07.648Z",
       "2582880": "2026-10-21T12:01:06.252Z",
       "2622100": "2026-10-28T03:01:23.689Z",
+      "2700640": "2026-10-28T15:01:16.098Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
       "2982680": "2026-10-27T00:01:18.126Z",
@@ -6846,6 +7018,7 @@
       "4567680": "2026-10-14T15:30:36.000Z",
       "4594300": "2026-10-27T09:01:03.509Z",
       "4597820": "2026-10-27T00:01:18.126Z",
+      "4607590": "2026-10-28T15:01:16.098Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
       "4631420": "2026-10-28T00:01:10.872Z",
@@ -6878,6 +7051,7 @@
       "4807880": "2026-10-16T09:01:06.129Z",
       "4813620": "2026-10-22T00:00:57.495Z",
       "4823850": "2026-10-14T15:30:36.000Z",
+      "4836460": "2026-10-28T15:01:16.098Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4846870": "2026-10-14T15:30:36.000Z",
       "4854020": "2026-10-14T21:01:00.572Z",
@@ -7058,7 +7232,8 @@
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
       "5391500": "2026-10-26T15:01:10.225Z",
-      "5394530": "2026-10-23T09:01:01.018Z"
+      "5394530": "2026-10-23T09:01:01.018Z",
+      "5397330": "2026-10-28T15:01:16.098Z"
     }
   }
 }

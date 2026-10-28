@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40711605830",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T15:01:02.100Z",
+    "finishedAt": "2026-10-28T15:01:26.156Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40711605830"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 21,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4836460",
+      "title": "Portentum",
+      "storeUrl": "https://store.steampowered.com/app/4836460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836460/7fc1c537ad4c19cfcf5e54b0a0965c941b412b4b/header.jpg?t=1793196140",
+      "officialDescription": "クリプティッドで戦うデッキ構築型オートバトラー。ビッグフット、Jimothy、ネッシー、チュパカブラたちと、壊れたコンボを探し出そう。1973年に誰かのおじさんが森で見たというなら、それはたぶん『Portentum』のカードだ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2213580",
+      "title": "SpaceCorps",
+      "storeUrl": "https://store.steampowered.com/app/2213580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213580/76938e362a2683bb78c55bfe8e8f986076d4c77c/header.jpg?t=1793191907",
+      "officialDescription": "アーリーアルファの基本プレイ無料の宇宙 MMO。3つのカンパニーのいずれかに入隊し、エイリアンを狩り、デンジャーセクターでライバルのパイロットと戦い、船を作ってクランに参加しよう。Rust で書いた独自ゲームエンジン Space3d で動作します。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5397330",
+      "title": "Fine Dining Fraud",
+      "storeUrl": "https://store.steampowered.com/app/5397330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397330/a2c103d24a9ce64b4364c74f5b26c2d2a343b152/header.jpg?t=1793192522",
+      "officialDescription": "A chaotic co-op cooking game for 1–4 players. Run a fake fine dining restaurant bought with mafia money: cook badly, serve picky guests, lie your way out of complaints, put out fires and survive the health inspector – all while the Don comes to collect."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2700640",
+      "title": "Pigeon Online World",
+      "storeUrl": "https://store.steampowered.com/app/2700640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700640/c67ded34ff678065ade31a9e33d68b8933ed7ac6/header.jpg?t=1793191181",
+      "officialDescription": "Build your pigeon loft above the neighbourhood. Care for your birds, choose breeding pairs, raise squabs and follow their bloodlines. Develop different breeds' flying abilities through training, enter weekly competitions and grow your loft over time."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4607590",
+      "title": "GummyGom Delivery",
+      "storeUrl": "https://store.steampowered.com/app/4607590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607590/d9725cca00e061f0572113fdb886476d9445af0f/header_japanese.jpg?t=1793063424",
+      "officialDescription": "ゼリーベアの仲間たちと一緒に、板に乗った荷物を運びましょう！各自の動きが板のバランスに影響を与え、小さなミス一つがすべてを台無しにするかもしれません。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4836460:permanent_free:1",
+      "productId": "4836460",
+      "title": "Portentum",
+      "status": "sent",
+      "bufferPostId": "6ae20e3d00f35d308c8275f4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2213580:permanent_free:1",
+      "productId": "2213580",
+      "title": "SpaceCorps",
+      "status": "sent",
+      "bufferPostId": "6ae20e3f522cb4d35118c434"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5397330:permanent_free:1",
+      "productId": "5397330",
+      "title": "Fine Dining Fraud",
+      "status": "sent",
+      "bufferPostId": "6ae20e41522cb4d35118c4df"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2700640:permanent_free:1",
+      "productId": "2700640",
+      "title": "Pigeon Online World",
+      "status": "sent",
+      "bufferPostId": "6ae20e4224430b41b8a69d90"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4607590:permanent_free:1",
+      "productId": "4607590",
+      "title": "GummyGom Delivery",
+      "status": "sent",
+      "bufferPostId": "6ae20e4400f35d308c8278bf"
+    }
+  ],
+  "errors": []
+}
