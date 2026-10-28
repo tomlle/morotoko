@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40660930117",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T09:00:58.809Z",
+    "finishedAt": "2026-10-28T09:01:09.436Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40660930117"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 17,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4997370",
+      "title": "チェス2",
+      "storeUrl": "https://store.steampowered.com/app/4997370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997370/6c7b53d7b6890c9bccc61b803a15cf1a6ecdaa96/header.jpg?t=1793174440",
+      "officialDescription": "チェス、ただし… ターンなし, チェックもチェックメイトもない, 同じ駒は2回動かせない, 10×10の盤面, ナイトとポーンが2つ多い, ポーンはどの方向にも動ける"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4997370:permanent_free:1",
+      "productId": "4997370",
+      "title": "チェス2",
+      "status": "sent",
+      "bufferPostId": "6ae1b9d492a79b7aa16e753d"
+    }
+  ],
+  "errors": []
+}

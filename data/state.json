@@ -758,6 +758,10 @@
     "steam:3063380:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3063380:permanent_free:1"
+    },
+    "steam:4997370:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4997370:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6698,11 +6702,41 @@
       },
       "bufferPostId": "6ae18fae644db86063bc03ff",
       "postedAt": "2026-10-28T06:01:19.786Z"
+    },
+    "steam:4997370:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4997370:permanent_free:1",
+      "store": "steam",
+      "productId": "4997370",
+      "generation": 1,
+      "title": "チェス2",
+      "storeUrl": "https://store.steampowered.com/app/4997370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T09:01:06.160Z",
+      "lastSeenAt": "2026-10-28T09:01:06.160Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "チェス、ただし… ターンなし, チェックもチェックメイトもない, 同じ駒は2回動かせない, 10×10の盤面, ナイトとポーンが2つ多い, ポーンはどの方向にも動ける",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T09:01:06.160Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『チェス2』\n✨ いつでも無料でプレイ\n\nチェス、ただし… ターンなし, チェックもチェックメイトもない, 同じ駒は2回動かせない, 10×10の盤面, ナイトとポーンが2つ多い, ポーンはどの方向にも動ける\n\nhttps://store.steampowered.com/app/4997370/",
+        "attemptedAt": "2026-10-28T09:01:07.883Z",
+        "bufferPostId": "6ae1b9d492a79b7aa16e753d",
+        "submittedAt": "2026-10-28T09:01:09.423Z",
+        "postedAt": "2026-10-28T09:01:09.423Z"
+      },
+      "bufferPostId": "6ae1b9d492a79b7aa16e753d",
+      "postedAt": "2026-10-28T09:01:09.423Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T06:01:11.657Z",
+    "lastSuccessfulScanAt": "2026-10-28T09:01:06.160Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6844,6 +6878,7 @@
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
       "4994410": "2026-10-14T15:30:36.000Z",
+      "4997370": "2026-10-28T09:01:06.160Z",
       "4997960": "2026-10-23T21:00:59.012Z",
       "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",
