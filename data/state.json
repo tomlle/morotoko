@@ -742,6 +742,22 @@
     "steam:4248630:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4248630:permanent_free:1"
+    },
+    "steam:5322620:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5322620:permanent_free:1"
+    },
+    "steam:5040660:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5040660:permanent_free:1"
+    },
+    "steam:5299840:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5299840:permanent_free:1"
+    },
+    "steam:3063380:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3063380:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6562,11 +6578,131 @@
       },
       "bufferPostId": "6ae16588c3dec74d259ac551",
       "postedAt": "2026-10-28T03:01:30.091Z"
+    },
+    "steam:5322620:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5322620:permanent_free:1",
+      "store": "steam",
+      "productId": "5322620",
+      "generation": 1,
+      "title": "Follow Suit",
+      "storeUrl": "https://store.steampowered.com/app/5322620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T06:01:11.657Z",
+      "lastSeenAt": "2026-10-28T06:01:11.657Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Playing card games (Spades, Hearts, Solitaire, Freecell, more coming) with your friends, vs bots, or solo. Make a table, share a code or link, and play between any devices. Bots fill empty seats, choose rule sets or adjust individual options.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T06:01:11.657Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Follow Suit』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5322620/",
+        "attemptedAt": "2026-10-28T06:01:12.774Z",
+        "bufferPostId": "6ae18fa9a48463c22758bd8e",
+        "submittedAt": "2026-10-28T06:01:14.469Z",
+        "postedAt": "2026-10-28T06:01:14.469Z"
+      },
+      "bufferPostId": "6ae18fa9a48463c22758bd8e",
+      "postedAt": "2026-10-28T06:01:14.469Z"
+    },
+    "steam:5040660:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5040660:permanent_free:1",
+      "store": "steam",
+      "productId": "5040660",
+      "generation": 1,
+      "title": "策馬三國志",
+      "storeUrl": "https://store.steampowered.com/app/5040660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T06:01:11.657Z",
+      "lastSeenAt": "2026-10-28T06:01:11.657Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "広大なマップで霧を晴らし、未知の領土を探索し、次々と兵を募って軍勢を整え、城を奪い合う。手数に制限のあるターンごとに緊迫した判断を下そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T06:01:11.657Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『策馬三國志』\n✨ いつでも無料でプレイ\n\n広大なマップで霧を晴らし、未知の領土を探索し、次々と兵を募って軍勢を整え、城を奪い合う。手数に制限のあるターンごとに緊迫した判断を下そう。\n\nhttps://store.steampowered.com/app/5040660/",
+        "attemptedAt": "2026-10-28T06:01:15.012Z",
+        "bufferPostId": "6ae18fab644db86063bc028c",
+        "submittedAt": "2026-10-28T06:01:16.319Z",
+        "postedAt": "2026-10-28T06:01:16.319Z"
+      },
+      "bufferPostId": "6ae18fab644db86063bc028c",
+      "postedAt": "2026-10-28T06:01:16.319Z"
+    },
+    "steam:5299840:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5299840:permanent_free:1",
+      "store": "steam",
+      "productId": "5299840",
+      "generation": 1,
+      "title": "The Path of Glass",
+      "storeUrl": "https://store.steampowered.com/app/5299840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T06:01:11.657Z",
+      "lastSeenAt": "2026-10-28T06:01:11.657Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Jacob accompanies his partner to the oppressive Volkov residence, where a formal visit spirals into a trap of silence and guilt. A self-contained narrative thriller featuring an original acoustic piano score. Approximate length: 1.5 hours.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T06:01:11.657Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Path of Glass』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5299840/",
+        "attemptedAt": "2026-10-28T06:01:16.795Z",
+        "bufferPostId": "6ae18fac644db86063bc035e",
+        "submittedAt": "2026-10-28T06:01:18.066Z",
+        "postedAt": "2026-10-28T06:01:18.066Z"
+      },
+      "bufferPostId": "6ae18fac644db86063bc035e",
+      "postedAt": "2026-10-28T06:01:18.066Z"
+    },
+    "steam:3063380:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3063380:permanent_free:1",
+      "store": "steam",
+      "productId": "3063380",
+      "generation": 1,
+      "title": "Nodal",
+      "storeUrl": "https://store.steampowered.com/app/3063380/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T06:01:11.657Z",
+      "lastSeenAt": "2026-10-28T06:01:11.657Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Nodal is a logic puzzle game where you simply connect nodes by drawing lines. Every node must be connected, but special conditions on nodes change how lines can be drawn between them. Also try your hand at endlessly generated puzzles and daily challenges!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T06:01:11.657Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Nodal』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3063380/",
+        "attemptedAt": "2026-10-28T06:01:18.450Z",
+        "bufferPostId": "6ae18fae644db86063bc03ff",
+        "submittedAt": "2026-10-28T06:01:19.786Z",
+        "postedAt": "2026-10-28T06:01:19.786Z"
+      },
+      "bufferPostId": "6ae18fae644db86063bc03ff",
+      "postedAt": "2026-10-28T06:01:19.786Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T03:01:23.689Z",
+    "lastSuccessfulScanAt": "2026-10-28T06:01:11.657Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6585,6 +6721,7 @@
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
       "2982680": "2026-10-27T00:01:18.126Z",
+      "3063380": "2026-10-28T06:01:11.657Z",
       "3138080": "2026-10-25T09:01:01.104Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
@@ -6719,6 +6856,7 @@
       "5034980": "2026-10-14T18:01:12.359Z",
       "5037330": "2026-10-14T15:30:36.000Z",
       "5039290": "2026-10-23T12:01:18.754Z",
+      "5040660": "2026-10-28T06:01:11.657Z",
       "5043860": "2026-10-21T00:01:08.212Z",
       "5049940": "2026-10-23T21:00:59.012Z",
       "5057270": "2026-10-14T15:30:36.000Z",
@@ -6814,6 +6952,7 @@
       "5291650": "2026-10-14T15:30:36.000Z",
       "5294050": "2026-10-14T15:30:36.000Z",
       "5299150": "2026-10-14T15:30:36.000Z",
+      "5299840": "2026-10-28T06:01:11.657Z",
       "5301420": "2026-10-14T15:30:36.000Z",
       "5302110": "2026-10-16T12:01:06.356Z",
       "5303740": "2026-10-14T15:30:36.000Z",
@@ -6824,6 +6963,7 @@
       "5314960": "2026-10-14T15:30:36.000Z",
       "5318820": "2026-10-23T09:01:01.018Z",
       "5319610": "2026-10-14T15:30:36.000Z",
+      "5322620": "2026-10-28T06:01:11.657Z",
       "5324320": "2026-10-26T00:01:03.264Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",

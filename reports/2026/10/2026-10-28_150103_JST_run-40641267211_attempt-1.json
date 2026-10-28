@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40641267211",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T06:01:03.573Z",
+    "finishedAt": "2026-10-28T06:01:19.793Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40641267211"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5322620",
+      "title": "Follow Suit",
+      "storeUrl": "https://store.steampowered.com/app/5322620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322620/ae51c32e930c84f367170f68924b72af10ec836a/header.jpg?t=1793159424",
+      "officialDescription": "Playing card games (Spades, Hearts, Solitaire, Freecell, more coming) with your friends, vs bots, or solo. Make a table, share a code or link, and play between any devices. Bots fill empty seats, choose rule sets or adjust individual options."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5040660",
+      "title": "策馬三國志",
+      "storeUrl": "https://store.steampowered.com/app/5040660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040660/d345c4b41c64fb7b22bb30b4f3927a6ea2aec268/header_japanese.jpg?t=1793156696",
+      "officialDescription": "広大なマップで霧を晴らし、未知の領土を探索し、次々と兵を募って軍勢を整え、城を奪い合う。手数に制限のあるターンごとに緊迫した判断を下そう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5299840",
+      "title": "The Path of Glass",
+      "storeUrl": "https://store.steampowered.com/app/5299840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5299840/9194ff3e79cd05ef858c065e47b62e6fe0b23a31/header.jpg?t=1793124050",
+      "officialDescription": "Jacob accompanies his partner to the oppressive Volkov residence, where a formal visit spirals into a trap of silence and guilt. A self-contained narrative thriller featuring an original acoustic piano score. Approximate length: 1.5 hours."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3063380",
+      "title": "Nodal",
+      "storeUrl": "https://store.steampowered.com/app/3063380/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063380/8c49509f201969fc9206e6b60eedd9171e51e0f7/header.jpg?t=1793077700",
+      "officialDescription": "Nodal is a logic puzzle game where you simply connect nodes by drawing lines. Every node must be connected, but special conditions on nodes change how lines can be drawn between them. Also try your hand at endlessly generated puzzles and daily challenges!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5322620:permanent_free:1",
+      "productId": "5322620",
+      "title": "Follow Suit",
+      "status": "sent",
+      "bufferPostId": "6ae18fa9a48463c22758bd8e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5040660:permanent_free:1",
+      "productId": "5040660",
+      "title": "策馬三國志",
+      "status": "sent",
+      "bufferPostId": "6ae18fab644db86063bc028c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5299840:permanent_free:1",
+      "productId": "5299840",
+      "title": "The Path of Glass",
+      "status": "sent",
+      "bufferPostId": "6ae18fac644db86063bc035e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3063380:permanent_free:1",
+      "productId": "3063380",
+      "title": "Nodal",
+      "status": "sent",
+      "bufferPostId": "6ae18fae644db86063bc03ff"
+    }
+  ],
+  "errors": []
+}
