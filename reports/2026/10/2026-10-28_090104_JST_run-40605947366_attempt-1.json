@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40605947366",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T00:01:04.340Z",
+    "finishedAt": "2026-10-28T00:01:15.998Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40605947366"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4475480",
+      "title": "Shattered Void Online",
+      "storeUrl": "https://store.steampowered.com/app/4475480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475480/9426233530b529639b4ee0ca4ac4a7f7621bbc2d/header.jpg?t=1793142812",
+      "officialDescription": "One war, three ways to fight it. Take the bridge of a warship in 5v5 fleet battles, board an enemy outpost and fight for it on foot, or command a whole fleet across six star systems. Vanguard against Ironsworn: pick your side and get on the line."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4631420",
+      "title": "BLACKMARKET",
+      "storeUrl": "https://store.steampowered.com/app/4631420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631420/ec8cd2ce637ac83f952a06a896b5b024ddb72e0e/header.jpg?t=1793140049",
+      "officialDescription": "BLACKMARKET is a first-person roguelite room runner. Race the clock from saferoom to saferoom. Learn the one rule each creature lives by, and master slides, wall-kicks and pounds to stay alive."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4475480:permanent_free:1",
+      "productId": "4475480",
+      "title": "Shattered Void Online",
+      "status": "sent",
+      "bufferPostId": "6ae13b48b24fed5fb48fdf93"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4631420:permanent_free:1",
+      "productId": "4631420",
+      "title": "BLACKMARKET",
+      "status": "sent",
+      "bufferPostId": "6ae13b4a8bc396ba2f124f05"
+    }
+  ],
+  "errors": []
+}

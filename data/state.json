@@ -718,6 +718,14 @@
     "steam:4651700:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4651700:permanent_free:1"
+    },
+    "steam:4475480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4475480:permanent_free:1"
+    },
+    "steam:4631420:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4631420:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6358,11 +6366,71 @@
       },
       "bufferPostId": "6ae111132086adf9c1191f79",
       "postedAt": "2026-10-27T21:01:08.999Z"
+    },
+    "steam:4475480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4475480:permanent_free:1",
+      "store": "steam",
+      "productId": "4475480",
+      "generation": 1,
+      "title": "Shattered Void Online",
+      "storeUrl": "https://store.steampowered.com/app/4475480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T00:01:10.872Z",
+      "lastSeenAt": "2026-10-28T00:01:10.872Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "One war, three ways to fight it. Take the bridge of a warship in 5v5 fleet battles, board an enemy outpost and fight for it on foot, or command a whole fleet across six star systems. Vanguard against Ironsworn: pick your side and get on the line.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T00:01:10.872Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Shattered Void Online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4475480/",
+        "attemptedAt": "2026-10-28T00:01:12.574Z",
+        "bufferPostId": "6ae13b48b24fed5fb48fdf93",
+        "submittedAt": "2026-10-28T00:01:14.206Z",
+        "postedAt": "2026-10-28T00:01:14.206Z"
+      },
+      "bufferPostId": "6ae13b48b24fed5fb48fdf93",
+      "postedAt": "2026-10-28T00:01:14.206Z"
+    },
+    "steam:4631420:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4631420:permanent_free:1",
+      "store": "steam",
+      "productId": "4631420",
+      "generation": 1,
+      "title": "BLACKMARKET",
+      "storeUrl": "https://store.steampowered.com/app/4631420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T00:01:10.872Z",
+      "lastSeenAt": "2026-10-28T00:01:10.872Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "BLACKMARKET is a first-person roguelite room runner. Race the clock from saferoom to saferoom. Learn the one rule each creature lives by, and master slides, wall-kicks and pounds to stay alive.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T00:01:10.872Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『BLACKMARKET』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4631420/",
+        "attemptedAt": "2026-10-28T00:01:14.677Z",
+        "bufferPostId": "6ae13b4a8bc396ba2f124f05",
+        "submittedAt": "2026-10-28T00:01:15.990Z",
+        "postedAt": "2026-10-28T00:01:15.990Z"
+      },
+      "bufferPostId": "6ae13b4a8bc396ba2f124f05",
+      "postedAt": "2026-10-28T00:01:15.990Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-27T21:01:04.552Z",
+    "lastSuccessfulScanAt": "2026-10-28T00:01:10.872Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6424,6 +6492,7 @@
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4475480": "2026-10-28T00:01:10.872Z",
       "4491130": "2026-10-19T03:01:01.402Z",
       "4522380": "2026-10-24T06:01:02.274Z",
       "4527880": "2026-10-22T18:01:09.344Z",
@@ -6436,6 +6505,7 @@
       "4597820": "2026-10-27T00:01:18.126Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
+      "4631420": "2026-10-28T00:01:10.872Z",
       "4632980": "2026-10-14T15:30:36.000Z",
       "4643480": "2026-10-23T09:01:01.018Z",
       "4651700": "2026-10-27T21:01:04.552Z",
