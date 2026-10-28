@@ -726,6 +726,22 @@
     "steam:4631420:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4631420:permanent_free:1"
+    },
+    "steam:4873510:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4873510:permanent_free:1"
+    },
+    "steam:2622100:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2622100:permanent_free:1"
+    },
+    "steam:5246480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5246480:permanent_free:1"
+    },
+    "steam:4248630:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4248630:permanent_free:1"
     }
   },
   "campaigns": {
@@ -6426,11 +6442,131 @@
       },
       "bufferPostId": "6ae13b4a8bc396ba2f124f05",
       "postedAt": "2026-10-28T00:01:15.990Z"
+    },
+    "steam:4873510:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4873510:permanent_free:1",
+      "store": "steam",
+      "productId": "4873510",
+      "generation": 1,
+      "title": "Blocia",
+      "storeUrl": "https://store.steampowered.com/app/4873510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T03:01:23.689Z",
+      "lastSeenAt": "2026-10-28T03:01:23.689Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Blocia is a multiplayer sandbox MMO where you can build, explore, create games, collect items, customize your character, and connect with players in worlds made by the community.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T03:01:23.689Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Blocia』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4873510/",
+        "attemptedAt": "2026-10-28T03:01:24.462Z",
+        "bufferPostId": "6ae16584f74245164e80f468",
+        "submittedAt": "2026-10-28T03:01:25.774Z",
+        "postedAt": "2026-10-28T03:01:25.774Z"
+      },
+      "bufferPostId": "6ae16584f74245164e80f468",
+      "postedAt": "2026-10-28T03:01:25.774Z"
+    },
+    "steam:2622100:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2622100:permanent_free:1",
+      "store": "steam",
+      "productId": "2622100",
+      "generation": 1,
+      "title": "Footy Bash",
+      "storeUrl": "https://store.steampowered.com/app/2622100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T03:01:23.689Z",
+      "lastSeenAt": "2026-10-28T03:01:23.689Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "「爆走フットボール」の世界に飛び込んで、スピーディーなフットボールを1～4人で体験してみませんか。目を見張るようなスーパープレイで相手を驚かせ、観客を魅了する強烈なヒットを決めよう。ダイナミックなゲームプレイとクラシックな見た目を備えた「爆走フットボール」は、しびれるようなフットボールスペクタクルです。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T03:01:23.689Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Footy Bash』\n✨ いつでも無料でプレイ\n\n「爆走フットボール」の世界に飛び込んで、スピーディーなフットボールを1～4人で体験してみませんか。目を見張るようなスーパープレイで相手を驚かせ、観客を魅了する強烈なヒットを決めよう。ダイ…\n\nhttps://store.steampowered.com/app/2622100/",
+        "attemptedAt": "2026-10-28T03:01:25.992Z",
+        "bufferPostId": "6ae16586f652e014d7a5e860",
+        "submittedAt": "2026-10-28T03:01:27.216Z",
+        "postedAt": "2026-10-28T03:01:27.216Z"
+      },
+      "bufferPostId": "6ae16586f652e014d7a5e860",
+      "postedAt": "2026-10-28T03:01:27.216Z"
+    },
+    "steam:5246480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5246480:permanent_free:1",
+      "store": "steam",
+      "productId": "5246480",
+      "generation": 1,
+      "title": "TaskTown",
+      "storeUrl": "https://store.steampowered.com/app/5246480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T03:01:23.689Z",
+      "lastSeenAt": "2026-10-28T03:01:23.689Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Turn your everyday clicks and keystrokes into in-game currency! Collect cute and stylish animals, help them find their tools, and build a peaceful village of your own.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T03:01:23.689Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『TaskTown』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5246480/",
+        "attemptedAt": "2026-10-28T03:01:27.460Z",
+        "bufferPostId": "6ae165872785e53975d1490b",
+        "submittedAt": "2026-10-28T03:01:28.660Z",
+        "postedAt": "2026-10-28T03:01:28.660Z"
+      },
+      "bufferPostId": "6ae165872785e53975d1490b",
+      "postedAt": "2026-10-28T03:01:28.660Z"
+    },
+    "steam:4248630:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4248630:permanent_free:1",
+      "store": "steam",
+      "productId": "4248630",
+      "generation": 1,
+      "title": "Crateball",
+      "storeUrl": "https://store.steampowered.com/app/4248630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-28T03:01:23.689Z",
+      "lastSeenAt": "2026-10-28T03:01:23.689Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Crateball is a 3v3 arcade football game. Crates drop onto the pitch during the match. Some give you a gun, a homing bazooka or a shield. Others freeze you, reverse your controls or explode. The arena changes after every goal. Play online with friends, and bots take any empty spots.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-28T03:01:23.689Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crateball』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4248630/",
+        "attemptedAt": "2026-10-28T03:01:28.897Z",
+        "bufferPostId": "6ae16588c3dec74d259ac551",
+        "submittedAt": "2026-10-28T03:01:30.091Z",
+        "postedAt": "2026-10-28T03:01:30.091Z"
+      },
+      "bufferPostId": "6ae16588c3dec74d259ac551",
+      "postedAt": "2026-10-28T03:01:30.091Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T00:01:10.872Z",
+    "lastSuccessfulScanAt": "2026-10-28T03:01:23.689Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -6445,6 +6581,7 @@
       "2488560": "2026-10-22T21:01:15.937Z",
       "2551970": "2026-10-26T18:01:07.648Z",
       "2582880": "2026-10-21T12:01:06.252Z",
+      "2622100": "2026-10-28T03:01:23.689Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
       "2982680": "2026-10-27T00:01:18.126Z",
@@ -6478,6 +6615,7 @@
       "4150920": "2026-10-14T15:30:36.000Z",
       "4190960": "2026-10-14T15:30:36.000Z",
       "4246850": "2026-10-21T18:01:08.108Z",
+      "4248630": "2026-10-28T03:01:23.689Z",
       "4251070": "2026-10-15T18:01:01.152Z",
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
@@ -6542,6 +6680,7 @@
       "4856160": "2026-10-27T09:01:03.509Z",
       "4866750": "2026-10-23T18:01:08.113Z",
       "4870820": "2026-10-16T18:01:10.079Z",
+      "4873510": "2026-10-28T03:01:23.689Z",
       "4885100": "2026-10-14T15:30:36.000Z",
       "4889610": "2026-10-19T21:01:06.551Z",
       "4894260": "2026-10-14T15:30:36.000Z",
@@ -6642,6 +6781,7 @@
       "5242290": "2026-10-26T09:01:11.947Z",
       "5245030": "2026-10-24T18:01:06.791Z",
       "5246400": "2026-10-20T12:00:59.724Z",
+      "5246480": "2026-10-28T03:01:23.689Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5249390": "2026-10-14T15:30:36.000Z",
       "5250500": "2026-10-16T21:01:03.467Z",
