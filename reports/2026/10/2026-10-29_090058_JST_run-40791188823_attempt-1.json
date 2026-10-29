@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40791188823",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-29T00:00:58.302Z",
+    "finishedAt": "2026-10-29T00:01:13.539Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40791188823"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1149050",
+      "title": "Slime Jump",
+      "storeUrl": "https://store.steampowered.com/app/1149050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149050/0557ac0e30da670f0c1f13e400b9e065d91597c3/header.jpg?t=1793225577",
+      "officialDescription": "Slime Jump is a 2D precision platformer game where you explore a world full of hazards and can collect optional gems. There are 7 areas to traverse, two difficulties, cosmetics, and achievements. A grappling hook and blaster gun are needed for later parts. Can you rescue and reunite with your lover?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1319990",
+      "title": "Stellar Swing",
+      "storeUrl": "https://store.steampowered.com/app/1319990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1319990/161501b44b2785b96270ceac041eec18026ef68c/header.jpg?t=1793223481",
+      "officialDescription": "Swing a little mining drone from asteroid to asteroid with a grappling laser. Carry your speed through 45 open-ended levels and collect enough picolinium to keep humanity's last starship going."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5292650",
+      "title": "はじめてのNICU2〜退院支援編〜",
+      "storeUrl": "https://store.steampowered.com/app/5292650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5292650/06b15ca262db7ff4f6f7191f2bb06c2720c30616/header_japanese.jpg?t=1793143104",
+      "officialDescription": "看護学生ゆうかと、赤ちゃんとご家族の退院後の暮らしを考える教育ノベルゲーム。家族回診、多職種の会議、医療やケアのミニゲームを通して退院支援を体験します。『はじめてのNICU〜探索編〜』の続編。全6章、日本語・英語のテキストと音声に対応。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:1149050:permanent_free:1",
+      "productId": "1149050",
+      "title": "Slime Jump",
+      "status": "sent",
+      "bufferPostId": "6ae28cc4cfdbbf6de4f31379"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1319990:permanent_free:1",
+      "productId": "1319990",
+      "title": "Stellar Swing",
+      "status": "sent",
+      "bufferPostId": "6ae28cc67a72c9efac0808a4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5292650:permanent_free:1",
+      "productId": "5292650",
+      "title": "はじめてのNICU2〜退院支援編〜",
+      "status": "sent",
+      "bufferPostId": "6ae28cc87a72c9efac0809b6"
+    }
+  ],
+  "errors": []
+}

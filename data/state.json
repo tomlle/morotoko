@@ -806,6 +806,18 @@
     "steam:5089050:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5089050:permanent_free:1"
+    },
+    "steam:1149050:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1149050:permanent_free:1"
+    },
+    "steam:1319990:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1319990:permanent_free:1"
+    },
+    "steam:5292650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5292650:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7106,14 +7118,106 @@
       },
       "bufferPostId": "6ae262a361a8363a494942da",
       "postedAt": "2026-10-28T21:01:24.539Z"
+    },
+    "steam:1149050:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1149050:permanent_free:1",
+      "store": "steam",
+      "productId": "1149050",
+      "generation": 1,
+      "title": "Slime Jump",
+      "storeUrl": "https://store.steampowered.com/app/1149050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T00:01:06.982Z",
+      "lastSeenAt": "2026-10-29T00:01:06.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Slime Jump is a 2D precision platformer game where you explore a world full of hazards and can collect optional gems. There are 7 areas to traverse, two difficulties, cosmetics, and achievements. A grappling hook and blaster gun are needed for later parts. Can you rescue and reunite with your lover?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T00:01:06.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Slime Jump』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1149050/",
+        "attemptedAt": "2026-10-29T00:01:08.110Z",
+        "bufferPostId": "6ae28cc4cfdbbf6de4f31379",
+        "submittedAt": "2026-10-29T00:01:09.799Z",
+        "postedAt": "2026-10-29T00:01:09.799Z"
+      },
+      "bufferPostId": "6ae28cc4cfdbbf6de4f31379",
+      "postedAt": "2026-10-29T00:01:09.799Z"
+    },
+    "steam:1319990:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1319990:permanent_free:1",
+      "store": "steam",
+      "productId": "1319990",
+      "generation": 1,
+      "title": "Stellar Swing",
+      "storeUrl": "https://store.steampowered.com/app/1319990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T00:01:06.982Z",
+      "lastSeenAt": "2026-10-29T00:01:06.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Swing a little mining drone from asteroid to asteroid with a grappling laser. Carry your speed through 45 open-ended levels and collect enough picolinium to keep humanity's last starship going.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T00:01:06.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Stellar Swing』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1319990/",
+        "attemptedAt": "2026-10-29T00:01:10.216Z",
+        "bufferPostId": "6ae28cc67a72c9efac0808a4",
+        "submittedAt": "2026-10-29T00:01:11.580Z",
+        "postedAt": "2026-10-29T00:01:11.580Z"
+      },
+      "bufferPostId": "6ae28cc67a72c9efac0808a4",
+      "postedAt": "2026-10-29T00:01:11.580Z"
+    },
+    "steam:5292650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5292650:permanent_free:1",
+      "store": "steam",
+      "productId": "5292650",
+      "generation": 1,
+      "title": "はじめてのNICU2〜退院支援編〜",
+      "storeUrl": "https://store.steampowered.com/app/5292650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T00:01:06.982Z",
+      "lastSeenAt": "2026-10-29T00:01:06.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "看護学生ゆうかと、赤ちゃんとご家族の退院後の暮らしを考える教育ノベルゲーム。家族回診、多職種の会議、医療やケアのミニゲームを通して退院支援を体験します。『はじめてのNICU〜探索編〜』の続編。全6章、日本語・英語のテキストと音声に対応。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T00:01:06.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『はじめてのNICU2〜退院支援編〜』\n✨ いつでも無料でプレイ\n\n看護学生ゆうかと、赤ちゃんとご家族の退院後の暮らしを考える教育ノベルゲーム。家族回診、多職種の会議、医療やケアのミニゲームを通して退院支援を体験します。『はじめてのN…\n\nhttps://store.steampowered.com/app/5292650/",
+        "attemptedAt": "2026-10-29T00:01:12.066Z",
+        "bufferPostId": "6ae28cc87a72c9efac0809b6",
+        "submittedAt": "2026-10-29T00:01:13.531Z",
+        "postedAt": "2026-10-29T00:01:13.531Z"
+      },
+      "bufferPostId": "6ae28cc87a72c9efac0809b6",
+      "postedAt": "2026-10-29T00:01:13.531Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-28T21:01:20.934Z",
+    "lastSuccessfulScanAt": "2026-10-29T00:01:06.982Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
+      "1149050": "2026-10-29T00:01:06.982Z",
       "1191830": "2026-10-14T15:30:36.000Z",
+      "1319990": "2026-10-29T00:01:06.982Z",
       "1333410": "2026-10-14T15:30:36.000Z",
       "1407560": "2026-10-26T18:01:07.648Z",
       "1624430": "2026-10-19T21:01:06.551Z",
@@ -7368,6 +7472,7 @@
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289970": "2026-10-14T15:30:36.000Z",
       "5291650": "2026-10-14T15:30:36.000Z",
+      "5292650": "2026-10-29T00:01:06.982Z",
       "5294050": "2026-10-14T15:30:36.000Z",
       "5299150": "2026-10-14T15:30:36.000Z",
       "5299840": "2026-10-28T06:01:11.657Z",
