@@ -842,6 +842,10 @@
     "steam:3466220:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3466220:permanent_free:1"
+    },
+    "steam:5405810:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5405810:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7412,11 +7416,41 @@
       },
       "bufferPostId": "6ae30b5c67af076823b1b2b0",
       "postedAt": "2026-10-29T09:01:17.843Z"
+    },
+    "steam:5405810:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5405810:permanent_free:1",
+      "store": "steam",
+      "productId": "5405810",
+      "generation": 1,
+      "title": "Reclaim Home",
+      "storeUrl": "https://store.steampowered.com/app/5405810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T12:01:05.996Z",
+      "lastSeenAt": "2026-10-29T12:01:05.996Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Reclaim Home is a story-driven 2D adventure through mysterious ancient worlds. Explore forgotten ruins, uncover hidden secrets, solve challenging puzzles, and face dangers along the way as you embark on a journey to reclaim what was once yours.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T12:01:05.996Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Reclaim Home』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5405810/",
+        "attemptedAt": "2026-10-29T12:01:06.628Z",
+        "bufferPostId": "6ae335822c1fad605863b77c",
+        "submittedAt": "2026-10-29T12:01:07.922Z",
+        "postedAt": "2026-10-29T12:01:07.922Z"
+      },
+      "bufferPostId": "6ae335822c1fad605863b77c",
+      "postedAt": "2026-10-29T12:01:07.922Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-29T09:01:05.116Z",
+    "lastSuccessfulScanAt": "2026-10-29T12:01:05.996Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -7723,7 +7757,8 @@
       "5384900": "2026-10-23T12:01:18.754Z",
       "5391500": "2026-10-26T15:01:10.225Z",
       "5394530": "2026-10-23T09:01:01.018Z",
-      "5397330": "2026-10-28T15:01:16.098Z"
+      "5397330": "2026-10-28T15:01:16.098Z",
+      "5405810": "2026-10-29T12:01:05.996Z"
     }
   }
 }
