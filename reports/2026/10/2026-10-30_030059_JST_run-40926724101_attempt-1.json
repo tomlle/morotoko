@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40926724101",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-29T18:00:59.060Z",
+    "finishedAt": "2026-10-29T18:01:15.821Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40926724101"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 21,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 18,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Logic",
+        "Puzzle",
+        "Colorful",
+        "Relaxing",
+        "Sokoban",
+        "Puzzle Platformer",
+        "2D",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Cartoony",
+        "Hex Grid",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5095690",
+      "title": "Ship Busters",
+      "storeUrl": "https://store.steampowered.com/app/5095690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5095690/64a69223f83e51a883fc805e01c4d9334728ef4a/header.jpg?t=1793288757",
+      "officialDescription": "Sink ships the hard way, one plank at a time. Arc your shot, tear the sails, set the deck alight, then charge every gun on the flank and fire them as one. Free to play."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4197210",
+      "title": "它说山雨欲来",
+      "storeUrl": "https://store.steampowered.com/app/4197210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197210/1b85cefd71d1b486d7dd9c119013485c10890b0e/header.jpg?t=1793289867",
+      "officialDescription": "3ルート、50以上のエンディング！軽い謎解き付きテキストADV＋VN。第一ルート（十数エンド、詳細は秘密！）配信開始！ 完全架空の古風ファンタジー世界！武侠・権謀術数・疑似クトゥルフ——どれが強く出るかは君の選択次第！ 台本はコメディ、中身は陰気、エンディングは底なしの闇。個人制作、作者は燃え尽きました。 嵐に巻き込まれ、ボスを頼るしかない。革命家か、豪商か、教主様か？選択で物語は一変。どうか起きていて。 でも大丈夫——お前はチート持ちだ、どうせ生き残る。頑張れ！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:785890:1",
+      "productId": "785890",
+      "title": "Hexologic",
+      "status": "sent",
+      "bufferPostId": "6ae389e7145e9f24d45c64e8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5095690:permanent_free:1",
+      "productId": "5095690",
+      "title": "Ship Busters",
+      "status": "sent",
+      "bufferPostId": "6ae389e9a23f0986fe0ab5db"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4197210:permanent_free:1",
+      "productId": "4197210",
+      "title": "它说山雨欲来",
+      "status": "sent",
+      "bufferPostId": "6ae389ea49b3849a24ca119d"
+    }
+  ],
+  "errors": []
+}

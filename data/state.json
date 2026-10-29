@@ -870,6 +870,18 @@
     "steam:5382160:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5382160:permanent_free:1"
+    },
+    "steam:785890": {
+      "generation": 1,
+      "activeCampaignId": "steam:785890:1"
+    },
+    "steam:5095690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5095690:permanent_free:1"
+    },
+    "steam:4197210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4197210:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7650,11 +7662,125 @@
       },
       "bufferPostId": "6ae35fc6e079e57982e1b57c",
       "postedAt": "2026-10-29T15:01:28.248Z"
+    },
+    "steam:785890:1": {
+      "kind": "free_to_keep",
+      "id": "steam:785890:1",
+      "store": "steam",
+      "productId": "785890",
+      "generation": 1,
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "firstSeenAt": "2026-10-29T18:01:09.856Z",
+      "lastSeenAt": "2026-10-29T18:01:09.856Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Logic",
+        "Puzzle",
+        "Colorful",
+        "Relaxing",
+        "Sokoban",
+        "Puzzle Platformer",
+        "2D",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Cartoony",
+        "Hex Grid",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T18:01:09.856Z",
+        "postText": "🎁 今だけ無料でもらえる！\n\n『Hexologic』\n💰 ￥580 → 無料（100% OFF）\n⏰ 11/1 02:00まで\n\n美麗なグラフィックと数独に着想を得たユニークなルール\n\n✅ 期間内に入手すれば、終了後も遊べます\nhttps://store.steampowered.com/app/785890/",
+        "attemptedAt": "2026-10-29T18:01:10.988Z",
+        "bufferPostId": "6ae389e7145e9f24d45c64e8",
+        "submittedAt": "2026-10-29T18:01:12.428Z",
+        "postedAt": "2026-10-29T18:01:12.428Z"
+      },
+      "bufferPostId": "6ae389e7145e9f24d45c64e8",
+      "postedAt": "2026-10-29T18:01:12.428Z"
+    },
+    "steam:5095690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5095690:permanent_free:1",
+      "store": "steam",
+      "productId": "5095690",
+      "generation": 1,
+      "title": "Ship Busters",
+      "storeUrl": "https://store.steampowered.com/app/5095690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T18:01:09.856Z",
+      "lastSeenAt": "2026-10-29T18:01:09.856Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Sink ships the hard way, one plank at a time. Arc your shot, tear the sails, set the deck alight, then charge every gun on the flank and fire them as one. Free to play.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T18:01:09.856Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ship Busters』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5095690/",
+        "attemptedAt": "2026-10-29T18:01:12.892Z",
+        "bufferPostId": "6ae389e9a23f0986fe0ab5db",
+        "submittedAt": "2026-10-29T18:01:14.180Z",
+        "postedAt": "2026-10-29T18:01:14.180Z"
+      },
+      "bufferPostId": "6ae389e9a23f0986fe0ab5db",
+      "postedAt": "2026-10-29T18:01:14.180Z"
+    },
+    "steam:4197210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4197210:permanent_free:1",
+      "store": "steam",
+      "productId": "4197210",
+      "generation": 1,
+      "title": "它说山雨欲来",
+      "storeUrl": "https://store.steampowered.com/app/4197210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T18:01:09.856Z",
+      "lastSeenAt": "2026-10-29T18:01:09.856Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "3ルート、50以上のエンディング！軽い謎解き付きテキストADV＋VN。第一ルート（十数エンド、詳細は秘密！）配信開始！ 完全架空の古風ファンタジー世界！武侠・権謀術数・疑似クトゥルフ——どれが強く出るかは君の選択次第！ 台本はコメディ、中身は陰気、エンディングは底なしの闇。個人制作、作者は燃え尽きました。 嵐に巻き込まれ、ボスを頼るしかない。革命家か、豪商か、教主様か？選択で物語は一変。どうか起きていて。 でも大丈夫——お前はチート持ちだ、どうせ生き残る。頑張れ！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T18:01:09.856Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『它说山雨欲来』\n✨ いつでも無料でプレイ\n\n3ルート、50以上のエンディング！軽い謎解き付きテキストADV＋VN。第一ルート（十数エンド、詳細は秘密！）配信開始！ 完全架空の古風ファンタジー世界！武侠・権謀術数・疑似クトゥルフ——どれ…\n\nhttps://store.steampowered.com/app/4197210/",
+        "attemptedAt": "2026-10-29T18:01:14.472Z",
+        "bufferPostId": "6ae389ea49b3849a24ca119d",
+        "submittedAt": "2026-10-29T18:01:15.813Z",
+        "postedAt": "2026-10-29T18:01:15.813Z"
+      },
+      "bufferPostId": "6ae389ea49b3849a24ca119d",
+      "postedAt": "2026-10-29T18:01:15.813Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-29T15:01:15.623Z",
+    "lastSuccessfulScanAt": "2026-10-29T18:01:09.856Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -7708,6 +7834,7 @@
       "4140580": "2026-10-27T18:01:06.530Z",
       "4150920": "2026-10-14T15:30:36.000Z",
       "4190960": "2026-10-14T15:30:36.000Z",
+      "4197210": "2026-10-29T18:01:09.856Z",
       "4246850": "2026-10-21T18:01:08.108Z",
       "4248630": "2026-10-28T03:01:23.689Z",
       "4251070": "2026-10-15T18:01:01.152Z",
@@ -7830,6 +7957,7 @@
       "5088140": "2026-10-26T12:01:07.373Z",
       "5089050": "2026-10-28T21:01:20.934Z",
       "5090350": "2026-10-14T18:01:12.359Z",
+      "5095690": "2026-10-29T18:01:09.856Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
