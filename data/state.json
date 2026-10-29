@@ -846,6 +846,30 @@
     "steam:5405810:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5405810:permanent_free:1"
+    },
+    "steam:5186260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5186260:permanent_free:1"
+    },
+    "steam:5411640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5411640:permanent_free:1"
+    },
+    "steam:4704760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4704760:permanent_free:1"
+    },
+    "steam:5357230:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5357230:permanent_free:1"
+    },
+    "steam:5375400:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5375400:permanent_free:1"
+    },
+    "steam:5382160:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5382160:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7446,11 +7470,191 @@
       },
       "bufferPostId": "6ae335822c1fad605863b77c",
       "postedAt": "2026-10-29T12:01:07.922Z"
+    },
+    "steam:5186260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5186260:permanent_free:1",
+      "store": "steam",
+      "productId": "5186260",
+      "generation": 1,
+      "title": "One More Letter",
+      "storeUrl": "https://store.steampowered.com/app/5186260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A short, atmospheric narrative walking simulator about choosing to keep going when you have no proof that it matters. Write letters to The Evaluators, endure their trials, and search for a way forward through a crumbling world.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『One More Letter』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5186260/",
+        "attemptedAt": "2026-10-29T15:01:17.060Z",
+        "bufferPostId": "6ae35fbda87e7858ef1470d5",
+        "submittedAt": "2026-10-29T15:01:18.752Z",
+        "postedAt": "2026-10-29T15:01:18.752Z"
+      },
+      "bufferPostId": "6ae35fbda87e7858ef1470d5",
+      "postedAt": "2026-10-29T15:01:18.752Z"
+    },
+    "steam:5411640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5411640:permanent_free:1",
+      "store": "steam",
+      "productId": "5411640",
+      "generation": 1,
+      "title": "Elderwood",
+      "storeUrl": "https://store.steampowered.com/app/5411640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Forge your path in Elderwood, an online fantasy RPG where skills grow through adventure. Master weapons, craft powerful gear, or support allies with bard songs. Conquer clan keeps, brave dangerous PvP regions, and face endgame raids in a world shaped by rivalry, risk, and discovery.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Elderwood』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5411640/",
+        "attemptedAt": "2026-10-29T15:01:19.103Z",
+        "bufferPostId": "6ae35fbf10365a6fbeeee373",
+        "submittedAt": "2026-10-29T15:01:20.485Z",
+        "postedAt": "2026-10-29T15:01:20.485Z"
+      },
+      "bufferPostId": "6ae35fbf10365a6fbeeee373",
+      "postedAt": "2026-10-29T15:01:20.485Z"
+    },
+    "steam:4704760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4704760:permanent_free:1",
+      "store": "steam",
+      "productId": "4704760",
+      "generation": 1,
+      "title": "Boxing University",
+      "storeUrl": "https://store.steampowered.com/app/4704760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Step into the ring in Boxing University, a free boxing brawler in beta. Explore campus, take on opponents, time your parries, and unlock new gloves as you fight your way through university life.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Boxing University』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4704760/",
+        "attemptedAt": "2026-10-29T15:01:20.933Z",
+        "bufferPostId": "6ae35fc1e079e57982e1b340",
+        "submittedAt": "2026-10-29T15:01:22.361Z",
+        "postedAt": "2026-10-29T15:01:22.361Z"
+      },
+      "bufferPostId": "6ae35fc1e079e57982e1b340",
+      "postedAt": "2026-10-29T15:01:22.361Z"
+    },
+    "steam:5357230:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5357230:permanent_free:1",
+      "store": "steam",
+      "productId": "5357230",
+      "generation": 1,
+      "title": "Clearly Cribbage",
+      "storeUrl": "https://store.steampowered.com/app/5357230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Play cribbage against the computer and count the points in your own hand. Learn with a guided lesson and counting practice, then play to 121 across four difficulty settings.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Clearly Cribbage』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5357230/",
+        "attemptedAt": "2026-10-29T15:01:23.054Z",
+        "bufferPostId": "6ae35fc3a87e7858ef1472cd",
+        "submittedAt": "2026-10-29T15:01:24.430Z",
+        "postedAt": "2026-10-29T15:01:24.430Z"
+      },
+      "bufferPostId": "6ae35fc3a87e7858ef1472cd",
+      "postedAt": "2026-10-29T15:01:24.430Z"
+    },
+    "steam:5375400:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5375400:permanent_free:1",
+      "store": "steam",
+      "productId": "5375400",
+      "generation": 1,
+      "title": "Orange Braincell",
+      "storeUrl": "https://store.steampowered.com/app/5375400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Orange Braincellは、小さなオレンジ色の猫になって、目の前のものをなんでも平らげていく、ゆるくてカオスな物理ゲームです。慌てふためく住民たちと出会って毛皮にくっつけ、お寿司から太陽まで、すべてを転がして巻き込みましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Orange Braincell』\n✨ いつでも無料でプレイ\n\nOrange Braincellは、小さなオレンジ色の猫になって、目の前のものをなんでも平らげていく、ゆるくてカオスな物理ゲームです。慌てふためく住民たちと出会って毛皮にくっつけ、お寿司から太陽…\n\nhttps://store.steampowered.com/app/5375400/",
+        "attemptedAt": "2026-10-29T15:01:24.872Z",
+        "bufferPostId": "6ae35fc525e7fa4a8db27690",
+        "submittedAt": "2026-10-29T15:01:26.329Z",
+        "postedAt": "2026-10-29T15:01:26.329Z"
+      },
+      "bufferPostId": "6ae35fc525e7fa4a8db27690",
+      "postedAt": "2026-10-29T15:01:26.329Z"
+    },
+    "steam:5382160:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5382160:permanent_free:1",
+      "store": "steam",
+      "productId": "5382160",
+      "generation": 1,
+      "title": "Cutteridge Estate",
+      "storeUrl": "https://store.steampowered.com/app/5382160/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T15:01:15.623Z",
+      "lastSeenAt": "2026-10-29T15:01:15.623Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "From the original creators and remastered for Halloween: welcome home to the Cutteridge Estate! A full stand-alone and free-to-play experience where you can customize your avatar, decorate your space, and meet up with friends to explore haunted grounds full of ghosts and spooky minigames.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T15:01:15.623Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cutteridge Estate』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5382160/",
+        "attemptedAt": "2026-10-29T15:01:26.713Z",
+        "bufferPostId": "6ae35fc6e079e57982e1b57c",
+        "submittedAt": "2026-10-29T15:01:28.248Z",
+        "postedAt": "2026-10-29T15:01:28.248Z"
+      },
+      "bufferPostId": "6ae35fc6e079e57982e1b57c",
+      "postedAt": "2026-10-29T15:01:28.248Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-29T12:01:05.996Z",
+    "lastSuccessfulScanAt": "2026-10-29T15:01:15.623Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -7542,6 +7746,7 @@
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
       "4694770": "2026-10-19T03:01:01.402Z",
+      "4704760": "2026-10-29T15:01:15.623Z",
       "4706500": "2026-10-23T00:01:04.971Z",
       "4711830": "2026-10-14T15:30:36.000Z",
       "4714620": "2026-10-19T06:01:01.979Z",
@@ -7657,6 +7862,7 @@
       "5179280": "2026-10-23T03:01:08.088Z",
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
+      "5186260": "2026-10-29T15:01:15.623Z",
       "5186550": "2026-10-14T15:30:36.000Z",
       "5188720": "2026-10-28T12:01:11.239Z",
       "5191970": "2026-10-28T18:01:10.127Z",
@@ -7741,6 +7947,7 @@
       "5353310": "2026-10-26T21:01:09.019Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5356470": "2026-10-26T15:01:10.225Z",
+      "5357230": "2026-10-29T15:01:15.623Z",
       "5357680": "2026-10-20T18:01:06.119Z",
       "5358500": "2026-10-23T15:01:04.807Z",
       "5359760": "2026-10-19T09:01:06.915Z",
@@ -7750,15 +7957,18 @@
       "5371940": "2026-10-23T00:01:04.971Z",
       "5372440": "2026-10-26T18:01:07.648Z",
       "5375180": "2026-10-24T12:01:06.666Z",
+      "5375400": "2026-10-29T15:01:15.623Z",
       "5377010": "2026-10-27T12:01:11.410Z",
       "5377530": "2026-10-27T18:01:06.530Z",
       "5380340": "2026-10-29T09:01:05.116Z",
+      "5382160": "2026-10-29T15:01:15.623Z",
       "5382570": "2026-10-23T03:01:08.088Z",
       "5384900": "2026-10-23T12:01:18.754Z",
       "5391500": "2026-10-26T15:01:10.225Z",
       "5394530": "2026-10-23T09:01:01.018Z",
       "5397330": "2026-10-28T15:01:16.098Z",
-      "5405810": "2026-10-29T12:01:05.996Z"
+      "5405810": "2026-10-29T12:01:05.996Z",
+      "5411640": "2026-10-29T15:01:15.623Z"
     }
   }
 }
