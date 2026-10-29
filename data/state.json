@@ -818,6 +818,10 @@
     "steam:5292650:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5292650:permanent_free:1"
+    },
+    "steam:4903830:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4903830:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7208,11 +7212,41 @@
       },
       "bufferPostId": "6ae28cc87a72c9efac0809b6",
       "postedAt": "2026-10-29T00:01:13.531Z"
+    },
+    "steam:4903830:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4903830:permanent_free:1",
+      "store": "steam",
+      "productId": "4903830",
+      "generation": 1,
+      "title": "Angel Offline",
+      "storeUrl": "https://store.steampowered.com/app/4903830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-29T06:01:00.110Z",
+      "lastSeenAt": "2026-10-29T06:01:00.110Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A stranger texts your phone by mistake. You could ignore it, the way everyone ignores everything now. Instead, you answer. Angel Offline is a short visual novel about one accidental conversation that becomes something more, told entirely through the messages you choose to send.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-29T06:01:00.110Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Angel Offline』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4903830/",
+        "attemptedAt": "2026-10-29T06:01:01.622Z",
+        "bufferPostId": "6ae2e11d8d517922b2326781",
+        "submittedAt": "2026-10-29T06:01:03.100Z",
+        "postedAt": "2026-10-29T06:01:03.100Z"
+      },
+      "bufferPostId": "6ae2e11d8d517922b2326781",
+      "postedAt": "2026-10-29T06:01:03.100Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-29T03:01:09.717Z",
+    "lastSuccessfulScanAt": "2026-10-29T06:01:00.110Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -7341,6 +7375,7 @@
       "4896360": "2026-10-21T18:01:08.108Z",
       "4898790": "2026-10-21T09:01:07.569Z",
       "4901700": "2026-10-24T21:01:02.500Z",
+      "4903830": "2026-10-29T06:01:00.110Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4910060": "2026-10-20T09:01:01.492Z",
