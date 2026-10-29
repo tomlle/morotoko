@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40846282967",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-29T09:00:57.303Z",
+    "finishedAt": "2026-10-29T09:01:17.852Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40846282967"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 21,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4481760",
+      "title": "Stones",
+      "storeUrl": "https://store.steampowered.com/app/4481760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481760/2e95a88dd530d1fdf3de2aa1ac56145c825ae8c9/header.jpg?t=1793263318",
+      "officialDescription": "Stonesは宝石を研くマッチ3ゲーム。4つ揃えれば一列を薙ぎ払い、5つ揃えれば同じ色をすべて消すプリズマティックストーン。カスケードがスコアを伸ばします。持ち手は30手だけ、しかし大きな一手はそれを取り戻します。1日1つの共通の盤と、獲得できる8つの仕上げ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5019180",
+      "title": "エピックセブン",
+      "storeUrl": "https://store.steampowered.com/app/5019180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/f070f19f0ed9b6d96625bdb82d3d604ba8c70b83/header_japanese.jpg?t=1793256460",
+      "officialDescription": "未来につなげるアニメRPG あなたの手で紡ぐ、一編のアニメーション『エピックセブン』 フルフレーム2Dアニメーションが息づくターン制コレクションRPG。「七つ目の世界」を舞台に繰り広げられる壮大な叙事詩の中で、個性豊かな英雄たちを集め、属性の相性やスキルの組み合わせを駆使して勝利をつかみましょう。 リアルタイムPvP「ワールドアリーナ」で、世界中の継承者たちと戦略を競い合いましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5259270",
+      "title": "Agastache Rugosa",
+      "storeUrl": "https://store.steampowered.com/app/5259270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259270/a87b52b4056d5892a37b55b98837deea764f7f70/header.jpg?t=1793254426",
+      "officialDescription": "生物が異形へと変わる呪われた国を舞台に、貴族のおじさんと火花を散らす異世界×乙女ゲーム。 親友が呪いに蝕まれた主人公は、寡黙な少年兵、心優しき大貴族、美貌の紋章師、大商会の幹部――その中から一人の手を取り、共に運命へ挑む。選択によって異なる真相が明かされ４つの道を辿れば物語の全貌が現れる。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5380340",
+      "title": "Karon: Overclock",
+      "storeUrl": "https://store.steampowered.com/app/5380340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380340/43c588e39ad8d65a42ac0af1f9e7558c580120f4/header.jpg?t=1793174119",
+      "officialDescription": "For 200 years, the world has revolved around lies. Charon, the last descendant of Polux, climbs to the ground occupied by the Machine Army to reclaim the stolen Core. Use the materials you gather by defeating enemies to rebuild the forgotten factory and face even stronger foes."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3466220",
+      "title": "Insurance Inc.",
+      "storeUrl": "https://store.steampowered.com/app/3466220/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3466220/2cf5ffc268bb409120afead5b069a14d0e8ad51b/header.jpg?t=1793173359",
+      "officialDescription": "The 2018 two-time award-winning game jam hit \"1nsurance Inc.\" now on Steam! In this simulator, play as claims examiner Charley Hills, juggling insurance claims, managing budgets, and deciding the fate of customers. An interactive, and thought-provoking short take on the health insurance industry."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4481760:permanent_free:1",
+      "productId": "4481760",
+      "title": "Stones",
+      "status": "sent",
+      "bufferPostId": "6ae30b539c833862135a1593"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5019180:permanent_free:1",
+      "productId": "5019180",
+      "title": "エピックセブン",
+      "status": "sent",
+      "bufferPostId": "6ae30b559c833862135a16e5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5259270:permanent_free:1",
+      "productId": "5259270",
+      "title": "Agastache Rugosa",
+      "status": "sent",
+      "bufferPostId": "6ae30b5799d20553079417fa"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5380340:permanent_free:1",
+      "productId": "5380340",
+      "title": "Karon: Overclock",
+      "status": "sent",
+      "bufferPostId": "6ae30b5a9c833862135a18b0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3466220:permanent_free:1",
+      "productId": "3466220",
+      "title": "Insurance Inc.",
+      "status": "sent",
+      "bufferPostId": "6ae30b5c67af076823b1b2b0"
+    }
+  ],
+  "errors": []
+}
