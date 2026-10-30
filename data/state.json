@@ -918,6 +918,18 @@
     "steam:5316430:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5316430:permanent_free:1"
+    },
+    "steam:2415710:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2415710:permanent_free:1"
+    },
+    "steam:4938170:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4938170:permanent_free:1"
+    },
+    "steam:4463860:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4463860:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7711,7 +7723,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-30T09:01:03.754Z",
+      "lastSeenAt": "2026-10-30T12:01:07.408Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -8082,11 +8094,101 @@
       },
       "bufferPostId": "6ae432a656e01b97638c41e6",
       "postedAt": "2026-10-30T06:01:11.728Z"
+    },
+    "steam:2415710:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2415710:permanent_free:1",
+      "store": "steam",
+      "productId": "2415710",
+      "generation": 1,
+      "title": "Alembix TCG",
+      "storeUrl": "https://store.steampowered.com/app/2415710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T12:01:07.408Z",
+      "lastSeenAt": "2026-10-30T12:01:07.408Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Brew the periodic table into a card game. A free-to-play alchemical TCG where every creature is an element and every fusion is a real reaction.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T12:01:07.408Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Alembix TCG』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2415710/",
+        "attemptedAt": "2026-10-30T12:01:08.675Z",
+        "bufferPostId": "6ae4870414812ff5967b8c87",
+        "submittedAt": "2026-10-30T12:01:10.182Z",
+        "postedAt": "2026-10-30T12:01:10.182Z"
+      },
+      "bufferPostId": "6ae4870414812ff5967b8c87",
+      "postedAt": "2026-10-30T12:01:10.182Z"
+    },
+    "steam:4938170:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4938170:permanent_free:1",
+      "store": "steam",
+      "productId": "4938170",
+      "generation": 1,
+      "title": "Ostfriesland Games",
+      "storeUrl": "https://store.steampowered.com/app/4938170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T12:01:07.408Z",
+      "lastSeenAt": "2026-10-30T12:01:07.408Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Ostfriesland Games turns road bowling, ditch vaulting, mudflat sled racing, shrimp peeling and tea serving into a retro arcade game. With real places in pixel art, local and worldwide high scores, and East Frisian humour. Even making tea can get hectic.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T12:01:07.408Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ostfriesland Games』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4938170/",
+        "attemptedAt": "2026-10-30T12:01:10.617Z",
+        "bufferPostId": "6ae48706ab6b84214cd37784",
+        "submittedAt": "2026-10-30T12:01:11.909Z",
+        "postedAt": "2026-10-30T12:01:11.909Z"
+      },
+      "bufferPostId": "6ae48706ab6b84214cd37784",
+      "postedAt": "2026-10-30T12:01:11.909Z"
+    },
+    "steam:4463860:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4463860:permanent_free:1",
+      "store": "steam",
+      "productId": "4463860",
+      "generation": 1,
+      "title": "万妙之门",
+      "storeUrl": "https://store.steampowered.com/app/4463860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T12:01:07.408Z",
+      "lastSeenAt": "2026-10-30T12:01:07.408Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "万寿村的燕知槐有一天“醒过来”，他的眼前出现一扇门，门前的男人自称那栖措，他向你讲述你从未知晓的过去，从呱呱坠地的婴孩、到万寿村的阿槐，最后他向你展示生命中的一种可能，一种付出什么，得到“真相”的可能。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T12:01:07.408Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『万妙之门』\n✨ いつでも無料でプレイ\n\n万寿村的燕知槐有一天“醒过来”，他的眼前出现一扇门，门前的男人自称那栖措，他向你讲述你从未知晓的过去，从呱呱坠地的婴孩、到万寿村的阿槐，最后他向你展示生命中的一种可能，一种付出什么，得到…\n\nhttps://store.steampowered.com/app/4463860/",
+        "attemptedAt": "2026-10-30T12:01:12.424Z",
+        "bufferPostId": "6ae48708ab6b84214cd37a73",
+        "submittedAt": "2026-10-30T12:01:13.780Z",
+        "postedAt": "2026-10-30T12:01:13.780Z"
+      },
+      "bufferPostId": "6ae48708ab6b84214cd37a73",
+      "postedAt": "2026-10-30T12:01:13.780Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-30T09:01:03.754Z",
+    "lastSuccessfulScanAt": "2026-10-30T12:01:07.408Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -8101,6 +8203,7 @@
       "1979510": "2026-10-17T15:01:03.979Z",
       "2213580": "2026-10-28T15:01:16.098Z",
       "2331730": "2026-10-14T15:30:36.000Z",
+      "2415710": "2026-10-30T12:01:07.408Z",
       "2488560": "2026-10-22T21:01:15.937Z",
       "2551970": "2026-10-26T18:01:07.648Z",
       "2582880": "2026-10-21T12:01:06.252Z",
@@ -8158,6 +8261,7 @@
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4463860": "2026-10-30T12:01:07.408Z",
       "4475480": "2026-10-28T00:01:10.872Z",
       "4481760": "2026-10-29T09:01:05.116Z",
       "4491130": "2026-10-19T03:01:01.402Z",
@@ -8230,6 +8334,7 @@
       "4930500": "2026-10-16T03:01:04.575Z",
       "4931230": "2026-10-16T18:01:10.079Z",
       "4936460": "2026-10-29T21:01:08.062Z",
+      "4938170": "2026-10-30T12:01:07.408Z",
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
       "4949930": "2026-10-26T18:01:07.648Z",
