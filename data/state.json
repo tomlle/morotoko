@@ -898,6 +898,14 @@
     "steam:5331600:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5331600:permanent_free:1"
+    },
+    "steam:3120010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3120010:permanent_free:1"
+    },
+    "steam:5285020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5285020:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7691,7 +7699,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-30T00:01:16.479Z",
+      "lastSeenAt": "2026-10-30T03:01:09.846Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -7912,11 +7920,71 @@
       },
       "bufferPostId": "6ae3de4e6385db216a159ee9",
       "postedAt": "2026-10-30T00:01:19.437Z"
+    },
+    "steam:3120010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3120010:permanent_free:1",
+      "store": "steam",
+      "productId": "3120010",
+      "generation": 1,
+      "title": "Kipple",
+      "storeUrl": "https://store.steampowered.com/app/3120010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T03:01:09.846Z",
+      "lastSeenAt": "2026-10-30T03:01:09.846Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Your PC can dream. A free desktop companion that lives in your Windows, blinks, reacts and chats with you. Explore a diversity of unique creatures dreamed by your own machine: hybrids, elementals and rare creatures. Each one is one of a kind and can be exchanged at the Steam Market.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T03:01:09.846Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Kipple』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3120010/",
+        "attemptedAt": "2026-10-30T03:01:11.061Z",
+        "bufferPostId": "6ae40877ba1ca51fd3f0acde",
+        "submittedAt": "2026-10-30T03:01:12.430Z",
+        "postedAt": "2026-10-30T03:01:12.430Z"
+      },
+      "bufferPostId": "6ae40877ba1ca51fd3f0acde",
+      "postedAt": "2026-10-30T03:01:12.430Z"
+    },
+    "steam:5285020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5285020:permanent_free:1",
+      "store": "steam",
+      "productId": "5285020",
+      "generation": 1,
+      "title": "Fair21: Blackjack",
+      "storeUrl": "https://store.steampowered.com/app/5285020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T03:01:09.846Z",
+      "lastSeenAt": "2026-10-30T03:01:09.846Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ピクセルアートのブラックジャック（21）。自分のシード文字列を入力し、各ハンド終了後に配られたカードと精算結果を再計算と照合できます。ソロ、3人テーブル、7ラウンドの勝ち抜き戦を楽しめます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T03:01:09.846Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fair21: Blackjack』\n✨ いつでも無料でプレイ\n\nピクセルアートのブラックジャック（21）。自分のシード文字列を入力し、各ハンド終了後に配られたカードと精算結果を再計算と照合できます。ソロ、3人テーブル、7ラウンドの勝ち抜き戦を楽…\n\nhttps://store.steampowered.com/app/5285020/",
+        "attemptedAt": "2026-10-30T03:01:12.990Z",
+        "bufferPostId": "6ae40879a83a7fb63c8f23f6",
+        "submittedAt": "2026-10-30T03:01:14.286Z",
+        "postedAt": "2026-10-30T03:01:14.286Z"
+      },
+      "bufferPostId": "6ae40879a83a7fb63c8f23f6",
+      "postedAt": "2026-10-30T03:01:14.286Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-30T00:01:16.479Z",
+    "lastSuccessfulScanAt": "2026-10-30T03:01:09.846Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -7940,6 +8008,7 @@
       "2906990": "2026-10-23T12:01:18.754Z",
       "2982680": "2026-10-27T00:01:18.126Z",
       "3063380": "2026-10-28T06:01:11.657Z",
+      "3120010": "2026-10-30T03:01:09.846Z",
       "3138080": "2026-10-25T09:01:01.104Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
@@ -8184,6 +8253,7 @@
       "5281080": "2026-10-22T03:06:25.291Z",
       "5283330": "2026-10-27T09:01:03.509Z",
       "5284190": "2026-10-14T15:30:36.000Z",
+      "5285020": "2026-10-30T03:01:09.846Z",
       "5288120": "2026-10-25T12:01:01.232Z",
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289970": "2026-10-14T15:30:36.000Z",
