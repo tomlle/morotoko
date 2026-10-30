@@ -906,6 +906,18 @@
     "steam:5285020:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5285020:permanent_free:1"
+    },
+    "steam:4528520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4528520:permanent_free:1"
+    },
+    "steam:5349960:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5349960:permanent_free:1"
+    },
+    "steam:5316430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5316430:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7699,7 +7711,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-30T03:01:09.846Z",
+      "lastSeenAt": "2026-10-30T06:01:06.346Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -7980,11 +7992,101 @@
       },
       "bufferPostId": "6ae40879a83a7fb63c8f23f6",
       "postedAt": "2026-10-30T03:01:14.286Z"
+    },
+    "steam:4528520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4528520:permanent_free:1",
+      "store": "steam",
+      "productId": "4528520",
+      "generation": 1,
+      "title": "Scarlet Beret - Murder at the Orphanage",
+      "storeUrl": "https://store.steampowered.com/app/4528520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T06:01:06.346Z",
+      "lastSeenAt": "2026-10-30T06:01:06.346Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Fabienne a 17-year-old genius, has a rare gift: she detects lies! But when she discovers the body of one of her teachers, she’s left with no choice but to uncover the killer among the residents she’s lived with her entire life.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T06:01:06.346Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Scarlet Beret - Murder at the Orphanage』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4528520/",
+        "attemptedAt": "2026-10-30T06:01:06.996Z",
+        "bufferPostId": "6ae432a32782e7f331d56019",
+        "submittedAt": "2026-10-30T06:01:08.354Z",
+        "postedAt": "2026-10-30T06:01:08.355Z"
+      },
+      "bufferPostId": "6ae432a32782e7f331d56019",
+      "postedAt": "2026-10-30T06:01:08.355Z"
+    },
+    "steam:5349960:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5349960:permanent_free:1",
+      "store": "steam",
+      "productId": "5349960",
+      "generation": 1,
+      "title": "壁紙ねこ",
+      "storeUrl": "https://store.steampowered.com/app/5349960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T06:01:06.346Z",
+      "lastSeenAt": "2026-10-30T06:01:06.346Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『壁紙ねこ』は、子猫と水彩画のような錦鯉の池をデスクトップに届けます。魚に餌をあげ、猫の訪問を眺め、天気や音楽で気分を変えて。仕事や休憩に、穏やかなひとときを。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T06:01:06.346Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『壁紙ねこ』\n✨ いつでも無料でプレイ\n\n『壁紙ねこ』は、子猫と水彩画のような錦鯉の池をデスクトップに届けます。魚に餌をあげ、猫の訪問を眺め、天気や音楽で気分を変えて。仕事や休憩に、穏やかなひとときを。\n\nhttps://store.steampowered.com/app/5349960/",
+        "attemptedAt": "2026-10-30T06:01:08.700Z",
+        "bufferPostId": "6ae432a4a83a7fb63c989b68",
+        "submittedAt": "2026-10-30T06:01:10.097Z",
+        "postedAt": "2026-10-30T06:01:10.097Z"
+      },
+      "bufferPostId": "6ae432a4a83a7fb63c989b68",
+      "postedAt": "2026-10-30T06:01:10.097Z"
+    },
+    "steam:5316430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5316430:permanent_free:1",
+      "store": "steam",
+      "productId": "5316430",
+      "generation": 1,
+      "title": "In Your Dreams",
+      "storeUrl": "https://store.steampowered.com/app/5316430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T06:01:06.346Z",
+      "lastSeenAt": "2026-10-30T06:01:06.346Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A short survival horror experience where you must elude a bloodthirsty shape-shifting beast. Created in one month for spooky season!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T06:01:06.346Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『In Your Dreams』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5316430/",
+        "attemptedAt": "2026-10-30T06:01:10.446Z",
+        "bufferPostId": "6ae432a656e01b97638c41e6",
+        "submittedAt": "2026-10-30T06:01:11.728Z",
+        "postedAt": "2026-10-30T06:01:11.728Z"
+      },
+      "bufferPostId": "6ae432a656e01b97638c41e6",
+      "postedAt": "2026-10-30T06:01:11.728Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-30T03:01:09.846Z",
+    "lastSuccessfulScanAt": "2026-10-30T06:01:06.346Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -8061,6 +8163,7 @@
       "4491130": "2026-10-19T03:01:01.402Z",
       "4522380": "2026-10-24T06:01:02.274Z",
       "4527880": "2026-10-22T18:01:09.344Z",
+      "4528520": "2026-10-30T06:01:06.346Z",
       "4536570": "2026-10-14T15:30:36.000Z",
       "4542390": "2026-10-24T09:01:00.564Z",
       "4546060": "2026-10-14T15:30:36.000Z",
@@ -8270,6 +8373,7 @@
       "5309680": "2026-10-14T15:30:36.000Z",
       "5310070": "2026-10-22T00:00:57.495Z",
       "5314960": "2026-10-14T15:30:36.000Z",
+      "5316430": "2026-10-30T06:01:06.346Z",
       "5318820": "2026-10-23T09:01:01.018Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5322620": "2026-10-28T06:01:11.657Z",
@@ -8282,6 +8386,7 @@
       "5341000": "2026-10-21T21:00:59.332Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
+      "5349960": "2026-10-30T06:01:06.346Z",
       "5353310": "2026-10-26T21:01:09.019Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5356470": "2026-10-26T15:01:10.225Z",
