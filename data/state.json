@@ -894,6 +894,10 @@
     "steam:4936460:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4936460:permanent_free:1"
+    },
+    "steam:5331600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5331600:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7687,7 +7691,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-29T21:01:08.062Z",
+      "lastSeenAt": "2026-10-30T00:01:16.479Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -7698,16 +7702,16 @@
         "Logic",
         "Colorful",
         "Relaxing",
-        "Sokoban",
         "2D",
+        "Sokoban",
         "Puzzle Platformer",
         "Cute",
         "Point & Click",
         "Abstract",
         "Minimalist",
         "Family Friendly",
-        "Cartoony",
         "Hex Grid",
+        "Cartoony",
         "Level Editor",
         "Singleplayer",
         "Atmospheric",
@@ -7878,11 +7882,41 @@
       },
       "bufferPostId": "6ae3b417397c2ef8f34574a9",
       "postedAt": "2026-10-29T21:01:12.887Z"
+    },
+    "steam:5331600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5331600:permanent_free:1",
+      "store": "steam",
+      "productId": "5331600",
+      "generation": 1,
+      "title": "My Metal Fairy",
+      "storeUrl": "https://store.steampowered.com/app/5331600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-30T00:01:16.479Z",
+      "lastSeenAt": "2026-10-30T00:01:16.479Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Twenty metres beneath Bagannur, something lies strapped to a stretcher. Your job is simple: keep it asleep until 1 AM. Decode the printouts, stop the leaks, and whatever you do, don't move when it looks at you.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-30T00:01:16.479Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『My Metal Fairy』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5331600/",
+        "attemptedAt": "2026-10-30T00:01:18.065Z",
+        "bufferPostId": "6ae3de4e6385db216a159ee9",
+        "submittedAt": "2026-10-30T00:01:19.437Z",
+        "postedAt": "2026-10-30T00:01:19.437Z"
+      },
+      "bufferPostId": "6ae3de4e6385db216a159ee9",
+      "postedAt": "2026-10-30T00:01:19.437Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-29T21:01:08.062Z",
+    "lastSuccessfulScanAt": "2026-10-30T00:01:16.479Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -8172,6 +8206,7 @@
       "5324320": "2026-10-26T00:01:03.264Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",
+      "5331600": "2026-10-30T00:01:16.479Z",
       "5333290": "2026-10-28T21:01:20.934Z",
       "5339870": "2026-10-24T15:01:00.588Z",
       "5341000": "2026-10-21T21:00:59.332Z",
