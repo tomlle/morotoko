@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41127685373",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T21:00:58.621Z",
+    "finishedAt": "2026-10-30T21:01:20.753Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41127685373"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 25,
+    "verified": 8,
+    "newPromotions": 6,
+    "knownPromotions": 2,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Singleplayer",
+        "Level Editor",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5332430",
+      "title": "Kur - Endless Descent",
+      "storeUrl": "https://store.steampowered.com/app/5332430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5332430/18aa38ac6b7ea05900ffdf6cd47826889c3e66a7/header.jpg?t=1793393621",
+      "officialDescription": "An auto-battler RPG in the Mesopotamian underworld. Build a party of heroes, gear and level them up, set their formation, then watch them fight on their own through seven Domains and an endless descent. Free to play, in a small window that fits around your day."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3199110",
+      "title": "NightingNail",
+      "storeUrl": "https://store.steampowered.com/app/3199110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3199110/header.jpg?t=1793390404",
+      "officialDescription": "Light in the dark, or nail in their coffin. Which will you be? Step into this atmospheric world where deception reigns. NightingNail is a game of cunning, strategy, and chaos, where outsmarting your opponent is key to survival."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5083880",
+      "title": "The Community Notes Are Wrong",
+      "storeUrl": "https://store.steampowered.com/app/5083880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5083880/4129e6515f73fbd827614af8edd3881b6197a7d1/header.jpg?t=1793389754",
+      "officialDescription": "A bisexual singer goes viral after being caught kissing a man, shattering the image her fans built around her. Navigate fame, social media, biphobia, and messy romance in this otome/yuri visual novel."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5387790",
+      "title": "Gnome Dome",
+      "storeUrl": "https://store.steampowered.com/app/5387790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5387790/3dee265403856fc0f60f3af1437f1f91864c4c4d/header.jpg?t=1793388958",
+      "officialDescription": "GNOME DOME is a short first-person horror game where you complete timed gardening tasks across four night shifts. Work fast to earn extra time because when a task timer hits zero, one random garden gnome comes to life and starts hunting you."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4993710",
+      "title": "Lusófona Games Collection 2026",
+      "storeUrl": "https://store.steampowered.com/app/4993710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993710/a6ff75882b85ceeb1f90474f92042c145be4cefb/header.jpg?t=1793386963",
+      "officialDescription": "Lusófona Games Collection 2026 brings you five inventive games from Lusófona University! Explore bite-sized experiences, unlock Steam achievements, and enjoy exclusive game developer commentary on how each game came to life."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4170240",
+      "title": "Drift Splatter",
+      "storeUrl": "https://store.steampowered.com/app/4170240/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170240/886c9558ec130ea7755255b4442a989aa9d702d0/header.jpg?t=1793386871",
+      "officialDescription": "In this arcade roguelite, your car runs on blood and the zombies have plenty. Smash through the horde, drift to drain every last drop, and spin the roulette for brutal upgrades while you fight to survive the endless horde."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5332430:permanent_free:1",
+      "productId": "5332430",
+      "title": "Kur - Endless Descent",
+      "status": "sent",
+      "bufferPostId": "6ae50595b84259308b9f63ca"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3199110:permanent_free:1",
+      "productId": "3199110",
+      "title": "NightingNail",
+      "status": "sent",
+      "bufferPostId": "6ae50597fc1ac02b6ede1c03"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5083880:permanent_free:1",
+      "productId": "5083880",
+      "title": "The Community Notes Are Wrong",
+      "status": "sent",
+      "bufferPostId": "6ae50599406ab8a018813ec8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5387790:permanent_free:1",
+      "productId": "5387790",
+      "title": "Gnome Dome",
+      "status": "sent",
+      "bufferPostId": "6ae5059bfc1ac02b6ede1e09"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4993710:permanent_free:1",
+      "productId": "4993710",
+      "title": "Lusófona Games Collection 2026",
+      "status": "sent",
+      "bufferPostId": "6ae5059dfc1ac02b6ede1eaa"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4170240:permanent_free:1",
+      "productId": "4170240",
+      "title": "Drift Splatter",
+      "status": "sent",
+      "bufferPostId": "6ae5059fa1145743496c2c44"
+    }
+  ],
+  "errors": []
+}
