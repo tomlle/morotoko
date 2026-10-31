@@ -1086,6 +1086,14 @@
     "steam:5326340:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5326340:permanent_free:1"
+    },
+    "steam:4610720:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4610720:permanent_free:1"
+    },
+    "steam:3819330:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3819330:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7881,7 +7889,7 @@
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
       "lastSeenAt": "2026-10-31T15:01:00.614Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
@@ -8605,7 +8613,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T15:01:00.614Z",
+      "lastSeenAt": "2026-10-31T18:01:01.493Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9546,11 +9554,71 @@
       },
       "bufferPostId": "6ae602ad1ee172cd6da974bb",
       "postedAt": "2026-10-31T15:01:02.637Z"
+    },
+    "steam:4610720:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4610720:permanent_free:1",
+      "store": "steam",
+      "productId": "4610720",
+      "generation": 1,
+      "title": "Thunder Tie",
+      "storeUrl": "https://store.steampowered.com/app/4610720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T18:01:01.493Z",
+      "lastSeenAt": "2026-10-31T18:01:01.493Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Thunder Tie is an unsettling mascot horror puzzle game. Navigate through the power station to uncover the unsolved mystery of the people who disappeared 10 years ago. Watch out though, as you will may be greeted by some... creations.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T18:01:01.493Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Thunder Tie』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4610720/",
+        "attemptedAt": "2026-10-31T18:01:02.045Z",
+        "bufferPostId": "6ae62cdeab019b908718a9c5",
+        "submittedAt": "2026-10-31T18:01:03.547Z",
+        "postedAt": "2026-10-31T18:01:03.547Z"
+      },
+      "bufferPostId": "6ae62cdeab019b908718a9c5",
+      "postedAt": "2026-10-31T18:01:03.547Z"
+    },
+    "steam:3819330:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3819330:permanent_free:1",
+      "store": "steam",
+      "productId": "3819330",
+      "generation": 1,
+      "title": "Den: A Short Horror Story",
+      "storeUrl": "https://store.steampowered.com/app/3819330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T18:01:01.493Z",
+      "lastSeenAt": "2026-10-31T18:01:01.493Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Den is a short survival horror, where you rent a small cabin for a weekend getaway, deep inside the woods, hoping to escape reality and find joy in life.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T18:01:01.493Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Den: A Short Horror Story』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3819330/",
+        "attemptedAt": "2026-10-31T18:01:04.051Z",
+        "bufferPostId": "6ae62ce037c1acd2a0c20a35",
+        "submittedAt": "2026-10-31T18:01:05.341Z",
+        "postedAt": "2026-10-31T18:01:05.341Z"
+      },
+      "bufferPostId": "6ae62ce037c1acd2a0c20a35",
+      "postedAt": "2026-10-31T18:01:05.341Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T15:01:00.614Z",
+    "lastSuccessfulScanAt": "2026-10-31T18:01:01.493Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -9592,6 +9660,7 @@
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
+      "3819330": "2026-10-31T18:01:01.493Z",
       "3839200": "2026-10-24T03:00:59.931Z",
       "3841580": "2026-10-26T18:01:07.648Z",
       "3847310": "2026-10-20T12:00:59.724Z",
@@ -9650,6 +9719,7 @@
       "4594300": "2026-10-27T09:01:03.509Z",
       "4597820": "2026-10-27T00:01:18.126Z",
       "4607590": "2026-10-28T15:01:16.098Z",
+      "4610720": "2026-10-31T18:01:01.493Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4622120": "2026-10-14T15:30:36.000Z",
       "4631100": "2026-10-30T18:01:08.710Z",

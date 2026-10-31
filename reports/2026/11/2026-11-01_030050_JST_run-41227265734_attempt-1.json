@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41227265734",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-31T18:00:50.327Z",
+    "finishedAt": "2026-10-31T18:01:05.347Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41227265734"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4610720",
+      "title": "Thunder Tie",
+      "storeUrl": "https://store.steampowered.com/app/4610720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610720/4b5bd0f1787634864e2be6726794e95fb7407ff8/header.jpg?t=1793466024",
+      "officialDescription": "Thunder Tie is an unsettling mascot horror puzzle game. Navigate through the power station to uncover the unsolved mystery of the people who disappeared 10 years ago. Watch out though, as you will may be greeted by some... creations."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3819330",
+      "title": "Den: A Short Horror Story",
+      "storeUrl": "https://store.steampowered.com/app/3819330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819330/38721895544257b67d7232a178dbd3f38a353e23/header.jpg?t=1793458861",
+      "officialDescription": "Den is a short survival horror, where you rent a small cabin for a weekend getaway, deep inside the woods, hoping to escape reality and find joy in life."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4610720:permanent_free:1",
+      "productId": "4610720",
+      "title": "Thunder Tie",
+      "status": "sent",
+      "bufferPostId": "6ae62cdeab019b908718a9c5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3819330:permanent_free:1",
+      "productId": "3819330",
+      "title": "Den: A Short Horror Story",
+      "status": "sent",
+      "bufferPostId": "6ae62ce037c1acd2a0c20a35"
+    }
+  ],
+  "errors": []
+}
