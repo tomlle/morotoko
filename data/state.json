@@ -872,8 +872,7 @@
       "activeCampaignId": "steam:5382160:permanent_free:1"
     },
     "steam:785890": {
-      "generation": 1,
-      "activeCampaignId": "steam:785890:1"
+      "generation": 1
     },
     "steam:5095690:permanent_free": {
       "generation": 1,
@@ -1094,6 +1093,22 @@
     "steam:3819330:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3819330:permanent_free:1"
+    },
+    "steam:5431590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5431590:permanent_free:1"
+    },
+    "steam:3571980:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3571980:permanent_free:1"
+    },
+    "steam:4431370:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4431370:permanent_free:1"
+    },
+    "steam:2160130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2160130:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7888,8 +7903,8 @@
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
       "lastSeenAt": "2026-10-31T15:01:00.614Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
@@ -8613,7 +8628,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T18:01:01.493Z",
+      "lastSeenAt": "2026-10-31T21:01:15.957Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9614,11 +9629,131 @@
       },
       "bufferPostId": "6ae62ce037c1acd2a0c20a35",
       "postedAt": "2026-10-31T18:01:05.341Z"
+    },
+    "steam:5431590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5431590:permanent_free:1",
+      "store": "steam",
+      "productId": "5431590",
+      "generation": 1,
+      "title": "TrenchFin",
+      "storeUrl": "https://store.steampowered.com/app/5431590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T21:01:15.957Z",
+      "lastSeenAt": "2026-10-31T21:01:15.957Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "TrenchFin is a 3rd person behind the character 3D platformer melee combat game that follows Asha Trenchfin, an anglerfish on a mission to reach the top of a spiraling reef to save the magic coral tree from a terrifying Leviathan by using her light to reveal invisible platforms and enemies.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T21:01:15.957Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『TrenchFin』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5431590/",
+        "attemptedAt": "2026-10-31T21:01:16.386Z",
+        "bufferPostId": "6ae6571c21c807e9d5855f69",
+        "submittedAt": "2026-10-31T21:01:17.621Z",
+        "postedAt": "2026-10-31T21:01:17.621Z"
+      },
+      "bufferPostId": "6ae6571c21c807e9d5855f69",
+      "postedAt": "2026-10-31T21:01:17.621Z"
+    },
+    "steam:3571980:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3571980:permanent_free:1",
+      "store": "steam",
+      "productId": "3571980",
+      "generation": 1,
+      "title": "Keymaker",
+      "storeUrl": "https://store.steampowered.com/app/3571980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T21:01:15.957Z",
+      "lastSeenAt": "2026-10-31T21:01:15.957Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "This game is a chill puzzle game, with stories of people daily lifes in 90's and millennium. The game features two types of locks: Locks with \"Damaged Zones\": repair by dragging components horizontally or vertically to create match3. Four-Way Security Locks: These require you to maintain a balance.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T21:01:15.957Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Keymaker』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3571980/",
+        "attemptedAt": "2026-10-31T21:01:17.926Z",
+        "bufferPostId": "6ae6571e37c1acd2a0ce0982",
+        "submittedAt": "2026-10-31T21:01:19.259Z",
+        "postedAt": "2026-10-31T21:01:19.259Z"
+      },
+      "bufferPostId": "6ae6571e37c1acd2a0ce0982",
+      "postedAt": "2026-10-31T21:01:19.259Z"
+    },
+    "steam:4431370:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4431370:permanent_free:1",
+      "store": "steam",
+      "productId": "4431370",
+      "generation": 1,
+      "title": "My Ramen Stand",
+      "storeUrl": "https://store.steampowered.com/app/4431370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T21:01:15.957Z",
+      "lastSeenAt": "2026-10-31T21:01:15.957Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "My Ramen Stand is a cosy yet chaotic single player cooking game where you prepare ramen, serve customers, and grow your kitchen as your career progresses. Watch it go from a quiet, humble stall to the busiest most famous Ramen in Tokyo.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T21:01:15.957Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『My Ramen Stand』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4431370/",
+        "attemptedAt": "2026-10-31T21:01:19.484Z",
+        "bufferPostId": "6ae6571fcf3a3112f3c2f384",
+        "submittedAt": "2026-10-31T21:01:20.808Z",
+        "postedAt": "2026-10-31T21:01:20.808Z"
+      },
+      "bufferPostId": "6ae6571fcf3a3112f3c2f384",
+      "postedAt": "2026-10-31T21:01:20.808Z"
+    },
+    "steam:2160130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2160130:permanent_free:1",
+      "store": "steam",
+      "productId": "2160130",
+      "generation": 1,
+      "title": "Orion's Reach",
+      "storeUrl": "https://store.steampowered.com/app/2160130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T21:01:15.957Z",
+      "lastSeenAt": "2026-10-31T21:01:15.957Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A sci-fi match-3 adventure where every move carries the story forward. Break through blockers, chain cascades and master chapter-specific puzzles across 440 levels. Follow an unlikely crew, chase a new high score in Infinite, or challenge rivals in online Versus.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T21:01:15.957Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Orion's Reach』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2160130/",
+        "attemptedAt": "2026-10-31T21:01:21.135Z",
+        "bufferPostId": "6ae657211ee172cd6dc21777",
+        "submittedAt": "2026-10-31T21:01:22.427Z",
+        "postedAt": "2026-10-31T21:01:22.427Z"
+      },
+      "bufferPostId": "6ae657211ee172cd6dc21777",
+      "postedAt": "2026-10-31T21:01:22.427Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T18:01:01.493Z",
+    "lastSuccessfulScanAt": "2026-10-31T21:01:15.957Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -9631,6 +9766,7 @@
       "1930320": "2026-10-25T00:01:08.164Z",
       "1965430": "2026-10-14T15:30:36.000Z",
       "1979510": "2026-10-17T15:01:03.979Z",
+      "2160130": "2026-10-31T21:01:15.957Z",
       "2213580": "2026-10-28T15:01:16.098Z",
       "2331730": "2026-10-14T15:30:36.000Z",
       "2415710": "2026-10-30T12:01:07.408Z",
@@ -9652,6 +9788,7 @@
       "3466220": "2026-10-29T09:01:05.116Z",
       "3522130": "2026-10-22T15:01:07.818Z",
       "3558100": "2026-10-23T00:01:04.971Z",
+      "3571980": "2026-10-31T21:01:15.957Z",
       "3613080": "2026-10-31T00:01:08.172Z",
       "3620040": "2026-10-19T18:01:19.647Z",
       "3665700": "2026-10-21T18:01:08.108Z",
@@ -9699,6 +9836,7 @@
       "4394570": "2026-10-31T03:11:06.746Z",
       "4410900": "2026-10-18T00:01:08.594Z",
       "4429430": "2026-10-27T18:01:06.530Z",
+      "4431370": "2026-10-31T21:01:15.957Z",
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
@@ -9986,7 +10124,8 @@
       "5397330": "2026-10-28T15:01:16.098Z",
       "5402200": "2026-10-30T15:01:09.322Z",
       "5405810": "2026-10-29T12:01:05.996Z",
-      "5411640": "2026-10-29T15:01:15.623Z"
+      "5411640": "2026-10-29T15:01:15.623Z",
+      "5431590": "2026-10-31T21:01:15.957Z"
     }
   }
 }
