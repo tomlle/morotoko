@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41147755533",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-31T00:00:56.574Z",
+    "finishedAt": "2026-10-31T00:01:15.467Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41147755533"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 23,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Singleplayer",
+        "Level Editor",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3613080",
+      "title": "Bot Colony _redux",
+      "storeUrl": "https://store.steampowered.com/app/3613080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613080/96800b1d9fefa17dcb6e27b599a246a81c9a98fb/header_japanese.jpg?t=1793403928",
+      "officialDescription": "マイクでも入力でも：何でも言ってみよう—ロボットは理解する！ このSFアドベンチャーでは、自分の言葉でキャラクターと話し、彼らに命令して世界を操りながらスパイを追おう。機械たちが個性と感情を持つ南国の島を探索しよう。会話は完全自由。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5282780",
+      "title": "Waking Adrift",
+      "storeUrl": "https://store.steampowered.com/app/5282780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282780/8408622fa78adb5dd26df7b8ccd2c777193693a9/header.jpg?t=1793400353",
+      "officialDescription": "You and your crew are on a one way mission to reach the edge of space, but something sinister is lurking in the halls."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5012600",
+      "title": "Ticker & Trade",
+      "storeUrl": "https://store.steampowered.com/app/5012600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012600/63cb9c95f8f64e67e8ba5d0855120d8859b64043/header.jpg?t=1793396862",
+      "officialDescription": "Ticker & Trade is a multiplayer financial simulator. Trade stocks, options, and bonds on a real-time global order book. Build player corporations, launch mutual funds, react to market-shifting news events, and rise to the top of the leaderboards. Build your stock market empire!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4020220",
+      "title": "No Service",
+      "storeUrl": "https://store.steampowered.com/app/4020220/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4020220/57beb382d1c554769c32b4ebc8249a6072e87e21/header.jpg?t=1793316193",
+      "officialDescription": "Uncover, experience, and survive service. Tasked with exploring and reporting any wrongdoing, you are the last train inspector on shift. descend into madness as this surreal comedy sonders your psyche."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3613080:permanent_free:1",
+      "productId": "3613080",
+      "title": "Bot Colony _redux",
+      "status": "sent",
+      "bufferPostId": "6ae52fc5406ab8a0188c9f73"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5282780:permanent_free:1",
+      "productId": "5282780",
+      "title": "Waking Adrift",
+      "status": "sent",
+      "bufferPostId": "6ae52fc7b84259308baa80b5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5012600:permanent_free:1",
+      "productId": "5012600",
+      "title": "Ticker & Trade",
+      "status": "sent",
+      "bufferPostId": "6ae52fc81891472093a4abce"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4020220:permanent_free:1",
+      "productId": "4020220",
+      "title": "No Service",
+      "status": "sent",
+      "bufferPostId": "6ae52fcaa11457434977a505"
+    }
+  ],
+  "errors": []
+}
