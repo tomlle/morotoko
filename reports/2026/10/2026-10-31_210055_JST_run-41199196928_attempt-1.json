@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41199196928",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-31T12:00:55.833Z",
+    "finishedAt": "2026-10-31T12:01:09.406Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41199196928"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 21,
+    "verified": 4,
+    "newPromotions": 2,
+    "knownPromotions": 2,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Puzzle Platformer",
+        "Sokoban",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Singleplayer",
+        "Level Editor",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4974600",
+      "title": "Hidden in Plain Cake",
+      "storeUrl": "https://store.steampowered.com/app/4974600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974600/72f637124805e6626804319e8ddce3458a8e2c38/header.jpg?t=1793445181",
+      "officialDescription": "Sculpt, slice, and paint real cake into perfect copies of everyday objects — then invite your friends online to spot the fake. Every cut reveals the sponge layers inside. Fool them, or get sliced open trying."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5172820",
+      "title": "TTRPG",
+      "storeUrl": "https://store.steampowered.com/app/5172820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172820/6dc507382a106a9e23ff1c8a96c08268e67a7225/header.jpg?t=1793350177",
+      "officialDescription": "Experience text-based TRPGs as intuitively as a Visual Novel! This software is an unofficial multiplayer TRPG utility created based on the TTRPG rules of 'manimu (@manimu_)'."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4974600:permanent_free:1",
+      "productId": "4974600",
+      "title": "Hidden in Plain Cake",
+      "status": "sent",
+      "bufferPostId": "6ae5d882a114574349a28508"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5172820:permanent_free:1",
+      "productId": "5172820",
+      "title": "TTRPG",
+      "status": "sent",
+      "bufferPostId": "6ae5d884406ab8a018b760e0"
+    }
+  ],
+  "errors": []
+}
