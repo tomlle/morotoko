@@ -1042,6 +1042,10 @@
     "steam:3851950:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3851950:permanent_free:1"
+    },
+    "steam:5351540:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5351540:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7835,7 +7839,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-31T03:11:06.746Z",
+      "lastSeenAt": "2026-10-31T06:01:01.191Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -7875,7 +7879,19 @@
         "postedAt": "2026-10-29T18:01:12.428Z"
       },
       "bufferPostId": "6ae389e7145e9f24d45c64e8",
-      "postedAt": "2026-10-29T18:01:12.428Z"
+      "postedAt": "2026-10-29T18:01:12.428Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T06:01:03.251Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Hexologic』\n🎁 無料配布は 11/1 02:00まで\n\n美麗なグラフィックと数独に着想を得たユニークなルール\n\n🚨 ライブラリへの追加をお忘れなく！\nhttps://store.steampowered.com/app/785890/",
+        "attemptedAt": "2026-10-31T06:01:03.668Z",
+        "bufferPostId": "6ae5841fb84259308bbdfaf4",
+        "submittedAt": "2026-10-31T06:01:05.089Z",
+        "postedAt": "2026-10-31T06:01:05.089Z"
+      },
+      "endingReminderBufferPostId": "6ae5841fb84259308bbdfaf4",
+      "endingReminderPostedAt": "2026-10-31T06:01:05.089Z"
     },
     "steam:5095690:permanent_free:1": {
       "kind": "permanent_free",
@@ -8549,7 +8565,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T03:11:06.746Z",
+      "lastSeenAt": "2026-10-31T06:01:01.191Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9160,11 +9176,41 @@
       },
       "bufferPostId": "6ae55c4da11457434982a50b",
       "postedAt": "2026-10-31T03:11:10.774Z"
+    },
+    "steam:5351540:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5351540:permanent_free:1",
+      "store": "steam",
+      "productId": "5351540",
+      "generation": 1,
+      "title": "The Pasture",
+      "storeUrl": "https://store.steampowered.com/app/5351540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T06:01:01.191Z",
+      "lastSeenAt": "2026-10-31T06:01:01.191Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "You are a mouse cursor, summoned by an entity called The Shepherd into a simulation drawn entirely in ASCII text. In this difficult point-and-click puzzle adventure, you solve puzzles, collect items, fight the dangerous Bound, and piece together what happened to a strange world.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T06:01:01.191Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Pasture』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5351540/",
+        "attemptedAt": "2026-10-31T06:01:01.876Z",
+        "bufferPostId": "6ae5841e406ab8a0189fdd35",
+        "submittedAt": "2026-10-31T06:01:03.247Z",
+        "postedAt": "2026-10-31T06:01:03.248Z"
+      },
+      "bufferPostId": "6ae5841e406ab8a0189fdd35",
+      "postedAt": "2026-10-31T06:01:03.248Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T03:11:06.746Z",
+    "lastSuccessfulScanAt": "2026-10-31T06:01:01.191Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -9493,6 +9539,7 @@
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5349960": "2026-10-30T06:01:06.346Z",
+      "5351540": "2026-10-31T06:01:01.191Z",
       "5353310": "2026-10-26T21:01:09.019Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5356470": "2026-10-26T15:01:10.225Z",
