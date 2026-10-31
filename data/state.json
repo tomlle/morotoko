@@ -1034,6 +1034,14 @@
     "steam:4020220:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4020220:permanent_free:1"
+    },
+    "steam:4394570:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4394570:permanent_free:1"
+    },
+    "steam:3851950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3851950:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7827,7 +7835,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-31T00:01:08.172Z",
+      "lastSeenAt": "2026-10-31T03:11:06.746Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -7839,8 +7847,8 @@
         "Colorful",
         "Relaxing",
         "2D",
-        "Sokoban",
         "Puzzle Platformer",
+        "Sokoban",
         "Cute",
         "Point & Click",
         "Abstract",
@@ -8541,7 +8549,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T00:01:08.172Z",
+      "lastSeenAt": "2026-10-31T03:11:06.746Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9092,11 +9100,71 @@
       },
       "bufferPostId": "6ae52fcaa11457434977a505",
       "postedAt": "2026-10-31T00:01:15.458Z"
+    },
+    "steam:4394570:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4394570:permanent_free:1",
+      "store": "steam",
+      "productId": "4394570",
+      "generation": 1,
+      "title": "Apothecary Grounds",
+      "storeUrl": "https://store.steampowered.com/app/4394570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T03:11:06.746Z",
+      "lastSeenAt": "2026-10-31T03:11:06.746Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Explore a seemingly empty land where a lonely graveyard is your only familiar landmark. Gather the items needed to unlock a sealed crypt, uncover the secrets beyond its door, evade the relentless Apothecary who guards the grounds, and unravel the mystery buried beneath them.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T03:11:06.746Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Apothecary Grounds』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4394570/",
+        "attemptedAt": "2026-10-31T03:11:07.881Z",
+        "bufferPostId": "6ae55c4cceb491e585d4ce5d",
+        "submittedAt": "2026-10-31T03:11:09.245Z",
+        "postedAt": "2026-10-31T03:11:09.245Z"
+      },
+      "bufferPostId": "6ae55c4cceb491e585d4ce5d",
+      "postedAt": "2026-10-31T03:11:09.245Z"
+    },
+    "steam:3851950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3851950:permanent_free:1",
+      "store": "steam",
+      "productId": "3851950",
+      "generation": 1,
+      "title": "REDSHIFT",
+      "storeUrl": "https://store.steampowered.com/app/3851950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T03:11:06.746Z",
+      "lastSeenAt": "2026-10-31T03:11:06.746Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Redshift is a short psychological narrative horror game where you close your eyes to reveal a hidden layer of reality, the REDSHIFT. You are a field technician sent to an abandoned research facility. Your objective? Find out why it's begun outputting power, all on its own.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T03:11:06.746Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『REDSHIFT』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3851950/",
+        "attemptedAt": "2026-10-31T03:11:09.552Z",
+        "bufferPostId": "6ae55c4da11457434982a50b",
+        "submittedAt": "2026-10-31T03:11:10.774Z",
+        "postedAt": "2026-10-31T03:11:10.774Z"
+      },
+      "bufferPostId": "6ae55c4da11457434982a50b",
+      "postedAt": "2026-10-31T03:11:10.774Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T00:01:08.172Z",
+    "lastSuccessfulScanAt": "2026-10-31T03:11:06.746Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -9140,6 +9208,7 @@
       "3839200": "2026-10-24T03:00:59.931Z",
       "3841580": "2026-10-26T18:01:07.648Z",
       "3847310": "2026-10-20T12:00:59.724Z",
+      "3851950": "2026-10-31T03:11:06.746Z",
       "3858540": "2026-10-14T15:30:36.000Z",
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
@@ -9170,6 +9239,7 @@
       "4355200": "2026-10-16T06:01:00.623Z",
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
+      "4394570": "2026-10-31T03:11:06.746Z",
       "4410900": "2026-10-18T00:01:08.594Z",
       "4429430": "2026-10-27T18:01:06.530Z",
       "4435950": "2026-10-27T15:01:11.766Z",
