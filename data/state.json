@@ -1082,6 +1082,10 @@
     "steam:5172820:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5172820:permanent_free:1"
+    },
+    "steam:5326340:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5326340:permanent_free:1"
     }
   },
   "campaigns": {
@@ -7875,7 +7879,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-29T18:01:09.856Z",
-      "lastSeenAt": "2026-10-31T12:01:05.079Z",
+      "lastSeenAt": "2026-10-31T15:01:00.614Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -8601,7 +8605,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T12:01:05.079Z",
+      "lastSeenAt": "2026-10-31T15:01:00.614Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9512,11 +9516,41 @@
       },
       "bufferPostId": "6ae5d884406ab8a018b760e0",
       "postedAt": "2026-10-31T12:01:09.397Z"
+    },
+    "steam:5326340:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5326340:permanent_free:1",
+      "store": "steam",
+      "productId": "5326340",
+      "generation": 1,
+      "title": "torpak",
+      "storeUrl": "https://store.steampowered.com/app/5326340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-10-31T15:01:00.614Z",
+      "lastSeenAt": "2026-10-31T15:01:00.614Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Claim a hex kingdom one roll at a time. Spend your die on connected land, settle wars by opposed rolls, and buy cards that bend the rules. A turn-based land-grab for 2–6 players: online over Steam, or at your own table against the AI.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-10-31T15:01:00.614Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『torpak』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5326340/",
+        "attemptedAt": "2026-10-31T15:01:01.282Z",
+        "bufferPostId": "6ae602ad1ee172cd6da974bb",
+        "submittedAt": "2026-10-31T15:01:02.637Z",
+        "postedAt": "2026-10-31T15:01:02.637Z"
+      },
+      "bufferPostId": "6ae602ad1ee172cd6da974bb",
+      "postedAt": "2026-10-31T15:01:02.637Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T12:01:05.079Z",
+    "lastSuccessfulScanAt": "2026-10-31T15:01:00.614Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -9843,6 +9877,7 @@
       "5319610": "2026-10-14T15:30:36.000Z",
       "5322620": "2026-10-28T06:01:11.657Z",
       "5324320": "2026-10-26T00:01:03.264Z",
+      "5326340": "2026-10-31T15:01:00.614Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",
       "5331600": "2026-10-30T00:01:16.479Z",
