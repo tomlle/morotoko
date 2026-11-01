@@ -1113,6 +1113,14 @@
     "steam:5266980:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5266980:permanent_free:1"
+    },
+    "steam:5412430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5412430:permanent_free:1"
+    },
+    "steam:5188570:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5188570:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8632,7 +8640,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-11-01T00:01:08.629Z",
+      "lastSeenAt": "2026-11-01T03:01:08.471Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9783,11 +9791,71 @@
       },
       "bufferPostId": "6ae681451ee172cd6dcda735",
       "postedAt": "2026-11-01T00:01:10.887Z"
+    },
+    "steam:5412430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5412430:permanent_free:1",
+      "store": "steam",
+      "productId": "5412430",
+      "generation": 1,
+      "title": "ORUNKA",
+      "storeUrl": "https://store.steampowered.com/app/5412430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-01T03:01:08.471Z",
+      "lastSeenAt": "2026-11-01T03:01:08.471Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An online RPG on the island of Moruah. Catch dinos and raise them as pets. Your pet attacks whatever you attack, and Auto Battle keeps the hunt going. Pets raised from Lv 1 grow strongest, and an appraisal reveals their Bloodline. Party up with other hunters on one island. In English and Korean.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-01T03:01:08.471Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ORUNKA』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5412430/",
+        "attemptedAt": "2026-11-01T03:01:09.202Z",
+        "bufferPostId": "6ae6ab75f0984eef33442308",
+        "submittedAt": "2026-11-01T03:01:10.544Z",
+        "postedAt": "2026-11-01T03:01:10.544Z"
+      },
+      "bufferPostId": "6ae6ab75f0984eef33442308",
+      "postedAt": "2026-11-01T03:01:10.544Z"
+    },
+    "steam:5188570:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5188570:permanent_free:1",
+      "store": "steam",
+      "productId": "5188570",
+      "generation": 1,
+      "title": "A Rover's Journey",
+      "storeUrl": "https://store.steampowered.com/app/5188570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-01T03:01:08.471Z",
+      "lastSeenAt": "2026-11-01T03:01:08.471Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A Rover's Journey is a 3D, narrative, exploration game, set in space! Play as Roo-ver, and help your astronaut companion discover all the lunar landscape has to offer. Traverse difficult terrain, avoid crashing meteors, and uncover tech from previous expeditions. Can the moon sustain human life?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-01T03:01:08.471Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A Rover's Journey』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5188570/",
+        "attemptedAt": "2026-11-01T03:01:10.877Z",
+        "bufferPostId": "6ae6ab7737c1acd2a0e3bca4",
+        "submittedAt": "2026-11-01T03:01:12.142Z",
+        "postedAt": "2026-11-01T03:01:12.142Z"
+      },
+      "bufferPostId": "6ae6ab7737c1acd2a0e3bca4",
+      "postedAt": "2026-11-01T03:01:12.142Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-01T00:01:08.629Z",
+    "lastSuccessfulScanAt": "2026-11-01T03:01:08.471Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10038,6 +10106,7 @@
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186260": "2026-10-29T15:01:15.623Z",
       "5186550": "2026-10-14T15:30:36.000Z",
+      "5188570": "2026-11-01T03:01:08.471Z",
       "5188720": "2026-10-28T12:01:11.239Z",
       "5190580": "2026-10-29T21:01:08.062Z",
       "5191970": "2026-10-28T18:01:10.127Z",
@@ -10160,6 +10229,7 @@
       "5402200": "2026-10-30T15:01:09.322Z",
       "5405810": "2026-10-29T12:01:05.996Z",
       "5411640": "2026-10-29T15:01:15.623Z",
+      "5412430": "2026-11-01T03:01:08.471Z",
       "5431590": "2026-10-31T21:01:15.957Z"
     }
   }
