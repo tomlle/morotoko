@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41304411054",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-01T12:00:51.862Z",
+    "finishedAt": "2026-11-01T12:01:02.932Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41304411054"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 19,
+    "verified": 2,
+    "newPromotions": 1,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5367090",
+      "title": "基因織女 Gene Weaver",
+      "storeUrl": "https://store.steampowered.com/app/5367090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367090/38b4e85c131fffad415048d3acc23d9aba000f30/header.jpg?t=1793531414",
+      "officialDescription": "Enter the smallest scale. Re-weave life’s narrative at a molecular level. Freely explore the genetic universe for superpower genes. Create your own magic carpet!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5367090:permanent_free:1",
+      "productId": "5367090",
+      "title": "基因織女 Gene Weaver",
+      "status": "sent",
+      "bufferPostId": "6ae729fdcf3a3112f3f6499c"
+    }
+  ],
+  "errors": []
+}
