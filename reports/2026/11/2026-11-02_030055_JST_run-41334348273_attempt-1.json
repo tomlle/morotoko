@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41334348273",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-01T18:00:55.685Z",
+    "finishedAt": "2026-11-01T18:01:10.937Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41334348273"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Singleplayer",
+        "Investigation",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4217360",
+      "title": "Magic Fruit World",
+      "storeUrl": "https://store.steampowered.com/app/4217360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217360/129f9954737fb2ef45da7421e26c9063cc5aaa09/header.jpg?t=1793545694",
+      "officialDescription": "『Magic Fruit World』は探索と戦術的バトルが融合した激しいプラットフォーマー。マジックフルーツの力を操り、無数の敵を倒し、広大な世界の秘密を暴き、リプレイ性の高いステージで己のスキルを磨き上げろ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4195620",
+      "title": "Draco Disease",
+      "storeUrl": "https://store.steampowered.com/app/4195620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4195620/4767fddab318be0f965bb2316a4508ae72e1dc2c/header.jpg?t=1793468156",
+      "officialDescription": "A medieval adventure-strategy game where you fight dragons and waves of zombies using fast-paced combat and flashy magic, while commanding troops to defend the kingdom."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4217360:permanent_free:1",
+      "productId": "4217360",
+      "title": "Magic Fruit World",
+      "status": "sent",
+      "bufferPostId": "6ae77e627c4e5559266b62a2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4195620:permanent_free:1",
+      "productId": "4195620",
+      "title": "Draco Disease",
+      "status": "sent",
+      "bufferPostId": "6ae77e657c4e5559266b645a"
+    }
+  ],
+  "errors": []
+}
