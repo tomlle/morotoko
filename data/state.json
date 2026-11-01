@@ -1109,6 +1109,10 @@
     "steam:2160130:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2160130:permanent_free:1"
+    },
+    "steam:5266980:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5266980:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8628,7 +8632,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-10-31T21:01:15.957Z",
+      "lastSeenAt": "2026-11-01T00:01:08.629Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -8648,8 +8652,8 @@
         "Adventure",
         "Retro",
         "Stealth",
-        "Exploration",
         "2D",
+        "Exploration",
         "Atmospheric",
         "Emotional",
         "Investigation",
@@ -9749,11 +9753,41 @@
       },
       "bufferPostId": "6ae657211ee172cd6dc21777",
       "postedAt": "2026-10-31T21:01:22.427Z"
+    },
+    "steam:5266980:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5266980:permanent_free:1",
+      "store": "steam",
+      "productId": "5266980",
+      "generation": 1,
+      "title": "RaviWar 1: A Perfect Sonday",
+      "storeUrl": "https://store.steampowered.com/app/5266980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-01T00:01:08.629Z",
+      "lastSeenAt": "2026-11-01T00:01:08.629Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "無料の一人称アドベンチャー。パズルと、落ちそうな跳躍。2077年。世界は17,769階の塔、タカレクの中で暮らしていて、コンセンサスが四十年、そこにいる全員の考えを決めてきた。あんたは二十歳、データ抹消の仕事に就いてまだ日が浅い。今夜、ファイルを一つ残して、世界を救う。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-01T00:01:08.629Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『RaviWar 1: A Perfect Sonday』\n✨ いつでも無料でプレイ\n\n無料の一人称アドベンチャー。パズルと、落ちそうな跳躍。2077年。世界は17,769階の塔、タカレクの中で暮らしていて、コンセンサスが四十年、そこにいる全員の考えを決めてきた。…\n\nhttps://store.steampowered.com/app/5266980/",
+        "attemptedAt": "2026-11-01T00:01:09.511Z",
+        "bufferPostId": "6ae681451ee172cd6dcda735",
+        "submittedAt": "2026-11-01T00:01:10.887Z",
+        "postedAt": "2026-11-01T00:01:10.887Z"
+      },
+      "bufferPostId": "6ae681451ee172cd6dcda735",
+      "postedAt": "2026-11-01T00:01:10.887Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-10-31T21:01:15.957Z",
+    "lastSuccessfulScanAt": "2026-11-01T00:01:08.629Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10046,6 +10080,7 @@
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
       "5266600": "2026-10-15T15:01:06.493Z",
+      "5266980": "2026-11-01T00:01:08.629Z",
       "5269000": "2026-10-14T15:30:36.000Z",
       "5269430": "2026-10-20T09:01:01.492Z",
       "5270020": "2026-10-14T15:30:36.000Z",
