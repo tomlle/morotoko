@@ -963,8 +963,7 @@
       "activeCampaignId": "steam:5017520:permanent_free:1"
     },
     "steam:1583850": {
-      "generation": 1,
-      "activeCampaignId": "steam:1583850:1"
+      "generation": 1
     },
     "steam:5238690:permanent_free": {
       "generation": 1,
@@ -1205,6 +1204,14 @@
     "steam:4424740:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4424740:permanent_free:1"
+    },
+    "steam:4946250:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4946250:permanent_free:1"
+    },
+    "steam:5261040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5261040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8725,8 +8732,8 @@
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
       "lastSeenAt": "2026-11-02T15:01:13.453Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
@@ -10577,11 +10584,71 @@
       },
       "bufferPostId": "6ae8cff0af5d3b08ec246c23",
       "postedAt": "2026-11-02T18:01:21.770Z"
+    },
+    "steam:4946250:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4946250:permanent_free:1",
+      "store": "steam",
+      "productId": "4946250",
+      "generation": 1,
+      "title": "Hallow",
+      "storeUrl": "https://store.steampowered.com/app/4946250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T21:01:11.825Z",
+      "lastSeenAt": "2026-11-02T21:01:11.825Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "In Hallow, your goal is to uncover the mystery behind your father's disappearance and put a stop to the cruel cause.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T21:01:11.825Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Hallow』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4946250/",
+        "attemptedAt": "2026-11-02T21:01:14.701Z",
+        "bufferPostId": "6ae8fa1ab665951ec2fbc0f4",
+        "submittedAt": "2026-11-02T21:01:16.161Z",
+        "postedAt": "2026-11-02T21:01:16.161Z"
+      },
+      "bufferPostId": "6ae8fa1ab665951ec2fbc0f4",
+      "postedAt": "2026-11-02T21:01:16.161Z"
+    },
+    "steam:5261040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5261040:permanent_free:1",
+      "store": "steam",
+      "productId": "5261040",
+      "generation": 1,
+      "title": "Panorama of All Beings",
+      "storeUrl": "https://store.steampowered.com/app/5261040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T21:01:11.825Z",
+      "lastSeenAt": "2026-11-02T21:01:11.825Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An online multiplayer pixel-art game on one shared 1920 x 1080 canvas. Place a pixel, wait for the cooldown, then contribute again. Build on others' designs or overwrite them—and expect yours to change too. Discuss the canvas through comments and replay its history. Internet required.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T21:01:11.825Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Panorama of All Beings』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5261040/",
+        "attemptedAt": "2026-11-02T21:01:16.457Z",
+        "bufferPostId": "6ae8fa1cc8ee2961312fed63",
+        "submittedAt": "2026-11-02T21:01:17.805Z",
+        "postedAt": "2026-11-02T21:01:17.805Z"
+      },
+      "bufferPostId": "6ae8fa1cc8ee2961312fed63",
+      "postedAt": "2026-11-02T21:01:17.805Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-02T18:01:16.242Z",
+    "lastSuccessfulScanAt": "2026-11-02T21:01:11.825Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10764,6 +10831,7 @@
       "4938170": "2026-10-30T12:01:07.408Z",
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
+      "4946250": "2026-11-02T21:01:11.825Z",
       "4949930": "2026-10-26T18:01:07.648Z",
       "4952950": "2026-10-15T18:01:01.152Z",
       "4956060": "2026-10-14T21:01:00.572Z",
@@ -10885,6 +10953,7 @@
       "5256770": "2026-10-16T15:01:11.993Z",
       "5257930": "2026-10-16T00:01:03.084Z",
       "5259270": "2026-10-29T09:01:05.116Z",
+      "5261040": "2026-11-02T21:01:11.825Z",
       "5261400": "2026-11-02T06:01:05.538Z",
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
