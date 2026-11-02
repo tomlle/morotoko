@@ -1161,6 +1161,14 @@
     "steam:5261400:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5261400:permanent_free:1"
+    },
+    "steam:5006800:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5006800:permanent_free:1"
+    },
+    "steam:4288780:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4288780:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8680,7 +8688,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-11-02T09:01:07.308Z",
+      "lastSeenAt": "2026-11-02T12:01:08.821Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -10203,6 +10211,66 @@
       },
       "bufferPostId": "6ae8272676279ec7eb962948",
       "postedAt": "2026-11-02T06:01:11.966Z"
+    },
+    "steam:5006800:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5006800:permanent_free:1",
+      "store": "steam",
+      "productId": "5006800",
+      "generation": 1,
+      "title": "Freewill - Sci-Fi Music Platformer",
+      "storeUrl": "https://store.steampowered.com/app/5006800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T12:01:08.821Z",
+      "lastSeenAt": "2026-11-02T12:01:08.821Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Freewill is a linear, rhythm based 3D platformer. Experience songs by Magic Circuit come to life as you jump, slide and wall run in a futuristic landscape.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T12:01:08.821Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Freewill - Sci-Fi Music Platformer』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5006800/",
+        "attemptedAt": "2026-11-02T12:01:11.223Z",
+        "bufferPostId": "6ae87b876c56e41b99522f1d",
+        "submittedAt": "2026-11-02T12:01:12.713Z",
+        "postedAt": "2026-11-02T12:01:12.713Z"
+      },
+      "bufferPostId": "6ae87b876c56e41b99522f1d",
+      "postedAt": "2026-11-02T12:01:12.713Z"
+    },
+    "steam:4288780:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4288780:permanent_free:1",
+      "store": "steam",
+      "productId": "4288780",
+      "generation": 1,
+      "title": "Morvex",
+      "storeUrl": "https://store.steampowered.com/app/4288780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T12:01:08.821Z",
+      "lastSeenAt": "2026-11-02T12:01:08.821Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Morvexは、基本プレイ無料のラウンド制ゾンビサバイバルFPS。押し寄せるアンデッドの大群と戦い、強力な武器をクラフト・強化し、危険なボスを倒して世界ランキングの上位を目指そう。君はどこまで生き残れるか？ 🧟‍♂️⚡",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T12:01:08.821Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Morvex』\n✨ いつでも無料でプレイ\n\nMorvexは、基本プレイ無料のラウンド制ゾンビサバイバルFPS。押し寄せるアンデッドの大群と戦い、強力な武器をクラフト・強化し、危険なボスを倒して世界ランキングの上位を目指そう。君はどこまで生き…\n\nhttps://store.steampowered.com/app/4288780/",
+        "attemptedAt": "2026-11-02T12:01:13.869Z",
+        "bufferPostId": "6ae87b8ae79c76ff1d21bb10",
+        "submittedAt": "2026-11-02T12:01:15.291Z",
+        "postedAt": "2026-11-02T12:01:15.291Z"
+      },
+      "bufferPostId": "6ae87b8ae79c76ff1d21bb10",
+      "postedAt": "2026-11-02T12:01:15.291Z"
     }
   },
   "permanentFreeBaseline": {
@@ -10283,6 +10351,7 @@
       "4251070": "2026-10-15T18:01:01.152Z",
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
+      "4288780": "2026-11-02T12:01:08.821Z",
       "4347270": "2026-10-14T15:30:36.000Z",
       "4348500": "2026-10-23T15:01:04.807Z",
       "4350900": "2026-10-17T00:01:02.592Z",
@@ -10400,6 +10469,7 @@
       "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",
       "5006180": "2026-10-14T15:30:36.000Z",
+      "5006800": "2026-11-02T12:01:08.821Z",
       "5007010": "2026-10-30T15:01:09.322Z",
       "5010310": "2026-10-26T06:01:04.083Z",
       "5012600": "2026-10-31T00:01:08.172Z",
