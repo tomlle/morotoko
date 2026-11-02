@@ -1137,6 +1137,14 @@
     "steam:3017040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3017040:permanent_free:1"
+    },
+    "steam:5391790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5391790:permanent_free:1"
+    },
+    "steam:5213710:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5213710:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8656,7 +8664,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-11-02T00:01:10.915Z",
+      "lastSeenAt": "2026-11-02T03:01:22.328Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -9987,11 +9995,71 @@
       },
       "bufferPostId": "6ae7a88e72a19e82a39f1208",
       "postedAt": "2026-11-01T21:01:04.007Z"
+    },
+    "steam:5391790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5391790:permanent_free:1",
+      "store": "steam",
+      "productId": "5391790",
+      "generation": 1,
+      "title": "A SHEEP GAME",
+      "storeUrl": "https://store.steampowered.com/app/5391790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T03:01:22.328Z",
+      "lastSeenAt": "2026-11-02T03:01:22.328Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Free cartoon puzzle mayhem in the spirit of Lemmings: guide a stubborn flock through 218 levels, from a sunny meadow down to Satan's throne room. Dig, build, blow things up – while the soundtrack slides from country to death metal and the bleating turns into a growl.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T03:01:22.328Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A SHEEP GAME』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5391790/",
+        "attemptedAt": "2026-11-02T03:01:23.204Z",
+        "bufferPostId": "6ae7fd03c181038f3ba5e348",
+        "submittedAt": "2026-11-02T03:01:24.513Z",
+        "postedAt": "2026-11-02T03:01:24.513Z"
+      },
+      "bufferPostId": "6ae7fd03c181038f3ba5e348",
+      "postedAt": "2026-11-02T03:01:24.513Z"
+    },
+    "steam:5213710:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5213710:permanent_free:1",
+      "store": "steam",
+      "productId": "5213710",
+      "generation": 1,
+      "title": "回到风吹过的地方",
+      "storeUrl": "https://store.steampowered.com/app/5213710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T03:01:22.328Z",
+      "lastSeenAt": "2026-11-02T03:01:22.328Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Homeward on the Wind is a story-driven life simulation set in the town of Clearbrook in 1992. Return to the past as Shen Mingzhu, revive her mother’s old general store, manage stock and upgrades, explore the town, meet its residents, and shape relationships through your choices.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T03:01:22.328Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『回到风吹过的地方』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5213710/",
+        "attemptedAt": "2026-11-02T03:01:24.886Z",
+        "bufferPostId": "6ae7fd0505377798e05277bc",
+        "submittedAt": "2026-11-02T03:01:26.270Z",
+        "postedAt": "2026-11-02T03:01:26.270Z"
+      },
+      "bufferPostId": "6ae7fd0505377798e05277bc",
+      "postedAt": "2026-11-02T03:01:26.270Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-02T00:01:10.915Z",
+    "lastSuccessfulScanAt": "2026-11-02T03:01:22.328Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10257,6 +10325,7 @@
       "5206450": "2026-10-14T15:30:36.000Z",
       "5209250": "2026-10-25T09:01:01.104Z",
       "5210050": "2026-10-14T15:30:36.000Z",
+      "5213710": "2026-11-02T03:01:22.328Z",
       "5217620": "2026-10-14T15:30:36.000Z",
       "5218350": "2026-10-14T15:30:36.000Z",
       "5220890": "2026-10-16T18:01:10.079Z",
@@ -10364,6 +10433,7 @@
       "5384900": "2026-10-23T12:01:18.754Z",
       "5387790": "2026-10-30T21:01:07.872Z",
       "5391500": "2026-10-26T15:01:10.225Z",
+      "5391790": "2026-11-02T03:01:22.328Z",
       "5394530": "2026-10-23T09:01:01.018Z",
       "5397330": "2026-10-28T15:01:16.098Z",
       "5402200": "2026-10-30T15:01:09.322Z",
