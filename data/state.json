@@ -1197,6 +1197,14 @@
     "steam:5386310:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5386310:permanent_free:1"
+    },
+    "steam:4895600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4895600:permanent_free:1"
+    },
+    "steam:4424740:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4424740:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8718,7 +8726,7 @@
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
       "lastSeenAt": "2026-11-02T15:01:13.453Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
@@ -10509,11 +10517,71 @@
       },
       "bufferPostId": "6ae8a5c8f1669be3eaba12f0",
       "postedAt": "2026-11-02T15:01:29.477Z"
+    },
+    "steam:4895600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4895600:permanent_free:1",
+      "store": "steam",
+      "productId": "4895600",
+      "generation": 1,
+      "title": "Crimson Spine",
+      "storeUrl": "https://store.steampowered.com/app/4895600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T18:01:16.242Z",
+      "lastSeenAt": "2026-11-02T18:01:16.242Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A Metroidvania set in a dark fantasy world where Raed, a knight resurrected under mysterious circumstances, uses her new heart as a weapon to recover her lost memories.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T18:01:16.242Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crimson Spine』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4895600/",
+        "attemptedAt": "2026-11-02T18:01:18.421Z",
+        "bufferPostId": "6ae8cfeeaf5d3b08ec246b3f",
+        "submittedAt": "2026-11-02T18:01:19.939Z",
+        "postedAt": "2026-11-02T18:01:19.939Z"
+      },
+      "bufferPostId": "6ae8cfeeaf5d3b08ec246b3f",
+      "postedAt": "2026-11-02T18:01:19.939Z"
+    },
+    "steam:4424740:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4424740:permanent_free:1",
+      "store": "steam",
+      "productId": "4424740",
+      "generation": 1,
+      "title": "Agent of Strange: Arrival",
+      "storeUrl": "https://store.steampowered.com/app/4424740/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T18:01:16.242Z",
+      "lastSeenAt": "2026-11-02T18:01:16.242Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The prologue to Agent of Strange — a dark role-playing thriller where every mission is a labyrinth of choices and possibilities. Start your path as a Conspirator in a desperate struggle against the secret occult regime.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T18:01:16.242Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Agent of Strange: Arrival』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4424740/",
+        "attemptedAt": "2026-11-02T18:01:20.248Z",
+        "bufferPostId": "6ae8cff0af5d3b08ec246c23",
+        "submittedAt": "2026-11-02T18:01:21.770Z",
+        "postedAt": "2026-11-02T18:01:21.770Z"
+      },
+      "bufferPostId": "6ae8cff0af5d3b08ec246c23",
+      "postedAt": "2026-11-02T18:01:21.770Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-02T15:01:13.453Z",
+    "lastSuccessfulScanAt": "2026-11-02T18:01:16.242Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10602,6 +10670,7 @@
       "4374510": "2026-10-31T09:00:59.059Z",
       "4394570": "2026-10-31T03:11:06.746Z",
       "4410900": "2026-10-18T00:01:08.594Z",
+      "4424740": "2026-11-02T18:01:16.242Z",
       "4429430": "2026-10-27T18:01:06.530Z",
       "4431370": "2026-10-31T21:01:15.957Z",
       "4435950": "2026-10-27T15:01:11.766Z",
@@ -10678,6 +10747,7 @@
       "4889610": "2026-10-19T21:01:06.551Z",
       "4894260": "2026-10-14T15:30:36.000Z",
       "4895300": "2026-10-26T18:01:07.648Z",
+      "4895600": "2026-11-02T18:01:16.242Z",
       "4896360": "2026-10-21T18:01:08.108Z",
       "4898790": "2026-10-21T09:01:07.569Z",
       "4901700": "2026-10-24T21:01:02.500Z",

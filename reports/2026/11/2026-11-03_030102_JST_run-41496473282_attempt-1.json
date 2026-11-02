@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41496473282",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-02T18:01:02.975Z",
+    "finishedAt": "2026-11-02T18:01:21.780Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41496473282"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 19,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4895600",
+      "title": "Crimson Spine",
+      "storeUrl": "https://store.steampowered.com/app/4895600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895600/2583a09a61bf9fae7f58d5ee94ddaf279df70ca0/header.jpg?t=1793640412",
+      "officialDescription": "A Metroidvania set in a dark fantasy world where Raed, a knight resurrected under mysterious circumstances, uses her new heart as a weapon to recover her lost memories."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4424740",
+      "title": "Agent of Strange: Arrival",
+      "storeUrl": "https://store.steampowered.com/app/4424740/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424740/cb4e4d7cf18a186fc29856815de11b869dfc8a3f/header.jpg?t=1793639731",
+      "officialDescription": "The prologue to Agent of Strange — a dark role-playing thriller where every mission is a labyrinth of choices and possibilities. Start your path as a Conspirator in a desperate struggle against the secret occult regime."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4895600:permanent_free:1",
+      "productId": "4895600",
+      "title": "Crimson Spine",
+      "status": "sent",
+      "bufferPostId": "6ae8cfeeaf5d3b08ec246b3f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4424740:permanent_free:1",
+      "productId": "4424740",
+      "title": "Agent of Strange: Arrival",
+      "status": "sent",
+      "bufferPostId": "6ae8cff0af5d3b08ec246c23"
+    }
+  ],
+  "errors": []
+}
