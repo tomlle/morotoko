@@ -1145,6 +1145,22 @@
     "steam:5213710:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5213710:permanent_free:1"
+    },
+    "steam:5341010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5341010:permanent_free:1"
+    },
+    "steam:4776360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4776360:permanent_free:1"
+    },
+    "steam:5377440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5377440:permanent_free:1"
+    },
+    "steam:5261400:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5261400:permanent_free:1"
     }
   },
   "campaigns": {
@@ -8664,7 +8680,7 @@
       "currency": "JPY",
       "discountPercent": 100,
       "firstSeenAt": "2026-10-30T18:01:08.710Z",
-      "lastSeenAt": "2026-11-02T03:01:22.328Z",
+      "lastSeenAt": "2026-11-02T06:01:05.538Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -8704,7 +8720,19 @@
         "postedAt": "2026-10-30T18:01:11.044Z"
       },
       "bufferPostId": "6ae4db65cd8290b9b904ccb1",
-      "postedAt": "2026-10-30T18:01:11.044Z"
+      "postedAt": "2026-10-30T18:01:11.044Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T06:01:11.972Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Asleep: Act 1』\n🎁 無料配布は 11/3 03:00まで\n\n光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行…\n\n🚨 ライブラリへの追加をお忘れなく！\nhttps://store.steampowered.com/app/1583850/",
+        "attemptedAt": "2026-11-02T06:01:12.286Z",
+        "bufferPostId": "6ae827281a965d64fbf04cbf",
+        "submittedAt": "2026-11-02T06:01:13.555Z",
+        "postedAt": "2026-11-02T06:01:13.555Z"
+      },
+      "endingReminderBufferPostId": "6ae827281a965d64fbf04cbf",
+      "endingReminderPostedAt": "2026-11-02T06:01:13.555Z"
     },
     "steam:5238690:permanent_free:1": {
       "kind": "permanent_free",
@@ -10055,11 +10083,131 @@
       },
       "bufferPostId": "6ae7fd0505377798e05277bc",
       "postedAt": "2026-11-02T03:01:26.270Z"
+    },
+    "steam:5341010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5341010:permanent_free:1",
+      "store": "steam",
+      "productId": "5341010",
+      "generation": 1,
+      "title": "Corner Pocket: World Billiards",
+      "storeUrl": "https://store.steampowered.com/app/5341010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T06:01:05.538Z",
+      "lastSeenAt": "2026-11-02T06:01:05.538Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Play eight billiards games online for free, including snooker and Taiwan 235. Enter Corner Pocket: World Billiards, aim freely, hold to build power and feel every shot. Challenge opponents or invite friends in seven distinct halls, using potting and cue-ball positioning to win.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T06:01:05.538Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Corner Pocket: World Billiards』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5341010/",
+        "attemptedAt": "2026-11-02T06:01:06.135Z",
+        "bufferPostId": "6ae827221a965d64fbf045da",
+        "submittedAt": "2026-11-02T06:01:07.529Z",
+        "postedAt": "2026-11-02T06:01:07.529Z"
+      },
+      "bufferPostId": "6ae827221a965d64fbf045da",
+      "postedAt": "2026-11-02T06:01:07.529Z"
+    },
+    "steam:4776360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4776360:permanent_free:1",
+      "store": "steam",
+      "productId": "4776360",
+      "generation": 1,
+      "title": "Fission Mirror Grid",
+      "storeUrl": "https://store.steampowered.com/app/4776360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T06:01:05.538Z",
+      "lastSeenAt": "2026-11-02T06:01:05.538Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Drag film cards on a 14×6 grid—facing and dyeing shape every hit. Face-up draws; chain Start, Instant, and End timings each turn. A 54-floor roguelike with four camera travelers, ~100 cards, and 119 relics.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T06:01:05.538Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fission Mirror Grid』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4776360/",
+        "attemptedAt": "2026-11-02T06:01:07.814Z",
+        "bufferPostId": "6ae827237817c41d1a479fa0",
+        "submittedAt": "2026-11-02T06:01:09.043Z",
+        "postedAt": "2026-11-02T06:01:09.043Z"
+      },
+      "bufferPostId": "6ae827237817c41d1a479fa0",
+      "postedAt": "2026-11-02T06:01:09.043Z"
+    },
+    "steam:5377440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5377440:permanent_free:1",
+      "store": "steam",
+      "productId": "5377440",
+      "generation": 1,
+      "title": "Fly With Me",
+      "storeUrl": "https://store.steampowered.com/app/5377440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T06:01:05.538Z",
+      "lastSeenAt": "2026-11-02T06:01:05.538Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "This is a realistic space flying simulator where you and up to 30 online player fly around the solar system",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T06:01:05.538Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fly With Me』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5377440/",
+        "attemptedAt": "2026-11-02T06:01:09.269Z",
+        "bufferPostId": "6ae827257817c41d1a47a04f",
+        "submittedAt": "2026-11-02T06:01:10.486Z",
+        "postedAt": "2026-11-02T06:01:10.486Z"
+      },
+      "bufferPostId": "6ae827257817c41d1a47a04f",
+      "postedAt": "2026-11-02T06:01:10.486Z"
+    },
+    "steam:5261400:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5261400:permanent_free:1",
+      "store": "steam",
+      "productId": "5261400",
+      "generation": 1,
+      "title": "龙之传奇",
+      "storeUrl": "https://store.steampowered.com/app/5261400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-02T06:01:05.538Z",
+      "lastSeenAt": "2026-11-02T06:01:05.538Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "原创剧情📖鏖战超级大陆🌍！上线即享自动回收等四重豪礼🎁，装备全爆💥，不氪不肝🛡️！20个超级分身助力👥，刀速飙升+999%💨！免费会员👥，零充畅玩通关🎉！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-02T06:01:05.538Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『龙之传奇』\n✨ いつでも無料でプレイ\n\n原创剧情📖鏖战超级大陆🌍！上线即享自动回收等四重豪礼🎁，装备全爆💥，不氪不肝🛡️！20个超级分身助力👥，刀速飙升+999%💨！免费会员👥，零充畅玩通关🎉！\n\nhttps://store.steampowered.com/app/5261400/",
+        "attemptedAt": "2026-11-02T06:01:10.730Z",
+        "bufferPostId": "6ae8272676279ec7eb962948",
+        "submittedAt": "2026-11-02T06:01:11.966Z",
+        "postedAt": "2026-11-02T06:01:11.966Z"
+      },
+      "bufferPostId": "6ae8272676279ec7eb962948",
+      "postedAt": "2026-11-02T06:01:11.966Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-02T03:01:22.328Z",
+    "lastSuccessfulScanAt": "2026-11-02T06:01:05.538Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10198,6 +10346,7 @@
       "4770880": "2026-10-31T09:00:59.059Z",
       "4773930": "2026-10-23T03:01:08.088Z",
       "4775990": "2026-10-24T00:01:05.299Z",
+      "4776360": "2026-11-02T06:01:05.538Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
@@ -10354,6 +10503,7 @@
       "5256770": "2026-10-16T15:01:11.993Z",
       "5257930": "2026-10-16T00:01:03.084Z",
       "5259270": "2026-10-29T09:01:05.116Z",
+      "5261400": "2026-11-02T06:01:05.538Z",
       "5261940": "2026-10-14T15:30:36.000Z",
       "5262490": "2026-10-14T21:01:00.572Z",
       "5266600": "2026-10-15T15:01:06.493Z",
@@ -10405,6 +10555,7 @@
       "5333290": "2026-10-28T21:01:20.934Z",
       "5339870": "2026-10-24T15:01:00.588Z",
       "5341000": "2026-10-21T21:00:59.332Z",
+      "5341010": "2026-11-02T06:01:05.538Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5349960": "2026-10-30T06:01:06.346Z",
@@ -10426,6 +10577,7 @@
       "5375180": "2026-10-24T12:01:06.666Z",
       "5375400": "2026-10-29T15:01:15.623Z",
       "5377010": "2026-10-27T12:01:11.410Z",
+      "5377440": "2026-11-02T06:01:05.538Z",
       "5377530": "2026-10-27T18:01:06.530Z",
       "5380340": "2026-10-29T09:01:05.116Z",
       "5382160": "2026-10-29T15:01:15.623Z",

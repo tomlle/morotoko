@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41397287727",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-02T06:00:55.400Z",
+    "finishedAt": "2026-11-02T06:01:13.565Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41397287727"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 22,
+    "verified": 5,
+    "newPromotions": 4,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Singleplayer",
+        "Investigation",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5341010",
+      "title": "Corner Pocket: World Billiards",
+      "storeUrl": "https://store.steampowered.com/app/5341010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341010/1dafde9d20c03c75fa41e582c8dd1da8e81ee6ea/header.jpg?t=1793597682",
+      "officialDescription": "Play eight billiards games online for free, including snooker and Taiwan 235. Enter Corner Pocket: World Billiards, aim freely, hold to build power and feel every shot. Challenge opponents or invite friends in seven distinct halls, using potting and cue-ball positioning to win."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4776360",
+      "title": "Fission Mirror Grid",
+      "storeUrl": "https://store.steampowered.com/app/4776360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776360/f7d90d3e9a448c30726c6b4001ba8c717aac17f9/header.jpg?t=1793595621",
+      "officialDescription": "Drag film cards on a 14×6 grid—facing and dyeing shape every hit. Face-up draws; chain Start, Instant, and End timings each turn. A 54-floor roguelike with four camera travelers, ~100 cards, and 119 relics."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5377440",
+      "title": "Fly With Me",
+      "storeUrl": "https://store.steampowered.com/app/5377440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377440/5834b3fac1ea937bc776f9174b7c020a68370263/header.jpg?t=1793505474",
+      "officialDescription": "This is a realistic space flying simulator where you and up to 30 online player fly around the solar system"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5261400",
+      "title": "龙之传奇",
+      "storeUrl": "https://store.steampowered.com/app/5261400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261400/d5c1ba4fa22a510ce279a267dec93b02d09f9da4/header.jpg?t=1793505360",
+      "officialDescription": "原创剧情📖鏖战超级大陆🌍！上线即享自动回收等四重豪礼🎁，装备全爆💥，不氪不肝🛡️！20个超级分身助力👥，刀速飙升+999%💨！免费会员👥，零充畅玩通关🎉！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5341010:permanent_free:1",
+      "productId": "5341010",
+      "title": "Corner Pocket: World Billiards",
+      "status": "sent",
+      "bufferPostId": "6ae827221a965d64fbf045da"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4776360:permanent_free:1",
+      "productId": "4776360",
+      "title": "Fission Mirror Grid",
+      "status": "sent",
+      "bufferPostId": "6ae827237817c41d1a479fa0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5377440:permanent_free:1",
+      "productId": "5377440",
+      "title": "Fly With Me",
+      "status": "sent",
+      "bufferPostId": "6ae827257817c41d1a47a04f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5261400:permanent_free:1",
+      "productId": "5261400",
+      "title": "龙之传奇",
+      "status": "sent",
+      "bufferPostId": "6ae8272676279ec7eb962948"
+    },
+    {
+      "type": "ending_reminder",
+      "campaignId": "steam:1583850:1",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "status": "sent",
+      "bufferPostId": "6ae827281a965d64fbf04cbf"
+    }
+  ],
+  "errors": []
+}
