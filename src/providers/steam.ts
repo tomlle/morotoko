@@ -1,5 +1,5 @@
 import { load } from "cheerio";
-import { fetchWithRetry, HttpError } from "../http.js";
+import { fetchJsonWithRetry, fetchWithRetry, HttpError } from "../http.js";
 import type { Promotion, PromotionKind, ReportError } from "../types.js";
 
 export interface SteamSearchCandidate {
@@ -539,8 +539,9 @@ export class SteamProvider {
         l: this.language,
       }).toString();
 
-      const response = await fetchWithRetry(url.toString());
-      const payload = (await response.json()) as SteamSearchResponse;
+      const payload = await fetchJsonWithRetry<SteamSearchResponse>(
+        url.toString(),
+      );
       const validated = validateSteamSearchResponse(payload);
       const html = validated.html;
       const freeToKeepRows = parseSteamSearchHtml(html, "free_to_keep");
@@ -615,11 +616,10 @@ export class SteamProvider {
           cc: this.country.toLowerCase(),
           l: "english",
         }).toString();
-        const permanentFreeResponse = await fetchWithRetry(
-          permanentFreeUrl.toString(),
-        );
         const permanentFreePayload =
-          (await permanentFreeResponse.json()) as SteamSearchResponse;
+          await fetchJsonWithRetry<SteamSearchResponse>(
+            permanentFreeUrl.toString(),
+          );
         const permanentFreeSearch =
           validateSteamSearchResponse(permanentFreePayload);
         const permanentFreeRows = parseSteamSearchHtml(
@@ -689,8 +689,9 @@ export class SteamProvider {
         cc: this.country.toLowerCase(),
         l: this.language,
       }).toString();
-      const probeResponse = await fetchWithRetry(probeUrl.toString());
-      const probePayload = (await probeResponse.json()) as SteamSearchResponse;
+      const probePayload = await fetchJsonWithRetry<SteamSearchResponse>(
+        probeUrl.toString(),
+      );
       const probe = validateSteamSearchResponse(probePayload, true);
       if (parseSteamSearchHtml(probe.html, "temporary_play").length === 0) {
         throw new Error("Steam search health probe rows could not be parsed");
@@ -707,13 +708,10 @@ export class SteamProvider {
         cc: this.country.toLowerCase(),
         l: this.language,
       }).toString();
-      const featuredResponse = await fetchWithRetry(featuredUrl.toString());
-      featuredCandidates = parseSteamFeaturedCategories(
-        (await featuredResponse.json()) as Record<
-          string,
-          SteamFeaturedCategory
-        >,
-      );
+      const featuredPayload = await fetchJsonWithRetry<
+        Record<string, SteamFeaturedCategory>
+      >(featuredUrl.toString());
+      featuredCandidates = parseSteamFeaturedCategories(featuredPayload);
       for (const candidate of featuredCandidates) {
         if (!allRows.has(`free_to_keep:${candidate.appId}`))
           allRows.set(`temporary_play:${candidate.appId}`, candidate);
@@ -737,11 +735,9 @@ export class SteamProvider {
           cc: this.country.toLowerCase(),
           l: this.language,
         }).toString();
-        const response = await fetchWithRetry(detailsUrl.toString());
-        const payload = (await response.json()) as Record<
-          string,
-          SteamAppDetailsEnvelope
-        >;
+        const payload = await fetchJsonWithRetry<
+          Record<string, SteamAppDetailsEnvelope>
+        >(detailsUrl.toString());
         const envelope = payload[candidate.appId];
         if (!envelope?.success || !envelope.data) {
           throw new Error(
@@ -834,9 +830,10 @@ export class SteamProvider {
               data_request: { include_basic_info: true },
             }),
           );
-          const browseResponse = await fetchWithRetry(browseUrl.toString());
           const browsePayload =
-            (await browseResponse.json()) as SteamStoreBrowseResponse;
+            await fetchJsonWithRetry<SteamStoreBrowseResponse>(
+              browseUrl.toString(),
+            );
           const temporaryPlay = validateTemporaryPlayStoreItem(
             browsePayload.response?.store_items?.[0],
           );

@@ -33,12 +33,15 @@ function mockSteam(
     featuredFailure,
     pageFailure,
     packageCandidate = false,
+    transientFeaturedHtml = false,
   }: {
-    featuredFailure?: "http" | "markup";
+    featuredFailure?: "http" | "markup" | "html";
     pageFailure?: boolean;
     packageCandidate?: boolean;
+    transientFeaturedHtml?: boolean;
   } = {},
 ) {
+  let featuredAttempts = 0;
   t.mock.method(globalThis, "fetch", async (input: string) => {
     const url = new URL(String(input));
     if (url.pathname === "/search/results/")
@@ -49,6 +52,12 @@ function mockSteam(
           normalRow + (packageCandidate ? fixture("pony-search.html") : ""),
       });
     if (url.pathname === "/api/featuredcategories") {
+      featuredAttempts++;
+      if (
+        featuredFailure === "html" ||
+        (transientFeaturedHtml && featuredAttempts === 1)
+      )
+        return new Response("<!DOCTYPE html><html>Unavailable</html>");
       if (featuredFailure === "http")
         return new Response("Forbidden", { status: 403 });
       if (featuredFailure === "markup") return Response.json({});
@@ -88,7 +97,18 @@ function mockSteam(
 }
 
 describe("Steam scan resilience", () => {
-  for (const failure of ["http", "markup"] as const) {
+  it("recovers from a transient HTML response during featured discovery", async (t) => {
+    mockSteam(t, { transientFeaturedHtml: true });
+    const scan = await new SteamProvider("JP", "japanese").scan();
+    assert.deepEqual(
+      scan.promotions.map((p) => p.productId),
+      ["100", "1621690"],
+    );
+    assert.deepEqual(scan.errors, []);
+    assert.equal(scan.sourceHealthy, true);
+  });
+
+  for (const failure of ["http", "markup", "html"] as const) {
     it(`continues verified free-to-keep detection when featured discovery fails (${failure})`, async (t) => {
       mockSteam(t, { featuredFailure: failure });
       const scan = await new SteamProvider("JP", "japanese").scan();
@@ -101,6 +121,10 @@ describe("Steam scan resilience", () => {
       assert.equal(scan.errors[0]?.severity, "error");
       assert.equal(scan.sourceHealthy, false);
       if (failure === "http") assert.equal(scan.errors[0]?.httpStatus, 403);
+      if (failure === "html") {
+        assert.equal(scan.errors[0]?.retryCount, 3);
+        assert.match(scan.errors[0]!.message, /\/api\/featuredcategories/u);
+      }
     });
   }
 
