@@ -1,6 +1,59 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { fetchWithRetry, HttpError } from "../src/http.js";
+import { fetchJsonWithRetry, fetchWithRetry, HttpError } from "../src/http.js";
+
+describe("JSON response retries", () => {
+  it("retries an HTTP 200 HTML response and accepts subsequent JSON regardless of content type", async (t) => {
+    let calls = 0;
+    t.mock.method(globalThis, "fetch", async () => {
+      calls++;
+      return calls === 1
+        ? new Response("<!DOCTYPE html><html>Temporarily unavailable</html>")
+        : new Response('{"ok":true}');
+    });
+    assert.deepEqual(
+      await fetchJsonWithRetry(
+        "https://store.steampowered.com/search/results/",
+      ),
+      { ok: true },
+    );
+    assert.equal(calls, 2);
+  });
+
+  it("reports the endpoint and attempt count after repeated malformed JSON without exposing query secrets or HTML", async (t) => {
+    let calls = 0;
+    t.mock.method(globalThis, "fetch", async () => {
+      calls++;
+      return new Response("<!DOCTYPE html><html>sensitive content</html>");
+    });
+    await assert.rejects(
+      fetchJsonWithRetry(
+        "https://store.steampowered.com/api/featuredcategories?key=secret",
+        {},
+        2,
+      ),
+      (error: unknown) =>
+        error instanceof HttpError &&
+        error.attempts === 2 &&
+        error.message ===
+          "Invalid JSON (HTTP 200) while requesting https://store.steampowered.com/api/featuredcategories",
+    );
+    assert.equal(calls, 2);
+  });
+
+  it("does not retry permanent HTTP errors for JSON requests", async (t) => {
+    let calls = 0;
+    t.mock.method(globalThis, "fetch", async () => {
+      calls++;
+      return new Response(null, { status: 403 });
+    });
+    await assert.rejects(
+      fetchJsonWithRetry("https://store.steampowered.com/search/results/"),
+      (error: unknown) => error instanceof HttpError && error.status === 403,
+    );
+    assert.equal(calls, 1);
+  });
+});
 
 describe("HTTP response deadlines", () => {
   it("times out a body that stalls after headers, even if the mock ignores abort", async (t) => {

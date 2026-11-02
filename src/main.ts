@@ -313,6 +313,15 @@ async function run(): Promise<number> {
     console.log(
       `Detected ${report.detection.newPromotions} new promotion(s); posted ${report.posting.succeeded}.`,
     );
+    for (const error of report.errors) {
+      const attempts =
+        error.retryCount === undefined
+          ? ""
+          : ` (attempts: ${error.retryCount})`;
+      const message = `[${error.stage}/${error.code}] ${sanitizeError(error.message)}${attempts}`;
+      if (error.severity === "error") console.error(message);
+      else console.warn(message);
+    }
   }
 
   return exitCode;
