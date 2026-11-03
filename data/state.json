@@ -1216,6 +1216,14 @@
     "steam:5074450:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5074450:permanent_free:1"
+    },
+    "steam:4452480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4452480:permanent_free:1"
+    },
+    "steam:3484110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3484110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -10678,11 +10686,71 @@
       },
       "bufferPostId": "6ae94e75da2711fd26a8c368",
       "postedAt": "2026-11-03T03:01:10.433Z"
+    },
+    "steam:4452480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4452480:permanent_free:1",
+      "store": "steam",
+      "productId": "4452480",
+      "generation": 1,
+      "title": "Caldra",
+      "storeUrl": "https://store.steampowered.com/app/4452480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T06:01:07.148Z",
+      "lastSeenAt": "2026-11-03T06:01:07.148Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "構築と戦術、そして逆転劇。最高の対戦カードゲームをここに！ カードを売買してデッキを強化し、勝利を目指しましょう。相手の妨害をするか、はたまた勝負を仕掛けるか――― 『Caldra』は深い読み合いと戦略が織りなす対戦型デッキ構築カードゲームです！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T06:01:07.148Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Caldra』\n✨ いつでも無料でプレイ\n\n構築と戦術、そして逆転劇。最高の対戦カードゲームをここに！ カードを売買してデッキを強化し、勝利を目指しましょう。相手の妨害をするか、はたまた勝負を仕掛けるか――― 『Caldra』は深い読み合い…\n\nhttps://store.steampowered.com/app/4452480/",
+        "attemptedAt": "2026-11-03T06:01:09.698Z",
+        "bufferPostId": "6ae978a5ee93f2557f28c4ff",
+        "submittedAt": "2026-11-03T06:01:11.028Z",
+        "postedAt": "2026-11-03T06:01:11.028Z"
+      },
+      "bufferPostId": "6ae978a5ee93f2557f28c4ff",
+      "postedAt": "2026-11-03T06:01:11.028Z"
+    },
+    "steam:3484110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3484110:permanent_free:1",
+      "store": "steam",
+      "productId": "3484110",
+      "generation": 1,
+      "title": "Gourmet Zombie",
+      "storeUrl": "https://store.steampowered.com/app/3484110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T06:01:07.148Z",
+      "lastSeenAt": "2026-11-03T06:01:07.148Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Imprisoned in a mansion's cellar, you're the personal chef of Toufic, the Gourmet Zombie. Master real knife techniques, fight off the infected with kitchen tools and butcher the fallen in a PS1-style survival horror where you're either the chef… or the dish!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T06:01:07.148Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gourmet Zombie』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3484110/",
+        "attemptedAt": "2026-11-03T06:01:11.348Z",
+        "bufferPostId": "6ae978a7ee93f2557f28c57a",
+        "submittedAt": "2026-11-03T06:01:12.628Z",
+        "postedAt": "2026-11-03T06:01:12.628Z"
+      },
+      "bufferPostId": "6ae978a7ee93f2557f28c57a",
+      "postedAt": "2026-11-03T06:01:12.628Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T03:01:07.417Z",
+    "lastSuccessfulScanAt": "2026-11-03T06:01:07.148Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10717,6 +10785,7 @@
       "3323980": "2026-10-21T15:01:01.280Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3466220": "2026-10-29T09:01:05.116Z",
+      "3484110": "2026-11-03T06:01:07.148Z",
       "3522130": "2026-10-22T15:01:07.818Z",
       "3558100": "2026-10-23T00:01:04.971Z",
       "3571980": "2026-10-31T21:01:15.957Z",
@@ -10777,6 +10846,7 @@
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4452480": "2026-11-03T06:01:07.148Z",
       "4463860": "2026-10-30T12:01:07.408Z",
       "4475480": "2026-10-28T00:01:10.872Z",
       "4481760": "2026-10-29T09:01:05.116Z",
