@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41632120734",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-03T12:01:02.619Z",
+    "finishedAt": "2026-11-03T12:01:15.726Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41632120734"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5064010",
+      "title": "The Secret Society：アイテム探しアドベンチャー",
+      "storeUrl": "https://store.steampowered.com/app/5064010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064010/a7884dace2d16e4510242d4feb838b668670d864/header_japanese.jpg?t=1793704577",
+      "officialDescription": "叔父さんの謎の失踪事件を調査しながら隠されたアイテムを探し、知的なパズルを解いて、魅惑の世界を探索しましょう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3638270",
+      "title": "Derail Party",
+      "storeUrl": "https://store.steampowered.com/app/3638270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3638270/624e0f3eadeb4832358f53b8f2ef4d6415d96c22/header.jpg?t=1793699618",
+      "officialDescription": "止まらない機関車を操り、金塊を集めて車両を増やし、ライバルの進路をふさいで自分の列車に突っ込ませよう。1試合最大30人のリアルプレイヤー、ボットと戦うソロモード、デイリークエストとランキング。基本プレイ無料、ブラウザ版と同じアカウントで遊べます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5135810",
+      "title": "桌面旅行",
+      "storeUrl": "https://store.steampowered.com/app/5135810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135810/64310ea9920aa33e9e3fa09fcadd661732b43bb3/header.jpg?t=1793695210",
+      "officialDescription": "A desktop companion game. Open a tiny window on the screen to a distant place."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5064010:permanent_free:1",
+      "productId": "5064010",
+      "title": "The Secret Society：アイテム探しアドベンチャー",
+      "status": "sent",
+      "bufferPostId": "6ae9cd06e9a91b5943cf83f3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3638270:permanent_free:1",
+      "productId": "3638270",
+      "title": "Derail Party",
+      "status": "sent",
+      "bufferPostId": "6ae9cd08f81926b932941373"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5135810:permanent_free:1",
+      "productId": "5135810",
+      "title": "桌面旅行",
+      "status": "sent",
+      "bufferPostId": "6ae9cd0a47205d2c399840b0"
+    }
+  ],
+  "errors": []
+}

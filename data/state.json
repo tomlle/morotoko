@@ -1236,6 +1236,18 @@
     "steam:5062730:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5062730:permanent_free:1"
+    },
+    "steam:5064010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5064010:permanent_free:1"
+    },
+    "steam:3638270:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3638270:permanent_free:1"
+    },
+    "steam:5135810:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5135810:permanent_free:1"
     }
   },
   "campaigns": {
@@ -10848,11 +10860,101 @@
       },
       "bufferPostId": "6ae9a2d957005e7db75332b7",
       "postedAt": "2026-11-03T09:01:14.984Z"
+    },
+    "steam:5064010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5064010:permanent_free:1",
+      "store": "steam",
+      "productId": "5064010",
+      "generation": 1,
+      "title": "The Secret Society：アイテム探しアドベンチャー",
+      "storeUrl": "https://store.steampowered.com/app/5064010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T12:01:08.952Z",
+      "lastSeenAt": "2026-11-03T12:01:08.952Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "叔父さんの謎の失踪事件を調査しながら隠されたアイテムを探し、知的なパズルを解いて、魅惑の世界を探索しましょう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T12:01:08.952Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Secret Society：アイテム探しアドベンチャー』\n✨ いつでも無料でプレイ\n\n叔父さんの謎の失踪事件を調査しながら隠されたアイテムを探し、知的なパズルを解いて、魅惑の世界を探索しましょう！\n\nhttps://store.steampowered.com/app/5064010/",
+        "attemptedAt": "2026-11-03T12:01:10.090Z",
+        "bufferPostId": "6ae9cd06e9a91b5943cf83f3",
+        "submittedAt": "2026-11-03T12:01:11.492Z",
+        "postedAt": "2026-11-03T12:01:11.492Z"
+      },
+      "bufferPostId": "6ae9cd06e9a91b5943cf83f3",
+      "postedAt": "2026-11-03T12:01:11.492Z"
+    },
+    "steam:3638270:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3638270:permanent_free:1",
+      "store": "steam",
+      "productId": "3638270",
+      "generation": 1,
+      "title": "Derail Party",
+      "storeUrl": "https://store.steampowered.com/app/3638270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T12:01:08.952Z",
+      "lastSeenAt": "2026-11-03T12:01:08.952Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "止まらない機関車を操り、金塊を集めて車両を増やし、ライバルの進路をふさいで自分の列車に突っ込ませよう。1試合最大30人のリアルプレイヤー、ボットと戦うソロモード、デイリークエストとランキング。基本プレイ無料、ブラウザ版と同じアカウントで遊べます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T12:01:08.952Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Derail Party』\n✨ いつでも無料でプレイ\n\n止まらない機関車を操り、金塊を集めて車両を増やし、ライバルの進路をふさいで自分の列車に突っ込ませよう。1試合最大30人のリアルプレイヤー、ボットと戦うソロモード、デイリークエストとラン…\n\nhttps://store.steampowered.com/app/3638270/",
+        "attemptedAt": "2026-11-03T12:01:12.120Z",
+        "bufferPostId": "6ae9cd08f81926b932941373",
+        "submittedAt": "2026-11-03T12:01:13.619Z",
+        "postedAt": "2026-11-03T12:01:13.619Z"
+      },
+      "bufferPostId": "6ae9cd08f81926b932941373",
+      "postedAt": "2026-11-03T12:01:13.619Z"
+    },
+    "steam:5135810:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5135810:permanent_free:1",
+      "store": "steam",
+      "productId": "5135810",
+      "generation": 1,
+      "title": "桌面旅行",
+      "storeUrl": "https://store.steampowered.com/app/5135810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T12:01:08.952Z",
+      "lastSeenAt": "2026-11-03T12:01:08.952Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A desktop companion game. Open a tiny window on the screen to a distant place.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T12:01:08.952Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『桌面旅行』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5135810/",
+        "attemptedAt": "2026-11-03T12:01:14.268Z",
+        "bufferPostId": "6ae9cd0a47205d2c399840b0",
+        "submittedAt": "2026-11-03T12:01:15.714Z",
+        "postedAt": "2026-11-03T12:01:15.714Z"
+      },
+      "bufferPostId": "6ae9cd0a47205d2c399840b0",
+      "postedAt": "2026-11-03T12:01:15.714Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T09:01:07.048Z",
+    "lastSuccessfulScanAt": "2026-11-03T12:01:08.952Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10893,6 +10995,7 @@
       "3571980": "2026-10-31T21:01:15.957Z",
       "3613080": "2026-10-31T00:01:08.172Z",
       "3620040": "2026-10-19T18:01:19.647Z",
+      "3638270": "2026-11-03T12:01:08.952Z",
       "3665700": "2026-10-21T18:01:08.108Z",
       "3693930": "2026-10-21T03:01:00.123Z",
       "3701290": "2026-10-30T15:01:09.322Z",
@@ -11077,6 +11180,7 @@
       "5049940": "2026-10-23T21:00:59.012Z",
       "5057270": "2026-10-14T15:30:36.000Z",
       "5062730": "2026-11-03T09:01:07.048Z",
+      "5064010": "2026-11-03T12:01:08.952Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5083880": "2026-10-30T21:01:07.872Z",
@@ -11101,6 +11205,7 @@
       "5127780": "2026-10-22T09:00:56.350Z",
       "5129250": "2026-10-14T15:30:36.000Z",
       "5135750": "2026-10-23T15:01:04.807Z",
+      "5135810": "2026-11-03T12:01:08.952Z",
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138180": "2026-10-14T15:30:36.000Z",
       "5144300": "2026-10-14T15:30:36.000Z",
