@@ -1268,6 +1268,14 @@
     "steam:5117590:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5117590:permanent_free:1"
+    },
+    "steam:5442520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5442520:permanent_free:1"
+    },
+    "steam:4450900:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4450900:permanent_free:1"
     }
   },
   "campaigns": {
@@ -11120,11 +11128,71 @@
       },
       "bufferPostId": "6aea21744132b75c1eca59fd",
       "postedAt": "2026-11-03T18:01:26.157Z"
+    },
+    "steam:5442520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5442520:permanent_free:1",
+      "store": "steam",
+      "productId": "5442520",
+      "generation": 1,
+      "title": "Blocade",
+      "storeUrl": "https://store.steampowered.com/app/5442520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T21:01:10.649Z",
+      "lastSeenAt": "2026-11-03T21:01:10.649Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Race your pawn across the board and drop walls to cut off your rival, but never seal them in. Blocade is a free two-player strategy board game: ranked matches against real people on PC and mobile, a daily 128-player tournament, puzzles and a ladder of bots.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T21:01:10.649Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Blocade』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5442520/",
+        "attemptedAt": "2026-11-03T21:01:12.068Z",
+        "bufferPostId": "6aea4b98dd6313a10719a6d5",
+        "submittedAt": "2026-11-03T21:01:13.389Z",
+        "postedAt": "2026-11-03T21:01:13.389Z"
+      },
+      "bufferPostId": "6aea4b98dd6313a10719a6d5",
+      "postedAt": "2026-11-03T21:01:13.389Z"
+    },
+    "steam:4450900:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4450900:permanent_free:1",
+      "store": "steam",
+      "productId": "4450900",
+      "generation": 1,
+      "title": "The Things Left Behind",
+      "storeUrl": "https://store.steampowered.com/app/4450900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T21:01:10.649Z",
+      "lastSeenAt": "2026-11-03T21:01:10.649Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Soft, narrative-driven 2D indie-queer game that explores the little moments of Disabled and Queer experiences and the intersections between. Our team has woven these stories together, drawing from our lived experiences.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T21:01:10.649Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Things Left Behind』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4450900/",
+        "attemptedAt": "2026-11-03T21:01:13.661Z",
+        "bufferPostId": "6aea4b9946499f925e7bf266",
+        "submittedAt": "2026-11-03T21:01:15.994Z",
+        "postedAt": "2026-11-03T21:01:15.994Z"
+      },
+      "bufferPostId": "6aea4b9946499f925e7bf266",
+      "postedAt": "2026-11-03T21:01:15.994Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T18:01:16.982Z",
+    "lastSuccessfulScanAt": "2026-11-03T21:01:10.649Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -11222,6 +11290,7 @@
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4450900": "2026-11-03T21:01:10.649Z",
       "4452480": "2026-11-03T06:01:07.148Z",
       "4463860": "2026-10-30T12:01:07.408Z",
       "4475480": "2026-10-28T00:01:10.872Z",
@@ -11536,7 +11605,8 @@
       "5405810": "2026-10-29T12:01:05.996Z",
       "5411640": "2026-10-29T15:01:15.623Z",
       "5412430": "2026-11-01T03:01:08.471Z",
-      "5431590": "2026-10-31T21:01:15.957Z"
+      "5431590": "2026-10-31T21:01:15.957Z",
+      "5442520": "2026-11-03T21:01:10.649Z"
     }
   }
 }
