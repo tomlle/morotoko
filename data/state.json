@@ -1252,6 +1252,22 @@
     "steam:4431860:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4431860:permanent_free:1"
+    },
+    "steam:5002430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5002430:permanent_free:1"
+    },
+    "steam:5234140:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5234140:permanent_free:1"
+    },
+    "steam:5073660:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5073660:permanent_free:1"
+    },
+    "steam:5117590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5117590:permanent_free:1"
     }
   },
   "campaigns": {
@@ -10984,11 +11000,131 @@
       },
       "bufferPostId": "6ae9f73901362e3aae9e66b0",
       "postedAt": "2026-11-03T15:01:14.853Z"
+    },
+    "steam:5002430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5002430:permanent_free:1",
+      "store": "steam",
+      "productId": "5002430",
+      "generation": 1,
+      "title": "CATENA - Chapter I",
+      "storeUrl": "https://store.steampowered.com/app/5002430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T18:01:16.982Z",
+      "lastSeenAt": "2026-11-03T18:01:16.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "CATENA is a co-op action-adventure about two players chained together, sharing one body, one life pool, and one weapon. Toss the blade to swap roles and battle mirrored enemies across two realms as one.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T18:01:16.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『CATENA - Chapter I』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5002430/",
+        "attemptedAt": "2026-11-03T18:01:18.395Z",
+        "bufferPostId": "6aea216e24384d40185472f9",
+        "submittedAt": "2026-11-03T18:01:20.874Z",
+        "postedAt": "2026-11-03T18:01:20.874Z"
+      },
+      "bufferPostId": "6aea216e24384d40185472f9",
+      "postedAt": "2026-11-03T18:01:20.874Z"
+    },
+    "steam:5234140:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5234140:permanent_free:1",
+      "store": "steam",
+      "productId": "5234140",
+      "generation": 1,
+      "title": "INTERSECTION I",
+      "storeUrl": "https://store.steampowered.com/app/5234140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T18:01:16.982Z",
+      "lastSeenAt": "2026-11-03T18:01:16.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "INTERSECTION I is an interactive audiovisual work shaped by music, image, and space. Walk, listen, and remain within an ambient, cinematic landscape where Human, Machine, Memory, and Nature quietly meet and dissolve.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T18:01:16.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『INTERSECTION I』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5234140/",
+        "attemptedAt": "2026-11-03T18:01:21.421Z",
+        "bufferPostId": "6aea21711f06859f7ba38031",
+        "submittedAt": "2026-11-03T18:01:22.723Z",
+        "postedAt": "2026-11-03T18:01:22.723Z"
+      },
+      "bufferPostId": "6aea21711f06859f7ba38031",
+      "postedAt": "2026-11-03T18:01:22.723Z"
+    },
+    "steam:5073660:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5073660:permanent_free:1",
+      "store": "steam",
+      "productId": "5073660",
+      "generation": 1,
+      "title": "VampOS: Red Ledger",
+      "storeUrl": "https://store.steampowered.com/app/5073660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T18:01:16.982Z",
+      "lastSeenAt": "2026-11-03T18:01:16.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Run a vampire corporation from within a blood-red operating system. Recruit thralls, harvest victims, design blood products, manage Suspicion, and sacrifice your company for permanent power in this dark management Incremental.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T18:01:16.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『VampOS: Red Ledger』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5073660/",
+        "attemptedAt": "2026-11-03T18:01:23.212Z",
+        "bufferPostId": "6aea21731f06859f7ba380a2",
+        "submittedAt": "2026-11-03T18:01:24.533Z",
+        "postedAt": "2026-11-03T18:01:24.533Z"
+      },
+      "bufferPostId": "6aea21731f06859f7ba380a2",
+      "postedAt": "2026-11-03T18:01:24.533Z"
+    },
+    "steam:5117590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5117590:permanent_free:1",
+      "store": "steam",
+      "productId": "5117590",
+      "generation": 1,
+      "title": "Skeleton Island",
+      "storeUrl": "https://store.steampowered.com/app/5117590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T18:01:16.982Z",
+      "lastSeenAt": "2026-11-03T18:01:16.982Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "# Short Description Survive on a mysterious island, gather resources, craft weapons and explore dangerous locations while uncovering the dark secrets hidden within. Fight enemies, survive the island and prepare yourself for the final battle.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T18:01:16.982Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Skeleton Island』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5117590/",
+        "attemptedAt": "2026-11-03T18:01:24.814Z",
+        "bufferPostId": "6aea21744132b75c1eca59fd",
+        "submittedAt": "2026-11-03T18:01:26.157Z",
+        "postedAt": "2026-11-03T18:01:26.157Z"
+      },
+      "bufferPostId": "6aea21744132b75c1eca59fd",
+      "postedAt": "2026-11-03T18:01:26.157Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T15:01:11.045Z",
+    "lastSuccessfulScanAt": "2026-11-03T18:01:16.982Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -11191,6 +11327,7 @@
       "4994410": "2026-10-14T15:30:36.000Z",
       "4997370": "2026-10-28T09:01:06.160Z",
       "4997960": "2026-10-23T21:00:59.012Z",
+      "5002430": "2026-11-03T18:01:16.982Z",
       "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",
       "5006180": "2026-10-14T15:30:36.000Z",
@@ -11216,6 +11353,7 @@
       "5057270": "2026-10-14T15:30:36.000Z",
       "5062730": "2026-11-03T09:01:07.048Z",
       "5064010": "2026-11-03T12:01:08.952Z",
+      "5073660": "2026-11-03T18:01:16.982Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5083880": "2026-10-30T21:01:07.872Z",
@@ -11232,6 +11370,7 @@
       "5112180": "2026-10-27T06:01:12.023Z",
       "5114130": "2026-10-17T12:01:03.272Z",
       "5115590": "2026-10-18T06:01:03.221Z",
+      "5117590": "2026-11-03T18:01:16.982Z",
       "5118700": "2026-10-16T18:01:10.079Z",
       "5120560": "2026-10-23T03:01:08.088Z",
       "5123480": "2026-10-14T15:30:36.000Z",
@@ -11285,6 +11424,7 @@
       "5230380": "2026-10-14T15:30:36.000Z",
       "5231360": "2026-10-15T09:01:04.942Z",
       "5233990": "2026-10-16T15:01:11.993Z",
+      "5234140": "2026-11-03T18:01:16.982Z",
       "5238690": "2026-10-30T18:01:08.710Z",
       "5241530": "2026-10-14T15:30:36.000Z",
       "5242290": "2026-10-26T09:01:11.947Z",
