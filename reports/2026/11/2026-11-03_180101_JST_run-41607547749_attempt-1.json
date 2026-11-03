@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41607547749",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-03T09:01:01.478Z",
+    "finishedAt": "2026-11-03T09:01:14.995Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41607547749"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4813930",
+      "title": "MOBA Manager",
+      "storeUrl": "https://store.steampowered.com/app/4813930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813930/6dff1590e2d561836832c2caf8310990bc3e9d00/header.jpg?t=1793694382",
+      "officialDescription": "A deep MOBA esports management sim. You're the manager: scout talent, build the roster, manage finances and watch every match play out in real tower-by-tower detail. From local leagues to the World Championship, it's entirely your journey."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5301870",
+      "title": "deep rabbit hole",
+      "storeUrl": "https://store.steampowered.com/app/5301870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5301870/23ce78801f5f51535b09d0a7a7400a47d9d78a14/header.jpg?t=1793693737",
+      "officialDescription": "Face the gruesome reality hidden behind hallucinations in this short 2D pixel psychological horror game. Fight and flee from rabbit-masked entities in the woods as a protagonist struggling with their mental state. When the delusions break, what reality will be left at the end of your blade?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5062730",
+      "title": "Card Harts Reborn",
+      "storeUrl": "https://store.steampowered.com/app/5062730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062730/84325eb5c6fc22103833884e274d66747da84d73/header.jpg?t=1793686041",
+      "officialDescription": "基本プレイ無料の3D戦略カードゲーム。古代エジプトの墓所にある祭壇で、戦闘員を召喚し、魔術を唱え、ハーツを賭ける。この時代より、はるかに古いゲーム。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4813930:permanent_free:1",
+      "productId": "4813930",
+      "title": "MOBA Manager",
+      "status": "sent",
+      "bufferPostId": "6ae9a2d5993cb1e1d57b51b3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5301870:permanent_free:1",
+      "productId": "5301870",
+      "title": "deep rabbit hole",
+      "status": "sent",
+      "bufferPostId": "6ae9a2d757005e7db7533117"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5062730:permanent_free:1",
+      "productId": "5062730",
+      "title": "Card Harts Reborn",
+      "status": "sent",
+      "bufferPostId": "6ae9a2d957005e7db75332b7"
+    }
+  ],
+  "errors": []
+}

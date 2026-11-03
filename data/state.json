@@ -1224,6 +1224,18 @@
     "steam:3484110:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3484110:permanent_free:1"
+    },
+    "steam:4813930:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4813930:permanent_free:1"
+    },
+    "steam:5301870:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5301870:permanent_free:1"
+    },
+    "steam:5062730:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5062730:permanent_free:1"
     }
   },
   "campaigns": {
@@ -10746,11 +10758,101 @@
       },
       "bufferPostId": "6ae978a7ee93f2557f28c57a",
       "postedAt": "2026-11-03T06:01:12.628Z"
+    },
+    "steam:4813930:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4813930:permanent_free:1",
+      "store": "steam",
+      "productId": "4813930",
+      "generation": 1,
+      "title": "MOBA Manager",
+      "storeUrl": "https://store.steampowered.com/app/4813930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T09:01:07.048Z",
+      "lastSeenAt": "2026-11-03T09:01:07.048Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A deep MOBA esports management sim. You're the manager: scout talent, build the roster, manage finances and watch every match play out in real tower-by-tower detail. From local leagues to the World Championship, it's entirely your journey.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T09:01:07.048Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『MOBA Manager』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4813930/",
+        "attemptedAt": "2026-11-03T09:01:08.868Z",
+        "bufferPostId": "6ae9a2d5993cb1e1d57b51b3",
+        "submittedAt": "2026-11-03T09:01:10.524Z",
+        "postedAt": "2026-11-03T09:01:10.524Z"
+      },
+      "bufferPostId": "6ae9a2d5993cb1e1d57b51b3",
+      "postedAt": "2026-11-03T09:01:10.524Z"
+    },
+    "steam:5301870:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5301870:permanent_free:1",
+      "store": "steam",
+      "productId": "5301870",
+      "generation": 1,
+      "title": "deep rabbit hole",
+      "storeUrl": "https://store.steampowered.com/app/5301870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T09:01:07.048Z",
+      "lastSeenAt": "2026-11-03T09:01:07.048Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Face the gruesome reality hidden behind hallucinations in this short 2D pixel psychological horror game. Fight and flee from rabbit-masked entities in the woods as a protagonist struggling with their mental state. When the delusions break, what reality will be left at the end of your blade?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T09:01:07.048Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『deep rabbit hole』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5301870/",
+        "attemptedAt": "2026-11-03T09:01:11.071Z",
+        "bufferPostId": "6ae9a2d757005e7db7533117",
+        "submittedAt": "2026-11-03T09:01:12.990Z",
+        "postedAt": "2026-11-03T09:01:12.990Z"
+      },
+      "bufferPostId": "6ae9a2d757005e7db7533117",
+      "postedAt": "2026-11-03T09:01:12.990Z"
+    },
+    "steam:5062730:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5062730:permanent_free:1",
+      "store": "steam",
+      "productId": "5062730",
+      "generation": 1,
+      "title": "Card Harts Reborn",
+      "storeUrl": "https://store.steampowered.com/app/5062730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-03T09:01:07.048Z",
+      "lastSeenAt": "2026-11-03T09:01:07.048Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "基本プレイ無料の3D戦略カードゲーム。古代エジプトの墓所にある祭壇で、戦闘員を召喚し、魔術を唱え、ハーツを賭ける。この時代より、はるかに古いゲーム。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-03T09:01:07.048Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Card Harts Reborn』\n✨ いつでも無料でプレイ\n\n基本プレイ無料の3D戦略カードゲーム。古代エジプトの墓所にある祭壇で、戦闘員を召喚し、魔術を唱え、ハーツを賭ける。この時代より、はるかに古いゲーム。\n\nhttps://store.steampowered.com/app/5062730/",
+        "attemptedAt": "2026-11-03T09:01:13.435Z",
+        "bufferPostId": "6ae9a2d957005e7db75332b7",
+        "submittedAt": "2026-11-03T09:01:14.984Z",
+        "postedAt": "2026-11-03T09:01:14.984Z"
+      },
+      "bufferPostId": "6ae9a2d957005e7db75332b7",
+      "postedAt": "2026-11-03T09:01:14.984Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T06:01:07.148Z",
+    "lastSuccessfulScanAt": "2026-11-03T09:01:07.048Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -10903,6 +11005,7 @@
       "4801520": "2026-10-15T15:01:06.493Z",
       "4807880": "2026-10-16T09:01:06.129Z",
       "4813620": "2026-10-22T00:00:57.495Z",
+      "4813930": "2026-11-03T09:01:07.048Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4836460": "2026-10-28T15:01:16.098Z",
       "4843280": "2026-10-14T15:30:36.000Z",
@@ -10973,6 +11076,7 @@
       "5043860": "2026-10-21T00:01:08.212Z",
       "5049940": "2026-10-23T21:00:59.012Z",
       "5057270": "2026-10-14T15:30:36.000Z",
+      "5062730": "2026-11-03T09:01:07.048Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
       "5083880": "2026-10-30T21:01:07.872Z",
@@ -11091,6 +11195,7 @@
       "5299150": "2026-10-14T15:30:36.000Z",
       "5299840": "2026-10-28T06:01:11.657Z",
       "5301420": "2026-10-14T15:30:36.000Z",
+      "5301870": "2026-11-03T09:01:07.048Z",
       "5302110": "2026-10-16T12:01:06.356Z",
       "5303740": "2026-10-14T15:30:36.000Z",
       "5306270": "2026-10-14T15:30:36.000Z",
