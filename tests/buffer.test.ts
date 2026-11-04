@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import {
   BufferPublisher,
+  BufferRateLimitError,
   buildEndingReminderPostText,
   buildPaidTransitionPostText,
   buildPostText,
@@ -30,6 +31,74 @@ const campaign: CampaignState = {
 };
 
 describe("Buffer publisher", () => {
+  it("retries a rejected mutation after Retry-After even with a non-JSON body", async () => {
+    let calls = 0;
+    const delays: number[] = [];
+    const publisher = new BufferPublisher(
+      { apiKey: "secret", channelId: "channel" },
+      async () => {
+        calls++;
+        return calls === 1
+          ? new Response("rate limited", {
+              status: 429,
+              headers: { "Retry-After": "2" },
+            })
+          : Response.json({
+              data: {
+                createPost: {
+                  __typename: "PostActionSuccess",
+                  post: { id: "one", status: "sent" },
+                },
+              },
+            });
+      },
+      async (ms) => {
+        delays.push(ms);
+      },
+    );
+    assert.equal((await publisher.publishText("test")).id, "one");
+    assert.deepEqual(delays, [2000]);
+    assert.equal(calls, 2);
+  });
+
+  it("preserves long rate limits and stops further requests", async () => {
+    let calls = 0;
+    const publisher = new BufferPublisher(
+      { apiKey: "secret", channelId: "channel" },
+      async () => {
+        calls++;
+        return new Response("limited", {
+          status: 429,
+          headers: { "Retry-After": "753" },
+        });
+      },
+      async () => {
+        assert.fail("Must not wait beyond the job budget");
+      },
+    );
+    await assert.rejects(publisher.publishText("test"), BufferRateLimitError);
+    await assert.rejects(
+      publisher.findPost({ text: "test", notBeforeAt: "2026-01-01" }),
+      BufferRateLimitError,
+    );
+    assert.equal(calls, 1);
+  });
+
+  it("never retries an ambiguous mutation failure", async () => {
+    for (const status of [500, 401]) {
+      let calls = 0;
+      const publisher = new BufferPublisher(
+        { apiKey: "secret", channelId: "channel" },
+        async () => {
+          calls++;
+          return Response.json({}, { status });
+        },
+      );
+      await assert.rejects(publisher.publishText("test"));
+      assert.equal(calls, 1);
+    }
+  });
+
   it("builds an upcoming-paid post without hashtags", () => {
     const text = buildPaidTransitionPostText({
       productId: "2236920",
