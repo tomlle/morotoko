@@ -1,4 +1,5 @@
 import type { BufferPublisher, RecentBufferPost } from "./publishers/buffer.js";
+import { BufferRateLimitError } from "./publishers/buffer.js";
 import type { CampaignState, DeliveryState } from "./types.js";
 
 export function campaignDelivery(campaign: CampaignState): DeliveryState {
@@ -77,7 +78,14 @@ export async function deliverPost(
       record.status = "uncertain";
       record.attemptedAt = new Date().toISOString();
       await persist();
-      recordPost(record, await publisher.publishText(record.postText));
+      let post;
+      try {
+        post = await publisher.publishText(record.postText);
+      } catch (error) {
+        if (error instanceof BufferRateLimitError) record.status = "pending";
+        throw error;
+      }
+      recordPost(record, post);
     }
     delete record.lastError;
     return record.status;

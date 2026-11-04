@@ -7,6 +7,7 @@ import {
 } from "../src/delivery.js";
 import type { CampaignState, DeliveryState } from "../src/types.js";
 import type { RecentBufferPost } from "../src/publishers/buffer.js";
+import { BufferRateLimitError } from "../src/publishers/buffer.js";
 
 const fresh = (): DeliveryState => ({
   status: "pending",
@@ -15,6 +16,26 @@ const fresh = (): DeliveryState => ({
 const text = "無料配布🎁\nhttps://store.steampowered.com/app/100/";
 
 describe("durable Buffer delivery", () => {
+  it("allows a later delivery after an explicitly rate-limited creation", async () => {
+    const record = fresh();
+    let creates = 0;
+    const publisher = {
+      findPost: async () => undefined,
+      publishText: async () => {
+        if (++creates === 1) throw new BufferRateLimitError(Date.now() + 1000);
+        return { id: "accepted", status: "sent" };
+      },
+    };
+    await assert.rejects(
+      deliverPost(publisher, record, text, async () => {}),
+      BufferRateLimitError,
+    );
+    assert.equal(record.status, "pending");
+    await deliverPost(publisher, record, text, async () => {});
+    assert.equal(record.status, "sent");
+    assert.equal(creates, 2);
+  });
+
   it("persists uncertainty before creation and keeps an accepted post unsent", async () => {
     const record = fresh();
     const snapshots: DeliveryState[] = [];
