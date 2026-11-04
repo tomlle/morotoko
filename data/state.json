@@ -1280,6 +1280,18 @@
     "steam:4607460:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4607460:permanent_free:1"
+    },
+    "steam:5416440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5416440:permanent_free:1"
+    },
+    "steam:5328020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5328020:permanent_free:1"
+    },
+    "steam:5402790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5402790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -11205,11 +11217,11 @@
       "currency": "JPY",
       "discountPercent": 0,
       "firstSeenAt": "2026-11-04T00:01:23.910Z",
-      "lastSeenAt": "2026-11-04T00:01:23.910Z",
+      "lastSeenAt": "2026-11-04T03:01:08.084Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "pending",
-      "postAttempts": 1,
+      "postAttempts": 2,
       "officialDescription": "Gauchesca is a story-driven Truco game inspired by Argentine mythology. Play as Martina Chapanay, bluff and strategize against supernatural opponents in a deadly tournament where each match risks your soul.",
       "delivery": {
         "status": "pending",
@@ -11218,11 +11230,89 @@
         "lastError": "Buffer API request failed (HTTP 429)"
       },
       "lastPostError": "Buffer API request failed (HTTP 429)"
+    },
+    "steam:5416440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5416440:permanent_free:1",
+      "store": "steam",
+      "productId": "5416440",
+      "generation": 1,
+      "title": "The Last Debugger",
+      "storeUrl": "https://store.steampowered.com/app/5416440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "pending",
+      "postAttempts": 1,
+      "officialDescription": "The Last Debugger is a turn-based roguelite deckbuilder where you collect equipment cards, combine powerful set effects, and plan around card speed and enemy intentions as four distinct characters fight through a broken game world.",
+      "delivery": {
+        "status": "pending",
+        "firstSeenAt": "2026-11-04T03:01:08.084Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Last Debugger』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5416440/",
+        "lastError": "Buffer API request failed (HTTP 429)"
+      },
+      "lastPostError": "Buffer API request failed (HTTP 429)"
+    },
+    "steam:5328020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5328020:permanent_free:1",
+      "store": "steam",
+      "productId": "5328020",
+      "generation": 1,
+      "title": "Memórias de Arassay",
+      "storeUrl": "https://store.steampowered.com/app/5328020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "pending",
+      "postAttempts": 1,
+      "officialDescription": "Memórias de Arassay is a pixel art game based on legends from Guarapuava, Brazil. Journey through 2D platforming stages inspired by the Lagoa das Lágrimas, the Capela do Degolado and the serpent beneath the Cathedral, in a retro style that brings players closer to local memory.",
+      "delivery": {
+        "status": "pending",
+        "firstSeenAt": "2026-11-04T03:01:08.084Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Memórias de Arassay』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5328020/",
+        "lastError": "Buffer API request failed (HTTP 429)"
+      },
+      "lastPostError": "Buffer API request failed (HTTP 429)"
+    },
+    "steam:5402790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5402790:permanent_free:1",
+      "store": "steam",
+      "productId": "5402790",
+      "generation": 1,
+      "title": "Austin lost in maze",
+      "storeUrl": "https://store.steampowered.com/app/5402790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "pending",
+      "postAttempts": 1,
+      "officialDescription": "Guide Austin through a twisting maze, solve puzzles, uncover hidden clues, and find a way out before the corridors swallow him whole.",
+      "delivery": {
+        "status": "pending",
+        "firstSeenAt": "2026-11-04T03:01:08.084Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Austin lost in maze』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5402790/",
+        "lastError": "Buffer API request failed (HTTP 429)"
+      },
+      "lastPostError": "Buffer API request failed (HTTP 429)"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-04T00:01:23.910Z",
+    "lastSuccessfulScanAt": "2026-11-04T03:01:08.084Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -11590,6 +11680,7 @@
       "5322620": "2026-10-28T06:01:11.657Z",
       "5324320": "2026-10-26T00:01:03.264Z",
       "5326340": "2026-10-31T15:01:00.614Z",
+      "5328020": "2026-11-04T03:01:08.084Z",
       "5328820": "2026-10-16T18:01:10.079Z",
       "5329550": "2026-10-23T06:01:01.508Z",
       "5331600": "2026-10-30T00:01:16.479Z",
@@ -11633,9 +11724,11 @@
       "5394530": "2026-10-23T09:01:01.018Z",
       "5397330": "2026-10-28T15:01:16.098Z",
       "5402200": "2026-10-30T15:01:09.322Z",
+      "5402790": "2026-11-04T03:01:08.084Z",
       "5405810": "2026-10-29T12:01:05.996Z",
       "5411640": "2026-10-29T15:01:15.623Z",
       "5412430": "2026-11-01T03:01:08.471Z",
+      "5416440": "2026-11-04T03:01:08.084Z",
       "5431590": "2026-10-31T21:01:15.957Z",
       "5442520": "2026-11-03T21:01:10.649Z"
     }
