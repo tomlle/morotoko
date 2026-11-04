@@ -1292,6 +1292,10 @@
     "steam:5402790:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5402790:permanent_free:1"
+    },
+    "steam:3339970:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3339970:permanent_free:1"
     }
   },
   "campaigns": {
@@ -11217,19 +11221,19 @@
       "currency": "JPY",
       "discountPercent": 0,
       "firstSeenAt": "2026-11-04T00:01:23.910Z",
-      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T06:01:02.326Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "pending",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "Gauchesca is a story-driven Truco game inspired by Argentine mythology. Play as Martina Chapanay, bluff and strategize against supernatural opponents in a deadly tournament where each match risks your soul.",
       "delivery": {
         "status": "pending",
         "firstSeenAt": "2026-11-04T00:01:23.910Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Gauchesca』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4607460/",
-        "lastError": "Buffer API request failed (HTTP 429)"
+        "lastError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
       },
-      "lastPostError": "Buffer API request failed (HTTP 429)"
+      "lastPostError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
     },
     "steam:5416440:permanent_free:1": {
       "kind": "permanent_free",
@@ -11243,19 +11247,19 @@
       "currency": "JPY",
       "discountPercent": 0,
       "firstSeenAt": "2026-11-04T03:01:08.084Z",
-      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T06:01:02.326Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "pending",
-      "postAttempts": 1,
+      "postAttempts": 2,
       "officialDescription": "The Last Debugger is a turn-based roguelite deckbuilder where you collect equipment cards, combine powerful set effects, and plan around card speed and enemy intentions as four distinct characters fight through a broken game world.",
       "delivery": {
         "status": "pending",
         "firstSeenAt": "2026-11-04T03:01:08.084Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『The Last Debugger』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5416440/",
-        "lastError": "Buffer API request failed (HTTP 429)"
+        "lastError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
       },
-      "lastPostError": "Buffer API request failed (HTTP 429)"
+      "lastPostError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
     },
     "steam:5328020:permanent_free:1": {
       "kind": "permanent_free",
@@ -11269,19 +11273,19 @@
       "currency": "JPY",
       "discountPercent": 0,
       "firstSeenAt": "2026-11-04T03:01:08.084Z",
-      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T06:01:02.326Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "pending",
-      "postAttempts": 1,
+      "postAttempts": 2,
       "officialDescription": "Memórias de Arassay is a pixel art game based on legends from Guarapuava, Brazil. Journey through 2D platforming stages inspired by the Lagoa das Lágrimas, the Capela do Degolado and the serpent beneath the Cathedral, in a retro style that brings players closer to local memory.",
       "delivery": {
         "status": "pending",
         "firstSeenAt": "2026-11-04T03:01:08.084Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Memórias de Arassay』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5328020/",
-        "lastError": "Buffer API request failed (HTTP 429)"
+        "lastError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
       },
-      "lastPostError": "Buffer API request failed (HTTP 429)"
+      "lastPostError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
     },
     "steam:5402790:permanent_free:1": {
       "kind": "permanent_free",
@@ -11295,24 +11299,50 @@
       "currency": "JPY",
       "discountPercent": 0,
       "firstSeenAt": "2026-11-04T03:01:08.084Z",
-      "lastSeenAt": "2026-11-04T03:01:08.084Z",
+      "lastSeenAt": "2026-11-04T06:01:02.326Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "pending",
-      "postAttempts": 1,
+      "postAttempts": 2,
       "officialDescription": "Guide Austin through a twisting maze, solve puzzles, uncover hidden clues, and find a way out before the corridors swallow him whole.",
       "delivery": {
         "status": "pending",
         "firstSeenAt": "2026-11-04T03:01:08.084Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Austin lost in maze』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5402790/",
-        "lastError": "Buffer API request failed (HTTP 429)"
+        "lastError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
       },
-      "lastPostError": "Buffer API request failed (HTTP 429)"
+      "lastPostError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    },
+    "steam:3339970:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3339970:permanent_free:1",
+      "store": "steam",
+      "productId": "3339970",
+      "generation": 1,
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "storeUrl": "https://store.steampowered.com/app/3339970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-04T06:01:02.326Z",
+      "lastSeenAt": "2026-11-04T06:01:02.326Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "pending",
+      "postAttempts": 1,
+      "officialDescription": "Welcome to WendyQuest - a well-done 2D adventure RPG from Wendy’s packed with crispy combat, handcrafted pixel art, and fresh, never frozen puzzles. Play as redheaded warrior Wendy & battle evil mech-monsters to save a culinary kingdom in peril.",
+      "delivery": {
+        "status": "pending",
+        "firstSeenAt": "2026-11-04T06:01:02.326Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『WendyQuest: Legend of the Four Corner Stones』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3339970/",
+        "lastError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+      },
+      "lastPostError": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-04T03:01:08.084Z",
+    "lastSuccessfulScanAt": "2026-11-04T06:01:02.326Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -11345,6 +11375,7 @@
       "3138080": "2026-10-25T09:01:01.104Z",
       "3199110": "2026-10-30T21:01:07.872Z",
       "3323980": "2026-10-21T15:01:01.280Z",
+      "3339970": "2026-11-04T06:01:02.326Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3466220": "2026-10-29T09:01:05.116Z",
       "3484110": "2026-11-03T06:01:07.148Z",

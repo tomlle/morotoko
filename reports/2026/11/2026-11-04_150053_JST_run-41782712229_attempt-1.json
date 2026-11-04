@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41782712229",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-04T06:00:53.614Z",
+    "finishedAt": "2026-11-04T06:01:02.585Z",
+    "timezone": "Asia/Tokyo",
+    "status": "partial_failure",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41782712229"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 1,
+    "knownPromotions": 4,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 0,
+    "failed": 5,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3339970",
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "storeUrl": "https://store.steampowered.com/app/3339970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339970/45188b5febd7dd0c8fc16a35c8f2a7d8ea0a87c1/header.jpg?t=1793766979",
+      "officialDescription": "Welcome to WendyQuest - a well-done 2D adventure RPG from Wendy’s packed with crispy combat, handcrafted pixel art, and fresh, never frozen puzzles. Play as redheaded warrior Wendy & battle evil mech-monsters to save a culinary kingdom in peril."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5416440",
+      "title": "The Last Debugger",
+      "storeUrl": "https://store.steampowered.com/app/5416440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5416440/049509443566efa148f030fe46df92192d7a6330/header.jpg?t=1793770327",
+      "officialDescription": "The Last Debugger is a turn-based roguelite deckbuilder where you collect equipment cards, combine powerful set effects, and plan around card speed and enemy intentions as four distinct characters fight through a broken game world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5328020",
+      "title": "Memórias de Arassay",
+      "storeUrl": "https://store.steampowered.com/app/5328020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328020/3f4218052c9b97b5c8e45c96418fb9269647074b/header.jpg?t=1793754586",
+      "officialDescription": "Memórias de Arassay is a pixel art game based on legends from Guarapuava, Brazil. Journey through 2D platforming stages inspired by the Lagoa das Lágrimas, the Capela do Degolado and the serpent beneath the Cathedral, in a retro style that brings players closer to local memory."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5402790",
+      "title": "Austin lost in maze",
+      "storeUrl": "https://store.steampowered.com/app/5402790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402790/a64ef9fc0425379ef6321dd724902be8ad09f3a0/header.jpg?t=1793754302",
+      "officialDescription": "Guide Austin through a twisting maze, solve puzzles, uncover hidden clues, and find a way out before the corridors swallow him whole."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4607460",
+      "title": "Gauchesca",
+      "storeUrl": "https://store.steampowered.com/app/4607460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607460/f25b0cf317b94e198d5ebc10be808503dd91b794/header.jpg?t=1793744338",
+      "officialDescription": "Gauchesca is a story-driven Truco game inspired by Argentine mythology. Play as Martina Chapanay, bluff and strategize against supernatural opponents in a deadly tournament where each match risks your soul."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4607460:permanent_free:1",
+      "productId": "4607460",
+      "title": "Gauchesca",
+      "status": "failed",
+      "reason": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5416440:permanent_free:1",
+      "productId": "5416440",
+      "title": "The Last Debugger",
+      "status": "failed",
+      "reason": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5328020:permanent_free:1",
+      "productId": "5328020",
+      "title": "Memórias de Arassay",
+      "status": "failed",
+      "reason": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5402790:permanent_free:1",
+      "productId": "5402790",
+      "title": "Austin lost in maze",
+      "status": "failed",
+      "reason": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3339970:permanent_free:1",
+      "productId": "3339970",
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "status": "failed",
+      "reason": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z"
+    }
+  ],
+  "errors": [
+    {
+      "stage": "buffer_post",
+      "severity": "error",
+      "code": "BUFFER_POST_FAILED",
+      "message": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z",
+      "productId": "4607460",
+      "retryCount": 3
+    },
+    {
+      "stage": "buffer_post",
+      "severity": "error",
+      "code": "BUFFER_POST_FAILED",
+      "message": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z",
+      "productId": "5416440",
+      "retryCount": 2
+    },
+    {
+      "stage": "buffer_post",
+      "severity": "error",
+      "code": "BUFFER_POST_FAILED",
+      "message": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z",
+      "productId": "5328020",
+      "retryCount": 2
+    },
+    {
+      "stage": "buffer_post",
+      "severity": "error",
+      "code": "BUFFER_POST_FAILED",
+      "message": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z",
+      "productId": "5402790",
+      "retryCount": 2
+    },
+    {
+      "stage": "buffer_post",
+      "severity": "error",
+      "code": "BUFFER_POST_FAILED",
+      "message": "Buffer API request failed (HTTP 429); retry after 2026-11-05T13:09:47.565Z",
+      "productId": "3339970",
+      "retryCount": 1
+    }
+  ]
+}
