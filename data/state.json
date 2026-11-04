@@ -1276,6 +1276,10 @@
     "steam:4450900:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4450900:permanent_free:1"
+    },
+    "steam:4607460:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4607460:permanent_free:1"
     }
   },
   "campaigns": {
@@ -11188,11 +11192,37 @@
       },
       "bufferPostId": "6aea4b9946499f925e7bf266",
       "postedAt": "2026-11-03T21:01:15.994Z"
+    },
+    "steam:4607460:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4607460:permanent_free:1",
+      "store": "steam",
+      "productId": "4607460",
+      "generation": 1,
+      "title": "Gauchesca",
+      "storeUrl": "https://store.steampowered.com/app/4607460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-04T00:01:23.910Z",
+      "lastSeenAt": "2026-11-04T00:01:23.910Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "pending",
+      "postAttempts": 1,
+      "officialDescription": "Gauchesca is a story-driven Truco game inspired by Argentine mythology. Play as Martina Chapanay, bluff and strategize against supernatural opponents in a deadly tournament where each match risks your soul.",
+      "delivery": {
+        "status": "pending",
+        "firstSeenAt": "2026-11-04T00:01:23.910Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gauchesca』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4607460/",
+        "lastError": "Buffer API request failed (HTTP 429)"
+      },
+      "lastPostError": "Buffer API request failed (HTTP 429)"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-03T21:01:10.649Z",
+    "lastSuccessfulScanAt": "2026-11-04T00:01:23.910Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -11309,6 +11339,7 @@
       "4574330": "2026-10-30T15:01:09.322Z",
       "4594300": "2026-10-27T09:01:03.509Z",
       "4597820": "2026-10-27T00:01:18.126Z",
+      "4607460": "2026-11-04T00:01:23.910Z",
       "4607590": "2026-10-28T15:01:16.098Z",
       "4610720": "2026-10-31T18:01:01.493Z",
       "4611710": "2026-10-14T15:30:36.000Z",
