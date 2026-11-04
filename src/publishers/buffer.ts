@@ -330,6 +330,9 @@ export function buildPaidTransitionPostText(
 
 export class BufferPublisher {
   private retryAt = 0;
+  private organizationId: Promise<string> | undefined;
+  private recentPosts: Promise<RecentBufferPost[]> | undefined;
+  private readonly createdPosts = new Map<string, RecentBufferPost>();
 
   constructor(
     private readonly credentials: BufferCredentials,
@@ -347,6 +350,24 @@ export class BufferPublisher {
     text: string;
     notBeforeAt: string;
   }): Promise<RecentBufferPost | undefined> {
+    // Share the same snapshot (and in-flight request) across this batch.
+    this.recentPosts ??= this.loadRecentPosts().catch((error: unknown) => {
+      this.recentPosts = undefined;
+      throw error;
+    });
+    const posts = await this.recentPosts;
+    return [...this.createdPosts.values(), ...posts].find((post) => {
+      if (input.id) return post.id === input.id;
+      const createdAt = Date.parse(post.createdAt ?? "");
+      return (
+        post.text === input.text &&
+        Number.isFinite(createdAt) &&
+        createdAt >= Date.parse(input.notBeforeAt)
+      );
+    });
+  }
+
+  private async loadOrganizationId(): Promise<string> {
     const channelData = await this.request<{
       channel?: { organizationId?: string };
     }>(
@@ -361,6 +382,17 @@ export class BufferPublisher {
     if (!organizationId) {
       throw new Error("Buffer channel did not include an organization ID");
     }
+    return organizationId;
+  }
+
+  private async loadRecentPosts(): Promise<RecentBufferPost[]> {
+    this.organizationId ??= this.loadOrganizationId().catch(
+      (error: unknown) => {
+        this.organizationId = undefined;
+        throw error;
+      },
+    );
+    const organizationId = await this.organizationId;
 
     const postsData = await this.request<{
       posts?: {
@@ -389,30 +421,25 @@ export class BufferPublisher {
       { organizationId, channelId: this.credentials.channelId },
     );
 
-    return postsData.posts?.edges
-      ?.map((edge) => edge.node)
-      .find((post) => {
-        if (!post || post.channelId !== this.credentials.channelId)
-          return false;
-        if (input.id) return post.id === input.id;
-        const createdAt = Date.parse(post.createdAt ?? "");
-        return (
-          post.text === input.text &&
-          Number.isFinite(createdAt) &&
-          createdAt >= Date.parse(input.notBeforeAt)
-        );
-      });
+    return (postsData.posts?.edges ?? [])
+      .map((edge) => edge.node)
+      .filter(
+        (post): post is RecentBufferPost & { channelId?: string } =>
+          !!post && post.channelId === this.credentials.channelId,
+      );
   }
 
   async publishText(text: string): Promise<{ id: string; status: string }> {
-    const data = await this.request<{
-      createPost?: {
-        __typename: string;
-        post?: { id: string; status: string };
-        message?: string;
-      };
-    }>(
-      `
+    const createdAt = new Date().toISOString();
+    try {
+      const data = await this.request<{
+        createPost?: {
+          __typename: string;
+          post?: { id: string; status: string };
+          message?: string;
+        };
+      }>(
+        `
         mutation CreatePost($input: CreatePostInput!) {
           createPost(input: $input) {
             __typename
@@ -423,23 +450,35 @@ export class BufferPublisher {
           }
         }
       `,
-      {
-        input: {
-          text,
-          channelId: this.credentials.channelId,
-          schedulingType: "automatic",
-          mode: "shareNow",
+        {
+          input: {
+            text,
+            channelId: this.credentials.channelId,
+            schedulingType: "automatic",
+            mode: "shareNow",
+          },
         },
-      },
-    );
-
-    const result = data.createPost;
-    if (result?.__typename !== "PostActionSuccess" || !result.post) {
-      throw new Error(
-        `Buffer rejected the post: ${result?.message ?? result?.__typename ?? "unknown error"}`,
       );
+
+      const result = data.createPost;
+      if (result?.__typename !== "PostActionSuccess" || !result.post) {
+        throw new Error(
+          `Buffer rejected the post: ${result?.message ?? result?.__typename ?? "unknown error"}`,
+        );
+      }
+      this.createdPosts.set(result.post.id, {
+        ...result.post,
+        text,
+        createdAt,
+      });
+      return { id: result.post.id, status: result.post.status };
+    } catch (error) {
+      // A timeout may have created a post. Recovery must consult the server
+      // again rather than treating an earlier empty snapshot as authoritative.
+      if (!(error instanceof BufferRateLimitError))
+        this.recentPosts = undefined;
+      throw error;
     }
-    return { id: result.post.id, status: result.post.status };
   }
 
   private async request<T>(
