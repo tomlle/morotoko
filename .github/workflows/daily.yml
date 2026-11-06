@@ -3,6 +3,11 @@ name: 無料ゲームレーダー
 on:
   workflow_dispatch:
     inputs:
+      inspect_buffer:
+        description: "Read Buffer delivery errors without posting or changing state"
+        required: false
+        type: boolean
+        default: false
       verify_buffer:
         description: "Send one visible Buffer-to-X connection test post"
         required: false
@@ -48,13 +53,21 @@ jobs:
         run: npm run check
 
       - name: Send Buffer-to-X connection test
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.verify_buffer }}
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.verify_buffer && !inputs.inspect_buffer }}
         run: npm run verify:buffer
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
 
+      - name: Inspect Buffer delivery errors (read only)
+        if: ${{ inputs.inspect_buffer }}
+        run: npx tsx src/inspect-buffer.ts
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
+
       - name: 無料ゲームと無料キャンペーンを検出・投稿
+        if: ${{ !inputs.inspect_buffer }}
         id: free_to_keep
         continue-on-error: true
         run: npm start
@@ -68,6 +81,7 @@ jobs:
           PERSISTENT_REPORT_ROOT: reports
 
       - name: Detect and publish upcoming paid games
+        if: ${{ !inputs.inspect_buffer }}
         id: paid_transitions
         continue-on-error: true
         run: npm run start:paid-transitions
@@ -80,7 +94,7 @@ jobs:
           PERSISTENT_REPORT_ROOT: reports/paid-transitions
 
       - name: Upload run reports
-        if: always()
+        if: ${{ always() && !inputs.inspect_buffer }}
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: radar-reports-${{ github.run_id }}-${{ github.run_attempt }}
@@ -90,7 +104,7 @@ jobs:
           retention-days: 30
 
       - name: Commit state and append-only reports
-        if: always()
+        if: ${{ always() && !inputs.inspect_buffer }}
         shell: bash
         run: |
           git config user.name "free-to-keep-game-radar[bot]"

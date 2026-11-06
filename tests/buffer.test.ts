@@ -31,6 +31,59 @@ const campaign: CampaignState = {
 };
 
 describe("Buffer publisher", () => {
+  it("inspects channel health and delivery errors using queries only", async () => {
+    const responses = [
+      {
+        data: {
+          channel: {
+            isDisconnected: false,
+            isLocked: false,
+            isQueuePaused: false,
+          },
+        },
+      },
+      { data: { channel: { organizationId: "organization" } } },
+      {
+        data: {
+          posts: {
+            edges: [
+              {
+                node: {
+                  id: "failed",
+                  status: "error",
+                  text: "private post text",
+                  channelId: "channel",
+                  error: {
+                    message: "Please reauthorize your channel connection.",
+                  },
+                },
+              },
+            ],
+          },
+        },
+      },
+    ];
+    const publisher = new BufferPublisher(
+      { apiKey: "secret", channelId: "channel" },
+      async (_url, init) => {
+        const { query } = JSON.parse(String(init?.body)) as { query: string };
+        assert.match(query.trim(), /^query/u);
+        return Response.json(responses.shift());
+      },
+    );
+    assert.deepEqual(await publisher.inspectDelivery(), {
+      channel: { isDisconnected: false, isLocked: false, isQueuePaused: false },
+      posts: [
+        {
+          id: "failed",
+          status: "error",
+          error: { message: "Please reauthorize your channel connection." },
+        },
+      ],
+    });
+    assert.equal(responses.length, 0);
+  });
+
   it("retries a rejected mutation after Retry-After even with a non-JSON body", async () => {
     let calls = 0;
     const delays: number[] = [];
