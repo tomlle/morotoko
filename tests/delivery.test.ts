@@ -155,7 +155,12 @@ describe("durable Buffer delivery", () => {
     await assert.rejects(
       deliverPost(
         {
-          findPost: async () => ({ id: "accepted", status: "error", text }),
+          findPost: async () => ({
+            id: "accepted",
+            status: "error",
+            text,
+            error: { message: "Daily posting limit reached" },
+          }),
           publishText: async () => {
             throw new Error("Must not create");
           },
@@ -164,10 +169,11 @@ describe("durable Buffer delivery", () => {
         text,
         async () => {},
       ),
-      /failed/u,
+      /failed \(error\): Daily posting limit reached/u,
     );
     assert.equal(record.status, "failed");
     assert.equal(record.postedAt, undefined);
+    assert.match(record.lastError!, /Daily posting limit reached/u);
   });
 
   it("does not resend a saved post ID missing from recent history", async () => {
