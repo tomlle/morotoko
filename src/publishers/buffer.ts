@@ -42,6 +42,7 @@ export interface RecentBufferPost {
   text: string;
   createdAt?: string;
   sentAt?: string;
+  error?: { message: string; supportUrl?: string } | null | undefined;
 }
 
 function plainTextWeight(value: string): number {
@@ -345,6 +346,26 @@ export class BufferPublisher {
     return this.publishText(buildPostText(campaign));
   }
 
+  async inspectDelivery() {
+    const channel = await this.request<{
+      channel: {
+        isDisconnected: boolean;
+        isLocked: boolean;
+        isQueuePaused: boolean;
+      };
+    }>(
+      `query ChannelHealth($channelId: ChannelId!) {
+        channel(input: { id: $channelId }) { isDisconnected isLocked isQueuePaused }
+      }`,
+      { channelId: this.credentials.channelId },
+    );
+    const posts = await this.loadRecentPosts();
+    return {
+      channel: channel.channel,
+      posts: posts.map(({ id, status, error }) => ({ id, status, error })),
+    };
+  }
+
   async findPost(input: {
     id?: string;
     text: string;
@@ -414,7 +435,7 @@ export class BufferPublisher {
               filter: { channelIds: [$channelId] }
             }
           ) {
-            edges { node { id status text createdAt sentAt channelId } }
+            edges { node { id status text createdAt sentAt channelId error { message supportUrl } } }
           }
         }
       `,
@@ -429,13 +450,21 @@ export class BufferPublisher {
       );
   }
 
-  async publishText(text: string): Promise<{ id: string; status: string }> {
+  async publishText(text: string): Promise<{
+    id: string;
+    status: string;
+    error?: RecentBufferPost["error"];
+  }> {
     const createdAt = new Date().toISOString();
     try {
       const data = await this.request<{
         createPost?: {
           __typename: string;
-          post?: { id: string; status: string };
+          post?: {
+            id: string;
+            status: string;
+            error?: RecentBufferPost["error"];
+          };
           message?: string;
         };
       }>(
@@ -444,7 +473,7 @@ export class BufferPublisher {
           createPost(input: $input) {
             __typename
             ... on PostActionSuccess {
-              post { id status }
+              post { id status error { message supportUrl } }
             }
             ... on MutationError { message }
           }
@@ -471,7 +500,7 @@ export class BufferPublisher {
         text,
         createdAt,
       });
-      return { id: result.post.id, status: result.post.status };
+      return result.post;
     } catch (error) {
       // A timeout may have created a post. Recovery must consult the server
       // again rather than treating an earlier empty snapshot as authoritative.

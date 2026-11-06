@@ -30,7 +30,12 @@ export function syncCampaignDelivery(campaign: CampaignState): void {
 
 function recordPost(
   record: DeliveryState,
-  post: { id: string; status: string; sentAt?: string },
+  post: {
+    id: string;
+    status: string;
+    sentAt?: string;
+    error?: RecentBufferPost["error"];
+  },
 ): void {
   record.bufferPostId = post.id;
   record.submittedAt ??= new Date().toISOString();
@@ -40,7 +45,7 @@ function recordPost(
   } else if (["failed", "error", "notSent"].includes(post.status)) {
     record.status = "failed";
     throw new Error(
-      `Buffer post ${post.id} failed (${post.status}); automatic duplicate submission is disabled`,
+      `Buffer post ${post.id} failed (${post.status})${post.error?.message ? `: ${post.error.message}` : ""}; automatic duplicate submission is disabled`,
     );
   } else record.status = "submitted";
 }
