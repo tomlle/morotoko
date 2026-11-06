@@ -436,7 +436,7 @@ export class BufferPublisher {
     return this.publishText(buildPostText(campaign));
   }
 
-  async inspectDelivery() {
+  async inspectDelivery(encryptError?: (raw: string) => string) {
     const channel = await this.request<{
       channel: {
         isDisconnected: boolean;
@@ -464,6 +464,9 @@ export class BufferPublisher {
               upstream: summarizePublishingError(error.rawError),
             }
           : error,
+        ...(error?.rawError && encryptError
+          ? { encryptedUpstream: encryptError(error.rawError) }
+          : {}),
       })),
     };
   }
