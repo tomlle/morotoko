@@ -52,6 +52,35 @@ export interface RecentBufferPost {
 // Emit only numeric error codes and a fixed vocabulary of diagnostic signals.
 export function summarizePublishingError(raw: string | null | undefined) {
   if (!raw) return undefined;
+  const details: Record<string, string | number> = {};
+  function collect(value: unknown, path = "", depth = 0): void {
+    if (depth > 5 || !value || typeof value !== "object") return;
+    for (const [key, child] of Object.entries(value)) {
+      if (/token|secret|cookie|header|request|password|credential/iu.test(key))
+        continue;
+      const childPath = path ? `${path}.${key}` : key;
+      if (
+        /^(?:message|detail|reason|title|name|type|code|status|status_code|statusCode|error_code|error_description|error_message)$/u.test(
+          key,
+        ) &&
+        (typeof child === "string" || typeof child === "number")
+      ) {
+        details[childPath] =
+          typeof child === "string"
+            ? child
+                .replace(/https?:\/\/\S+/giu, "[URL]")
+                .replace(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/giu, "[EMAIL]")
+                .replace(/[A-Za-z0-9_~+\/-]{32,}/gu, "[REDACTED]")
+                .slice(0, 300)
+            : child;
+      } else collect(child, childPath, depth + 1);
+    }
+  }
+  try {
+    collect(JSON.parse(raw));
+  } catch {
+    /* Not a structured service error. */
+  }
   const codes = [
     ...raw.matchAll(
       /(?:["']?(?:code|status|statusCode)["']?\s*[:=]\s*["']?|HTTP\s+)(\d{2,4})/giu,
@@ -102,6 +131,7 @@ export function summarizePublishingError(raw: string | null | undefined) {
     present: true,
     length: raw.length,
     json: /^[\[{]/u.test(raw.trim()),
+    details,
   };
 }
 
