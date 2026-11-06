@@ -445,7 +445,7 @@ export class BufferPublisher {
       };
     }>(
       `query ChannelHealth($channelId: ChannelId!) {
-        channel(input: { id: $channelId }) { isDisconnected isLocked isQueuePaused }
+          channel(input: { id: $channelId }) { isDisconnected isLocked isQueuePaused service scopes allowedActions updatedAt }
       }`,
       { channelId: this.credentials.channelId },
     );
