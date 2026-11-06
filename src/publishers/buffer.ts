@@ -42,7 +42,43 @@ export interface RecentBufferPost {
   text: string;
   createdAt?: string;
   sentAt?: string;
-  error?: { message: string; supportUrl?: string } | null | undefined;
+  error?:
+    | { message: string; supportUrl?: string; rawError?: string | null }
+    | null
+    | undefined;
+}
+
+// Never put the service's raw response (which may contain credentials) in logs.
+// Emit only numeric error codes and a fixed vocabulary of diagnostic signals.
+export function summarizePublishingError(raw: string | null | undefined) {
+  if (!raw) return undefined;
+  const codes = [
+    ...raw.matchAll(
+      /(?:["']?(?:code|status|statusCode)["']?\s*[:=]\s*["']?|HTTP\s+)(\d{2,4})/giu,
+    ),
+  ].map((match) => Number(match[1]));
+  const signals = [
+    "Could not authenticate you",
+    "Invalid or expired token",
+    "Invalid token",
+    "Unauthorized",
+    "Forbidden",
+    "Read-only",
+    "write permission",
+    "locked",
+    "suspended",
+    "rate limit",
+    "Too Many Requests",
+    "CreditsDepleted",
+    "Payment Required",
+    "duplicate",
+    "expired",
+    "oauth",
+    "authentication",
+    "authorization",
+    "permission",
+  ].filter((signal) => raw.toLowerCase().includes(signal.toLowerCase()));
+  return { codes: [...new Set(codes)], signals, present: true };
 }
 
 function plainTextWeight(value: string): number {
@@ -359,10 +395,22 @@ export class BufferPublisher {
       }`,
       { channelId: this.credentials.channelId },
     );
-    const posts = await this.loadRecentPosts();
+    const posts = await this.loadRecentPosts(true);
     return {
       channel: channel.channel,
-      posts: posts.map(({ id, status, error }) => ({ id, status, error })),
+      posts: posts.map(({ id, status, createdAt, sentAt, error }) => ({
+        id,
+        status,
+        createdAt,
+        sentAt,
+        error: error
+          ? {
+              message: error.message,
+              supportUrl: error.supportUrl,
+              upstream: summarizePublishingError(error.rawError),
+            }
+          : error,
+      })),
     };
   }
 
@@ -406,7 +454,9 @@ export class BufferPublisher {
     return organizationId;
   }
 
-  private async loadRecentPosts(): Promise<RecentBufferPost[]> {
+  private async loadRecentPosts(
+    includeRawErrors = false,
+  ): Promise<RecentBufferPost[]> {
     this.organizationId ??= this.loadOrganizationId().catch(
       (error: unknown) => {
         this.organizationId = undefined;
@@ -435,7 +485,7 @@ export class BufferPublisher {
               filter: { channelIds: [$channelId] }
             }
           ) {
-            edges { node { id status text createdAt sentAt channelId error { message supportUrl } } }
+            edges { node { id status text createdAt sentAt channelId error { message supportUrl ${includeRawErrors ? "rawError" : ""} } } }
           }
         }
       `,

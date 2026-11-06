@@ -7,6 +7,7 @@ import {
   buildPaidTransitionPostText,
   buildPostText,
   xWeightedLength,
+  summarizePublishingError,
 } from "../src/publishers/buffer.js";
 import type { CampaignState } from "../src/types.js";
 
@@ -31,6 +32,20 @@ const campaign: CampaignState = {
 };
 
 describe("Buffer publisher", () => {
+  it("extracts upstream codes without exposing raw response secrets", () => {
+    const summary = summarizePublishingError(
+      JSON.stringify({
+        status: 401,
+        errors: [{ code: 89, message: "Invalid or expired token" }],
+        authorization: "Bearer private-secret",
+        request: { token: "private-token", text: "private-post" },
+      }),
+    );
+    assert.deepEqual(summary?.codes, [401, 89]);
+    assert.ok(summary?.signals.includes("Invalid or expired token"));
+    assert.doesNotMatch(JSON.stringify(summary), /private|Bearer/u);
+    assert.equal(summarizePublishingError(null), undefined);
+  });
   it("inspects channel health and delivery errors using queries only", async () => {
     const responses = [
       {
@@ -77,7 +92,13 @@ describe("Buffer publisher", () => {
         {
           id: "failed",
           status: "error",
-          error: { message: "Please reauthorize your channel connection." },
+          createdAt: undefined,
+          sentAt: undefined,
+          error: {
+            message: "Please reauthorize your channel connection.",
+            supportUrl: undefined,
+            upstream: undefined,
+          },
         },
       ],
     });
