@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39596218327",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-21T12:00:56.375Z",
+    "finishedAt": "2026-10-21T12:01:09.398Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39596218327"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5164130",
+      "title": "Bio Inc. Classic",
+      "storeUrl": "https://store.steampowered.com/app/5164130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5164130/3105cc882426f243ef060f2d0a9b536a5ea1a290/header.jpg?t=1792528973",
+      "officialDescription": "15周年を記念し、PC向けにゼロから作り直されたオリジナル版Bio Inc.を再び体験しよう。致命的な病気を開発し、犠牲者の体を蝕み、その最期の運命を決める生物医学ストラテジーシミュレーター。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2582880",
+      "title": "Northrealm Tribes",
+      "storeUrl": "https://store.steampowered.com/app/2582880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582880/a3dc4d438f556b883fd18f1325faf7b5bcddd237/header.jpg?t=1792528896",
+      "officialDescription": "Build a Viking village, manage resources and guide families through generations. Develop production chains, trade with visiting merchants and defend your settlement against longship raids. Join an online guild to strengthen a shared clan base and wage asynchronous guild wars."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5164130:permanent_free:1",
+      "productId": "5164130",
+      "title": "Bio Inc. Classic",
+      "status": "sent",
+      "bufferPostId": "6ad8a9823021c1ef52b4afe6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2582880:permanent_free:1",
+      "productId": "2582880",
+      "title": "Northrealm Tribes",
+      "status": "sent",
+      "bufferPostId": "6ad8a984dd065d615894bd89"
+    }
+  ],
+  "errors": []
+}

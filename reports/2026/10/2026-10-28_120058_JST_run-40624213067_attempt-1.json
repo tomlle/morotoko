@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40624213067",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-28T03:00:58.108Z",
+    "finishedAt": "2026-10-28T03:01:30.098Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40624213067"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4873510",
+      "title": "Blocia",
+      "storeUrl": "https://store.steampowered.com/app/4873510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873510/714d3faec092cae28bcbc6856d624c817d51f901/header.jpg?t=1793156270",
+      "officialDescription": "Blocia is a multiplayer sandbox MMO where you can build, explore, create games, collect items, customize your character, and connect with players in worlds made by the community."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2622100",
+      "title": "Footy Bash",
+      "storeUrl": "https://store.steampowered.com/app/2622100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622100/345cc98d4579c91f64cb6c84ad15b0256576e7de/header.jpg?t=1793149809",
+      "officialDescription": "「爆走フットボール」の世界に飛び込んで、スピーディーなフットボールを1～4人で体験してみませんか。目を見張るようなスーパープレイで相手を驚かせ、観客を魅了する強烈なヒットを決めよう。ダイナミックなゲームプレイとクラシックな見た目を備えた「爆走フットボール」は、しびれるようなフットボールスペクタクルです。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5246480",
+      "title": "TaskTown",
+      "storeUrl": "https://store.steampowered.com/app/5246480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246480/ac0789aebced144084a0f72285c0400fb9c488a8/header.jpg?t=1793149552",
+      "officialDescription": "Turn your everyday clicks and keystrokes into in-game currency! Collect cute and stylish animals, help them find their tools, and build a peaceful village of your own."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4248630",
+      "title": "Crateball",
+      "storeUrl": "https://store.steampowered.com/app/4248630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248630/1d4f40d2c6f41ec6e16d74cf1fd8016126e61b58/header.jpg?t=1793146220",
+      "officialDescription": "Crateball is a 3v3 arcade football game. Crates drop onto the pitch during the match. Some give you a gun, a homing bazooka or a shield. Others freeze you, reverse your controls or explode. The arena changes after every goal. Play online with friends, and bots take any empty spots."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4873510:permanent_free:1",
+      "productId": "4873510",
+      "title": "Blocia",
+      "status": "sent",
+      "bufferPostId": "6ae16584f74245164e80f468"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2622100:permanent_free:1",
+      "productId": "2622100",
+      "title": "Footy Bash",
+      "status": "sent",
+      "bufferPostId": "6ae16586f652e014d7a5e860"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5246480:permanent_free:1",
+      "productId": "5246480",
+      "title": "TaskTown",
+      "status": "sent",
+      "bufferPostId": "6ae165872785e53975d1490b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4248630:permanent_free:1",
+      "productId": "4248630",
+      "title": "Crateball",
+      "status": "sent",
+      "bufferPostId": "6ae16588c3dec74d259ac551"
+    }
+  ],
+  "errors": []
+}

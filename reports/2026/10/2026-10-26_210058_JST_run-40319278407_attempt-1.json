@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40319278407",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-26T12:00:58.683Z",
+    "finishedAt": "2026-10-26T12:01:10.988Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40319278407"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5088140",
+      "title": "Phantom Line: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5088140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088140/f18581414f858209b5602e5c883511ff1dcf91ad/header.jpg?t=1793011799",
+      "officialDescription": "悪夢の始まりを体感せよ。『Phantom Line: Prologue』は、超常現象が猛威を振るう戦乱のヨーロッパを舞台にした1～4人協力プレイのタクティカルシューターだ。怪物めいたアノマリーを封じ込め、核の混乱を生き延び、正式な任務が始まる前に小隊の生存能力を証明せよ。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5088140:permanent_free:1",
+      "productId": "5088140",
+      "title": "Phantom Line: Prologue",
+      "status": "sent",
+      "bufferPostId": "6adf41049c091261b9141754"
+    }
+  ],
+  "errors": []
+}

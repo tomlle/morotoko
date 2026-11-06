@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40954024199",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-29T21:00:57.279Z",
+    "finishedAt": "2026-10-29T21:01:12.894Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40954024199"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 22,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 18,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "Sokoban",
+        "2D",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Cartoony",
+        "Hex Grid",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5190580",
+      "title": "HELENA : Cloud District",
+      "storeUrl": "https://store.steampowered.com/app/5190580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
+      "officialDescription": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5038620",
+      "title": "Duelyst: Legends",
+      "storeUrl": "https://store.steampowered.com/app/5038620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038620/1a157df3098f5ec83579c3f82fa8c7cf2e79aa7a/header.jpg?t=1793306701",
+      "officialDescription": "Duelyst: Legends is a modernized version of the classic tactical CCG from Counterplay Games, reimagined as an offline single-player experience."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4936460",
+      "title": "Mossvale",
+      "storeUrl": "https://store.steampowered.com/app/4936460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936460/26dc994bda56f8d09f99fde5590c97f27dd538c2/header.jpg?t=1793280494",
+      "officialDescription": "Mossvale is a small online fantasy RPG where you fight monsters, collect gear, complete quests, fish, cook, trade, and grow your character in a shared pixel world."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5190580:permanent_free:1",
+      "productId": "5190580",
+      "title": "HELENA : Cloud District",
+      "status": "sent",
+      "bufferPostId": "6ae3b4148d19aa0a5be3679a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5038620:permanent_free:1",
+      "productId": "5038620",
+      "title": "Duelyst: Legends",
+      "status": "sent",
+      "bufferPostId": "6ae3b4165fe54c45e2073a4e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4936460:permanent_free:1",
+      "productId": "4936460",
+      "title": "Mossvale",
+      "status": "sent",
+      "bufferPostId": "6ae3b417397c2ef8f34574a9"
+    }
+  ],
+  "errors": []
+}

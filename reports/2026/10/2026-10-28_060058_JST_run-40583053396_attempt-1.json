@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40583053396",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T21:00:58.239Z",
+    "finishedAt": "2026-10-27T21:01:09.005Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40583053396"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5004590",
+      "title": "Darcnia Monster",
+      "storeUrl": "https://store.steampowered.com/app/5004590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5004590/28f51ef59fa46349b1b85d3a72de29ad5e0484a1/header.jpg?t=1793133089",
+      "officialDescription": "カードを盤に置くと、その中からモンスターが立ち上がります。Darcnia は基本プレイ無料のオンライン戦術カードゲームです。ペイ・トゥ・ウィンはありません。カードはすべてプレイして手に入り、ガチャはありません。手に入れたカードは交換所とオークションで、ほかのプレイヤーと自由にやり取りできます。深淵にそびえる十階の塔をのぼり、各階の番人を打ち倒してカードに封印し、五種のルーンを使いこなしてください。デュエルはすべてフル 3D の盤面で進み、封印できる 100+ 体のモンスターの一体ずつに、ドット絵の魂が宿っています。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4651700",
+      "title": "Off Course",
+      "storeUrl": "https://store.steampowered.com/app/4651700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651700/903ca2a95455b576794b572eee447412aea441b1/header.jpg?t=1793125130",
+      "officialDescription": "Off Course is a narrative boat-parkour game in which the overthinker Noi finds herself stranded in the depths of her flooded subconsciousness. Will you manage to overcome her roaring thoughts and doubts to stay in the flow?"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5004590:permanent_free:1",
+      "productId": "5004590",
+      "title": "Darcnia Monster",
+      "status": "sent",
+      "bufferPostId": "6ae111114137b5e3590ca7a1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4651700:permanent_free:1",
+      "productId": "4651700",
+      "title": "Off Course",
+      "status": "sent",
+      "bufferPostId": "6ae111132086adf9c1191f79"
+    }
+  ],
+  "errors": []
+}

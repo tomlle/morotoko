@@ -20,12 +20,13 @@ function retryDelay(response: Response | undefined, attempt: number): number {
   return Math.min(750 * 2 ** (attempt - 1), 5_000);
 }
 
-export async function fetchWithRetry(
+async function fetchResponseWithRetry<T>(
   url: string,
-  init: RequestInit = {},
-  maxAttempts = 3,
-  timeoutMs = 20_000,
-): Promise<Response> {
+  init: RequestInit,
+  maxAttempts: number,
+  timeoutMs: number,
+  consume: (response: Response) => Promise<T>,
+): Promise<T> {
   for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
     const controller = new AbortController();
     let response: Response | undefined;
@@ -67,7 +68,7 @@ export async function fetchWithRetry(
             url: { value: response.url },
             redirected: { value: response.redirected },
           });
-          return buffered;
+          return await consume(buffered);
         })(),
         new Promise<never>((_, reject) => {
           timeout = setTimeout(() => {
@@ -102,4 +103,43 @@ export async function fetchWithRetry(
     );
   }
   throw new HttpError("Request failed", undefined, maxAttempts);
+}
+
+export function fetchWithRetry(
+  url: string,
+  init: RequestInit = {},
+  maxAttempts = 3,
+  timeoutMs = 20_000,
+): Promise<Response> {
+  return fetchResponseWithRetry(
+    url,
+    init,
+    maxAttempts,
+    timeoutMs,
+    async (response) => response,
+  );
+}
+
+export function fetchJsonWithRetry<T = unknown>(
+  url: string,
+  init: RequestInit = {},
+  maxAttempts = 3,
+  timeoutMs = 20_000,
+): Promise<T> {
+  return fetchResponseWithRetry(
+    url,
+    init,
+    maxAttempts,
+    timeoutMs,
+    async (response) => {
+      try {
+        return (await response.json()) as T;
+      } catch {
+        const endpoint = new URL(url);
+        throw new Error(
+          `Invalid JSON (HTTP ${response.status}) while requesting ${endpoint.origin}${endpoint.pathname}`,
+        );
+      }
+    },
+  );
 }

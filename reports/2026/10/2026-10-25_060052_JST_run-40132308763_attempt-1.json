@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40132308763",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T21:00:52.264Z",
+    "finishedAt": "2026-10-24T21:01:05.031Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40132308763"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4901700",
+      "title": "Grievance: Eye for an Eye",
+      "storeUrl": "https://store.steampowered.com/app/4901700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901700/ba285f68b5389b200363fd637380e311e1fcbdee/header.jpg?t=1792786681",
+      "officialDescription": "A 2D animated choice-driven interactive superhero drama about the cycle of revenge and everyone affected by it. Watch the story unfold while making choices that lead to different story branches and endings."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4901700:permanent_free:1",
+      "productId": "4901700",
+      "title": "Grievance: Eye for an Eye",
+      "status": "sent",
+      "bufferPostId": "6add1c8f8b3d437ddcd9d95b"
+    }
+  ],
+  "errors": []
+}

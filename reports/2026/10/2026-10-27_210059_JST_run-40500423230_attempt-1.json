@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40500423230",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T12:00:59.459Z",
+    "finishedAt": "2026-10-27T12:01:15.617Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40500423230"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5377010",
+      "title": "OUTVOTE - Steam Version",
+      "storeUrl": "https://store.steampowered.com/app/5377010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5377010/9018be0700110ab57eb959cc5b9c28898b8f2139/header.jpg?t=1793102255",
+      "officialDescription": "How many of your friends would say yes? Answer questions in secret, then guess how the room voted – or call every player's answer. Play with Steam friends, or with anyone in the browser. Free, up to 20 players."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5034420",
+      "title": "深海月光-第一章",
+      "storeUrl": "https://store.steampowered.com/app/5034420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034420/1c4220d9a1678a5a46d16f41a0aafd050c3a011a/header.jpg?t=1793098814",
+      "officialDescription": "光の無い水底の最下層都市。番号で呼ばれる少年は、友人の夢を買う大金を得るために、禁じられたクラゲの密輸に手を出す。選択によって分岐し、時に破滅へ導かれる深海ビジュアルノベル。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5377010:permanent_free:1",
+      "productId": "5377010",
+      "title": "OUTVOTE - Steam Version",
+      "status": "sent",
+      "bufferPostId": "6ae09288271cbd4e76b35a1d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5034420:permanent_free:1",
+      "productId": "5034420",
+      "title": "深海月光-第一章",
+      "status": "sent",
+      "bufferPostId": "6ae0928a16e4b99deda7c807"
+    }
+  ],
+  "errors": []
+}

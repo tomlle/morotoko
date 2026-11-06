@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39518630444",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-21T00:00:58.443Z",
+    "finishedAt": "2026-10-21T00:01:10.976Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39518630444"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5043860",
+      "title": "Aether.Garden",
+      "storeUrl": "https://store.steampowered.com/app/5043860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043860/7e0c1c16fe13909061d6796cd0379ae7b727ba60/header.jpg?t=1792536921",
+      "officialDescription": "The original New RTS. One race, many styles, no limit. Play head-to-head, enjoy the co-op Adventure, or seek the leader board, battling to become the King of the Hill in an endless spectator-friendly five player revolving struggle."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5043860:permanent_free:1",
+      "productId": "5043860",
+      "title": "Aether.Garden",
+      "status": "sent",
+      "bufferPostId": "6ad800c51f7fff44939d7538"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39397530354",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-20T09:00:53.630Z",
+    "finishedAt": "2026-10-20T09:01:06.746Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39397530354"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5269430",
+      "title": "Campagnol",
+      "storeUrl": "https://store.steampowered.com/app/5269430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5269430/af2fcd99a482bd6f783d74125a63de98cd543c88/header.jpg?t=1792485927",
+      "officialDescription": "Take control of the most powerful columns indicated by the voles, string together alignments, and secure the Compost: every move can tip the balance of the game."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4910060",
+      "title": "Bible Putt Putt",
+      "storeUrl": "https://store.steampowered.com/app/4910060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910060/b30c5e219d6d1940dac3e2d51735b1088241d147/header.jpg?t=1792402220",
+      "officialDescription": "Journey through the Bible from Creation to the Great Commission in an 18-hole miniature golf adventure. Experience fully voiced storytelling, creative puzzles, cinematic moments, and unique gameplay inspired by each hole inspired by a Bible story."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5178180",
+      "title": "Forge Shop",
+      "storeUrl": "https://store.steampowered.com/app/5178180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178180/52e7fac28d40cf986df61a7ce6a9e1528009e85b/header.jpg?t=1792401958",
+      "officialDescription": "あなたはゾンビがはびこる荒廃地の生存者です。自分の鍛冶屋を建てて経営しましょう。店をデザインし、装備を製作・販売し、他の生存者を募集して武装させ、あなたのために戦わせてください。みんなで一緒に、ナンバーワンの伝説を鍛え上げましょう！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5269430:permanent_free:1",
+      "productId": "5269430",
+      "title": "Campagnol",
+      "status": "sent",
+      "bufferPostId": "6ad72dcedd13ed293956dcef"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4910060:permanent_free:1",
+      "productId": "4910060",
+      "title": "Bible Putt Putt",
+      "status": "sent",
+      "bufferPostId": "6ad72dd08c1133338d576959"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5178180:permanent_free:1",
+      "productId": "5178180",
+      "title": "Forge Shop",
+      "status": "sent",
+      "bufferPostId": "6ad72dd19aa7670040a75677"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41186880996",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-31T09:00:49.769Z",
+    "finishedAt": "2026-10-31T09:01:13.099Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41186880996"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 26,
+    "verified": 9,
+    "newPromotions": 7,
+    "knownPromotions": 2,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Puzzle Platformer",
+        "Sokoban",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Singleplayer",
+        "Level Editor",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5288230",
+      "title": "MiniRacingOnline",
+      "storeUrl": "https://store.steampowered.com/app/5288230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288230/0ba6b0d399dd576b9372c1f631cf4243bf8451ef/header.jpg?t=1793430933",
+      "officialDescription": "最大32人で競うオンラインレースゲーム。8,500台以上の車両と300以上のサーキットを収録。セッティングを調整し、タイヤ戦略を練り、変化する雨に対応しよう。20年以上の進化と、走り続けるコミュニティがあなたを待っています。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4374510",
+      "title": "WithoutEyes Chapter1",
+      "storeUrl": "https://store.steampowered.com/app/4374510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374510/15b4ecf08840358ee877e8670668d50d1f1393e7/header.jpg?t=1793430442",
+      "officialDescription": "目をそらさないで、彼らの愛着形成を見つめて。 血を飲まなければ死ぬ少女と、人肉を食べなければ死ぬ少年の、狂った純愛を描くサイコホラーADV。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5357500",
+      "title": "Reactance",
+      "storeUrl": "https://store.steampowered.com/app/5357500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5357500/d953602568e2f5c0e431356b78abb4c6a6998110/header.jpg?t=1793352059",
+      "officialDescription": "A first-person duelling game where every fighter is a scientist. Read your opponent's guard, then block, parry and strike back across ten arenas, from a station under a black hole to the inside of a living cell. Free to play, with rollback netcode, 2v2, Ranked and a Laboratory to meet in."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5196280",
+      "title": "JOYSTICK JAMMERS: One Prawn",
+      "storeUrl": "https://store.steampowered.com/app/5196280/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196280/45bb7d1fdff9d8c522e4b359e6cd3b6c55f9efac/header.jpg?t=1793427271",
+      "officialDescription": "Use your controller joysticks to smack the drumset as One Prawn, creating your own style of freeform rhythms."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5287260",
+      "title": "契約師物語：チェス・ロスター",
+      "storeUrl": "https://store.steampowered.com/app/5287260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5287260/f792016cf408ffb21db13a0c2550151628af4ae9/header.jpg?t=1793417365",
+      "officialDescription": "『契約師物語：チェス・ロスター』は、ユニットごとに特殊スキルと属性を持つターン制タクティクスゲームです。アドベンチャーモードで戦いに勝利して契約を結べば仲間にでき、ゲーム内の60体以上のユニットはすべて無料で入手できます。ストーリーモードに挑むもよし、同じ画面でフレンドと対戦するもよし、PvPでオンラインの対戦相手と腕を競うもよし。すべてのユニットはプレイで解放——ガチャ・有料ユニット・DLC限定ユニットは一切ありません。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2986590",
+      "title": "HYPNOSYNC",
+      "storeUrl": "https://store.steampowered.com/app/2986590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2986590/4d8e9203f5db107c6a147ddd9a715f11acc4f75c/header.jpg?t=1793434577",
+      "officialDescription": "リズム × 催眠。 あなたは新しい音ゲー専門のゲーセン「HYPNOSYNC」のマネージャーに“強制就任”！新しく手に入れた催眠能力で、お客さんをビートに合わせて操り、あなた専用盲目的に従う従業員にしよう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4770880",
+      "title": "Threadstorm",
+      "storeUrl": "https://store.steampowered.com/app/4770880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770880/2d958fd215d9d8ae9f6192d4a41dafa152642910/header.jpg?t=1793345319",
+      "officialDescription": "Threadstorm is a competitive top-down tank shooter where precise aiming, quick decision-making, and smart class selection determine victory or defeat. Battle your way through explosive skirmishes, upgrade your gear, and prove yourself against other players in multiplayer mode."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5288230:permanent_free:1",
+      "productId": "5288230",
+      "title": "MiniRacingOnline",
+      "status": "sent",
+      "bufferPostId": "6ae5ae4c1891472093c24ee0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4374510:permanent_free:1",
+      "productId": "4374510",
+      "title": "WithoutEyes Chapter1",
+      "status": "sent",
+      "bufferPostId": "6ae5ae4e1891472093c24fe4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5357500:permanent_free:1",
+      "productId": "5357500",
+      "title": "Reactance",
+      "status": "sent",
+      "bufferPostId": "6ae5ae50ceb491e585e83762"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5196280:permanent_free:1",
+      "productId": "5196280",
+      "title": "JOYSTICK JAMMERS: One Prawn",
+      "status": "sent",
+      "bufferPostId": "6ae5ae52406ab8a018aabef4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5287260:permanent_free:1",
+      "productId": "5287260",
+      "title": "契約師物語：チェス・ロスター",
+      "status": "sent",
+      "bufferPostId": "6ae5ae53406ab8a018aabfd8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2986590:permanent_free:1",
+      "productId": "2986590",
+      "title": "HYPNOSYNC",
+      "status": "sent",
+      "bufferPostId": "6ae5ae55ceb491e585e8398c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4770880:permanent_free:1",
+      "productId": "4770880",
+      "title": "Threadstorm",
+      "status": "sent",
+      "bufferPostId": "6ae5ae57ceb491e585e83b16"
+    }
+  ],
+  "errors": []
+}

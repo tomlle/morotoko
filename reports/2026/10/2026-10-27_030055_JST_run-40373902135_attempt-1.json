@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40373902135",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-26T18:00:55.189Z",
+    "finishedAt": "2026-10-26T18:01:20.932Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40373902135"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 24,
+    "verified": 7,
+    "newPromotions": 7,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4895300",
+      "title": "Hack And Slash Fury 2: Lancelot Betrayal",
+      "storeUrl": "https://store.steampowered.com/app/4895300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895300/33a2362f7b9b7e64875816a86abc7b3b933c4c46/header.jpg?t=1793037611",
+      "officialDescription": "ヘヴィメタルのリズムに合わせて剣で闇の戦士を倒し、壮大な映画を見ながら複雑な戦闘システムをマスターしてオンラインまたはオフラインでライバルに屈辱を与えましょう。ここでは、彼の開発者によってこれまでにない方法で作成され、組み合わされた楽しさ、風刺、戦争が見つかります。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4949930",
+      "title": "Fragments",
+      "storeUrl": "https://store.steampowered.com/app/4949930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949930/3f8f8526188bc9c755ee4438bf120e1e3a5fbc68/header.jpg?t=1793036202",
+      "officialDescription": "Explore the LeBlanc hotel and reveal hidden illusions through Eugene’s camera, an archivist. Follow in Laura’s footsteps, an investigator working on the disappearance of Eugene's sister, 20 years ago. Armed with a camera and discretion, can you discover the hotel’s heart and its mysteries?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3841580",
+      "title": "愛伴 Aibond",
+      "storeUrl": "https://store.steampowered.com/app/3841580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841580/71cc003d0e54cbccca8bf655f394b57a6bf29068/header.jpg?t=1793034047",
+      "officialDescription": "本物の長期記憶を持つアニメ風AIコンパニオン。インストール不要、すぐに無料で始められます。一緒にチャットしたり、遊んだり、勉強したり — いつもそばにいる日常の友達。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2551970",
+      "title": "Outcast Tales",
+      "storeUrl": "https://store.steampowered.com/app/2551970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551970/header.jpg?t=1793034669",
+      "officialDescription": "強烈な性格や能力を持つキャラクターのチームを編成し、彼らの人間関係を広げていきましょう。「Outcast Tales: The First Journey」で壮大な冒険の始まりを体験してください！極めて戦術的な戦いに参加し、困難な決断を下して、自由に冒険しましょう！自分しか紡げないOutcast Taleがここにあります！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1407560",
+      "title": "Hot Mic",
+      "storeUrl": "https://store.steampowered.com/app/1407560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407560/f538cb2b25094829ce6cd1b0b87328a62d2819f3/header.jpg?t=1793033977",
+      "officialDescription": "友だちはもう、あなたのローマ皇帝のモノマネを百回は聞いている。でも、あなたのニワトリには誰も心の準備ができていない。🐔 Hot Micは声で遊ぶオンライン・パーティーゲーム。2〜8人で遊べます。マイクを燃え上がらせよう！🔥"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4926310",
+      "title": "Berserk Heroes Online",
+      "storeUrl": "https://store.steampowered.com/app/4926310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926310/be931359aff1c61541c512905cb46656688f2992/header.jpg?t=1793028629",
+      "officialDescription": "Welcome to Laar, the world of epic battles and true heroes. Take part in thrilling fights, devise cunning strategies, and make your own invincible deck out of 350+ cards available. Become a great warlord in the digital version of the iconic card-collecting tabletop game Berserk Heroes."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5372440",
+      "title": "The Onion Voting Simulator 3D",
+      "storeUrl": "https://store.steampowered.com/app/5372440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372440/d136e751c989cf00bb61dbe6187f9791349dc3a5/header.jpg?t=1793032815",
+      "officialDescription": "Onion Voting Simulator 3D is an action-packed walking sim where you perform America's most taboo act: Voting. It’s Election Day and your choice could change the country's fate! But it won’t be easy: Resist the allure of staying home! Explore a school gym! And don’t get lost, because Hell is real!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4895300:permanent_free:1",
+      "productId": "4895300",
+      "title": "Hack And Slash Fury 2: Lancelot Betrayal",
+      "status": "sent",
+      "bufferPostId": "6adf956435213ac4125d7e5a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4949930:permanent_free:1",
+      "productId": "4949930",
+      "title": "Fragments",
+      "status": "sent",
+      "bufferPostId": "6adf956617e0ef9dc6ce7502"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3841580:permanent_free:1",
+      "productId": "3841580",
+      "title": "愛伴 Aibond",
+      "status": "sent",
+      "bufferPostId": "6adf95682adafdbae18ae287"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2551970:permanent_free:1",
+      "productId": "2551970",
+      "title": "Outcast Tales",
+      "status": "sent",
+      "bufferPostId": "6adf956a7099fd3e032b2a58"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1407560:permanent_free:1",
+      "productId": "1407560",
+      "title": "Hot Mic",
+      "status": "sent",
+      "bufferPostId": "6adf956c35213ac4125d8269"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4926310:permanent_free:1",
+      "productId": "4926310",
+      "title": "Berserk Heroes Online",
+      "status": "sent",
+      "bufferPostId": "6adf956e43b77056967bc1a5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5372440:permanent_free:1",
+      "productId": "5372440",
+      "title": "The Onion Voting Simulator 3D",
+      "status": "sent",
+      "bufferPostId": "6adf956f43b77056967bc486"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41349734414",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-01T21:00:48.694Z",
+    "finishedAt": "2026-11-01T21:01:04.013Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41349734414"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 19,
+    "verified": 2,
+    "newPromotions": 1,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Singleplayer",
+        "Investigation",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3017040",
+      "title": "Kando Realm",
+      "storeUrl": "https://store.steampowered.com/app/3017040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017040/ae87b2c3be8b949bb27581b0e0d4b9ab5fbf6f54/header.jpg?t=1793559589",
+      "officialDescription": "Journey into the world of Kando. Take on creatures, craft awesome weapons, help villagers and cut down tree's. Will you slay your way to the top? Or become a master craftsman. It's all down to you."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3017040:permanent_free:1",
+      "productId": "3017040",
+      "title": "Kando Realm",
+      "status": "sent",
+      "bufferPostId": "6ae7a88e72a19e82a39f1208"
+    }
+  ],
+  "errors": []
+}

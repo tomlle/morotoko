@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41524380568",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-02T21:00:56.041Z",
+    "finishedAt": "2026-11-02T21:01:17.814Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41524380568"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4946250",
+      "title": "Hallow",
+      "storeUrl": "https://store.steampowered.com/app/4946250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946250/c4517a1d28eb84ebbf65ccd5d474b5d188bfbc9e/header.jpg?t=1793648397",
+      "officialDescription": "In Hallow, your goal is to uncover the mystery behind your father's disappearance and put a stop to the cruel cause."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5261040",
+      "title": "Panorama of All Beings",
+      "storeUrl": "https://store.steampowered.com/app/5261040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261040/e863fa6cbcb031aa1aacf0f5a4660e1cd8bb382c/header.jpg?t=1793642452",
+      "officialDescription": "An online multiplayer pixel-art game on one shared 1920 x 1080 canvas. Place a pixel, wait for the cooldown, then contribute again. Build on others' designs or overwrite them—and expect yours to change too. Discuss the canvas through comments and replay its history. Internet required."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4946250:permanent_free:1",
+      "productId": "4946250",
+      "title": "Hallow",
+      "status": "sent",
+      "bufferPostId": "6ae8fa1ab665951ec2fbc0f4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5261040:permanent_free:1",
+      "productId": "5261040",
+      "title": "Panorama of All Beings",
+      "status": "sent",
+      "bufferPostId": "6ae8fa1cc8ee2961312fed63"
+    }
+  ],
+  "errors": []
+}

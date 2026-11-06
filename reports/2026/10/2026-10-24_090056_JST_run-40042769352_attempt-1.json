@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40042769352",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T00:00:56.581Z",
+    "finishedAt": "2026-10-24T00:01:07.771Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40042769352"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4775990",
+      "title": "Puppetry",
+      "storeUrl": "https://store.steampowered.com/app/4775990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775990/d6dc00f01b4a2ac196a4dc9d584a53eb6a88b343/header.jpg?t=1792789321",
+      "officialDescription": "Puppetry is a 3D puzzle-mystery adventure where you play as a haunted voodoo doll trapped inside a mysterious mansion."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4775990:permanent_free:1",
+      "productId": "4775990",
+      "title": "Puppetry",
+      "status": "sent",
+      "bufferPostId": "6adbf542bd33ce99c3f78c33"
+    }
+  ],
+  "errors": []
+}

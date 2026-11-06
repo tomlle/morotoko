@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39621897824",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-21T15:00:55.326Z",
+    "finishedAt": "2026-10-21T15:01:03.845Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39621897824"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3323980",
+      "title": "Sweet Swipe",
+      "storeUrl": "https://store.steampowered.com/app/3323980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323980/9388a6e2a4855b15605fa7e43903f8a3bf6b4684/header.jpg?t=1792591211",
+      "officialDescription": "『Sweet Swipe』で、スタイリッシュに走り、跳び、滑り込もう！シンプルな操作、パルクールにインスパイアされた動き、手描きのストリートアート、オリジナルサウンドトラック、そして勇気、レジリエンス、正義をテーマにした活気に満ちたストーリーが楽しめる、エキサイティングな2Dプラットフォーマー。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3323980:permanent_free:1",
+      "productId": "3323980",
+      "title": "Sweet Swipe",
+      "status": "sent",
+      "bufferPostId": "6ad8d3ae528a4622a850a141"
+    }
+  ],
+  "errors": []
+}

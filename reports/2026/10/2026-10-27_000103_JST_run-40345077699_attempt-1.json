@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40345077699",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-26T15:01:03.111Z",
+    "finishedAt": "2026-10-26T15:01:15.835Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40345077699"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5356470",
+      "title": "Playable Archive",
+      "storeUrl": "https://store.steampowered.com/app/5356470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5356470/3e3dd7a994a836e1d4402e10821822658e4fba76/header.jpg?t=1793026232",
+      "officialDescription": "Review with caution."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5391500",
+      "title": "Ardhan",
+      "storeUrl": "https://store.steampowered.com/app/5391500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391500/7333dc78952354e640b184e1c05f0d3284ac0689/header.jpg?t=1793020555",
+      "officialDescription": "Ardhanは、すべての戦いが本物の盤面で繰り広げられるデッキ構築ローグライクです。ミニオン同士がぶつかり合い、挑発が前線を支え、武器は砕け散る。旅を終えるころには、デッキは旅立ったときとまるで別物になっています。12の勢力、421枚のカード、全6幕、アセンション1〜15、そして全員が同じマップに挑むデイリーゲーム。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5356470:permanent_free:1",
+      "productId": "5356470",
+      "title": "Playable Archive",
+      "status": "sent",
+      "bufferPostId": "6adf6b386b7765f94d5358af"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5391500:permanent_free:1",
+      "productId": "5391500",
+      "title": "Ardhan",
+      "status": "sent",
+      "bufferPostId": "6adf6b3a8678dce367ccc003"
+    }
+  ],
+  "errors": []
+}

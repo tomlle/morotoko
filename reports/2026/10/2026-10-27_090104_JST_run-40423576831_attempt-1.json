@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40423576831",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T00:01:04.120Z",
+    "finishedAt": "2026-10-27T00:01:23.353Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40423576831"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4597820",
+      "title": "DRENCHED",
+      "storeUrl": "https://store.steampowered.com/app/4597820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597820/a6bbd3ee18b1401d4b6f7fa5b4792376107200e0/header.jpg?t=1793059135",
+      "officialDescription": "Drenched is a 3D exploration adventure where a burnt-out artist becomes a fish. Switch between the two characters, and traverse two mirrored worlds to uncover her story. Splash puddles on the surface and blow bubbles underwater to explore, solve puzzles, and reconnect her past and present."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4957910",
+      "title": "Veyrasol",
+      "storeUrl": "https://store.steampowered.com/app/4957910/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957910/178798187bde17f24c8c1a87c0dc1c717808e585/header.jpg?t=1793052043",
+      "officialDescription": "Veyrasolは、Veyra Spiral銀河を舞台にしたリアルタイムMMO戦略ゲームです。コロニーを築き、艦隊を指揮し、同盟を結び、約120日間続くシーズンで覇権を争いましょう。無料でプレイできるブラウザ発の戦略ゲームです。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2982680",
+      "title": "Light Out of Sight",
+      "storeUrl": "https://store.steampowered.com/app/2982680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982680/header.jpg?t=1793049101",
+      "officialDescription": "Turn The Power Back On Inside a Haunted Mansion, while Fighting Off Paranormal Monsters."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4597820:permanent_free:1",
+      "productId": "4597820",
+      "title": "DRENCHED",
+      "status": "sent",
+      "bufferPostId": "6adfe9ce3bff354cec684d2a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4957910:permanent_free:1",
+      "productId": "4957910",
+      "title": "Veyrasol",
+      "status": "sent",
+      "bufferPostId": "6adfe9d00565644c947fdb1d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2982680:permanent_free:1",
+      "productId": "2982680",
+      "title": "Light Out of Sight",
+      "status": "sent",
+      "bufferPostId": "6adfe9d25837b0fb9bf969bc"
+    }
+  ],
+  "errors": []
+}

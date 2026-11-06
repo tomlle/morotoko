@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40976907311",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T00:01:03.792Z",
+    "finishedAt": "2026-10-30T00:01:19.445Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40976907311"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 20,
+    "verified": 2,
+    "newPromotions": 1,
+    "knownPromotions": 1,
+    "excluded": 18,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5331600",
+      "title": "My Metal Fairy",
+      "storeUrl": "https://store.steampowered.com/app/5331600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5331600/66854013c6a240a5c097fedf284aa4fbff49985d/header.jpg?t=1793315682",
+      "officialDescription": "Twenty metres beneath Bagannur, something lies strapped to a stretcher. Your job is simple: keep it asleep until 1 AM. Decode the printouts, stop the leaks, and whatever you do, don't move when it looks at you."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5331600:permanent_free:1",
+      "productId": "5331600",
+      "title": "My Metal Fairy",
+      "status": "sent",
+      "bufferPostId": "6ae3de4e6385db216a159ee9"
+    }
+  ],
+  "errors": []
+}

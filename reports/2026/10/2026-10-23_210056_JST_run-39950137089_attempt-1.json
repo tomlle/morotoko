@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39950137089",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T12:00:56.623Z",
+    "finishedAt": "2026-10-23T12:01:24.052Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39950137089"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5039290",
+      "title": "Soul",
+      "storeUrl": "https://store.steampowered.com/app/5039290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039290/9768c177629d726b6e1910c8e0ccca75a7bab4ef/header.jpg?t=1792756491",
+      "officialDescription": "Lyr is a city where Souls are a product. Big corporations can change your soul for the right price. Smaller merchants can give you relief for an afternoon. This is a Visual Novel with some minor choices that change the dialogue a little. You progress through the story by clicking on the screen."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5384900",
+      "title": "A Cruise for Murder",
+      "storeUrl": "https://store.steampowered.com/app/5384900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5384900/ee3bd5e3b3296f4e52afe05ba922349a517ed2fa/header.jpg?t=1792751230",
+      "officialDescription": "A 3D modern remake of the classic Cruise for a Corpse, along with original music, different plot and 15 puzzles."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2906990",
+      "title": "MoonTraum/ムーントラム",
+      "storeUrl": "https://store.steampowered.com/app/2906990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906990/df545344a480edd390972a7b17d9bd58589beff7/header_japanese.jpg?t=1792747389",
+      "officialDescription": "『MoonTraum』は夢の世界で釣りをするゲームです。 夢がサカナの姿になって泳ぐ不思議な世界に迷い込んだあなたはネコの釣り人ウェルトと出会い釣りをはじめます。 個性的な姿のサカナを釣りあげてコンプリートを目指しましょう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5039290:permanent_free:1",
+      "productId": "5039290",
+      "title": "Soul",
+      "status": "sent",
+      "bufferPostId": "6adb4c8f4553446d6b7cc084"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5384900:permanent_free:1",
+      "productId": "5384900",
+      "title": "A Cruise for Murder",
+      "status": "sent",
+      "bufferPostId": "6adb4c917c3aac797e7d495b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2906990:permanent_free:1",
+      "productId": "2906990",
+      "title": "MoonTraum/ムーントラム",
+      "status": "sent",
+      "bufferPostId": "6adb4c9297d61d392143b746"
+    }
+  ],
+  "errors": []
+}

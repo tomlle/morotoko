@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39697017105",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T00:00:48.284Z",
+    "finishedAt": "2026-10-22T00:01:01.219Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39697017105"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5310070",
+      "title": "Backrooms Blocks",
+      "storeUrl": "https://store.steampowered.com/app/5310070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5310070/506b49f95d856774a4d6fe6b38c6d32ba7e706a9/header.jpg?t=1792625866",
+      "officialDescription": "Mine the walls. Build a shelter. Keep the almond milk. Backrooms Blocks is a first-person voxel survival game filled with strange creatures, tiny clown familiars, dangerous lucky blocks, and doors into impossible places. You were only going to the grocery store."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4813620",
+      "title": "TankFall Arena",
+      "storeUrl": "https://store.steampowered.com/app/4813620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813620/8c83ad14248302d974bdd687284c77e81645f1cf/header.jpg?t=1792618892",
+      "officialDescription": "Retro-inspired tank arena combat where every wall can become a weapon. Master ricochets, random battlefields, powerful pickups, and chaotic multiplayer battles against friends or AI opponents. Supports solo play, team battles, local multiplayer, and Remote Play Together."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5310070:permanent_free:1",
+      "productId": "5310070",
+      "title": "Backrooms Blocks",
+      "status": "sent",
+      "bufferPostId": "6ad9523a1093844846d21a66"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4813620:permanent_free:1",
+      "productId": "4813620",
+      "title": "TankFall Arena",
+      "status": "sent",
+      "bufferPostId": "6ad9523cb086d40f572605f1"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39999759287",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T18:00:58.373Z",
+    "finishedAt": "2026-10-23T18:01:12.691Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39999759287"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4866750",
+      "title": "A Northern Evil: Tape One",
+      "storeUrl": "https://store.steampowered.com/app/4866750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866750/33d4258ce9579177662920f02d7409ffbfe40c48/header.jpg?t=1792778407",
+      "officialDescription": "A short atmospheric horror experience set in the remote north of Sweden. Explore an abandoned village where something is deeply wrong, uncover strange clues, and face a lurking evil hidden beneath the quiet surface."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5254090",
+      "title": "Muller Village",
+      "storeUrl": "https://store.steampowered.com/app/5254090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5254090/f9b9c687094e63e22daf7932d52ef1f772e94d64/header.jpg?t=1792769357",
+      "officialDescription": "Muller Village is a Cozy Hangout about the present moment. Find your role in a cute village, communicate through drawings and song. Meet other Muller and contribute to the whole, through your unique specialisation."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4866750:permanent_free:1",
+      "productId": "4866750",
+      "title": "A Northern Evil: Tape One",
+      "status": "sent",
+      "bufferPostId": "6adba0e53d5b27036b46a079"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5254090:permanent_free:1",
+      "productId": "5254090",
+      "title": "Muller Village",
+      "status": "sent",
+      "bufferPostId": "6adba0e7e4be8a4d861c67a6"
+    }
+  ],
+  "errors": []
+}

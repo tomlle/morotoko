@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41052159029",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T12:01:00.911Z",
+    "finishedAt": "2026-10-30T12:01:13.789Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41052159029"
+  },
+  "detection": {
+    "searched": 117,
+    "candidates": 21,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2415710",
+      "title": "Alembix TCG",
+      "storeUrl": "https://store.steampowered.com/app/2415710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2415710/711d3631b302419c7845b2dca80f8fbdbee8ddfa/header.jpg?t=1793361645",
+      "officialDescription": "Brew the periodic table into a card game. A free-to-play alchemical TCG where every creature is an element and every fusion is a real reaction."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4938170",
+      "title": "Ostfriesland Games",
+      "storeUrl": "https://store.steampowered.com/app/4938170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938170/d9fa8900b1c92c0affe26a341831568659612fc6/header.jpg?t=1793355170",
+      "officialDescription": "Ostfriesland Games turns road bowling, ditch vaulting, mudflat sled racing, shrimp peeling and tea serving into a retro arcade game. With real places in pixel art, local and worldwide high scores, and East Frisian humour. Even making tea can get hectic."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4463860",
+      "title": "万妙之门",
+      "storeUrl": "https://store.steampowered.com/app/4463860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463860/ebe88cc8e8cbf91373b056917a04efc08efbc1bb/header.jpg?t=1793354406",
+      "officialDescription": "万寿村的燕知槐有一天“醒过来”，他的眼前出现一扇门，门前的男人自称那栖措，他向你讲述你从未知晓的过去，从呱呱坠地的婴孩、到万寿村的阿槐，最后他向你展示生命中的一种可能，一种付出什么，得到“真相”的可能。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:2415710:permanent_free:1",
+      "productId": "2415710",
+      "title": "Alembix TCG",
+      "status": "sent",
+      "bufferPostId": "6ae4870414812ff5967b8c87"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4938170:permanent_free:1",
+      "productId": "4938170",
+      "title": "Ostfriesland Games",
+      "status": "sent",
+      "bufferPostId": "6ae48706ab6b84214cd37784"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4463860:permanent_free:1",
+      "productId": "4463860",
+      "title": "万妙之门",
+      "status": "sent",
+      "bufferPostId": "6ae48708ab6b84214cd37a73"
+    }
+  ],
+  "errors": []
+}

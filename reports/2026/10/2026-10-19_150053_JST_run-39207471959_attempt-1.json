@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39207471959",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-19T06:00:53.313Z",
+    "finishedAt": "2026-10-19T06:01:05.753Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39207471959"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 1,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4714620",
+      "title": "Dynamite Blue",
+      "storeUrl": "https://store.steampowered.com/app/4714620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714620/a5a9525f1afa5632d2f5437d9b34df4aaf1cfb46/header.jpg?t=1792389559",
+      "officialDescription": "キャラクター重視のストーリー主導型ターン制RPG。空と街と影のサイバーパンク都市ビアヘイブンで、それぞれの物語を持つ60体以上の英雄と出会う。『エグゾス ヒーローズ』チームの新作。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792168547",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "ミリタリー",
+        "シングルプレイヤー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "人工知能",
+        "暴力",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-20T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "建設",
+        "シングルプレイヤー",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4714620:permanent_free:1",
+      "productId": "4714620",
+      "title": "Dynamite Blue",
+      "status": "sent",
+      "bufferPostId": "6ad5b21e38c1835cd43d93ff"
+    },
+    {
+      "type": "ending_reminder",
+      "campaignId": "steam:313120:temporary_play:1",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "status": "sent",
+      "bufferPostId": "6ad5b220ee362c3569423f39"
+    }
+  ],
+  "errors": []
+}

@@ -7,6 +7,15 @@ const X_SHORTENED_URL_LENGTH = 23;
 const URL_PATTERN = /https?:\/\/[^\s]+/giu;
 const POST_TIME_ZONE = "Asia/Tokyo";
 
+export class BufferRateLimitError extends Error {
+  constructor(readonly retryAt: number) {
+    super(
+      `Buffer API request failed (HTTP 429); retry after ${new Date(retryAt).toISOString()}`,
+    );
+    this.name = "BufferRateLimitError";
+  }
+}
+
 export interface BufferCredentials {
   apiKey: string;
   channelId: string;
@@ -320,9 +329,16 @@ export function buildPaidTransitionPostText(
 }
 
 export class BufferPublisher {
+  private retryAt = 0;
+  private organizationId: Promise<string> | undefined;
+  private recentPosts: Promise<RecentBufferPost[]> | undefined;
+  private readonly createdPosts = new Map<string, RecentBufferPost>();
+
   constructor(
     private readonly credentials: BufferCredentials,
     private readonly fetchImpl: typeof fetch = fetch,
+    private readonly sleep: (ms: number) => Promise<void> = (ms) =>
+      new Promise((resolve) => setTimeout(resolve, ms)),
   ) {}
 
   async publish(campaign: CampaignState): Promise<{ id: string }> {
@@ -334,6 +350,24 @@ export class BufferPublisher {
     text: string;
     notBeforeAt: string;
   }): Promise<RecentBufferPost | undefined> {
+    // Share the same snapshot (and in-flight request) across this batch.
+    this.recentPosts ??= this.loadRecentPosts().catch((error: unknown) => {
+      this.recentPosts = undefined;
+      throw error;
+    });
+    const posts = await this.recentPosts;
+    return [...this.createdPosts.values(), ...posts].find((post) => {
+      if (input.id) return post.id === input.id;
+      const createdAt = Date.parse(post.createdAt ?? "");
+      return (
+        post.text === input.text &&
+        Number.isFinite(createdAt) &&
+        createdAt >= Date.parse(input.notBeforeAt)
+      );
+    });
+  }
+
+  private async loadOrganizationId(): Promise<string> {
     const channelData = await this.request<{
       channel?: { organizationId?: string };
     }>(
@@ -348,6 +382,17 @@ export class BufferPublisher {
     if (!organizationId) {
       throw new Error("Buffer channel did not include an organization ID");
     }
+    return organizationId;
+  }
+
+  private async loadRecentPosts(): Promise<RecentBufferPost[]> {
+    this.organizationId ??= this.loadOrganizationId().catch(
+      (error: unknown) => {
+        this.organizationId = undefined;
+        throw error;
+      },
+    );
+    const organizationId = await this.organizationId;
 
     const postsData = await this.request<{
       posts?: {
@@ -376,30 +421,25 @@ export class BufferPublisher {
       { organizationId, channelId: this.credentials.channelId },
     );
 
-    return postsData.posts?.edges
-      ?.map((edge) => edge.node)
-      .find((post) => {
-        if (!post || post.channelId !== this.credentials.channelId)
-          return false;
-        if (input.id) return post.id === input.id;
-        const createdAt = Date.parse(post.createdAt ?? "");
-        return (
-          post.text === input.text &&
-          Number.isFinite(createdAt) &&
-          createdAt >= Date.parse(input.notBeforeAt)
-        );
-      });
+    return (postsData.posts?.edges ?? [])
+      .map((edge) => edge.node)
+      .filter(
+        (post): post is RecentBufferPost & { channelId?: string } =>
+          !!post && post.channelId === this.credentials.channelId,
+      );
   }
 
   async publishText(text: string): Promise<{ id: string; status: string }> {
-    const data = await this.request<{
-      createPost?: {
-        __typename: string;
-        post?: { id: string; status: string };
-        message?: string;
-      };
-    }>(
-      `
+    const createdAt = new Date().toISOString();
+    try {
+      const data = await this.request<{
+        createPost?: {
+          __typename: string;
+          post?: { id: string; status: string };
+          message?: string;
+        };
+      }>(
+        `
         mutation CreatePost($input: CreatePostInput!) {
           createPost(input: $input) {
             __typename
@@ -410,60 +450,97 @@ export class BufferPublisher {
           }
         }
       `,
-      {
-        input: {
-          text,
-          channelId: this.credentials.channelId,
-          schedulingType: "automatic",
-          mode: "shareNow",
+        {
+          input: {
+            text,
+            channelId: this.credentials.channelId,
+            schedulingType: "automatic",
+            mode: "shareNow",
+          },
         },
-      },
-    );
-
-    const result = data.createPost;
-    if (result?.__typename !== "PostActionSuccess" || !result.post) {
-      throw new Error(
-        `Buffer rejected the post: ${result?.message ?? result?.__typename ?? "unknown error"}`,
       );
+
+      const result = data.createPost;
+      if (result?.__typename !== "PostActionSuccess" || !result.post) {
+        throw new Error(
+          `Buffer rejected the post: ${result?.message ?? result?.__typename ?? "unknown error"}`,
+        );
+      }
+      this.createdPosts.set(result.post.id, {
+        ...result.post,
+        text,
+        createdAt,
+      });
+      return { id: result.post.id, status: result.post.status };
+    } catch (error) {
+      // A timeout may have created a post. Recovery must consult the server
+      // again rather than treating an earlier empty snapshot as authoritative.
+      if (!(error instanceof BufferRateLimitError))
+        this.recentPosts = undefined;
+      throw error;
     }
-    return { id: result.post.id, status: result.post.status };
   }
 
   private async request<T>(
     query: string,
     variables: Record<string, unknown>,
   ): Promise<T> {
-    const response = await this.fetchImpl(BUFFER_API_URL, {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${this.credentials.apiKey}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ query, variables }),
-      signal: AbortSignal.timeout(30_000),
-    });
+    if (this.retryAt > Date.now()) throw new BufferRateLimitError(this.retryAt);
+    for (let attempt = 1; ; attempt++) {
+      const response = await this.fetchImpl(BUFFER_API_URL, {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${this.credentials.apiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ query, variables }),
+        signal: AbortSignal.timeout(30_000),
+      });
 
-    let payload: BufferResponse<T>;
-    try {
-      payload = (await response.json()) as BufferResponse<T>;
-    } catch {
-      throw new Error(
-        `Buffer API returned invalid JSON (HTTP ${response.status})`,
-      );
-    }
+      // Only retry explicit rejections. Timeouts and 5xx mutation responses may
+      // have created a post already, so those must retain delivery uncertainty.
+      if (response.status === 429) {
+        const header = response.headers.get("retry-after");
+        const seconds = header?.trim() ? Number(header) : NaN;
+        const date = header ? Date.parse(header) : NaN;
+        const delay = Number.isFinite(seconds)
+          ? Math.max(0, seconds * 1_000)
+          : Number.isFinite(date)
+            ? Math.max(0, date - Date.now())
+            : 1_000 * 2 ** (attempt - 1);
+        this.retryAt = Date.now() + delay;
+        await response.body?.cancel();
+        // Daily/monthly limits cannot be resolved within this job. Preserve the
+        // server's deadline and reject further calls without hammering the API.
+        if (attempt >= 3 || delay > 60_000)
+          throw new BufferRateLimitError(this.retryAt);
+        await this.sleep(delay);
+        continue;
+      }
+      this.retryAt = 0;
 
-    if (!response.ok) {
-      throw new Error(`Buffer API request failed (HTTP ${response.status})`);
-    }
-    if (payload.errors?.length) {
-      throw new Error(
-        `Buffer API GraphQL error: ${payload.errors[0]?.message ?? "unknown error"}`,
-      );
-    }
+      let payload: BufferResponse<T>;
+      try {
+        payload = (await response.json()) as BufferResponse<T>;
+      } catch {
+        throw new Error(
+          `Buffer API returned invalid JSON (HTTP ${response.status})`,
+        );
+      }
 
-    if (!payload.data) {
-      throw new Error("Buffer API response did not include data");
+      if (!response.ok) {
+        throw new Error(`Buffer API request failed (HTTP ${response.status})`);
+      }
+      if (payload.errors?.length) {
+        throw new Error(
+          `Buffer API GraphQL error: ${payload.errors[0]?.message ?? "unknown error"}`,
+        );
+      }
+
+      if (!payload.data) {
+        throw new Error("Buffer API response did not include data");
+      }
+      return payload.data;
     }
-    return payload.data;
   }
 }

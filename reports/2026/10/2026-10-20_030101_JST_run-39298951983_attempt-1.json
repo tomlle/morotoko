@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39298951983",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-19T18:01:01.780Z",
+    "finishedAt": "2026-10-19T18:01:23.499Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39298951983"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4769150",
+      "title": "Anomaly Jobs : Death Row",
+      "storeUrl": "https://store.steampowered.com/app/4769150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769150/fcffcce6dee38687a4a435e326afed000fbdfcfd/header.jpg?t=1792430844",
+      "officialDescription": "Same Path again and again. Everything looks familiar, until it does not. Some Anomalies hide in plain sight. Some are hard to spot. Find them, then take the correct exit. Every wrong choice lets the night draw closer."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3620040",
+      "title": "Fly Cowboy Online",
+      "storeUrl": "https://store.steampowered.com/app/3620040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3620040/2f5ae54174101080f3af81dd15c4de9174ce051d/header.jpg?t=1792425737",
+      "officialDescription": "フライカウボーイオンラインは、文明の遺跡の戦略的資源のための派閥の戦いに捧げられた大規模な無料のオンラインマルチプレイヤーゲームです。 惑星「Naviika」のさまざまな部分で絶えず行われる空中戦は、あなたを無関心にさせません。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4769150:permanent_free:1",
+      "productId": "4769150",
+      "title": "Anomaly Jobs : Death Row",
+      "status": "sent",
+      "bufferPostId": "6ad65af00af09e40f01fd37c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3620040:permanent_free:1",
+      "productId": "3620040",
+      "title": "Fly Cowboy Online",
+      "status": "sent",
+      "bufferPostId": "6ad65af22d69a6fbbf3c44fc"
+    }
+  ],
+  "errors": []
+}

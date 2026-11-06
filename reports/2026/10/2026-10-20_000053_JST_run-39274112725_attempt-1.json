@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39274112725",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-19T15:00:53.008Z",
+    "finishedAt": "2026-10-19T15:01:16.710Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39274112725"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 1,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5126160",
+      "title": "Tall Orders",
+      "storeUrl": "https://store.steampowered.com/app/5126160/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126160/0b4dc97c98bca76965182f3186ea95b06b86e588/header.jpg?t=1792418432",
+      "officialDescription": "Tall Orders is a co-op platforming game where you and a friend play as small gnomes tending to a wizard's potion shop for the day. Work together to overcome your size, find the right ingredients, and brew potions. But beware, handling the ingredients may cause strange side effects!"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2807960",
+      "title": "Battlefield™ 6",
+      "storeUrl": "https://store.steampowered.com/app/2807960/",
+      "initialPrice": 980000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1792168547",
+      "officialDescription": "究極の全面戦争体験。戦車、戦闘機、そして強大無比な兵器がひしめく戦争において、諸君の分隊が、最強の兵器だ。",
+      "tags": [
+        "マルチプレイヤー",
+        "FPS",
+        "ミリタリー",
+        "シングルプレイヤー",
+        "シューティング",
+        "アクション",
+        "戦争",
+        "現代",
+        "コンバット",
+        "バトルロイヤル",
+        "リアル",
+        "戦術",
+        "壮大",
+        "破壊",
+        "PvP",
+        "人工知能",
+        "暴力",
+        "協力プレイ",
+        "雰囲気",
+        "サンドボックス",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-20T17:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "313120",
+      "title": "Stranded Deep",
+      "storeUrl": "https://store.steampowered.com/app/313120/",
+      "initialPrice": 208000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313120/header.jpg?t=1785441084",
+      "officialDescription": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play. Scavenge. Discover. Survive.",
+      "tags": [
+        "オープンワールドサバイバルクラフト",
+        "サバイバル",
+        "マルチプレイヤー",
+        "オープンワールド",
+        "クラフト",
+        "ファーストパーソン",
+        "アドベンチャー",
+        "探検",
+        "リアル",
+        "シングルプレイヤー",
+        "建設",
+        "協力プレイ",
+        "サンドボックス",
+        "シミュレーション",
+        "水中",
+        "早期アクセス",
+        "アクション",
+        "雰囲気",
+        "インディー",
+        "ストラテジー",
+        "+"
+      ],
+      "startsAt": "2026-10-15T17:00:00.000Z",
+      "endsAt": "2026-10-19T17:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5126160:permanent_free:1",
+      "productId": "5126160",
+      "title": "Tall Orders",
+      "status": "sent",
+      "bufferPostId": "6ad630bb3ed3c094e9830bc6"
+    }
+  ],
+  "errors": []
+}

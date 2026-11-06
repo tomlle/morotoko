@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41241536592",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-31T21:01:04.114Z",
+    "finishedAt": "2026-10-31T21:01:22.436Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41241536592"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 22,
+    "verified": 5,
+    "newPromotions": 4,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5431590",
+      "title": "TrenchFin",
+      "storeUrl": "https://store.steampowered.com/app/5431590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431590/48bc36b4977142188761f8b23c157604c6ca7a46/header.jpg?t=1793472613",
+      "officialDescription": "TrenchFin is a 3rd person behind the character 3D platformer melee combat game that follows Asha Trenchfin, an anglerfish on a mission to reach the top of a spiraling reef to save the magic coral tree from a terrifying Leviathan by using her light to reveal invisible platforms and enemies."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3571980",
+      "title": "Keymaker",
+      "storeUrl": "https://store.steampowered.com/app/3571980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3571980/802618674c11f57c9f9bd3da8e2963b34e4c19b6/header.jpg?t=1793471406",
+      "officialDescription": "This game is a chill puzzle game, with stories of people daily lifes in 90's and millennium. The game features two types of locks: Locks with \"Damaged Zones\": repair by dragging components horizontally or vertically to create match3. Four-Way Security Locks: These require you to maintain a balance."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4431370",
+      "title": "My Ramen Stand",
+      "storeUrl": "https://store.steampowered.com/app/4431370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4431370/08b710c957e0a56807038a96c24b2368cf5cb8cd/header.jpg?t=1793473353",
+      "officialDescription": "My Ramen Stand is a cosy yet chaotic single player cooking game where you prepare ramen, serve customers, and grow your kitchen as your career progresses. Watch it go from a quiet, humble stall to the busiest most famous Ramen in Tokyo."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2160130",
+      "title": "Orion's Reach",
+      "storeUrl": "https://store.steampowered.com/app/2160130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160130/d9be10a609a0370bd1648f96a6915eec3795977e/header.jpg?t=1793394193",
+      "officialDescription": "A sci-fi match-3 adventure where every move carries the story forward. Break through blockers, chain cascades and master chapter-specific puzzles across 440 levels. Follow an unlikely crew, chase a new high score in Infinite, or challenge rivals in online Versus."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5431590:permanent_free:1",
+      "productId": "5431590",
+      "title": "TrenchFin",
+      "status": "sent",
+      "bufferPostId": "6ae6571c21c807e9d5855f69"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3571980:permanent_free:1",
+      "productId": "3571980",
+      "title": "Keymaker",
+      "status": "sent",
+      "bufferPostId": "6ae6571e37c1acd2a0ce0982"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4431370:permanent_free:1",
+      "productId": "4431370",
+      "title": "My Ramen Stand",
+      "status": "sent",
+      "bufferPostId": "6ae6571fcf3a3112f3c2f384"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2160130:permanent_free:1",
+      "productId": "2160130",
+      "title": "Orion's Reach",
+      "status": "sent",
+      "bufferPostId": "6ae657211ee172cd6dc21777"
+    }
+  ],
+  "errors": []
+}

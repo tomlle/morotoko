@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39892663262",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T03:00:57.835Z",
+    "finishedAt": "2026-10-23T03:01:19.321Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39892663262"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 19,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4773930",
+      "title": "君临传奇之风起云涌",
+      "storeUrl": "https://store.steampowered.com/app/4773930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773930/cfae1d952ac8f78f43245e6e3e8a8a4ff9e64c10/header.jpg?t=1792724417",
+      "officialDescription": "江湖将乱，风云已动！经典复古高爆国战版传奇，专为兄弟情义与热血厮杀而生！不氪金照样封神，不将就才能称王。极品装备、绝世武学全凭实力爆出，BOSS越狠，爆得越疯，捡到你手软！ 战鼓擂响，屠龙在手，兄弟们整装待发——攻沙、夺城、君临天下！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5276120",
+      "title": "1.76流派传奇",
+      "storeUrl": "https://store.steampowered.com/app/5276120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5276120/2aeda1b334d7d0dc4855c8a49d0f827e74e777ef/header.jpg?t=1792723873",
+      "officialDescription": "全新传奇《1.76流派传奇》，耗时两年精心雕琢，倾尽心血打造诚意巨献！以原创剧情为灵魂的基础上，它保留了传奇的核心玩法（打怪、升级、爆装备、攻沙巴克）超级大陆为舞台🌏，秉持“不肝不氪”的友好理念🥰，同时增加了魂器、专属装备、不同职业的多种流派等独具特色的新内容，让游戏体验既怀旧又新奇，该版本节奏快，爆率高，材料易得，PK更爽快，主打一个“爽”字，为玩家开启一场别具一格的传奇冒险之旅🚀！！！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5179280",
+      "title": "女神育成：アイドルRPG",
+      "storeUrl": "https://store.steampowered.com/app/5179280/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179280/e106d177cb79622fa7fe2939f1b2e98f026f4963/header_japanese.jpg?t=1792720006",
+      "officialDescription": "『女神育成：アイドル RPG』は、デスクトップ放置育成に対応した王道美少女ファンタジー JRPG です。魔物が蔓延るファンタジー大陸を舞台に、プレイヤーは契約者として旅立ち、異なる文明から集めた美しい女神戦士と絆の契約を結び、パーティを組んでゴブリンやミノタウロスなどの邪悪な魔物軍団を討伐し、災厄の奥に隠された驚くべき陰謀を解き明かしていきます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5120560",
+      "title": "ERA-ming（时代：明末）",
+      "storeUrl": "https://store.steampowered.com/app/5120560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120560/820c2b0c266258e0fb86366513c432d3f32112ea/header.jpg?t=1792716933",
+      "officialDescription": "这个游戏是我使用AI编写的，最大特色应该算是可以使用自然语言进行指令，进行游戏，不过游戏目前还只能算是有个主体框架，就像简介里说的，游戏还缺少大量素材使游戏丰满起来，当前的文本模式说实话还是有点乏味。如果有朋友有兴趣可以访问网站，来这里创建各类素材将游戏丰满起来。甚至可以在这里获取游戏代码，回去做重新创作。steam中的游戏包中有完整的可运行程序，可通过按钮和自然语言进行游戏。 官方网站在游戏压缩包中存在，访问官网后，您可以在剧本，素材等页面创建游戏相关文件，在代码页面看到本游戏的代码，游戏页面可以找到游戏压缩包，所以你想做点什么？ 欢迎您的加入。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5382570",
+      "title": "Rêverie: Audio Stories",
+      "storeUrl": "https://store.steampowered.com/app/5382570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5382570/666c65befaf3f47fe27d37bca31ec6cdb34a1e4b/header.jpg?t=1792713784",
+      "officialDescription": "Close your eyes, listen, and choose. Rêverie brings you illustrated audio stories where your choices change the ending. Two free stories: a king's messenger on a stormy medieval night, and a fairy tale full of songs for young and old. No ads."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4773930:permanent_free:1",
+      "productId": "4773930",
+      "title": "君临传奇之风起云涌",
+      "status": "sent",
+      "bufferPostId": "6adacdf4cc1b7cdc08c945a0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5276120:permanent_free:1",
+      "productId": "5276120",
+      "title": "1.76流派传奇",
+      "status": "sent",
+      "bufferPostId": "6adacdf6535235087b7a9e43"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5179280:permanent_free:1",
+      "productId": "5179280",
+      "title": "女神育成：アイドルRPG",
+      "status": "sent",
+      "bufferPostId": "6adacdf8d447d56a6473223d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5120560:permanent_free:1",
+      "productId": "5120560",
+      "title": "ERA-ming（时代：明末）",
+      "status": "sent",
+      "bufferPostId": "6adacdfacc1b7cdc08c94801"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5382570:permanent_free:1",
+      "productId": "5382570",
+      "title": "Rêverie: Audio Stories",
+      "status": "sent",
+      "bufferPostId": "6adacdfe8d2197cb2a112cdd"
+    }
+  ],
+  "errors": []
+}

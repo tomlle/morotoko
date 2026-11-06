@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39573612223",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-21T09:01:00.331Z",
+    "finishedAt": "2026-10-21T09:01:10.927Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39573612223"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4898790",
+      "title": "Crosstalk",
+      "storeUrl": "https://store.steampowered.com/app/4898790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898790/e80892579986c3e756cab69bac8ba2b73d0fb526/header.jpg?t=1792570678",
+      "officialDescription": "Crosstalk is a hardware architecture design sandbox with a built-in, fully inspectable simulator and emulator. Players build designs ranging from LED controllers to complex computers using SystemVerilog, then program them. It has a gate-level simulator, introspection tools, a compiler, and more."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4898790:permanent_free:1",
+      "productId": "4898790",
+      "title": "Crosstalk",
+      "status": "sent",
+      "bufferPostId": "6ad87f54d0cc3336f115ace6"
+    }
+  ],
+  "errors": []
+}

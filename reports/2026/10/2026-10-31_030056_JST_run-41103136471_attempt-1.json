@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41103136471",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T18:00:56.578Z",
+    "finishedAt": "2026-10-30T18:01:22.367Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41103136471"
+  },
+  "detection": {
+    "searched": 168,
+    "candidates": 26,
+    "verified": 9,
+    "newPromotions": 8,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 8,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Singleplayer",
+        "Level Editor",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/3b5f838a87fa7eb12365c85ded2063b23abaf7c3/header_alt_assets_0.jpg?t=1793051713",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "Exploration",
+        "2D",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5238690",
+      "title": "Idle Legions",
+      "storeUrl": "https://store.steampowered.com/app/5238690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238690/d841fbbf1cdd66749aad15aa21a5d3b8a07a487f/header.jpg?t=1793383133",
+      "officialDescription": "軍団は自動で戦う。ゲームを閉じていても止まらない。英雄は8人（うち5人は無料）、幕は6つ、ボスはそれぞれ固有のギミックを持つ。装備を鍛え、ペットを育てる。他のプレイヤーを相手にビルドを試す。ほかでは手に入らない戦利品を求めて、深淵へ降りる。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4631100",
+      "title": "Arcany",
+      "storeUrl": "https://store.steampowered.com/app/4631100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631100/eb54c7dee9708ed51296ad8066b62817f97eec70/header.jpg?t=1793379648",
+      "officialDescription": "Arcany is a cozy persistent online world set in the mysterious Realm of Gravenmoor. Train skills, explore a magical land, craft powerful items, and uncover the story behind the forgotten cataclysme."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4713410",
+      "title": "Cthuloop",
+      "storeUrl": "https://store.steampowered.com/app/4713410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4713410/22828173f41c5f4521ee80412463b7666d5d98b3/header.jpg?t=1793379642",
+      "officialDescription": "Dive into madness in CTHULOOP, a 1st-person cosmic horror adventure game. Trapped in a loop, you must observe eerie anomalies and piece together cryptic clues before your sanity fractures completely. Can you escape, or will you loop forever? Developed for the GMTK 2025 Game Jam (theme: \"Loop\")."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4127390",
+      "title": "Montone",
+      "storeUrl": "https://store.steampowered.com/app/4127390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127390/1b558aa4e6739ae6c24d2184566eb435f94e7528/header.jpg?t=1793379113",
+      "officialDescription": "Montone is a story horror exit game, where you walk your way though a seemingly never ending apartment and industrial building. Stay hidden and move with care, you might have to face your biggest fears. And always look for an exit, it is your only chance of survival. Good luck on your journey!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4902150",
+      "title": "Bellus Party",
+      "storeUrl": "https://store.steampowered.com/app/4902150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902150/81c3a9c6887531c1993d078c9528d41f7d16e55b/header.jpg?t=1793377869",
+      "officialDescription": "Bellus Party is an early access multiplayer party game where cute cats compete in chaotic mini-games. Inspired by classic party games, Bellus Party focuses on fast, chaotic, and competitive moments that are easy to jump into with friends. May the best cat win!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5168580",
+      "title": "Blooby Idle",
+      "storeUrl": "https://store.steampowered.com/app/5168580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5168580/a1334c84e288c010429905af7899ad31bf7eba55/header.jpg?t=1793380198",
+      "officialDescription": "BLOOBY Idle is a desktop idle game where BLOOBY fights endless waves of the Tumor to save the one she loves. Collect loot, upgrade your weapons, prestige and grow stronger while BLOOBY battles on your desktop as you work, browse or play."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4853830",
+      "title": "Dark Spawn: Infestation",
+      "storeUrl": "https://store.steampowered.com/app/4853830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853830/62ee374ac3160a27e786b817bf140bba89c0afd7/header.jpg?t=1793376069",
+      "officialDescription": "Dark Spawn: Infestation is a horror adventure game set in a Victorian-era inspired research facility. The protagonist got abducted by evil scientists, and has to solve puzzles and avoid strange creatures to escape."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:1583850:1",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "status": "sent",
+      "bufferPostId": "6ae4db65cd8290b9b904ccb1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5238690:permanent_free:1",
+      "productId": "5238690",
+      "title": "Idle Legions",
+      "status": "sent",
+      "bufferPostId": "6ae4db67cd8290b9b904cdb3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4631100:permanent_free:1",
+      "productId": "4631100",
+      "title": "Arcany",
+      "status": "sent",
+      "bufferPostId": "6ae4db69260ad0ee5bbfd565"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4713410:permanent_free:1",
+      "productId": "4713410",
+      "title": "Cthuloop",
+      "status": "sent",
+      "bufferPostId": "6ae4db6a34702c2daac3a944"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4127390:permanent_free:1",
+      "productId": "4127390",
+      "title": "Montone",
+      "status": "sent",
+      "bufferPostId": "6ae4db6c260ad0ee5bbfd77c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4902150:permanent_free:1",
+      "productId": "4902150",
+      "title": "Bellus Party",
+      "status": "sent",
+      "bufferPostId": "6ae4db6ea351214acf9fd224"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5168580:permanent_free:1",
+      "productId": "5168580",
+      "title": "Blooby Idle",
+      "status": "sent",
+      "bufferPostId": "6ae4db6fa351214acf9fd2c9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4853830:permanent_free:1",
+      "productId": "4853830",
+      "title": "Dark Spawn: Infestation",
+      "status": "sent",
+      "bufferPostId": "6ae4db71cd8290b9b904d45d"
+    }
+  ],
+  "errors": []
+}

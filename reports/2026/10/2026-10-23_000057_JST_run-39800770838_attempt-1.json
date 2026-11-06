@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39800770838",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-22T15:00:57.646Z",
+    "finishedAt": "2026-10-22T15:01:12.295Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39800770838"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5354880",
+      "title": "A Hoard in Order",
+      "storeUrl": "https://store.steampowered.com/app/5354880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354880/73d7eb3506ebdd7bb856e1e7de51f81b7d501bd8/header.jpg?t=1792679284",
+      "officialDescription": "After a storm made a mess on The Salty Scallop, it is up to you, the Quartermaster, to put everything back in its place in this cozy sorting game."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3522130",
+      "title": "Dunthera - Tower Defense",
+      "storeUrl": "https://store.steampowered.com/app/3522130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522130/1fde792c9d56670166d2a9d4f43e322067203bbe/header.jpg?t=1792675564",
+      "officialDescription": "塔たちはいつもあなたを守ってきました…今度はあなたが塔たちを守る番です！個性的な能力、見た目、ステータスを持つユニークなモンスターと、さまざまなマップで戦いましょう。ヒーローを強化し、構造物を強化してラインを守り抜いてください！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5354880:permanent_free:1",
+      "productId": "5354880",
+      "title": "A Hoard in Order",
+      "status": "sent",
+      "bufferPostId": "6ada2534f09f431dcae477a0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3522130:permanent_free:1",
+      "productId": "3522130",
+      "title": "Dunthera - Tower Defense",
+      "status": "sent",
+      "bufferPostId": "6ada2536e8cca8cdcc59996f"
+    }
+  ],
+  "errors": []
+}

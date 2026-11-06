@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40458556418",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T06:01:05.906Z",
+    "finishedAt": "2026-10-27T06:01:17.073Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40458556418"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 19,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5112180",
+      "title": "神谕之窗.exe",
+      "storeUrl": "https://store.steampowered.com/app/5112180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112180/393827e17065c52e0d60b124005c810321bc58ee/header.jpg?t=1793075418",
+      "officialDescription": "A civilization-building simulation presented through an interface inspired by desktop operating systems. Become the divine steward of an ancient civilization, manipulate windows and resources, raise magnificent wonders, and guide your people through the rise and fall of an age."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5168340",
+      "title": "摸鱼小队",
+      "storeUrl": "https://store.steampowered.com/app/5168340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5168340/554bc7af53e9fe1587baaf5624be698d9ebfde6e/header.jpg?t=1792986375",
+      "officialDescription": "Slacker Squad is a lightweight desktop idle game that reacts to your keyboard and mouse activity. Work hard and your squad speeds up; slack off and they do too. Mine, cook, unlock characters, and capture defeated monsters as pets while your squad keeps you company."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5112180:permanent_free:1",
+      "productId": "5112180",
+      "title": "神谕之窗.exe",
+      "status": "sent",
+      "bufferPostId": "6ae03e293db43338b84371bc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5168340:permanent_free:1",
+      "productId": "5168340",
+      "title": "摸鱼小队",
+      "status": "sent",
+      "bufferPostId": "6ae03e2ba5938c4b32d3894e"
+    }
+  ],
+  "errors": []
+}

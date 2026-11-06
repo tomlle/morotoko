@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40056532239",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-24T03:00:51.166Z",
+    "finishedAt": "2026-10-24T03:01:08.184Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40056532239"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5365450",
+      "title": "BRASS: Hard Contact",
+      "storeUrl": "https://store.steampowered.com/app/5365450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365450/5980fdb380f6ef344bae08b8e688e797f957fac4/header.jpg?t=1792810787",
+      "officialDescription": "A realistic 2D military shooter. Rounds drop, crack past and punch through boards; fire pins men down; sandbags, smoke and the dark decide fights. Lead squad bots or fight friends over Steam in six modes across eight maps. No killstreaks, no power-ups, no health regen."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3839200",
+      "title": "Future Fab Heroes",
+      "storeUrl": "https://store.steampowered.com/app/3839200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839200/b7c4232e7531218a42edf79681ee5f11d47e0dfa/header.jpg?t=1792803799",
+      "officialDescription": "Future Fab Hero, your mission begins now! Team up with your robot companion, CHIP-E, to complete hands-on technology and manufacturing simulations, earn rewards, unlock upgrades, and defend the Mars Innovation Zone from alien threats in a unique educational adventure."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5195600",
+      "title": "QuestAway",
+      "storeUrl": "https://store.steampowered.com/app/5195600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
+      "officialDescription": "タスクバーのすぐ横で動く、小さな放置系RPG。ヒーローのパーティを組んで戦いに送り出したら、あとは作業に戻るだけ。戻ってきたときには、戦利品がたまっています。1日12回、みんなで巨大なコロッサスに挑みます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5365450:permanent_free:1",
+      "productId": "5365450",
+      "title": "BRASS: Hard Contact",
+      "status": "sent",
+      "bufferPostId": "6adc1f6ee4be8a4d863a92cb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3839200:permanent_free:1",
+      "productId": "3839200",
+      "title": "Future Fab Heroes",
+      "status": "sent",
+      "bufferPostId": "6adc1f708b3d437ddc9b2982"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5195600:permanent_free:1",
+      "productId": "5195600",
+      "title": "QuestAway",
+      "status": "sent",
+      "bufferPostId": "6adc1f723d5b27036b6448a6"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39974529879",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-23T15:00:56.342Z",
+    "finishedAt": "2026-10-23T15:01:10.015Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39974529879"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5358500",
+      "title": "Revving: Engine Simulator",
+      "storeUrl": "https://store.steampowered.com/app/5358500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5358500/102b1bb22be8a370c6831f70bd1af4bdebe7590c/header.jpg?t=1792766616",
+      "officialDescription": "Harley のVツインから F1 マシンの BRM H16 まで、19基のエンジンを始動し、空ぶかしし、シフトしよう。どのエンジンも目の前で3Dで回り、音はすべてシミュレーションした物理からリアルタイムに計算。ピストン、バルブ、吸排気の流れ、各シリンダーの燃焼まで再現し、録音もループ音源も使っていません。クラッチ、アクセル、ブレーキとHパターンのシフトレバーで操作し、クラッチを忘れるとギアが鳴ります。シーケンシャルやオートマも選べます。キーボード、マウス、ゲームパッドに対応。Honda B18C5 と Chevrolet 454 は無料。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4348500",
+      "title": "Furniture Restoration Simulator: Garage Edition - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/4348500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348500/c75e50114626da460fa956a057863368adb5504d/header.jpg?t=1792760473",
+      "officialDescription": "古く傷んだ家具を、再び美しい姿へと変えましょう。研磨、塗装、磨き上げを楽しみながら、リラックスした修復プロセスを体験してください。無料のプロローグ版をプレイして、リノベーションワークショップの第一歩を踏み出しましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5135750",
+      "title": "The Adventures of Zippy and Bippy",
+      "storeUrl": "https://store.steampowered.com/app/5135750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135750/4177ec394d8416d207eb89d62859f0a5aeab0c19/header.jpg?t=1792677350",
+      "officialDescription": "Join Zippy and Bippy on a chaotic 2D action-platforming adventure packed with bizarre villains, motorcycles, unexpected worlds, and plenty of laughs. Fight, dash, explore, and save the day—assuming these two can keep it together long enough."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5358500:permanent_free:1",
+      "productId": "5358500",
+      "title": "Revving: Engine Simulator",
+      "status": "sent",
+      "bufferPostId": "6adb76b191ffb6bdb08db707"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4348500:permanent_free:1",
+      "productId": "4348500",
+      "title": "Furniture Restoration Simulator: Garage Edition - Prologue",
+      "status": "sent",
+      "bufferPostId": "6adb76b36bf37011a37f8bb6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5135750:permanent_free:1",
+      "productId": "5135750",
+      "title": "The Adventures of Zippy and Bippy",
+      "status": "sent",
+      "bufferPostId": "6adb76b491ffb6bdb08db897"
+    }
+  ],
+  "errors": []
+}

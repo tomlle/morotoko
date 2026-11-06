@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41717804550",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-03T21:01:01.967Z",
+    "finishedAt": "2026-11-03T21:01:16.005Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41717804550"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5442520",
+      "title": "Blocade",
+      "storeUrl": "https://store.steampowered.com/app/5442520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442520/b2ea2e008194afd028c587e20cf9f4d1f3693b20/header.jpg?t=1793735421",
+      "officialDescription": "Race your pawn across the board and drop walls to cut off your rival, but never seal them in. Blocade is a free two-player strategy board game: ranked matches against real people on PC and mobile, a daily 128-player tournament, puzzles and a ladder of bots."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4450900",
+      "title": "The Things Left Behind",
+      "storeUrl": "https://store.steampowered.com/app/4450900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450900/6b170be741b98c6f5c0cf5d35149e56f89e69d1e/header.jpg?t=1793730124",
+      "officialDescription": "Soft, narrative-driven 2D indie-queer game that explores the little moments of Disabled and Queer experiences and the intersections between. Our team has woven these stories together, drawing from our lived experiences."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5442520:permanent_free:1",
+      "productId": "5442520",
+      "title": "Blocade",
+      "status": "sent",
+      "bufferPostId": "6aea4b98dd6313a10719a6d5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4450900:permanent_free:1",
+      "productId": "4450900",
+      "title": "The Things Left Behind",
+      "status": "sent",
+      "bufferPostId": "6aea4b9946499f925e7bf266"
+    }
+  ],
+  "errors": []
+}

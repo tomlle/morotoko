@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42171759939",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-06T06:00:59.514Z",
+    "finishedAt": "2026-11-06T06:02:23.388Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42171759939"
+  },
+  "detection": {
+    "searched": 215,
+    "candidates": 64,
+    "verified": 50,
+    "newPromotions": 45,
+    "knownPromotions": 5,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 50,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5300980",
+      "title": "Webbound",
+      "storeUrl": "https://store.steampowered.com/app/5300980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300980/9abd4d9234bc29a90e3e31e730785586643f67c7/header.jpg?t=1793944602",
+      "officialDescription": "Dive into a minimalist incremental game where you weave luminous webs with tactile string-vibration mechanics. Spare glowing fireflies to enhance your silk, close geometric regions for high-scoring chains, and evolve your modular spider across successive tiers into an apex predator."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5282080",
+      "title": "Dungeon Raiders",
+      "storeUrl": "https://store.steampowered.com/app/5282080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282080/54a3c34d8770b27c8676be789bd3cbe7808ca616/header.jpg?t=1793939980",
+      "officialDescription": "Dungeon Raiders is a dungeon exploration game. Illuminate the dark with voice lights, avoid monsters, collect relics, and escape safely. Sell relics to gear up and meet the company quota every 3 days. One more look, or head back now? Challenge yourself against escalating quotas in limited time."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5312540",
+      "title": "WinterClan: Hex Tactics",
+      "storeUrl": "https://store.steampowered.com/app/5312540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312540/49d1e03a3e91b44c1b44accb4aa0d9ca6fcda811/header.jpg?t=1793937705",
+      "officialDescription": "Command the frozen frontier—one hex, one hero, and one decisive move at a time."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4338800",
+      "title": "山海之痕",
+      "storeUrl": "https://store.steampowered.com/app/4338800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338800/815845060be33c80ccdcfd1c756d9be87025b785/header.jpg?t=1793938841",
+      "officialDescription": "🎮 一款以修真世界为故事背景，挂机刷BOSS、逆天改命的Idle RPG。闯关升级、打BOSS爆神装、结婚生子、组队讨伐、PVP竞技……内容多到玩不过来，却只需挂机操作！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5465860",
+      "title": "ANOMIA: Listening Post K-7",
+      "storeUrl": "https://store.steampowered.com/app/5465860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465860/9aef743f5d05f69ec25d08ff61e578cf6e02aa13/header.jpg?t=1793932949",
+      "officialDescription": "ANOMIA - 1977. Process signals and survive the harsh nights in your new spacious work unit, somewhere up North. Something isn't quite right in the snow, and strange messages are stashed throughout your room. Play through a 10 day story or play with friends online to survive as long as you can."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4637710",
+      "title": "Binary Proof",
+      "storeUrl": "https://store.steampowered.com/app/4637710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637710/cabeffba531bfaaad7e2242d527184115443657f/header.jpg?t=1793905182",
+      "officialDescription": "テストスペシャリストのアーロン・ブロンドは、日常の業務中に不気味で奇妙な出来事に遭遇する。論理が通用しないこの施設で、彼は周囲のあらゆる詳細を味方につけ、障害を乗り越えて一刻も早く脱出しなければならない。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5128170",
+      "title": "PROPERTY INSPECTION",
+      "storeUrl": "https://store.steampowered.com/app/5128170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5128170/e18ed1a5bfcf03a2dcf38584f39ea5c56886eaa2/header.jpg?t=1793901625",
+      "officialDescription": "あなたはStructural Core Servicesの検査官8821-A。47号室には4件の申告があり、そのすべてに、そこに住む子どもがシールを貼っている。はがす。調べる。チェックを入れる。クリップボードの報告書は、あなたより多くを知っている。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5270410",
+      "title": "AUROK",
+      "storeUrl": "https://store.steampowered.com/app/5270410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270410/e1e190fcbccb38c256eb97f20e273d143f91364b/header.jpg?t=1793910162",
+      "officialDescription": "Free-to-play action arena and co-op campaign. Pick Warrior, Archer, Mage or Barbarian, summon beasts that fight at your side, build a clan and brawl in 12-player free-for-all, 6v6 teams and Titan War. 10 co-op stages with bosses. macOS, Windows and Linux."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4773800",
+      "title": "幻境三国",
+      "storeUrl": "https://store.steampowered.com/app/4773800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773800/7471dceed985f1bac9143975e9d54f60ba99c98f/header.jpg?t=1793891579",
+      "officialDescription": "Fantasy Three Kingdoms is a chibi-style strategy and progression game inspired by the Three Kingdoms era. Recruit generals, train troops, upgrade equipment and formations, and position your forces for each battle."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5230120",
+      "title": "Treaty Ground: Corridor 2032",
+      "storeUrl": "https://store.steampowered.com/app/5230120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230120/4d1876590fb06134652c4535993888e3367a29f1/header.jpg?t=1793891402",
+      "officialDescription": "Command a tank section on the last unarmed border on Earth. Plan your routes, pin your orders, and hit GO — then keep commanding, because there is no pause and no rewind. Hits break systems, not health bars. Flanking doubles damage. Being seen is a resource you spend."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4146650",
+      "title": "MUPO",
+      "storeUrl": "https://store.steampowered.com/app/4146650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146650/45193bdaa94fe83ec00b0360b98b81610e7c3741/header.jpg?t=1793890754",
+      "officialDescription": "キーボードを持ってMUPOのリズムに飛び込みましょう。このハイテンポのリズムゲームは、スキル、創造性、コミュニティによって動いていきます。マップを作り、リーダーボードのランクを上げ、ゲームの未来を切り開きましょう。そして、まだまだたくさんのことが… お見逃しなく。MUPOが作り出す冒険に参加しませんか！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5247120",
+      "title": "TCG Football Card Shop Simulator - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5247120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247120/8e90dab107f775cd98d9fb1e0d1ccc2f398f3d82/header.jpg?t=1793890722",
+      "officialDescription": "自分だけのサッカーカードショップを経営しよう！カードパックを開封してレアな選手カードを集め、サッカーグッズを棚に並べ、お客様に販売し、店舗を拡大して最高のサッカーカードショップを作り上げよう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5415410",
+      "title": "VOLTGATE",
+      "storeUrl": "https://store.steampowered.com/app/5415410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5415410/1582a5003d0cbf4fb9c86e8b9e8435760a2e3a3d/header.jpg?t=1793890594",
+      "officialDescription": "Small robots, loud arenas, big knockouts. Build your robo, then take it into 1V1 duels, 4-robot FREE FOR ALL, 2V2 with your party or the HEADLINER co-op show. Free to play."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2460020",
+      "title": "Soar Up The Charts",
+      "storeUrl": "https://store.steampowered.com/app/2460020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2460020/header.jpg?t=1793890337",
+      "officialDescription": "A fast-paced rhythm game and arcade-style rail shooter where music is your weapon! 🎸With tracks provided by Alden Ave and Keep Flying, be ready to turn it up and blast your way through those radio robots! 🎺"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4556050",
+      "title": "Tzelem",
+      "storeUrl": "https://store.steampowered.com/app/4556050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556050/9f38713c7139985429636cd339ddf688ef56d688/header.jpg?t=1793882613",
+      "officialDescription": "The world is your playground, experiment to learn how it works. Tzelem (צֶלֶם) is an action dungeon-crawler, where you use cards to change the world, your weapon and yourself."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4910040",
+      "title": "GeForce 8800 GTX - 20 Years of a Legend",
+      "storeUrl": "https://store.steampowered.com/app/4910040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910040/9f9dfcc6b9072d6b920121590c7ee51368747ad8/header.jpg?t=1793881976",
+      "officialDescription": "Rediscover the thrill of unboxing a GeForce legend. Step into a 2006-era PC gaming room, install the GeForce 8800 GTX, and discover nostalgic easter eggs in a semi-interactive tech demo brought to life with DLSS 4.5 and path tracing."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3543960",
+      "title": "问题偶像的养成计划",
+      "storeUrl": "https://store.steampowered.com/app/3543960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3543960/header.jpg?t=1793869278",
+      "officialDescription": "Welcome to the private performing arts college full of love and dreams - Xingmengdian~! The sweat of youth and dreams is sprinkled in every corner of the college. Come and experience a happy and colorful campus life with the idols you meet!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5465230",
+      "title": "Townlet",
+      "storeUrl": "https://store.steampowered.com/app/5465230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465230/bf8dec063b3f2cab77c637839fbb10bedd84d437/header.jpg?t=1793866853",
+      "officialDescription": "タスクバーの上で、小さな中世の村が暮らしています。ファイルを削除するたびに空から村へ落ちてきて、小さな村人たちがデジタルのゴミを新しいひらめきや建物、お祭りに変えていきます。あなたが作業をしているあいだに、ひとつの焚き火が城壁の町へと育っていきます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3301840",
+      "title": "凡修",
+      "storeUrl": "https://store.steampowered.com/app/3301840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301840/dc648bf23fe2b2b1af4a197bb93cb99909d2f7e0/header.jpg?t=1793864914",
+      "officialDescription": "『凡修』は放置型の修仙ゲーム。ゲームを閉じている間も修練を続け、丹薬や法宝、珍しいアイテムを集めましょう。対応アイテムはSteamインベントリで管理でき、取引可能なものはコミュニティマーケットに出品できます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5052450",
+      "title": "Desktop Wallet Heroes",
+      "storeUrl": "https://store.steampowered.com/app/5052450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/7776c64488a2687f5638c308f50bda5b026d6ba2/header.jpg?t=1793876057",
+      "officialDescription": "デスクトップで直接展開される、白熱の放置系RPG！ Desktop Wallet Heroesは、画面の端でキャラクターが無限にモンスターを狩り続けるオーバーレイ配置の放置系RPGです。あなたの仕事やウェブブラウジングを妨げることは決してありません。 アイテムを絶えず合成・強化して敵を倒し、山のような戦利品を獲得しましょう！あなたのデスクトップが壮大な戦場になります！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4843600",
+      "title": "Epoch of Dimensions",
+      "storeUrl": "https://store.steampowered.com/app/4843600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843600/4d1c2cb43f7b18e9179af7e06e0f69204430c582/header.jpg?t=1793844179",
+      "officialDescription": "Epoch of Dimensions is a voxel building game. Command your character from a god's-eye view to move, place and destroy blocks in a modifiable world. Use area selection for bulk building and presets for quick placement. Simple controls, pure creative freedom — build anything."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5111880",
+      "title": "美食大冒险",
+      "storeUrl": "https://store.steampowered.com/app/5111880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111880/80b8458fe7382c8bba0823c0f1a2605749308b22/header.jpg?t=1793869201",
+      "officialDescription": "《美食大冒险之横扫天下》是一款横版冒险闯关游戏。携手众多美食伙伴踏上旅途，闯关探索美食大陆，培养强力美食伙伴，击败各路强敌。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4914750",
+      "title": "Sweet Corn Desktop Pet",
+      "storeUrl": "https://store.steampowered.com/app/4914750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914750/9e6706df4fd950cffdf9959919b85b0e0eee0fea/header.jpg?t=1793843915",
+      "officialDescription": "Interface Name Core Functions Desktop Floating Window Stands on the desktop; click to expand the primary function panel Primary Function Entry Panel Displays the core entry points for raising, dressing up, online play, and settings Raising Operation Panel"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5354940",
+      "title": "Wampoo",
+      "storeUrl": "https://store.steampowered.com/app/5354940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354940/07074b2985f24e7e300c6b0fde71916c170febe3/header.jpg?t=1793838767",
+      "officialDescription": "A card-driven marble race for 2–4 players. Play cards to race your marbles around the board, knock rivals back to Start, and swap your way Home — in teams or free-for-all, online with friends or against bots of three difficulty levels."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4938300",
+      "title": "Vilnius Museum of Antiquities: A Temple of the Past",
+      "storeUrl": "https://store.steampowered.com/app/4938300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938300/74ec7c83df317f4b3d71653ee0a99ffb7b18dc71/header.jpg?t=1793830460",
+      "officialDescription": "A virtual exhibition recreating the first public museum in Lithuania—the Vilnius Museum of Antiquities. Open the doors to the mid-19th century, discover over 100 unique historical exhibits, talk to the founder of the museum himself, and learn about the fate of the collection."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5321810",
+      "title": "与你的四季",
+      "storeUrl": "https://store.steampowered.com/app/5321810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5321810/8acd3405edca3ee30caa7e3292d15a3a44593dde/header.jpg?t=1793821246",
+      "officialDescription": "与你的新室友白音走过四季 经历不同的故事 体验不同的心动 共度四季解锁不同的心动结局吧"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4513920",
+      "title": "Axomorph Idle",
+      "storeUrl": "https://store.steampowered.com/app/4513920/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513920/d24da3a73d09c97a746937df1ab45c2b7115726a/header.jpg?t=1793841112",
+      "officialDescription": "Axomorph Idle, an idle biogentics game about evolving an axolotl from a cell to an ultimate axolotl form. Journey through an idle adventure through growth, expansion, mutation, and transcendence stages. If you love numbers, or axolotls, this game might be it for you. Try it out today for free!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4262460",
+      "title": "ROB RUN",
+      "storeUrl": "https://store.steampowered.com/app/4262460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+      "officialDescription": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5121140",
+      "title": "Nozile",
+      "storeUrl": "https://store.steampowered.com/app/5121140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5121140/538effd76faa460599f6891640f2a5d11ff2a784/header.jpg?t=1793807471",
+      "officialDescription": "Nozileは、最初から完成したビルドで暴れ回るハイスピード・ハクスラローグライク。2つのスタイルをリアルタイムで切り替え、敵から直にステータスオーブを吸収し、5分間の超濃密なランでインフレの限界を突破せよ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5425530",
+      "title": "Череп лицаря Говарда",
+      "storeUrl": "https://store.steampowered.com/app/5425530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425530/942ce75dd960dc7760a55f1c399181c284459ff2/header.jpg?t=1793803657",
+      "officialDescription": "Today, you are a guest. So forget your troubles, take a sip of hot tea, and listen to a tale of an artifact that, according to legend, can manipulate time..."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5065190",
+      "title": "浊流 (MuddyStream)",
+      "storeUrl": "https://store.steampowered.com/app/5065190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065190/811ff4b1787199cee36162fa2d48cfcb248f6e53/header.jpg?t=1793803181",
+      "officialDescription": "A third-person zombie survival action-adventure game set in the aftermath of a devastating disaster. Explore abandoned areas, combat infected enemies, gather resources, uncover the secrets of the apocalypse. And save everything you love."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5257590",
+      "title": "Grandma Left Me A Building - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5257590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5257590/9c589bc2f308a14d6593415370f7a04dc79944e1/header.jpg?t=1793801028",
+      "officialDescription": "おばあちゃんが遺したボロボロの建物を立て直す、ほっこりアパート経営シム。入居者を見つけて、家賃を集めて、建物をアップグレードしよう。でも真夜中にギターをかき鳴らすエルフと哲学講義をするイエティを隣同士にするのはやめた方がいい。終わらない要求と甘い混沌があなたを待っている。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5473010",
+      "title": "长白之火",
+      "storeUrl": "https://store.steampowered.com/app/5473010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473010/6ce8fab9950dca44030cefad7db30f5823529591/header.jpg?t=1793798148",
+      "officialDescription": "Fire of Changbai is a 2D real-time tactics game set against the backdrop of the anti-Japanese guerrilla war in Northeast China in the 1930s. The game's story and maps are drawn from real history, narrating—from the perspective of a Korean anti-Japanese leader."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5382010",
+      "title": "Pentatile",
+      "storeUrl": "https://store.steampowered.com/app/5382010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5382010/c6a6b897e534a5b5ad54f1ab6b4a230baf52010d/header.jpg?t=1793797531",
+      "officialDescription": "Start with a star. Grow something unexpected. Pentatile is a geometric sandbox where you build a colorful mosaic, discover new shapes in the spaces between, and share your creations with other explorers."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1868410",
+      "title": "Movie Night",
+      "storeUrl": "https://store.steampowered.com/app/1868410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868410/b07c6582ef03d7c6f3316391951b1d3174f563b2/header.jpg?t=1793792458",
+      "officialDescription": "Movie Night is a casual online multiplayer game giving players the ability to create their own virtual cinema to watch youtube with their friends in sync."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5464240",
+      "title": "UBOOTSIM",
+      "storeUrl": "https://store.steampowered.com/app/5464240/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5464240/fa7360e8c9e1cca57ff16cd2b4e0d8722600d2bd/header.jpg?t=1793783193",
+      "officialDescription": "Command a Type VIIC U-boat in the Strait of Gibraltar, November 1941. Use periscope, hydrophone and the Torpedo Data Computer to stalk escorted convoys, evade destroyers and aircraft, and run the Strait in historical missions. Free, no ads."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4935290",
+      "title": "Starfallen: Strength",
+      "storeUrl": "https://store.steampowered.com/app/4935290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935290/53c70349a38f3aba0f411c992227c83e5d2a94ca/header.jpg?t=1793894314",
+      "officialDescription": "Welcome to the Sky Ward, a fortress built with the purpose of discovering the mysteries of magic on the pangea Aelyria. As Lennon and Petra, who serve the Sky Ward. Explore and unveil the mysteries of the world, defend it, and fall in love along the way."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5382620",
+      "title": "FLICK PONG",
+      "storeUrl": "https://store.steampowered.com/app/5382620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5382620/284fcbe5ef58e5bdb941f749e2679311d5a39c63/header.jpg?t=1793769130",
+      "officialDescription": "FLICK PONG is a first-person table tennis game. Hold left click and flick the mouse through the ball: a fast flick hits hard, the direction of your flick is where it goes, and hooking your flick curves the ball. Challenge your friends online."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3339970",
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "storeUrl": "https://store.steampowered.com/app/3339970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339970/45188b5febd7dd0c8fc16a35c8f2a7d8ea0a87c1/header.jpg?t=1793766979",
+      "officialDescription": "Welcome to WendyQuest - a well-done 2D adventure RPG from Wendy’s packed with crispy combat, handcrafted pixel art, and fresh, never frozen puzzles. Play as redheaded warrior Wendy & battle evil mech-monsters to save a culinary kingdom in peril."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5416440",
+      "title": "The Last Debugger",
+      "storeUrl": "https://store.steampowered.com/app/5416440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5416440/fa7b92978a6536816b862dcb0c233ee30a2111c3/header.jpg?t=1793849367",
+      "officialDescription": "The Last Debugger is a turn-based roguelite deckbuilder where you collect equipment cards, combine powerful set effects, and plan around card speed and enemy intentions as four distinct characters fight through a broken game world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5328020",
+      "title": "Memórias de Arassay",
+      "storeUrl": "https://store.steampowered.com/app/5328020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328020/3f4218052c9b97b5c8e45c96418fb9269647074b/header.jpg?t=1793754586",
+      "officialDescription": "Memórias de Arassay is a pixel art game based on legends from Guarapuava, Brazil. Journey through 2D platforming stages inspired by the Lagoa das Lágrimas, the Capela do Degolado and the serpent beneath the Cathedral, in a retro style that brings players closer to local memory."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5402790",
+      "title": "Austin lost in maze",
+      "storeUrl": "https://store.steampowered.com/app/5402790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402790/a64ef9fc0425379ef6321dd724902be8ad09f3a0/header.jpg?t=1793754302",
+      "officialDescription": "Guide Austin through a twisting maze, solve puzzles, uncover hidden clues, and find a way out before the corridors swallow him whole."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4607460",
+      "title": "Gauchesca",
+      "storeUrl": "https://store.steampowered.com/app/4607460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607460/f25b0cf317b94e198d5ebc10be808503dd91b794/header.jpg?t=1793744338",
+      "officialDescription": "Gauchesca is a story-driven Truco game inspired by Argentine mythology. Play as Martina Chapanay, bluff and strategize against supernatural opponents in a deadly tournament where each match risks your soul."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5033230",
+      "title": "Hoops GM",
+      "storeUrl": "https://store.steampowered.com/app/5033230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033230/40ad63aaa0fa2a11cd490be3b7877f7d09ae8399/header.jpg?t=1793736637",
+      "officialDescription": "Run the front office, not the huddle. Hoops GM is a pure basketball GM sim: scout imperfectly, draft boldly, trade shrewdly, and survive the cap. No play-calling — your roster decisions win or lose the games. A deep, fast, text-first management sim."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4492590",
+      "title": "Nexaris",
+      "storeUrl": "https://store.steampowered.com/app/4492590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492590/670a54705db0dbaf2b0cf661b78804d9e2876c7f/header.jpg?t=1793733811",
+      "officialDescription": "Inspired by \"Triple Triad\", this tactical PvP card game delivers thrilling duels on a 4x4 grid. Combine elements and abilities strategically to win, climb the ranked ladder, and collect extraordinary cosmetic-only items!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5364920",
+      "title": "Universal Chess",
+      "storeUrl": "https://store.steampowered.com/app/5364920/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5364920/66d38b26b4d5644e2614f8c829d4690a67cd3755/header.jpg?t=1793694948",
+      "officialDescription": "Universal Chess is a chess variant on an 8×8 board. King and Queen are both Sovereigns. Play alone against the computer, with two people at one computer, or with two computers. Choose from 192 setups, the regime, and standard or enhanced movement."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5409660",
+      "title": "破壊伝説 瓦井",
+      "storeUrl": "https://store.steampowered.com/app/5409660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409660/8b851d69705f8c3113b2686840f7ec71320c9525/header.jpg?t=1793694637",
+      "officialDescription": "「もういい。」理不尽な日常に限界を迎えた建設作業員・瓦井鉄藏の騒動を描くシングルプレイヤーアクション。漫画形式の物語と見下ろし視点の戦闘を行き来し、攻撃とダッシュを使い分けて立ちはだかる群衆に挑もう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4843460",
+      "title": "Aethyr Idle",
+      "storeUrl": "https://store.steampowered.com/app/4843460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843460/f229a83f67fa7b768fe8208854498c866e0aecb6/header.jpg?t=1793823465",
+      "officialDescription": "An idle RPG with the build depth of an MMO. Pick one of four classes, climb a talent tree into one of twelve specializations, and write the spell rotation your hero fights with. Then dig into crafting, elements, Mythic+ dungeons and an endless Abyss. It runs while you're away."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1272080",
+      "title": "PAYDAY 3",
+      "storeUrl": "https://store.steampowered.com/app/1272080/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/3d85d86a3d2c792046792b19df83ceca0e6c58d3/header_alt_assets_12.jpg?t=1793901809",
+      "officialDescription": "『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせよ、獲物を手に脱出しろ。",
+      "tags": [
+        "強盗",
+        "協力プレイ",
+        "犯罪",
+        "マルチプレイヤー",
+        "アクション",
+        "FPS",
+        "シューティング",
+        "ステルス",
+        "戦術",
+        "オンライン協力プレイ",
+        "毒のあるユーモア",
+        "ファーストパーソン",
+        "PvE",
+        "カスタムガン",
+        "コンバット",
+        "RPG",
+        "3D",
+        "リアル",
+        "一騎当千方式シューティング",
+        "ルーターシューター",
+        "+"
+      ],
+      "startsAt": "2026-11-05T18:00:00.000Z",
+      "endsAt": "2026-11-09T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1669000",
+      "title": "Age of Wonders 4",
+      "storeUrl": "https://store.steampowered.com/app/1669000/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/88e025055b27f31e6685f70e0e3151071f6eb5f3/header_alt_assets_15_japanese.jpg?t=1793865947",
+      "officialDescription": "自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探検しよう。ターンごとに発展していく帝国とともに成長・変化する派閥を支配しよう！",
+      "tags": [
+        "ストラテジー",
+        "4X",
+        "ターン制ストラテジー",
+        "ファンタジー",
+        "キャラクターカスタマイズ",
+        "RPG",
+        "大戦略",
+        "ターン制コンバット",
+        "ダークファンタジー",
+        "戦争",
+        "戦術",
+        "戦略RPG",
+        "シミュレーション",
+        "ストラテジーRPG",
+        "マルチプレイヤー",
+        "探検",
+        "シングルプレイヤー",
+        "選択型進行",
+        "協力プレイ",
+        "MOD導入可能",
+        "+"
+      ],
+      "startsAt": "2026-11-05T18:00:00.000Z",
+      "endsAt": "2026-11-09T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4607460:permanent_free:1",
+      "productId": "4607460",
+      "title": "Gauchesca",
+      "status": "sent",
+      "bufferPostId": "6aed6d2ec1e74b84e5cd09d2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5416440:permanent_free:1",
+      "productId": "5416440",
+      "title": "The Last Debugger",
+      "status": "sent",
+      "bufferPostId": "6aed6d3007f945cca9443db0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5328020:permanent_free:1",
+      "productId": "5328020",
+      "title": "Memórias de Arassay",
+      "status": "sent",
+      "bufferPostId": "6aed6d3107f945cca9443f7a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5402790:permanent_free:1",
+      "productId": "5402790",
+      "title": "Austin lost in maze",
+      "status": "sent",
+      "bufferPostId": "6aed6d3207f945cca94440ea"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3339970:permanent_free:1",
+      "productId": "3339970",
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "status": "sent",
+      "bufferPostId": "6aed6d34dbada656bef74ee7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5300980:permanent_free:1",
+      "productId": "5300980",
+      "title": "Webbound",
+      "status": "sent",
+      "bufferPostId": "6aed6d3507f945cca94444b1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5282080:permanent_free:1",
+      "productId": "5282080",
+      "title": "Dungeon Raiders",
+      "status": "sent",
+      "bufferPostId": "6aed6d3686fe9b83797704dc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5312540:permanent_free:1",
+      "productId": "5312540",
+      "title": "WinterClan: Hex Tactics",
+      "status": "sent",
+      "bufferPostId": "6aed6d3886fe9b837977052a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4338800:permanent_free:1",
+      "productId": "4338800",
+      "title": "山海之痕",
+      "status": "sent",
+      "bufferPostId": "6aed6d397b7e47e8f40ed6c9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5465860:permanent_free:1",
+      "productId": "5465860",
+      "title": "ANOMIA: Listening Post K-7",
+      "status": "sent",
+      "bufferPostId": "6aed6d3a07f945cca9444985"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4637710:permanent_free:1",
+      "productId": "4637710",
+      "title": "Binary Proof",
+      "status": "sent",
+      "bufferPostId": "6aed6d3bdbada656bef75481"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5128170:permanent_free:1",
+      "productId": "5128170",
+      "title": "PROPERTY INSPECTION",
+      "status": "sent",
+      "bufferPostId": "6aed6d3d07f945cca9444a5e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5270410:permanent_free:1",
+      "productId": "5270410",
+      "title": "AUROK",
+      "status": "sent",
+      "bufferPostId": "6aed6d3ec1e74b84e5cd13d6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4773800:permanent_free:1",
+      "productId": "4773800",
+      "title": "幻境三国",
+      "status": "sent",
+      "bufferPostId": "6aed6d3f7b7e47e8f40edda6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5230120:permanent_free:1",
+      "productId": "5230120",
+      "title": "Treaty Ground: Corridor 2032",
+      "status": "sent",
+      "bufferPostId": "6aed6d417b7e47e8f40edfa8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4146650:permanent_free:1",
+      "productId": "4146650",
+      "title": "MUPO",
+      "status": "sent",
+      "bufferPostId": "6aed6d4286fe9b8379770b1b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5247120:permanent_free:1",
+      "productId": "5247120",
+      "title": "TCG Football Card Shop Simulator - Prologue",
+      "status": "sent",
+      "bufferPostId": "6aed6d4307f945cca9444da2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5415410:permanent_free:1",
+      "productId": "5415410",
+      "title": "VOLTGATE",
+      "status": "sent",
+      "bufferPostId": "6aed6d457b7e47e8f40ee233"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2460020:permanent_free:1",
+      "productId": "2460020",
+      "title": "Soar Up The Charts",
+      "status": "sent",
+      "bufferPostId": "6aed6d4686fe9b8379770cd5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4556050:permanent_free:1",
+      "productId": "4556050",
+      "title": "Tzelem",
+      "status": "sent",
+      "bufferPostId": "6aed6d4707f945cca9444f10"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4910040:permanent_free:1",
+      "productId": "4910040",
+      "title": "GeForce 8800 GTX - 20 Years of a Legend",
+      "status": "sent",
+      "bufferPostId": "6aed6d49dbada656bef75c33"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3543960:permanent_free:1",
+      "productId": "3543960",
+      "title": "问题偶像的养成计划",
+      "status": "sent",
+      "bufferPostId": "6aed6d4a7b7e47e8f40ee38c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5465230:permanent_free:1",
+      "productId": "5465230",
+      "title": "Townlet",
+      "status": "sent",
+      "bufferPostId": "6aed6d4bc1e74b84e5cd1958"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3301840:permanent_free:1",
+      "productId": "3301840",
+      "title": "凡修",
+      "status": "sent",
+      "bufferPostId": "6aed6d4c86fe9b8379770e51"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5052450:permanent_free:1",
+      "productId": "5052450",
+      "title": "Desktop Wallet Heroes",
+      "status": "sent",
+      "bufferPostId": "6aed6d4edbada656bef75d3c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4843600:permanent_free:1",
+      "productId": "4843600",
+      "title": "Epoch of Dimensions",
+      "status": "sent",
+      "bufferPostId": "6aed6d4f86fe9b8379770ed0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5111880:permanent_free:1",
+      "productId": "5111880",
+      "title": "美食大冒险",
+      "status": "sent",
+      "bufferPostId": "6aed6d507b7e47e8f40ee911"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4914750:permanent_free:1",
+      "productId": "4914750",
+      "title": "Sweet Corn Desktop Pet",
+      "status": "sent",
+      "bufferPostId": "6aed6d51dbada656bef75e2b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5354940:permanent_free:1",
+      "productId": "5354940",
+      "title": "Wampoo",
+      "status": "sent",
+      "bufferPostId": "6aed6d53dbada656bef75e7c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4938300:permanent_free:1",
+      "productId": "4938300",
+      "title": "Vilnius Museum of Antiquities: A Temple of the Past",
+      "status": "sent",
+      "bufferPostId": "6aed6d5486fe9b83797710f6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5321810:permanent_free:1",
+      "productId": "5321810",
+      "title": "与你的四季",
+      "status": "sent",
+      "bufferPostId": "6aed6d55c1e74b84e5cd1dbe"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4513920:permanent_free:1",
+      "productId": "4513920",
+      "title": "Axomorph Idle",
+      "status": "sent",
+      "bufferPostId": "6aed6d5607f945cca9445594"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4262460:permanent_free:1",
+      "productId": "4262460",
+      "title": "ROB RUN",
+      "status": "sent",
+      "bufferPostId": "6aed6d5886fe9b83797711f8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5121140:permanent_free:1",
+      "productId": "5121140",
+      "title": "Nozile",
+      "status": "sent",
+      "bufferPostId": "6aed6d5986fe9b837977125e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5425530:permanent_free:1",
+      "productId": "5425530",
+      "title": "Череп лицаря Говарда",
+      "status": "sent",
+      "bufferPostId": "6aed6d5b07f945cca944571e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5065190:permanent_free:1",
+      "productId": "5065190",
+      "title": "浊流 (MuddyStream)",
+      "status": "sent",
+      "bufferPostId": "6aed6d5cdbada656bef76200"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5257590:permanent_free:1",
+      "productId": "5257590",
+      "title": "Grandma Left Me A Building - Prologue",
+      "status": "sent",
+      "bufferPostId": "6aed6d5df3498efda77289e3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5473010:permanent_free:1",
+      "productId": "5473010",
+      "title": "长白之火",
+      "status": "sent",
+      "bufferPostId": "6aed6d5f7b7e47e8f40eecc2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5382010:permanent_free:1",
+      "productId": "5382010",
+      "title": "Pentatile",
+      "status": "sent",
+      "bufferPostId": "6aed6d60dbada656bef76287"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1868410:permanent_free:1",
+      "productId": "1868410",
+      "title": "Movie Night",
+      "status": "sent",
+      "bufferPostId": "6aed6d61c1e74b84e5cd2078"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5464240:permanent_free:1",
+      "productId": "5464240",
+      "title": "UBOOTSIM",
+      "status": "sent",
+      "bufferPostId": "6aed6d62f3498efda7728aac"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4935290:permanent_free:1",
+      "productId": "4935290",
+      "title": "Starfallen: Strength",
+      "status": "sent",
+      "bufferPostId": "6aed6d6407f945cca944591b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5382620:permanent_free:1",
+      "productId": "5382620",
+      "title": "FLICK PONG",
+      "status": "sent",
+      "bufferPostId": "6aed6d6586fe9b837977183d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5033230:permanent_free:1",
+      "productId": "5033230",
+      "title": "Hoops GM",
+      "status": "sent",
+      "bufferPostId": "6aed6d66dbada656bef764b9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4492590:permanent_free:1",
+      "productId": "4492590",
+      "title": "Nexaris",
+      "status": "sent",
+      "bufferPostId": "6aed6d67f3498efda7728db0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5364920:permanent_free:1",
+      "productId": "5364920",
+      "title": "Universal Chess",
+      "status": "sent",
+      "bufferPostId": "6aed6d69dbada656bef76576"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5409660:permanent_free:1",
+      "productId": "5409660",
+      "title": "破壊伝説 瓦井",
+      "status": "sent",
+      "bufferPostId": "6aed6d6ac1e74b84e5cd25c7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4843460:permanent_free:1",
+      "productId": "4843460",
+      "title": "Aethyr Idle",
+      "status": "sent",
+      "bufferPostId": "6aed6d6b07f945cca9445b2c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1272080:temporary_play:1",
+      "productId": "1272080",
+      "title": "PAYDAY 3",
+      "status": "sent",
+      "bufferPostId": "6aed6d6c07f945cca9445ba6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1669000:temporary_play:1",
+      "productId": "1669000",
+      "title": "Age of Wonders 4",
+      "status": "sent",
+      "bufferPostId": "6aed6d6ef3498efda7728edf"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41076722559",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T15:00:58.071Z",
+    "finishedAt": "2026-10-30T15:01:25.695Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41076722559"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 26,
+    "verified": 9,
+    "newPromotions": 8,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 8,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5402200",
+      "title": "Primal Realms",
+      "storeUrl": "https://store.steampowered.com/app/5402200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402200/08b8a8630564bcbc9a7198102cd81d1a29e792c1/header.jpg?t=1793372434",
+      "officialDescription": "Primal Realms is a multiplayer survival strategy game where you gather resources, build structures and face creatures across multiple maps. Inspired by my Warcraft III map, Jurassic Survival, it brings that experience into a standalone game with its own systems."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4492040",
+      "title": "Restless Rites - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/4492040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492040/027034c0e9d3eb09173ac352058686771daad176/header.jpg?t=1793370728",
+      "officialDescription": "Experience the start of a tale about a cursed chapel located in a forgotten corner of a small town. Maintain your daily routine, improvise with limited tools, and complete your tasks before nightfall in a surreal horror experience marked by maintenance and decay."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4574330",
+      "title": "Borrowed Faces",
+      "storeUrl": "https://store.steampowered.com/app/4574330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574330/a024025bc9d00fdef81e57e490f726fc6874b437/header.jpg?t=1793370165",
+      "officialDescription": "Help stranded humans escape an otherworldly realm as you pick them up on your bus route. Investigate and interrogate each new arrival to ensure they don't devour you or your passengers as you head to your safehouse."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4693550",
+      "title": "Дорога Жизни",
+      "storeUrl": "https://store.steampowered.com/app/4693550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693550/c8b4f1592e927bc72d1be373c1da7c6d5698832c/header.jpg?t=1793368736",
+      "officialDescription": "In the winter of 1942, you drive a GAZ-AA truck across frozen Lake Ladoga, carrying supplies to besieged Leningrad. Blizzards hide the road, your engine can fail far from shore, and enemy aircraft patrol the sky. You’ll meet people who need your help, and it’s up to you whether to stop."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3701290",
+      "title": "Farm & Drive",
+      "storeUrl": "https://store.steampowered.com/app/3701290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3701290/2d539ce7f24827c49b326f24244a58270a68b956/header.jpg?t=1793366693",
+      "officialDescription": "Farm trucks with a crew on the back fight on one fenced farm. Cut crops for coins, spend them on crew between rounds, and watch them fight for you. A chaotic auto-battler on wheels for 1 to 4 players, online or against bots. The last truck still driving wins."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5007010",
+      "title": "Bus Terminal Simulator: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5007010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007010/07c137f640902a3f8064a31e4cb05c2210061884/header.jpg?t=1793366783",
+      "officialDescription": "没入型ターミナル管理シミュレーターを体験しよう。乗客を管理し、スケジュールを整理し、手荷物を検査し、密輸者を捕まえ、違法行為を防ごう。すべての乗客が善意ではありません。中にはあなたを騙したり、違法な物品を運ぼうとする者もいます。注意深くターミナルを効率的に運営してください。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5034400",
+      "title": "Patchy",
+      "storeUrl": "https://store.steampowered.com/app/5034400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034400/40611e44056721b34a2ab8388206a11cc227fd75/header.jpg?t=1793364727",
+      "officialDescription": "An idle fishing game that lives on your desktop, right on top of your taskbar. Your chosen angler casts all day while you work or play. Click a bite for a better catch, fill your aquarium with your best fish, and keep watch for Patchy, the legendary fish nobody has ever caught."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5017520",
+      "title": "Castores vs Topos",
+      "storeUrl": "https://store.steampowered.com/app/5017520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017520/cd58cf37f2b2ff86f486d97b43eb4b31831536ac/header.jpg?t=1793364722",
+      "officialDescription": "A turn-based board game: beavers versus moles. Create or join an online lobby, play on the same PC, or face off against the AI. An easy-to-learn strategy game."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5402200:permanent_free:1",
+      "productId": "5402200",
+      "title": "Primal Realms",
+      "status": "sent",
+      "bufferPostId": "6ae4b1379394ea34c11e0548"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4492040:permanent_free:1",
+      "productId": "4492040",
+      "title": "Restless Rites - Prologue",
+      "status": "sent",
+      "bufferPostId": "6ae4b1393faa32d97821ceaa"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4574330:permanent_free:1",
+      "productId": "4574330",
+      "title": "Borrowed Faces",
+      "status": "sent",
+      "bufferPostId": "6ae4b13a9394ea34c11e076a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4693550:permanent_free:1",
+      "productId": "4693550",
+      "title": "Дорога Жизни",
+      "status": "sent",
+      "bufferPostId": "6ae4b13c79ddf9a28aff467a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3701290:permanent_free:1",
+      "productId": "3701290",
+      "title": "Farm & Drive",
+      "status": "sent",
+      "bufferPostId": "6ae4b13ee266b27191f0de7b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5007010:permanent_free:1",
+      "productId": "5007010",
+      "title": "Bus Terminal Simulator: Prologue",
+      "status": "sent",
+      "bufferPostId": "6ae4b13f79ddf9a28aff47c9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5034400:permanent_free:1",
+      "productId": "5034400",
+      "title": "Patchy",
+      "status": "sent",
+      "bufferPostId": "6ae4b1413faa32d97821d246"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5017520:permanent_free:1",
+      "productId": "5017520",
+      "title": "Castores vs Topos",
+      "status": "sent",
+      "bufferPostId": "6ae4b1441c3539c1f4e0f339"
+    }
+  ],
+  "errors": []
+}

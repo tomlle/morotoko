@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39324031088",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-19T21:00:55.886Z",
+    "finishedAt": "2026-10-19T21:01:10.439Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39324031088"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 16,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1624430",
+      "title": "Vahnora",
+      "storeUrl": "https://store.steampowered.com/app/1624430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624430/435dcb5f3237d23b8b1394f18c7254ed1fa33b96/header.jpg?t=1792441668",
+      "officialDescription": "Vahnora is a free-to-play 3D MMORPG of faction war. Choose Sanctum or Forsaken, master one of eight classes, hunt world bosses for gear, carry relics through enemy lines in Mortis Pass and storm your faction's castle with your guild."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4889610",
+      "title": "Ice Cream Hero",
+      "storeUrl": "https://store.steampowered.com/app/4889610/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889610/f59f10723a3bb0659bc0025f64c94d6f47dd8a77/header.jpg?t=1792434783",
+      "officialDescription": "Ice Cream Hero is a sweet tower defense challenge for one to eight players. Team up with friends or play solo as Nilla, a brave little ice cream hero defending his land’s precious Sprinkle Bank from hungry silverware, chaotic waves, and big bad bosses!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:1624430:permanent_free:1",
+      "productId": "1624430",
+      "title": "Vahnora",
+      "status": "sent",
+      "bufferPostId": "6ad685134d4b4350314fc09a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4889610:permanent_free:1",
+      "productId": "4889610",
+      "title": "Ice Cream Hero",
+      "status": "sent",
+      "bufferPostId": "6ad685154d814f3c38397aec"
+    }
+  ],
+  "errors": []
+}

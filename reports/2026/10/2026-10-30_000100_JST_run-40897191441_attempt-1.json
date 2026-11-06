@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40897191441",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-29T15:01:00.782Z",
+    "finishedAt": "2026-10-29T15:01:28.253Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40897191441"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 23,
+    "verified": 6,
+    "newPromotions": 6,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5186260",
+      "title": "One More Letter",
+      "storeUrl": "https://store.steampowered.com/app/5186260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186260/071fc99e6bc59c776669f0c389bce08670143429/header.jpg?t=1793283242",
+      "officialDescription": "A short, atmospheric narrative walking simulator about choosing to keep going when you have no proof that it matters. Write letters to The Evaluators, endure their trials, and search for a way forward through a crumbling world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5411640",
+      "title": "Elderwood",
+      "storeUrl": "https://store.steampowered.com/app/5411640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5411640/5a3b58adb2eaefa8ca769d7f28ad73c598ec4ca1/header.jpg?t=1793277918",
+      "officialDescription": "Forge your path in Elderwood, an online fantasy RPG where skills grow through adventure. Master weapons, craft powerful gear, or support allies with bard songs. Conquer clan keeps, brave dangerous PvP regions, and face endgame raids in a world shaped by rivalry, risk, and discovery."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4704760",
+      "title": "Boxing University",
+      "storeUrl": "https://store.steampowered.com/app/4704760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704760/84b8bb192d6d19df04bfad9a511c656d6f7cb050/header.jpg?t=1793278425",
+      "officialDescription": "Step into the ring in Boxing University, a free boxing brawler in beta. Explore campus, take on opponents, time your parries, and unlock new gloves as you fight your way through university life."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5357230",
+      "title": "Clearly Cribbage",
+      "storeUrl": "https://store.steampowered.com/app/5357230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5357230/e6cd08e1d8d5710ba6faff8dc2ee7e16f6dbab1b/header.jpg?t=1793277205",
+      "officialDescription": "Play cribbage against the computer and count the points in your own hand. Learn with a guided lesson and counting practice, then play to 121 across four difficulty settings."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5375400",
+      "title": "Orange Braincell",
+      "storeUrl": "https://store.steampowered.com/app/5375400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5375400/4c62d7c193c42b017eb3e575d1e975a9211a62d8/header.jpg?t=1793276956",
+      "officialDescription": "Orange Braincellは、小さなオレンジ色の猫になって、目の前のものをなんでも平らげていく、ゆるくてカオスな物理ゲームです。慌てふためく住民たちと出会って毛皮にくっつけ、お寿司から太陽まで、すべてを転がして巻き込みましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5382160",
+      "title": "Cutteridge Estate",
+      "storeUrl": "https://store.steampowered.com/app/5382160/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5382160/8b4fbb5b9065e8d3d5fb1a2bb0b52a3e03c09e37/header.jpg?t=1793275628",
+      "officialDescription": "From the original creators and remastered for Halloween: welcome home to the Cutteridge Estate! A full stand-alone and free-to-play experience where you can customize your avatar, decorate your space, and meet up with friends to explore haunted grounds full of ghosts and spooky minigames."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5186260:permanent_free:1",
+      "productId": "5186260",
+      "title": "One More Letter",
+      "status": "sent",
+      "bufferPostId": "6ae35fbda87e7858ef1470d5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5411640:permanent_free:1",
+      "productId": "5411640",
+      "title": "Elderwood",
+      "status": "sent",
+      "bufferPostId": "6ae35fbf10365a6fbeeee373"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4704760:permanent_free:1",
+      "productId": "4704760",
+      "title": "Boxing University",
+      "status": "sent",
+      "bufferPostId": "6ae35fc1e079e57982e1b340"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5357230:permanent_free:1",
+      "productId": "5357230",
+      "title": "Clearly Cribbage",
+      "status": "sent",
+      "bufferPostId": "6ae35fc3a87e7858ef1472cd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5375400:permanent_free:1",
+      "productId": "5375400",
+      "title": "Orange Braincell",
+      "status": "sent",
+      "bufferPostId": "6ae35fc525e7fa4a8db27690"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5382160:permanent_free:1",
+      "productId": "5382160",
+      "title": "Cutteridge Estate",
+      "status": "sent",
+      "bufferPostId": "6ae35fc6e079e57982e1b57c"
+    }
+  ],
+  "errors": []
+}

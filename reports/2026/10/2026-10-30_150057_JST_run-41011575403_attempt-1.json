@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41011575403",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T06:00:57.931Z",
+    "finishedAt": "2026-10-30T06:01:11.736Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41011575403"
+  },
+  "detection": {
+    "searched": 117,
+    "candidates": 21,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4528520",
+      "title": "Scarlet Beret - Murder at the Orphanage",
+      "storeUrl": "https://store.steampowered.com/app/4528520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528520/b4cfe77803fb841f40a6870ef16a4e5c18350fe6/header.jpg?t=1793336502",
+      "officialDescription": "Fabienne a 17-year-old genius, has a rare gift: she detects lies! But when she discovers the body of one of her teachers, she’s left with no choice but to uncover the killer among the residents she’s lived with her entire life."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5349960",
+      "title": "壁紙ねこ",
+      "storeUrl": "https://store.steampowered.com/app/5349960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349960/b07078ef9d18ffa593464d93bfa3b60dba85d30b/header_japanese.jpg?t=1793336354",
+      "officialDescription": "『壁紙ねこ』は、子猫と水彩画のような錦鯉の池をデスクトップに届けます。魚に餌をあげ、猫の訪問を眺め、天気や音楽で気分を変えて。仕事や休憩に、穏やかなひとときを。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5316430",
+      "title": "In Your Dreams",
+      "storeUrl": "https://store.steampowered.com/app/5316430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316430/930c3195b333d40ea86228f861211b6edfed66a5/header.jpg?t=1793335016",
+      "officialDescription": "A short survival horror experience where you must elude a bloodthirsty shape-shifting beast. Created in one month for spooky season!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4528520:permanent_free:1",
+      "productId": "4528520",
+      "title": "Scarlet Beret - Murder at the Orphanage",
+      "status": "sent",
+      "bufferPostId": "6ae432a32782e7f331d56019"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5349960:permanent_free:1",
+      "productId": "5349960",
+      "title": "壁紙ねこ",
+      "status": "sent",
+      "bufferPostId": "6ae432a4a83a7fb63c989b68"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5316430:permanent_free:1",
+      "productId": "5316430",
+      "title": "In Your Dreams",
+      "status": "sent",
+      "bufferPostId": "6ae432a656e01b97638c41e6"
+    }
+  ],
+  "errors": []
+}

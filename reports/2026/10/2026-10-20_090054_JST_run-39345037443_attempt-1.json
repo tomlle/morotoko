@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "39345037443",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-20T00:00:54.774Z",
+    "finishedAt": "2026-10-20T00:01:07.687Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/39345037443"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5126170",
+      "title": "Phasewright",
+      "storeUrl": "https://store.steampowered.com/app/5126170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5126170/8fd2b0aac2227390af5a014ecc3664501abcd591/header.jpg?t=1792447349",
+      "officialDescription": "A pulse crosses one cell per tick — the longer way arrives later. From that one rule you build machines out of light: lay conduits, split colours, hit the beat. Quiet, untimed, free."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5126170:permanent_free:1",
+      "productId": "5126170",
+      "title": "Phasewright",
+      "status": "sent",
+      "bufferPostId": "6ad6af429d034d7aedccaa7d"
+    }
+  ],
+  "errors": []
+}

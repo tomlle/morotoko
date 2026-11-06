@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40526708179",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-27T15:01:04.892Z",
+    "finishedAt": "2026-10-27T15:01:14.753Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40526708179"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 17,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4435950",
+      "title": "Formation Builder Idle",
+      "storeUrl": "https://store.steampowered.com/app/4435950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435950/213821f9bc4e509c6ae2df534cce55a702bbc3d5/header.jpg?t=1793108706",
+      "officialDescription": "Every hero changes the heroes beside it. Arrange 46+ heroes on a grid, chain their abilities, and find the layout that multiplies your damage. Then prestige across 21 worlds, fight with mounts, and run missions, mines and a workshop while you're away."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4435950:permanent_free:1",
+      "productId": "4435950",
+      "title": "Formation Builder Idle",
+      "status": "sent",
+      "bufferPostId": "6ae0bcb901a7b9ebe43e37f1"
+    }
+  ],
+  "errors": []
+}

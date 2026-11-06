@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41267425941",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-01T03:00:58.403Z",
+    "finishedAt": "2026-11-01T03:01:12.150Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41267425941"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Investigation",
+        "Singleplayer",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5412430",
+      "title": "ORUNKA",
+      "storeUrl": "https://store.steampowered.com/app/5412430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5412430/27c166198d7423fa27910065315fad108cd9a7bd/header.jpg?t=1793499685",
+      "officialDescription": "An online RPG on the island of Moruah. Catch dinos and raise them as pets. Your pet attacks whatever you attack, and Auto Battle keeps the hunt going. Pets raised from Lv 1 grow strongest, and an appraisal reveals their Bloodline. Party up with other hunters on one island. In English and Korean."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5188570",
+      "title": "A Rover's Journey",
+      "storeUrl": "https://store.steampowered.com/app/5188570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188570/25982c26dbb1fc52857967b74c1e00b1e62e87b5/header.jpg?t=1793499637",
+      "officialDescription": "A Rover's Journey is a 3D, narrative, exploration game, set in space! Play as Roo-ver, and help your astronaut companion discover all the lunar landscape has to offer. Traverse difficult terrain, avoid crashing meteors, and uncover tech from previous expeditions. Can the moon sustain human life?"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5412430:permanent_free:1",
+      "productId": "5412430",
+      "title": "ORUNKA",
+      "status": "sent",
+      "bufferPostId": "6ae6ab75f0984eef33442308"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5188570:permanent_free:1",
+      "productId": "5188570",
+      "title": "A Rover's Journey",
+      "status": "sent",
+      "bufferPostId": "6ae6ab7737c1acd2a0e3bca4"
+    }
+  ],
+  "errors": []
+}

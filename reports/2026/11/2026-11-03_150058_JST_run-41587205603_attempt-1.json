@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41587205603",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-03T06:00:58.697Z",
+    "finishedAt": "2026-11-03T06:01:12.637Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41587205603"
+  },
+  "detection": {
+    "searched": 163,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4452480",
+      "title": "Caldra",
+      "storeUrl": "https://store.steampowered.com/app/4452480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452480/bdca74e6b06843603170c2187a4afdb273c83bab/header.jpg?t=1793680700",
+      "officialDescription": "構築と戦術、そして逆転劇。最高の対戦カードゲームをここに！ カードを売買してデッキを強化し、勝利を目指しましょう。相手の妨害をするか、はたまた勝負を仕掛けるか――― 『Caldra』は深い読み合いと戦略が織りなす対戦型デッキ構築カードゲームです！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3484110",
+      "title": "Gourmet Zombie",
+      "storeUrl": "https://store.steampowered.com/app/3484110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484110/0dbb4c5a3f312985ea5d4a3f4ea0491c2e458913/header.jpg?t=1793677564",
+      "officialDescription": "Imprisoned in a mansion's cellar, you're the personal chef of Toufic, the Gourmet Zombie. Master real knife techniques, fight off the infected with kitchen tools and butcher the fallen in a PS1-style survival horror where you're either the chef… or the dish!"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4452480:permanent_free:1",
+      "productId": "4452480",
+      "title": "Caldra",
+      "status": "sent",
+      "bufferPostId": "6ae978a5ee93f2557f28c4ff"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3484110:permanent_free:1",
+      "productId": "3484110",
+      "title": "Gourmet Zombie",
+      "status": "sent",
+      "bufferPostId": "6ae978a7ee93f2557f28c57a"
+    }
+  ],
+  "errors": []
+}

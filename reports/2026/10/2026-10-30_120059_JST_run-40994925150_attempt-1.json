@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40994925150",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-30T03:00:59.851Z",
+    "finishedAt": "2026-10-30T03:01:14.293Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40994925150"
+  },
+  "detection": {
+    "searched": 117,
+    "candidates": 20,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "785890",
+      "title": "Hexologic",
+      "storeUrl": "https://store.steampowered.com/app/785890/",
+      "initialPrice": 58000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901258",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785890/header.jpg?t=1793292026",
+      "officialDescription": "美麗なグラフィックと数独に着想を得たユニークなルール",
+      "tags": [
+        "Puzzle",
+        "Logic",
+        "Colorful",
+        "Relaxing",
+        "2D",
+        "Sokoban",
+        "Puzzle Platformer",
+        "Cute",
+        "Point & Click",
+        "Abstract",
+        "Minimalist",
+        "Family Friendly",
+        "Hex Grid",
+        "Cartoony",
+        "Level Editor",
+        "Singleplayer",
+        "Atmospheric",
+        "Score Attack",
+        "Great Soundtrack",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-10-31T17:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3120010",
+      "title": "Kipple",
+      "storeUrl": "https://store.steampowered.com/app/3120010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3120010/13f0efc7f65d9fd977bfb8eb6790bb2b9c0839f9/header.jpg?t=1793329219",
+      "officialDescription": "Your PC can dream. A free desktop companion that lives in your Windows, blinks, reacts and chats with you. Explore a diversity of unique creatures dreamed by your own machine: hybrids, elementals and rare creatures. Each one is one of a kind and can be exchanged at the Steam Market."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5285020",
+      "title": "Fair21: Blackjack",
+      "storeUrl": "https://store.steampowered.com/app/5285020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285020/e1d3e170280beeb8c9714665d211d5d5e7ded784/header.jpg?t=1793319363",
+      "officialDescription": "ピクセルアートのブラックジャック（21）。自分のシード文字列を入力し、各ハンド終了後に配られたカードと精算結果を再計算と照合できます。ソロ、3人テーブル、7ラウンドの勝ち抜き戦を楽しめます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3120010:permanent_free:1",
+      "productId": "3120010",
+      "title": "Kipple",
+      "status": "sent",
+      "bufferPostId": "6ae40877ba1ca51fd3f0acde"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5285020:permanent_free:1",
+      "productId": "5285020",
+      "title": "Fair21: Blackjack",
+      "status": "sent",
+      "bufferPostId": "6ae40879a83a7fb63c8f23f6"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "40400662423",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-10-26T21:00:56.782Z",
+    "finishedAt": "2026-10-26T21:01:11.383Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/40400662423"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 18,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5353310",
+      "title": "Grindwick",
+      "storeUrl": "https://store.steampowered.com/app/5353310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5353310/edbadb875af128287f49e08b7a1fc29187a3eb25/header.jpg?t=1793041094",
+      "officialDescription": "Grindwick is a free-to-play 2D online action RPG built around the grind. Choose an expedition, hunt monsters, find better gear, and grow stronger through combat skills and a passive tree. Play solo or in a party of four. No quests, just the next hunt."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5353310:permanent_free:1",
+      "productId": "5353310",
+      "title": "Grindwick",
+      "status": "sent",
+      "bufferPostId": "6adfbf962e4832a623d6f80a"
+    }
+  ],
+  "errors": []
+}

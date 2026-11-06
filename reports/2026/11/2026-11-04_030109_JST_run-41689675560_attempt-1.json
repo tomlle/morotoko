@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41689675560",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-03T18:01:09.425Z",
+    "finishedAt": "2026-11-03T18:01:26.172Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41689675560"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 18,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5002430",
+      "title": "CATENA - Chapter I",
+      "storeUrl": "https://store.steampowered.com/app/5002430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002430/49da2632b9149d8b9b834b5194eb2404a3c164a1/header.jpg?t=1793728784",
+      "officialDescription": "CATENA is a co-op action-adventure about two players chained together, sharing one body, one life pool, and one weapon. Toss the blade to swap roles and battle mirrored enemies across two realms as one."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5234140",
+      "title": "INTERSECTION I",
+      "storeUrl": "https://store.steampowered.com/app/5234140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234140/64df3a6f9d1673c508d9ca3e11af5c94bbf04b72/header.jpg?t=1793724092",
+      "officialDescription": "INTERSECTION I is an interactive audiovisual work shaped by music, image, and space. Walk, listen, and remain within an ambient, cinematic landscape where Human, Machine, Memory, and Nature quietly meet and dissolve."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5073660",
+      "title": "VampOS: Red Ledger",
+      "storeUrl": "https://store.steampowered.com/app/5073660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5073660/2d8fa335cea80d1c6d93d762a7d6b390443bc93b/header.jpg?t=1793721032",
+      "officialDescription": "Run a vampire corporation from within a blood-red operating system. Recruit thralls, harvest victims, design blood products, manage Suspicion, and sacrifice your company for permanent power in this dark management Incremental."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5117590",
+      "title": "Skeleton Island",
+      "storeUrl": "https://store.steampowered.com/app/5117590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117590/8c29dfb36ffb1e2c13cddc265bc7adee2e7bcc66/header.jpg?t=1793637543",
+      "officialDescription": "# Short Description Survive on a mysterious island, gather resources, craft weapons and explore dangerous locations while uncovering the dark secrets hidden within. Fight enemies, survive the island and prepare yourself for the final battle."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5002430:permanent_free:1",
+      "productId": "5002430",
+      "title": "CATENA - Chapter I",
+      "status": "sent",
+      "bufferPostId": "6aea216e24384d40185472f9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5234140:permanent_free:1",
+      "productId": "5234140",
+      "title": "INTERSECTION I",
+      "status": "sent",
+      "bufferPostId": "6aea21711f06859f7ba38031"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5073660:permanent_free:1",
+      "productId": "5073660",
+      "title": "VampOS: Red Ledger",
+      "status": "sent",
+      "bufferPostId": "6aea21731f06859f7ba380a2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5117590:permanent_free:1",
+      "productId": "5117590",
+      "title": "Skeleton Island",
+      "status": "sent",
+      "bufferPostId": "6aea21744132b75c1eca59fd"
+    }
+  ],
+  "errors": []
+}

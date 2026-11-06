@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "41467376563",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-02T15:01:01.209Z",
+    "finishedAt": "2026-11-02T15:01:29.488Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/41467376563"
+  },
+  "detection": {
+    "searched": 167,
+    "candidates": 25,
+    "verified": 8,
+    "newPromotions": 7,
+    "knownPromotions": 1,
+    "excluded": 17,
+    "sourceHealthy": true,
+    "emptyResultValidated": false
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "free_to_keep",
+      "store": "steam",
+      "productId": "1583850",
+      "title": "Asleep: Act 1",
+      "storeUrl": "https://store.steampowered.com/app/1583850/",
+      "initialPrice": 120000,
+      "currency": "JPY",
+      "discountPercent": 100,
+      "packageId": "1901579",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583850/b0106b8af875bcac09ab575d8e704d4d50ebafb3/header_alt_assets_1.jpg?t=1793381725",
+      "officialDescription": "光を使って悪夢を生き延びよう――クリーチャーごとに光への反応が異なる。探索し、謎を解き、闇に潜む恐怖から逃れろ。あなたはアナ・ルシアとして行動する。",
+      "tags": [
+        "Psychological Horror",
+        "Horror",
+        "Female Protagonist",
+        "Pixel Graphics",
+        "Survival Horror",
+        "Point & Click",
+        "Story Rich",
+        "Dark",
+        "Puzzle",
+        "1990's",
+        "Adventure",
+        "Retro",
+        "Stealth",
+        "2D",
+        "Exploration",
+        "Atmospheric",
+        "Emotional",
+        "Singleplayer",
+        "Investigation",
+        "Indie",
+        "+"
+      ],
+      "endsAt": "2026-11-02T18:00:00.000Z"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4550980",
+      "title": "Jokey and Jolly´s",
+      "storeUrl": "https://store.steampowered.com/app/4550980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550980/f9b23db648755286d2ac1a2b7b459991696db577/header.jpg?t=1793631531",
+      "officialDescription": "Jokey and Jolly’s is a gripping indie horror game. Use the Jolly figures on your desk to ward off terrifying jumpscares. Explore a mysterious location, uncover the hidden truth, and attempt to beat in total seven Dreams by Jokey."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3999990",
+      "title": "Super Egg & TCG Card Shop Simulator: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/3999990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999990/3e315e3788602e7514d5678801aaa8aad6c89a4d/header.jpg?t=1793631217",
+      "officialDescription": "自分だけのTCGカードショップを経営しよう！サプライズエッグを開けてカードやおもちゃのパーツを集め、農場では鳥を育てて卵を集めよう。棚への商品補充、価格設定、接客、レジ対応をこなしながら、お店を切り盛りする日常を体験。手に入れたカードのイラストを眺め、お気に入りを残すか販売するか考えながら、コレクションを増やそう。ショップ経営と収集の楽しさを味わえるPrologueです。本編と比べて収録コンテンツが限られています。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3873120",
+      "title": "Food Delivery Simulator 2027 - Prologue",
+      "storeUrl": "https://store.steampowered.com/app/3873120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873120/21f84931390519e5c565affabb2780156602bd71/header.jpg?t=1793628309",
+      "officialDescription": "スマホで注文を受け、世界各国の料理が味わえるレストランで料理を受け取り、徒歩、自転車、キックボード、車で生きた街を駆け抜けて届けよう。Food Delivery Simulator 2027のPrologueで配達員としてのキャリアをスタート！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1593970",
+      "title": "The Haunted House : Dark Island",
+      "storeUrl": "https://store.steampowered.com/app/1593970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593970/2f0d2c6f7160b901566c18389187fab902b1733c/header.jpg?t=1793624175",
+      "officialDescription": "闇の中へ消えた仲間たち…今、希望はただ一人！ ゴーストを集めて育て、強大な敵に立ち向かおう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5389120",
+      "title": "Bongo VPet - Taskbar Buddy",
+      "storeUrl": "https://store.steampowered.com/app/5389120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389120/5b5645ec01f8298b1d359719f6f2d98b827857ef/header.jpg?t=1793623029",
+      "officialDescription": "小さなVPetデバイスがデスクトップに住みつき、キーを押すたびに画面のドット絵ペットがぴょんと跳ねます。作業しながらBongo Pointsを貯めて、おやつをあげて、Bongo Boxを開けよう。レアなColorペットやスキン、デバイスはSteamでトレードできます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5315120",
+      "title": "Corrupted Skies",
+      "storeUrl": "https://store.steampowered.com/app/5315120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5315120/edcb1df83d967b4b58caa4ad79b4459bbc29b44a/header.jpg?t=1793622965",
+      "officialDescription": "Command a fractured army against two rival factions in this tactical turn-based card battle. Every unit has a story, every spell has a cost, and only one commander walks away."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5386310",
+      "title": "Chronicles Unwritten",
+      "storeUrl": "https://store.steampowered.com/app/5386310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386310/42924ae1383e61405d85e1f33f3994a33b11b0aa/header.jpg?t=1793550017",
+      "officialDescription": "Command an army from colliding timelines in this free-to-play strategy card game. Combine Units, Relics, and Events across four eras, complete Chronicles, and outthink AI opponents. All 220 base cards are included from the start."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4550980:permanent_free:1",
+      "productId": "4550980",
+      "title": "Jokey and Jolly´s",
+      "status": "sent",
+      "bufferPostId": "6ae8a5bd2810e4a79d321495"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3999990:permanent_free:1",
+      "productId": "3999990",
+      "title": "Super Egg & TCG Card Shop Simulator: Prologue",
+      "status": "sent",
+      "bufferPostId": "6ae8a5bf2426d4fa35025a63"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3873120:permanent_free:1",
+      "productId": "3873120",
+      "title": "Food Delivery Simulator 2027 - Prologue",
+      "status": "sent",
+      "bufferPostId": "6ae8a5c1a8c7e3492155101f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1593970:permanent_free:1",
+      "productId": "1593970",
+      "title": "The Haunted House : Dark Island",
+      "status": "sent",
+      "bufferPostId": "6ae8a5c331e164b233ead0fc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5389120:permanent_free:1",
+      "productId": "5389120",
+      "title": "Bongo VPet - Taskbar Buddy",
+      "status": "sent",
+      "bufferPostId": "6ae8a5c4a8c7e34921551623"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5315120:permanent_free:1",
+      "productId": "5315120",
+      "title": "Corrupted Skies",
+      "status": "sent",
+      "bufferPostId": "6ae8a5c6a8c7e349215516fd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5386310:permanent_free:1",
+      "productId": "5386310",
+      "title": "Chronicles Unwritten",
+      "status": "sent",
+      "bufferPostId": "6ae8a5c8f1669be3eaba12f0"
+    }
+  ],
+  "errors": []
+}
