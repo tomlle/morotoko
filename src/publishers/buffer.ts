@@ -57,6 +57,7 @@ export function summarizePublishingError(raw: string | null | undefined) {
       /(?:["']?(?:code|status|statusCode)["']?\s*[:=]\s*["']?|HTTP\s+)(\d{2,4})/giu,
     ),
   ].map((match) => Number(match[1]));
+  if (/^\d{2,4}$/u.test(raw.trim())) codes.push(Number(raw.trim()));
   const signals = [
     "Could not authenticate you",
     "Invalid or expired token",
@@ -77,8 +78,31 @@ export function summarizePublishingError(raw: string | null | undefined) {
     "authentication",
     "authorization",
     "permission",
+    "auth",
+    "token",
+    "credential",
+    "access",
+    "invalid",
+    "denied",
+    "disconnect",
+    "reauthoriz",
+    "not authenticated",
+    "expired",
+    "invalid_grant",
+    "invalid_client",
+    "insufficient_scope",
+    "[object Object]",
+    "EAUTH",
+    "ECONNRESET",
+    "ETIMEDOUT",
   ].filter((signal) => raw.toLowerCase().includes(signal.toLowerCase()));
-  return { codes: [...new Set(codes)], signals, present: true };
+  return {
+    codes: [...new Set(codes)],
+    signals,
+    present: true,
+    length: raw.length,
+    json: /^[\[{]/u.test(raw.trim()),
+  };
 }
 
 function plainTextWeight(value: string): number {
