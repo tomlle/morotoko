@@ -1604,6 +1604,14 @@
     "steam:5265570:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5265570:permanent_free:1"
+    },
+    "steam:5352150:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5352150:permanent_free:1"
+    },
+    "steam:4747360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4747360:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12969,7 +12977,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-07T18:01:06.818Z",
+      "lastSeenAt": "2026-11-07T21:01:08.968Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13024,7 +13032,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-07T18:01:06.818Z",
+      "lastSeenAt": "2026-11-07T21:01:08.968Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14004,11 +14012,71 @@
       },
       "bufferPostId": "6aef3d3f004e4879a7625fe8",
       "postedAt": "2026-11-07T15:01:20.180Z"
+    },
+    "steam:5352150:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5352150:permanent_free:1",
+      "store": "steam",
+      "productId": "5352150",
+      "generation": 1,
+      "title": "Stay TUNEd",
+      "storeUrl": "https://store.steampowered.com/app/5352150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T21:01:08.968Z",
+      "lastSeenAt": "2026-11-07T21:01:08.968Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Stay TUNEd is a simulation-based game, where you are an audio director, manipulating amateur band members' music to make them sound super super good! Hype up your audience; Boost band members' confidence by helping them out; Get introduced to the band; Enjoy the live concerts!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T21:01:08.968Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Stay TUNEd』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5352150/",
+        "attemptedAt": "2026-11-07T21:01:09.244Z",
+        "bufferPostId": "6aef9195229bf05daf73ad35",
+        "submittedAt": "2026-11-07T21:01:10.588Z",
+        "postedAt": "2026-11-07T21:01:10.588Z"
+      },
+      "bufferPostId": "6aef9195229bf05daf73ad35",
+      "postedAt": "2026-11-07T21:01:10.588Z"
+    },
+    "steam:4747360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4747360:permanent_free:1",
+      "store": "steam",
+      "productId": "4747360",
+      "generation": 1,
+      "title": "SolPlex: Dominion",
+      "storeUrl": "https://store.steampowered.com/app/4747360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T21:01:08.968Z",
+      "lastSeenAt": "2026-11-07T21:01:08.968Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "From a single colony to a galactic empire, every expansion strengthens your economy, your military and your influence as you battle for dominance in a persistent MMO galaxy.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T21:01:08.968Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『SolPlex: Dominion』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4747360/",
+        "attemptedAt": "2026-11-07T21:01:10.594Z",
+        "bufferPostId": "6aef9196229bf05daf73af47",
+        "submittedAt": "2026-11-07T21:01:11.849Z",
+        "postedAt": "2026-11-07T21:01:11.849Z"
+      },
+      "bufferPostId": "6aef9196229bf05daf73af47",
+      "postedAt": "2026-11-07T21:01:11.849Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-07T18:01:06.818Z",
+    "lastSuccessfulScanAt": "2026-11-07T21:01:08.968Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14170,6 +14238,7 @@
       "4744820": "2026-10-14T15:30:36.000Z",
       "4744830": "2026-10-14T15:30:36.000Z",
       "4746110": "2026-10-16T09:01:06.129Z",
+      "4747360": "2026-11-07T21:01:08.968Z",
       "4756450": "2026-10-22T18:01:09.344Z",
       "4766670": "2026-11-06T09:01:10.595Z",
       "4769150": "2026-10-19T18:01:19.647Z",
@@ -14446,6 +14515,7 @@
       "5349900": "2026-11-06T12:01:14.375Z",
       "5349960": "2026-10-30T06:01:06.346Z",
       "5351540": "2026-10-31T06:01:01.191Z",
+      "5352150": "2026-11-07T21:01:08.968Z",
       "5353310": "2026-10-26T21:01:09.019Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5354940": "2026-11-06T06:01:16.414Z",
