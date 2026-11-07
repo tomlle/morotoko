@@ -1524,6 +1524,66 @@
     "steam:4864070:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4864070:permanent_free:1"
+    },
+    "steam:4976270:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4976270:permanent_free:1"
+    },
+    "steam:5338650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5338650:permanent_free:1"
+    },
+    "steam:4183850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4183850:permanent_free:1"
+    },
+    "steam:4959560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4959560:permanent_free:1"
+    },
+    "steam:4877750:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4877750:permanent_free:1"
+    },
+    "steam:1825840:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1825840:permanent_free:1"
+    },
+    "steam:4989520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4989520:permanent_free:1"
+    },
+    "steam:4967370:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4967370:permanent_free:1"
+    },
+    "steam:5371290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5371290:permanent_free:1"
+    },
+    "steam:4990890:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4990890:permanent_free:1"
+    },
+    "steam:5333130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5333130:permanent_free:1"
+    },
+    "steam:5334390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5334390:permanent_free:1"
+    },
+    "steam:5318970:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5318970:permanent_free:1"
+    },
+    "steam:4223760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4223760:permanent_free:1"
+    },
+    "steam:5380390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5380390:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12889,7 +12949,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-06T15:01:12.429Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -12898,8 +12958,8 @@
       "tags": [
         "強盗",
         "協力プレイ",
-        "犯罪",
         "マルチプレイヤー",
+        "犯罪",
         "アクション",
         "FPS",
         "シューティング",
@@ -12944,7 +13004,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-06T15:01:12.429Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -12965,8 +13025,8 @@
         "戦略RPG",
         "シミュレーション",
         "ストラテジーRPG",
-        "マルチプレイヤー",
         "探検",
+        "マルチプレイヤー",
         "シングルプレイヤー",
         "選択型進行",
         "協力プレイ",
@@ -13033,7 +13093,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "47都道府県・48球団の架空プロ野球で、ドラフト・育成・補強を通じて日本一を目指す球団運営シミュレーション。無料本体で開幕1か月（27試合）まで、期限なく遊べます。続きは別売りの完全版DLCで同じセーブから。元データを編集するエディターDLCは任意の別売り機能です。",
       "delivery": {
         "status": "failed",
@@ -13042,10 +13102,10 @@
         "attemptedAt": "2026-11-06T09:01:14.384Z",
         "bufferPostId": "6aed975a86fe9b837985328c",
         "submittedAt": "2026-11-06T09:01:16.065Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed975a86fe9b837985328c",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5433020:permanent_free:1": {
       "kind": "permanent_free",
@@ -13063,7 +13123,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "Join up to 100 other online players to play a game of hide and seek on mars. You get to choose to either be a seeker or a hider. Hiders may hide anywhere across a 1 for 1 scale mars planet.",
       "delivery": {
         "status": "failed",
@@ -13072,10 +13132,10 @@
         "attemptedAt": "2026-11-06T09:01:16.071Z",
         "bufferPostId": "6aed975c7b7e47e8f41c8c6f",
         "submittedAt": "2026-11-06T09:01:17.403Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed975c7b7e47e8f41c8c6f",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:4766670:permanent_free:1": {
       "kind": "permanent_free",
@@ -13093,7 +13153,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "A young boy accidentally finds a celestial book and returns to his hometown, determined to uncover the truth behind the village's destruction. Guided by a wise man, the boy awakens the inherited power of a Beastmaster.",
       "delivery": {
         "status": "failed",
@@ -13102,10 +13162,10 @@
         "attemptedAt": "2026-11-06T09:01:17.408Z",
         "bufferPostId": "6aed975d07f945cca951e044",
         "submittedAt": "2026-11-06T09:01:18.832Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed975d07f945cca951e044",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5219930:permanent_free:1": {
       "kind": "permanent_free",
@@ -13123,7 +13183,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "Wild Ones is a free-to-play turn-based multiplayer artillery game where customizable pets battle across destructible arenas with wild weapons, physics, and tactical positioning. Outsmart your opponents, reshape the battlefield, and master every shot.",
       "delivery": {
         "status": "failed",
@@ -13132,10 +13192,10 @@
         "attemptedAt": "2026-11-06T09:01:18.838Z",
         "bufferPostId": "6aed975f07f945cca951e2cb",
         "submittedAt": "2026-11-06T09:01:20.183Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed975f07f945cca951e2cb",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5229130:permanent_free:1": {
       "kind": "permanent_free",
@@ -13153,7 +13213,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "Host the graveyard shift at a small-town radio station in 1998. Callers keep describing the same pale man—and every time someone talks about him on air, he seems to get closer.",
       "delivery": {
         "status": "failed",
@@ -13162,10 +13222,10 @@
         "attemptedAt": "2026-11-06T09:01:20.189Z",
         "bufferPostId": "6aed9760c1e74b84e5db2af5",
         "submittedAt": "2026-11-06T09:01:21.486Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed9760c1e74b84e5db2af5",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5462800:permanent_free:1": {
       "kind": "permanent_free",
@@ -13183,7 +13243,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 3,
+      "postAttempts": 4,
       "officialDescription": "Build army, press START, and watch up to 1,000 hand-drawn units clash on their own. Cavalry crashes, bombs fly, bodies launch into the air. Free campaign, 1 vs 1 on one PC or LAN, no micromanaging. 100% hand-drawn.",
       "delivery": {
         "status": "failed",
@@ -13192,10 +13252,10 @@
         "attemptedAt": "2026-11-06T09:01:21.491Z",
         "bufferPostId": "6aed9761c1e74b84e5db2ba1",
         "submittedAt": "2026-11-06T09:01:23.140Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aed9761c1e74b84e5db2ba1",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5446410:permanent_free:1": {
       "kind": "permanent_free",
@@ -13213,7 +13273,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "Flip used cars in Vilnius. Read the ads, meet the seller, haggle — but the ad might be lying. Buy the history report, or trust your gut. Wash it, fix it, photograph it, and sell it for more than you paid. Full Lithuanian and English.",
       "delivery": {
         "status": "failed",
@@ -13222,10 +13282,10 @@
         "attemptedAt": "2026-11-06T12:01:17.938Z",
         "bufferPostId": "6aedc18e64d4343f608cec0d",
         "submittedAt": "2026-11-06T12:01:19.527Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aedc18e64d4343f608cec0d",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:4890840:permanent_free:1": {
       "kind": "permanent_free",
@@ -13243,7 +13303,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "A roguelike classic. Gain items of great magic, attain powerful equipment made of mysterious materials, bathe in the blessings of mighty gods and recruit loyal allies of various shapes and sizes.",
       "delivery": {
         "status": "failed",
@@ -13252,10 +13312,10 @@
         "attemptedAt": "2026-11-06T12:01:19.532Z",
         "bufferPostId": "6aedc18f64d4343f608ced2d",
         "submittedAt": "2026-11-06T12:01:21.366Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aedc18f64d4343f608ced2d",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5486310:permanent_free:1": {
       "kind": "permanent_free",
@@ -13273,7 +13333,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "Forbidden House is a first-person puzzle adventure with over 40 puzzles to solve.",
       "delivery": {
         "status": "failed",
@@ -13282,10 +13342,10 @@
         "attemptedAt": "2026-11-06T12:01:21.371Z",
         "bufferPostId": "6aedc19136c33a13362837ff",
         "submittedAt": "2026-11-06T12:01:22.941Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aedc19136c33a13362837ff",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:5349900:permanent_free:1": {
       "kind": "permanent_free",
@@ -13303,7 +13363,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "謎めいた霧に包まれた終わりのない迷路を、プレイヤーが進んでいくカジュアルなパズルゲーム。",
       "delivery": {
         "status": "failed",
@@ -13312,10 +13372,10 @@
         "attemptedAt": "2026-11-06T12:01:22.946Z",
         "bufferPostId": "6aedc193c60945d644996651",
         "submittedAt": "2026-11-06T12:01:24.456Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aedc193c60945d644996651",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
     },
     "steam:4864070:permanent_free:1": {
       "kind": "permanent_free",
@@ -13333,7 +13393,7 @@
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "failed",
-      "postAttempts": 2,
+      "postAttempts": 3,
       "officialDescription": "Run a workshop that keeps moving while you plan: gather and process resources, discover cauldron recipes, forge randomized gear, build a party from four classes, and connect combat, orders, and a player market into one persistent economy. Internet connection and account login required.",
       "delivery": {
         "status": "failed",
@@ -13342,15 +13402,465 @@
         "attemptedAt": "2026-11-06T12:01:24.462Z",
         "bufferPostId": "6aedc1941fcdcefa468a2f0a",
         "submittedAt": "2026-11-06T12:01:25.884Z",
-        "lastError": "Buffer API GraphQL error: Channel not found"
+        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
       },
       "bufferPostId": "6aedc1941fcdcefa468a2f0a",
-      "lastPostError": "Buffer API GraphQL error: Channel not found"
+      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+    },
+    "steam:4976270:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4976270:permanent_free:1",
+      "store": "steam",
+      "productId": "4976270",
+      "generation": 1,
+      "title": "暖かい物語",
+      "storeUrl": "https://store.steampowered.com/app/4976270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "「誰かが“私”の部屋にいるみたい！」 有名作家の本葵は、深夜に目を覚ます。しかし、なかなか寝つけない……",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『暖かい物語』\n✨ いつでも無料でプレイ\n\n「誰かが“私”の部屋にいるみたい！」 有名作家の本葵は、深夜に目を覚ます。しかし、なかなか寝つけない……\n\nhttps://store.steampowered.com/app/4976270/",
+        "attemptedAt": "2026-11-07T12:38:13.209Z",
+        "bufferPostId": "6aef1bb5004e4879a7565da5",
+        "submittedAt": "2026-11-07T12:38:14.568Z",
+        "postedAt": "2026-11-07T12:38:14.568Z"
+      },
+      "bufferPostId": "6aef1bb5004e4879a7565da5",
+      "postedAt": "2026-11-07T12:38:14.568Z"
+    },
+    "steam:5338650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5338650:permanent_free:1",
+      "store": "steam",
+      "productId": "5338650",
+      "generation": 1,
+      "title": "Breakneck Transmission",
+      "storeUrl": "https://store.steampowered.com/app/5338650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A fast-paced, time trial package delivery racing game. Using mind bending warps to the laws of physics, deliver packages to their destinations quickly and prove that recklessness can be improved to regain a spot on a top racing team.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Breakneck Transmission』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5338650/",
+        "attemptedAt": "2026-11-07T12:38:14.571Z",
+        "bufferPostId": "6aef1bb6d6bbae6fa1881b11",
+        "submittedAt": "2026-11-07T12:38:15.778Z",
+        "postedAt": "2026-11-07T12:38:15.778Z"
+      },
+      "bufferPostId": "6aef1bb6d6bbae6fa1881b11",
+      "postedAt": "2026-11-07T12:38:15.778Z"
+    },
+    "steam:4183850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4183850:permanent_free:1",
+      "store": "steam",
+      "productId": "4183850",
+      "generation": 1,
+      "title": "Mega Beast!",
+      "storeUrl": "https://store.steampowered.com/app/4183850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A epic action arcade reverse horror arcade compilation",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mega Beast!』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4183850/",
+        "attemptedAt": "2026-11-07T12:38:15.782Z",
+        "bufferPostId": "6aef1bb7a7751de7c9e96d35",
+        "submittedAt": "2026-11-07T12:38:16.983Z",
+        "postedAt": "2026-11-07T12:38:16.983Z"
+      },
+      "bufferPostId": "6aef1bb7a7751de7c9e96d35",
+      "postedAt": "2026-11-07T12:38:16.983Z"
+    },
+    "steam:4959560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4959560:permanent_free:1",
+      "store": "steam",
+      "productId": "4959560",
+      "generation": 1,
+      "title": "Wireframe",
+      "storeUrl": "https://store.steampowered.com/app/4959560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Stem the tide of endless hordes of enemies in a new, retro styled, and fast paced arcade shooter game. Buy upgrades, and earn the highest score you can through mastery of movement, precision, and endurance.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Wireframe』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4959560/",
+        "attemptedAt": "2026-11-07T12:38:16.986Z",
+        "bufferPostId": "6aef1bb9a7751de7c9e96d97",
+        "submittedAt": "2026-11-07T12:38:18.218Z",
+        "postedAt": "2026-11-07T12:38:18.218Z"
+      },
+      "bufferPostId": "6aef1bb9a7751de7c9e96d97",
+      "postedAt": "2026-11-07T12:38:18.218Z"
+    },
+    "steam:4877750:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4877750:permanent_free:1",
+      "store": "steam",
+      "productId": "4877750",
+      "generation": 1,
+      "title": "Temporal Strike",
+      "storeUrl": "https://store.steampowered.com/app/4877750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Time-loop defense shooter. Aim yourself or let your squad fire on auto as orcs, goblins, boar riders and mechs flood in. Spend the loot on a 38-node upgrade tree, unlock five units, beat the boss waves, then rewind time for permanent upgrades.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Temporal Strike』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4877750/",
+        "attemptedAt": "2026-11-07T12:38:18.233Z",
+        "bufferPostId": "6aef1bbaa7751de7c9e96df2",
+        "submittedAt": "2026-11-07T12:38:19.454Z",
+        "postedAt": "2026-11-07T12:38:19.454Z"
+      },
+      "bufferPostId": "6aef1bbaa7751de7c9e96df2",
+      "postedAt": "2026-11-07T12:38:19.454Z"
+    },
+    "steam:1825840:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1825840:permanent_free:1",
+      "store": "steam",
+      "productId": "1825840",
+      "generation": 1,
+      "title": "House Zero",
+      "storeUrl": "https://store.steampowered.com/app/1825840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A social casino where the only thing at stake is bragging rights. Play 20+ games, from slots, Plinko and Crash to live poker and case battles with friends, using free play-money chips. Climb weekly leaderboards, finish quests and unlock cosmetics. No real-money gambling or payouts.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『House Zero』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1825840/",
+        "attemptedAt": "2026-11-07T12:38:19.466Z",
+        "bufferPostId": "6aef1bbba7751de7c9e96e4c",
+        "submittedAt": "2026-11-07T12:38:20.710Z",
+        "postedAt": "2026-11-07T12:38:20.710Z"
+      },
+      "bufferPostId": "6aef1bbba7751de7c9e96e4c",
+      "postedAt": "2026-11-07T12:38:20.710Z"
+    },
+    "steam:4989520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4989520:permanent_free:1",
+      "store": "steam",
+      "productId": "4989520",
+      "generation": 1,
+      "title": "Immortal Zenith: Idle to Ascension",
+      "storeUrl": "https://store.steampowered.com/app/4989520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An MMO idle cultivation RPG grounded in unique systems and intentional randomness. Your characters meditate, break through cultivation realms, explore, master powerful techniques, collect legendary treasures, and ascend from mortal to immortal.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Immortal Zenith: Idle to Ascension』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4989520/",
+        "attemptedAt": "2026-11-07T12:38:20.723Z",
+        "bufferPostId": "6aef1bbc004e4879a7566661",
+        "submittedAt": "2026-11-07T12:38:22.100Z",
+        "postedAt": "2026-11-07T12:38:22.100Z"
+      },
+      "bufferPostId": "6aef1bbc004e4879a7566661",
+      "postedAt": "2026-11-07T12:38:22.100Z"
+    },
+    "steam:4967370:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4967370:permanent_free:1",
+      "store": "steam",
+      "productId": "4967370",
+      "generation": 1,
+      "title": "Glyphforge",
+      "storeUrl": "https://store.steampowered.com/app/4967370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Glyphforge is an magic roguelike with \"anime style\" spell-crafting. You write and compile nested spell formulas while kiting hostiles across an endless grid. In the most \"I cant believe its another survivor-like game\" manner possible.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Glyphforge』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4967370/",
+        "attemptedAt": "2026-11-07T12:38:22.104Z",
+        "bufferPostId": "6aef1bbe004e4879a756672c",
+        "submittedAt": "2026-11-07T12:38:23.422Z",
+        "postedAt": "2026-11-07T12:38:23.422Z"
+      },
+      "bufferPostId": "6aef1bbe004e4879a756672c",
+      "postedAt": "2026-11-07T12:38:23.422Z"
+    },
+    "steam:5371290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5371290:permanent_free:1",
+      "store": "steam",
+      "productId": "5371290",
+      "generation": 1,
+      "title": "Echoes of Calir",
+      "storeUrl": "https://store.steampowered.com/app/5371290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Echoes of Calir is a turn-based 1v1 mix of chess, a TCG and a board game on an 8×8 board. Build a deck of five units and five terrain cards, place them before battle, and outmaneuver your opponent through movement, abilities, and captures. Chess rules with the strategic depth of a TCG.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Echoes of Calir』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5371290/",
+        "attemptedAt": "2026-11-07T12:38:23.426Z",
+        "bufferPostId": "6aef1bbfd6bbae6fa188215f",
+        "submittedAt": "2026-11-07T12:38:24.678Z",
+        "postedAt": "2026-11-07T12:38:24.678Z"
+      },
+      "bufferPostId": "6aef1bbfd6bbae6fa188215f",
+      "postedAt": "2026-11-07T12:38:24.678Z"
+    },
+    "steam:4990890:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4990890:permanent_free:1",
+      "store": "steam",
+      "productId": "4990890",
+      "generation": 1,
+      "title": "Where The Light Sleeps",
+      "storeUrl": "https://store.steampowered.com/app/4990890/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 7-minute dreamlike narrative adventure set among the ancient stones of Matera, Italy. Enter a young girl's dream in search of her grandmother, wandering through a strange and haunting world inhabited by unsettling, peculiar souls.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Where The Light Sleeps』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4990890/",
+        "attemptedAt": "2026-11-07T12:38:24.682Z",
+        "bufferPostId": "6aef1bc0af7e526d43201068",
+        "submittedAt": "2026-11-07T12:38:26.026Z",
+        "postedAt": "2026-11-07T12:38:26.026Z"
+      },
+      "bufferPostId": "6aef1bc0af7e526d43201068",
+      "postedAt": "2026-11-07T12:38:26.026Z"
+    },
+    "steam:5333130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5333130:permanent_free:1",
+      "store": "steam",
+      "productId": "5333130",
+      "generation": 1,
+      "title": "Trick Nor Treat",
+      "storeUrl": "https://store.steampowered.com/app/5333130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Enter a first-person horror experience inspired by folklore or legend. Explore haunting environments, investigate strange clues, record discoveries in your journal, and survive supernatural encounters. Learn the stories, follow the evidence, and decide what is hunting you before it's too late.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Trick Nor Treat』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5333130/",
+        "attemptedAt": "2026-11-07T12:38:26.031Z",
+        "bufferPostId": "6aef1bc2229bf05daf4cbf2f",
+        "submittedAt": "2026-11-07T12:38:27.246Z",
+        "postedAt": "2026-11-07T12:38:27.246Z"
+      },
+      "bufferPostId": "6aef1bc2229bf05daf4cbf2f",
+      "postedAt": "2026-11-07T12:38:27.246Z"
+    },
+    "steam:5334390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5334390:permanent_free:1",
+      "store": "steam",
+      "productId": "5334390",
+      "generation": 1,
+      "title": "CHAOTIC VIRUS",
+      "storeUrl": "https://store.steampowered.com/app/5334390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "この見下ろし型アクション・ローグライトで細胞を操作し、生き残りを目指そう。押し寄せるウイルスの群れを倒して経験値を獲得し、変異によって進化しながら、アクティブスキルとパッシブスキルを組み合わせて強力なビルドを作り上げよう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『CHAOTIC VIRUS』\n✨ いつでも無料でプレイ\n\nこの見下ろし型アクション・ローグライトで細胞を操作し、生き残りを目指そう。押し寄せるウイルスの群れを倒して経験値を獲得し、変異によって進化しながら、アクティブスキルとパッシブスキル…\n\nhttps://store.steampowered.com/app/5334390/",
+        "attemptedAt": "2026-11-07T12:38:27.251Z",
+        "bufferPostId": "6aef1bc3004e4879a75668e2",
+        "submittedAt": "2026-11-07T12:38:28.477Z",
+        "postedAt": "2026-11-07T12:38:28.477Z"
+      },
+      "bufferPostId": "6aef1bc3004e4879a75668e2",
+      "postedAt": "2026-11-07T12:38:28.477Z"
+    },
+    "steam:5318970:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5318970:permanent_free:1",
+      "store": "steam",
+      "productId": "5318970",
+      "generation": 1,
+      "title": "脳爆弾 - 序章",
+      "storeUrl": "https://store.steampowered.com/app/5318970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "概念は爆弾。連想は死。カルト的な雰囲気漂うディストピア心理ホラーパズルゲーム。被験体の脳には概念爆弾が埋め込まれており、特定の[起爆ワード]を連想した瞬間、頭部が破裂する。「認知爆弾処理班」として、致命的な「脳内爆弾」を解除せよ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『脳爆弾 - 序章』\n✨ いつでも無料でプレイ\n\n概念は爆弾。連想は死。カルト的な雰囲気漂うディストピア心理ホラーパズルゲーム。被験体の脳には概念爆弾が埋め込まれており、特定の[起爆ワード]を連想した瞬間、頭部が破裂する。「認知爆弾…\n\nhttps://store.steampowered.com/app/5318970/",
+        "attemptedAt": "2026-11-07T12:38:28.481Z",
+        "bufferPostId": "6aef1bc4a7751de7c9e9709e",
+        "submittedAt": "2026-11-07T12:38:29.688Z",
+        "postedAt": "2026-11-07T12:38:29.688Z"
+      },
+      "bufferPostId": "6aef1bc4a7751de7c9e9709e",
+      "postedAt": "2026-11-07T12:38:29.688Z"
+    },
+    "steam:4223760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4223760:permanent_free:1",
+      "store": "steam",
+      "productId": "4223760",
+      "generation": 1,
+      "title": "ファウンデーション：銀河フロンティア",
+      "storeUrl": "https://store.steampowered.com/app/4223760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "アシモフ公式ライセンスによる『ファウンデーション』の世界で、星間行商人として生きる。交易航路を開拓・発展させ、自分だけの星艦を作り上げよう。激烈な上陸作戦で敵を殲滅し、大規模宇宙戦争では艦隊戦術で敵を圧倒しよう。常に進化を続ける新コンテンツが、君の銀河サーガをさらなる高みへと導いていく。この壮大な物語は、まだ始まったばかりだ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ファウンデーション：銀河フロンティア』\n✨ いつでも無料でプレイ\n\nアシモフ公式ライセンスによる『ファウンデーション』の世界で、星間行商人として生きる。交易航路を開拓・発展させ、自分だけの星艦を作り上げよう。激烈な上陸作戦で敵…\n\nhttps://store.steampowered.com/app/4223760/",
+        "attemptedAt": "2026-11-07T12:38:29.692Z",
+        "bufferPostId": "6aef1bc5004e4879a7566959",
+        "submittedAt": "2026-11-07T12:38:30.886Z",
+        "postedAt": "2026-11-07T12:38:30.886Z"
+      },
+      "bufferPostId": "6aef1bc5004e4879a7566959",
+      "postedAt": "2026-11-07T12:38:30.886Z"
+    },
+    "steam:5380390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5380390:permanent_free:1",
+      "store": "steam",
+      "productId": "5380390",
+      "generation": 1,
+      "title": "Possessed By Fate",
+      "storeUrl": "https://store.steampowered.com/app/5380390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-07T12:38:12.800Z",
+      "lastSeenAt": "2026-11-07T12:38:12.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A yuri romance. After a ghost takes her apartment, a ghost hunter becomes the hunted—with her body the prize.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-07T12:38:12.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Possessed By Fate』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5380390/",
+        "attemptedAt": "2026-11-07T12:38:30.890Z",
+        "bufferPostId": "6aef1bc6a7751de7c9e970fd",
+        "submittedAt": "2026-11-07T12:38:32.088Z",
+        "postedAt": "2026-11-07T12:38:32.088Z"
+      },
+      "bufferPostId": "6aef1bc6a7751de7c9e970fd",
+      "postedAt": "2026-11-07T12:38:32.088Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-06T15:01:12.429Z",
+    "lastSuccessfulScanAt": "2026-11-07T12:38:12.800Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -13361,6 +13871,7 @@
       "1593970": "2026-11-02T15:01:13.453Z",
       "1624430": "2026-10-19T21:01:06.551Z",
       "1674270": "2026-10-14T15:30:36.000Z",
+      "1825840": "2026-11-07T12:38:12.800Z",
       "1868410": "2026-11-06T06:01:16.414Z",
       "1930320": "2026-10-25T00:01:08.164Z",
       "1965430": "2026-10-14T15:30:36.000Z",
@@ -13428,10 +13939,12 @@
       "4146650": "2026-11-06T06:01:16.414Z",
       "4150920": "2026-10-14T15:30:36.000Z",
       "4170240": "2026-10-30T21:01:07.872Z",
+      "4183850": "2026-11-07T12:38:12.800Z",
       "4190960": "2026-10-14T15:30:36.000Z",
       "4195620": "2026-11-01T18:01:03.136Z",
       "4197210": "2026-10-29T18:01:09.856Z",
       "4217360": "2026-11-01T18:01:03.136Z",
+      "4223760": "2026-11-07T12:38:12.800Z",
       "4246850": "2026-10-21T18:01:08.108Z",
       "4248630": "2026-10-28T03:01:23.689Z",
       "4251070": "2026-10-15T18:01:01.152Z",
@@ -13536,6 +14049,7 @@
       "4866750": "2026-10-23T18:01:08.113Z",
       "4870820": "2026-10-16T18:01:10.079Z",
       "4873510": "2026-10-28T03:01:23.689Z",
+      "4877750": "2026-11-07T12:38:12.800Z",
       "4885100": "2026-10-14T15:30:36.000Z",
       "4889610": "2026-10-19T21:01:06.551Z",
       "4890840": "2026-11-06T12:01:14.375Z",
@@ -13568,12 +14082,17 @@
       "4952950": "2026-10-15T18:01:01.152Z",
       "4956060": "2026-10-14T21:01:00.572Z",
       "4957910": "2026-10-27T00:01:18.126Z",
+      "4959560": "2026-11-07T12:38:12.800Z",
       "4963800": "2026-10-14T15:30:36.000Z",
+      "4967370": "2026-11-07T12:38:12.800Z",
       "4972430": "2026-10-23T06:01:01.508Z",
       "4974600": "2026-10-31T12:01:05.079Z",
+      "4976270": "2026-11-07T12:38:12.800Z",
       "4979300": "2026-10-14T15:30:36.000Z",
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
+      "4989520": "2026-11-07T12:38:12.800Z",
+      "4990890": "2026-11-07T12:38:12.800Z",
       "4993710": "2026-10-30T21:01:07.872Z",
       "4994410": "2026-10-14T15:30:36.000Z",
       "4997370": "2026-10-28T09:01:06.160Z",
@@ -13752,6 +14271,7 @@
       "5315120": "2026-11-02T15:01:13.453Z",
       "5316430": "2026-10-30T06:01:06.346Z",
       "5318820": "2026-10-23T09:01:01.018Z",
+      "5318970": "2026-11-07T12:38:12.800Z",
       "5319610": "2026-10-14T15:30:36.000Z",
       "5321810": "2026-11-06T06:01:16.414Z",
       "5322620": "2026-10-28T06:01:11.657Z",
@@ -13762,7 +14282,10 @@
       "5329550": "2026-10-23T06:01:01.508Z",
       "5331600": "2026-10-30T00:01:16.479Z",
       "5332430": "2026-10-30T21:01:07.872Z",
+      "5333130": "2026-11-07T12:38:12.800Z",
       "5333290": "2026-10-28T21:01:20.934Z",
+      "5334390": "2026-11-07T12:38:12.800Z",
+      "5338650": "2026-11-07T12:38:12.800Z",
       "5339870": "2026-10-24T15:01:00.588Z",
       "5341000": "2026-10-21T21:00:59.332Z",
       "5341010": "2026-11-02T06:01:05.538Z",
@@ -13785,6 +14308,7 @@
       "5365780": "2026-10-23T00:01:04.971Z",
       "5367090": "2026-11-01T12:01:00.497Z",
       "5367650": "2026-10-27T09:01:03.509Z",
+      "5371290": "2026-11-07T12:38:12.800Z",
       "5371940": "2026-10-23T00:01:04.971Z",
       "5372440": "2026-10-26T18:01:07.648Z",
       "5375180": "2026-10-24T12:01:06.666Z",
@@ -13793,6 +14317,7 @@
       "5377440": "2026-11-02T06:01:05.538Z",
       "5377530": "2026-10-27T18:01:06.530Z",
       "5380340": "2026-10-29T09:01:05.116Z",
+      "5380390": "2026-11-07T12:38:12.800Z",
       "5382010": "2026-11-06T06:01:16.414Z",
       "5382160": "2026-10-29T15:01:15.623Z",
       "5382570": "2026-10-23T03:01:08.088Z",
