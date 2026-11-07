@@ -13092,20 +13092,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "47都道府県・48球団の架空プロ野球で、ドラフト・育成・補強を通じて日本一を目指す球団運営シミュレーション。無料本体で開幕1か月（27試合）まで、期限なく遊べます。続きは別売りの完全版DLCで同じセーブから。元データを編集するエディターDLCは任意の別売り機能です。",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『47都道府県にプロ野球チームが存在する世界線で日本一の球団をめざそう！』\n✨ いつでも無料でプレイ\n\n47都道府県・48球団の架空プロ野球で、ドラフト・育成・補強を通じて日本一を目指す球団運営シミュレーション。無料本体で開幕1か月（2…\n\nhttps://store.steampowered.com/app/4921720/",
         "attemptedAt": "2026-11-06T09:01:14.384Z",
         "bufferPostId": "6aed975a86fe9b837985328c",
-        "submittedAt": "2026-11-06T09:01:16.065Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:16.065Z"
       },
-      "bufferPostId": "6aed975a86fe9b837985328c",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed975a86fe9b837985328c"
     },
     "steam:5433020:permanent_free:1": {
       "kind": "permanent_free",
@@ -13122,20 +13120,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "Join up to 100 other online players to play a game of hide and seek on mars. You get to choose to either be a seeker or a hider. Hiders may hide anywhere across a 1 for 1 scale mars planet.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Hide IN SPACE』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5433020/",
         "attemptedAt": "2026-11-06T09:01:16.071Z",
         "bufferPostId": "6aed975c7b7e47e8f41c8c6f",
-        "submittedAt": "2026-11-06T09:01:17.403Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:17.403Z"
       },
-      "bufferPostId": "6aed975c7b7e47e8f41c8c6f",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed975c7b7e47e8f41c8c6f"
     },
     "steam:4766670:permanent_free:1": {
       "kind": "permanent_free",
@@ -13152,20 +13148,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "A young boy accidentally finds a celestial book and returns to his hometown, determined to uncover the truth behind the village's destruction. Guided by a wise man, the boy awakens the inherited power of a Beastmaster.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『幻兽纪元』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4766670/",
         "attemptedAt": "2026-11-06T09:01:17.408Z",
         "bufferPostId": "6aed975d07f945cca951e044",
-        "submittedAt": "2026-11-06T09:01:18.832Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:18.832Z"
       },
-      "bufferPostId": "6aed975d07f945cca951e044",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed975d07f945cca951e044"
     },
     "steam:5219930:permanent_free:1": {
       "kind": "permanent_free",
@@ -13182,20 +13176,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "Wild Ones is a free-to-play turn-based multiplayer artillery game where customizable pets battle across destructible arenas with wild weapons, physics, and tactical positioning. Outsmart your opponents, reshape the battlefield, and master every shot.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Wild Ones Evolution』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5219930/",
         "attemptedAt": "2026-11-06T09:01:18.838Z",
         "bufferPostId": "6aed975f07f945cca951e2cb",
-        "submittedAt": "2026-11-06T09:01:20.183Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:20.183Z"
       },
-      "bufferPostId": "6aed975f07f945cca951e2cb",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed975f07f945cca951e2cb"
     },
     "steam:5229130:permanent_free:1": {
       "kind": "permanent_free",
@@ -13212,20 +13204,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "Host the graveyard shift at a small-town radio station in 1998. Callers keep describing the same pale man—and every time someone talks about him on air, he seems to get closer.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Late Night with Ken Hayes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5229130/",
         "attemptedAt": "2026-11-06T09:01:20.189Z",
         "bufferPostId": "6aed9760c1e74b84e5db2af5",
-        "submittedAt": "2026-11-06T09:01:21.486Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:21.486Z"
       },
-      "bufferPostId": "6aed9760c1e74b84e5db2af5",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed9760c1e74b84e5db2af5"
     },
     "steam:5462800:permanent_free:1": {
       "kind": "permanent_free",
@@ -13242,20 +13232,18 @@
       "lastSeenAt": "2026-11-06T09:01:10.595Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 4,
       "officialDescription": "Build army, press START, and watch up to 1,000 hand-drawn units clash on their own. Cavalry crashes, bombs fly, bodies launch into the air. Free campaign, 1 vs 1 on one PC or LAN, no micromanaging. 100% hand-drawn.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T09:01:10.595Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Massive Army Battle』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5462800/",
         "attemptedAt": "2026-11-06T09:01:21.491Z",
         "bufferPostId": "6aed9761c1e74b84e5db2ba1",
-        "submittedAt": "2026-11-06T09:01:23.140Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T09:01:23.140Z"
       },
-      "bufferPostId": "6aed9761c1e74b84e5db2ba1",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aed9761c1e74b84e5db2ba1"
     },
     "steam:5446410:permanent_free:1": {
       "kind": "permanent_free",
@@ -13272,20 +13260,18 @@
       "lastSeenAt": "2026-11-06T12:01:14.375Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 3,
       "officialDescription": "Flip used cars in Vilnius. Read the ads, meet the seller, haggle — but the ad might be lying. Buy the history report, or trust your gut. Wash it, fix it, photograph it, and sell it for more than you paid. Full Lithuanian and English.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T12:01:14.375Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Tikra Rida』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5446410/",
         "attemptedAt": "2026-11-06T12:01:17.938Z",
         "bufferPostId": "6aedc18e64d4343f608cec0d",
-        "submittedAt": "2026-11-06T12:01:19.527Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T12:01:19.527Z"
       },
-      "bufferPostId": "6aedc18e64d4343f608cec0d",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aedc18e64d4343f608cec0d"
     },
     "steam:4890840:permanent_free:1": {
       "kind": "permanent_free",
@@ -13302,20 +13288,18 @@
       "lastSeenAt": "2026-11-06T12:01:14.375Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 3,
       "officialDescription": "A roguelike classic. Gain items of great magic, attain powerful equipment made of mysterious materials, bathe in the blessings of mighty gods and recruit loyal allies of various shapes and sizes.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T12:01:14.375Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『IVAN (Iter Vehemens ad Necem)』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4890840/",
         "attemptedAt": "2026-11-06T12:01:19.532Z",
         "bufferPostId": "6aedc18f64d4343f608ced2d",
-        "submittedAt": "2026-11-06T12:01:21.366Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T12:01:21.366Z"
       },
-      "bufferPostId": "6aedc18f64d4343f608ced2d",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aedc18f64d4343f608ced2d"
     },
     "steam:5486310:permanent_free:1": {
       "kind": "permanent_free",
@@ -13332,20 +13316,18 @@
       "lastSeenAt": "2026-11-06T12:01:14.375Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 3,
       "officialDescription": "Forbidden House is a first-person puzzle adventure with over 40 puzzles to solve.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T12:01:14.375Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Forbidden House』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5486310/",
         "attemptedAt": "2026-11-06T12:01:21.371Z",
         "bufferPostId": "6aedc19136c33a13362837ff",
-        "submittedAt": "2026-11-06T12:01:22.941Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T12:01:22.941Z"
       },
-      "bufferPostId": "6aedc19136c33a13362837ff",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aedc19136c33a13362837ff"
     },
     "steam:5349900:permanent_free:1": {
       "kind": "permanent_free",
@@ -13362,20 +13344,18 @@
       "lastSeenAt": "2026-11-06T12:01:14.375Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 3,
       "officialDescription": "謎めいた霧に包まれた終わりのない迷路を、プレイヤーが進んでいくカジュアルなパズルゲーム。",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T12:01:14.375Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『Mystic Fog Maze』\n✨ いつでも無料でプレイ\n\n謎めいた霧に包まれた終わりのない迷路を、プレイヤーが進んでいくカジュアルなパズルゲーム。\n\nhttps://store.steampowered.com/app/5349900/",
         "attemptedAt": "2026-11-06T12:01:22.946Z",
         "bufferPostId": "6aedc193c60945d644996651",
-        "submittedAt": "2026-11-06T12:01:24.456Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T12:01:24.456Z"
       },
-      "bufferPostId": "6aedc193c60945d644996651",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aedc193c60945d644996651"
     },
     "steam:4864070:permanent_free:1": {
       "kind": "permanent_free",
@@ -13392,20 +13372,18 @@
       "lastSeenAt": "2026-11-06T12:01:14.375Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "failed",
+      "postStatus": "sent",
       "postAttempts": 3,
       "officialDescription": "Run a workshop that keeps moving while you plan: gather and process resources, discover cauldron recipes, forge randomized gear, build a party from four classes, and connect combat, orders, and a player market into one persistent economy. Internet connection and account login required.",
       "delivery": {
-        "status": "failed",
+        "status": "sent",
         "firstSeenAt": "2026-11-06T12:01:14.375Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『萌爪造万物』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4864070/",
         "attemptedAt": "2026-11-06T12:01:24.462Z",
         "bufferPostId": "6aedc1941fcdcefa468a2f0a",
-        "submittedAt": "2026-11-06T12:01:25.884Z",
-        "lastError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+        "submittedAt": "2026-11-06T12:01:25.884Z"
       },
-      "bufferPostId": "6aedc1941fcdcefa468a2f0a",
-      "lastPostError": "Buffer delivery could not be confirmed from recent history; automatic duplicate submission is disabled"
+      "bufferPostId": "6aedc1941fcdcefa468a2f0a"
     },
     "steam:4976270:permanent_free:1": {
       "kind": "permanent_free",
