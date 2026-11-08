@@ -1640,6 +1640,10 @@
     "steam:5246960:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5246960:permanent_free:1"
+    },
+    "steam:5323250:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5323250:permanent_free:1"
     }
   },
   "campaigns": {
@@ -13005,7 +13009,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T15:01:12.946Z",
+      "lastSeenAt": "2026-11-08T18:01:07.512Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13060,7 +13064,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T15:01:12.946Z",
+      "lastSeenAt": "2026-11-08T18:01:07.512Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14310,11 +14314,41 @@
       },
       "bufferPostId": "6af06489562f2e6de9b72b14",
       "postedAt": "2026-11-08T12:01:14.485Z"
+    },
+    "steam:5323250:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5323250:permanent_free:1",
+      "store": "steam",
+      "productId": "5323250",
+      "generation": 1,
+      "title": "Starfall Defense",
+      "storeUrl": "https://store.steampowered.com/app/5323250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T18:01:07.512Z",
+      "lastSeenAt": "2026-11-08T18:01:07.512Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Starfall Defense is a real-time multiplayer tower defense game blending ancient mythology with cosmic sci-fi. Deploy legendary heroes like Pangu and Nuwa, trigger class synergies, and fend off alien swarms! Features 2-player co-op and ranked PvP. Free to play, pure strategy!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T18:01:07.512Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Starfall Defense』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5323250/",
+        "attemptedAt": "2026-11-08T18:01:07.783Z",
+        "bufferPostId": "6af0b8e351492b796e51e6f9",
+        "submittedAt": "2026-11-08T18:01:09.265Z",
+        "postedAt": "2026-11-08T18:01:09.265Z"
+      },
+      "bufferPostId": "6af0b8e351492b796e51e6f9",
+      "postedAt": "2026-11-08T18:01:09.265Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-08T15:01:12.946Z",
+    "lastSuccessfulScanAt": "2026-11-08T18:01:07.512Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14737,6 +14771,7 @@
       "5319610": "2026-10-14T15:30:36.000Z",
       "5321810": "2026-11-06T06:01:16.414Z",
       "5322620": "2026-10-28T06:01:11.657Z",
+      "5323250": "2026-11-08T18:01:07.512Z",
       "5324320": "2026-10-26T00:01:03.264Z",
       "5325220": "2026-11-07T15:01:11.737Z",
       "5326340": "2026-10-31T15:01:00.614Z",
