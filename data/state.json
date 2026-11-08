@@ -13005,7 +13005,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T12:01:09.576Z",
+      "lastSeenAt": "2026-11-08T15:01:12.946Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13060,7 +13060,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T12:01:09.576Z",
+      "lastSeenAt": "2026-11-08T15:01:12.946Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14314,7 +14314,7 @@
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-08T12:01:09.576Z",
+    "lastSuccessfulScanAt": "2026-11-08T15:01:12.946Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
