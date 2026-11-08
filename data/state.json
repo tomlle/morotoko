@@ -1612,6 +1612,14 @@
     "steam:4747360:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4747360:permanent_free:1"
+    },
+    "steam:5289190:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5289190:permanent_free:1"
+    },
+    "steam:3681220:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3681220:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12977,7 +12985,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-07T21:01:08.968Z",
+      "lastSeenAt": "2026-11-08T00:01:08.929Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13032,7 +13040,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-07T21:01:08.968Z",
+      "lastSeenAt": "2026-11-08T00:01:08.929Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14072,11 +14080,71 @@
       },
       "bufferPostId": "6aef9196229bf05daf73af47",
       "postedAt": "2026-11-07T21:01:11.849Z"
+    },
+    "steam:5289190:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5289190:permanent_free:1",
+      "store": "steam",
+      "productId": "5289190",
+      "generation": 1,
+      "title": "VALHALLA ARCHIVE: CCG",
+      "storeUrl": "https://store.steampowered.com/app/5289190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T00:01:08.929Z",
+      "lastSeenAt": "2026-11-08T00:01:08.929Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "VALHALLA ARCHIVE is a tactical fantasy CCG where matches are decided in 5 turns. Deploy a 20-card deck across front and back rows, master 3 unique win conditions, and conquer the roguelite 'Dimensional Corridor'. Harness unpredictable Mana Rifts and claim your place as the ultimate Archivist!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T00:01:08.929Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『VALHALLA ARCHIVE: CCG』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5289190/",
+        "attemptedAt": "2026-11-08T00:01:09.331Z",
+        "bufferPostId": "6aefbbc5229bf05daf7ef548",
+        "submittedAt": "2026-11-08T00:01:11.093Z",
+        "postedAt": "2026-11-08T00:01:11.093Z"
+      },
+      "bufferPostId": "6aefbbc5229bf05daf7ef548",
+      "postedAt": "2026-11-08T00:01:11.093Z"
+    },
+    "steam:3681220:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3681220:permanent_free:1",
+      "store": "steam",
+      "productId": "3681220",
+      "generation": 1,
+      "title": "The Light Switch",
+      "storeUrl": "https://store.steampowered.com/app/3681220/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T00:01:08.929Z",
+      "lastSeenAt": "2026-11-08T00:01:08.929Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The shadow wants to play with you. It moves quickly, and you have to find it. Be patient, but don't wait too long. Light will be your friend. Don't make the shadow angry.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T00:01:08.929Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Light Switch』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3681220/",
+        "attemptedAt": "2026-11-08T00:01:11.100Z",
+        "bufferPostId": "6aefbbc7562f2e6de98a3853",
+        "submittedAt": "2026-11-08T00:01:12.374Z",
+        "postedAt": "2026-11-08T00:01:12.374Z"
+      },
+      "bufferPostId": "6aefbbc7562f2e6de98a3853",
+      "postedAt": "2026-11-08T00:01:12.374Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-07T21:01:08.968Z",
+    "lastSuccessfulScanAt": "2026-11-08T00:01:08.929Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14126,6 +14194,7 @@
       "3620040": "2026-10-19T18:01:19.647Z",
       "3638270": "2026-11-03T12:01:08.952Z",
       "3665700": "2026-10-21T18:01:08.108Z",
+      "3681220": "2026-11-08T00:01:08.929Z",
       "3693930": "2026-10-21T03:01:00.123Z",
       "3701290": "2026-10-30T15:01:09.322Z",
       "3703550": "2026-10-17T15:01:03.979Z",
@@ -14469,6 +14538,7 @@
       "5287260": "2026-10-31T09:00:59.059Z",
       "5288120": "2026-10-25T12:01:01.232Z",
       "5288230": "2026-10-31T09:00:59.059Z",
+      "5289190": "2026-11-08T00:01:08.929Z",
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289710": "2026-11-07T15:01:11.737Z",
       "5289970": "2026-10-14T15:30:36.000Z",

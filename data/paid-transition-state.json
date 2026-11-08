@@ -90,6 +90,26 @@
         "submittedAt": "2026-10-09T06:15:55.928Z",
         "postedAt": "2026-10-09T06:15:55.928Z"
       }
+    },
+    "steam:2987320": {
+      "generation": 1,
+      "processedAnnouncementIds": [
+        "1848664643350650"
+      ],
+      "event": {
+        "id": "steam:2987320:paid-transition:1",
+        "status": "sent",
+        "active": true,
+        "announcementIds": [
+          "1848664643350650"
+        ],
+        "firstSeenAt": "2026-11-08T00:01:36.751Z",
+        "postText": "⚠️ 無料で入手できるのは今のうち！\n\n『Animal Adventure』\n💰 現在無料 → 近日中に有料化予定\n\n『アニマルアドベンチャー』は、親しみやすい動物キャラクターとともに障害物を乗り越え、目的地を目指すパーティーゲームです。 シンプルな操作で幅広い年齢層が気軽にプ…\n\nhttps://store.steampowered.com/app/2987320/",
+        "attemptedAt": "2026-11-08T00:01:37.039Z",
+        "bufferPostId": "6aefbbe1d6bbae6fa1b9eb42",
+        "submittedAt": "2026-11-08T00:01:38.347Z",
+        "postedAt": "2026-11-08T00:01:38.347Z"
+      }
     }
   }
 }

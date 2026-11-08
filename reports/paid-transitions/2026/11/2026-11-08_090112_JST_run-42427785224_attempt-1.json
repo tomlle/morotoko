@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "run": {
+    "startedAt": "2026-11-08T00:01:12.937Z",
+    "finishedAt": "2026-11-08T00:01:38.349Z",
+    "timezone": "Asia/Tokyo"
+  },
+  "detection": {
+    "searchedQueries": 7,
+    "candidates": 24,
+    "detectedAnnouncements": 3,
+    "detectedProducts": 3
+  },
+  "posting": {
+    "submitted": 0,
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "transitions": [
+    {
+      "productId": "2987320",
+      "title": "Animal Adventure",
+      "storeUrl": "https://store.steampowered.com/app/2987320/",
+      "announcementId": "1848664643350650",
+      "announcementUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350650",
+      "announcedAt": "2026-11-07T21:08:36.000Z",
+      "officialDescription": "『アニマルアドベンチャー』は、親しみやすい動物キャラクターとともに障害物を乗り越え、目的地を目指すパーティーゲームです。 シンプルな操作で幅広い年齢層が気軽にプレイでき、 多様な障害物によるPVE要素と、プレイヤー同士の競争によるPVP要素が組み合わさっています。",
+      "tags": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "レース",
+        "スポーツ",
+        "無料プレイ",
+        "早期アクセス"
+      ]
+    },
+    {
+      "productId": "5257350",
+      "title": "Hex Reverse",
+      "storeUrl": "https://store.steampowered.com/app/5257350/",
+      "announcementId": "1846018067925478",
+      "announcementUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067925478",
+      "announcedAt": "2026-10-07T09:12:52.000Z",
+      "relativeFreePeriod": {
+        "amount": 30,
+        "unit": "day",
+        "anchor": "release"
+      },
+      "officialDescription": "六角形フィールドにカードを配置し、隣接する辺の数値で相手カードを反転させる陣取りカードバトル。ランを進めながらカードを獲得し、その場でデッキを成長させていくローグライクデッキ構築ゲームです。",
+      "tags": [
+        "カジュアル",
+        "インディー",
+        "無料プレイ"
+      ]
+    },
+    {
+      "productId": "3943750",
+      "title": "Fly Over! 100KM! Mountains!",
+      "storeUrl": "https://store.steampowered.com/app/3943750/",
+      "announcementId": "1846018067932002",
+      "announcementUrl": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932002",
+      "announcedAt": "2026-10-09T02:52:46.000Z",
+      "officialDescription": "これは、簡単に覚えられるのに信じられないほどやりがいのあるエンドレスフライトゲームです。絶えず変化する空を小さな飛行機で飛び回り、障害物を巧みに回避し、背後から迫りくる竜巻から必死に逃げましょう。一歩一歩が、技術と忍耐力の試練となります。",
+      "tags": [
+        "カジュアル",
+        "インディー",
+        "レース",
+        "シミュレーション",
+        "無料プレイ"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "steam:2987320:paid-transition:1",
+      "title": "Animal Adventure",
+      "status": "sent",
+      "bufferPostId": "6aefbbe1d6bbae6fa1b9eb42"
+    }
+  ],
+  "errors": []
+}
