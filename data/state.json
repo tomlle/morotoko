@@ -1628,6 +1628,18 @@
     "steam:5490870:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5490870:permanent_free:1"
+    },
+    "steam:5455560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5455560:permanent_free:1"
+    },
+    "steam:5138130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5138130:permanent_free:1"
+    },
+    "steam:5246960:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5246960:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12993,7 +13005,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T09:01:03.017Z",
+      "lastSeenAt": "2026-11-08T12:01:09.576Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13048,7 +13060,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T09:01:03.017Z",
+      "lastSeenAt": "2026-11-08T12:01:09.576Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14208,11 +14220,101 @@
       },
       "bufferPostId": "6af0102251492b796e1d6f56",
       "postedAt": "2026-11-08T06:01:07.750Z"
+    },
+    "steam:5455560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5455560:permanent_free:1",
+      "store": "steam",
+      "productId": "5455560",
+      "generation": 1,
+      "title": "Command Base Assault",
+      "storeUrl": "https://store.steampowered.com/app/5455560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T12:01:09.576Z",
+      "lastSeenAt": "2026-11-08T12:01:09.576Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Ten fortresses, one river, five against five. Build your base, train an army of up to a hundred units and break the enemy HQs with your team in fast real-time strategy battles. Free to play, with cross-play between PC, iPhone and Android.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T12:01:09.576Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Command Base Assault』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5455560/",
+        "attemptedAt": "2026-11-08T12:01:09.888Z",
+        "bufferPostId": "6af06486004e4879a7b56af5",
+        "submittedAt": "2026-11-08T12:01:11.450Z",
+        "postedAt": "2026-11-08T12:01:11.450Z"
+      },
+      "bufferPostId": "6af06486004e4879a7b56af5",
+      "postedAt": "2026-11-08T12:01:11.450Z"
+    },
+    "steam:5138130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5138130:permanent_free:1",
+      "store": "steam",
+      "productId": "5138130",
+      "generation": 1,
+      "title": "百鬼盤",
+      "storeUrl": "https://store.steampowered.com/app/5138130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T12:01:09.576Z",
+      "lastSeenAt": "2026-11-08T12:01:09.576Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "妖怪を集めて、取って、HPを削り合うターン制の盤上対戦。将棋のような駒の動きにダメージとコンボを足し、1局は5〜10分で決着しやすい。妖怪を編成し、大将を守れ。ソロ連戦「百鬼夜行」で連勝を狙い、オンラインではランダムマッチやルームコード対戦が可能。Steam版とブラウザ版は同じマッチで戦える。本体無料・広告なし。有償ガチャはなく、チケットはプレイするほど集まる。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T12:01:09.576Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『百鬼盤』\n✨ いつでも無料でプレイ\n\n妖怪を集めて、取って、HPを削り合うターン制の盤上対戦。将棋のような駒の動きにダメージとコンボを足し、1局は5〜10分で決着しやすい。妖怪を編成し、大将を守れ。ソロ連戦「百鬼夜行」で連勝を狙い、…\n\nhttps://store.steampowered.com/app/5138130/",
+        "attemptedAt": "2026-11-08T12:01:11.466Z",
+        "bufferPostId": "6af0648751492b796e36f749",
+        "submittedAt": "2026-11-08T12:01:12.860Z",
+        "postedAt": "2026-11-08T12:01:12.860Z"
+      },
+      "bufferPostId": "6af0648751492b796e36f749",
+      "postedAt": "2026-11-08T12:01:12.860Z"
+    },
+    "steam:5246960:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5246960:permanent_free:1",
+      "store": "steam",
+      "productId": "5246960",
+      "generation": 1,
+      "title": "西游：云行散记",
+      "storeUrl": "https://store.steampowered.com/app/5246960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T12:01:09.576Z",
+      "lastSeenAt": "2026-11-08T12:01:09.576Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Journey to the West: Cloudborne Tales is a strategic idle card RPG with a fresh twist on the classic myth. The Great Sage Sun Wukong quits the pilgrimage, gathers deities & demons across the Three Realms, and uncovers hidden truths behind the legendary journey.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T12:01:09.576Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『西游：云行散记』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5246960/",
+        "attemptedAt": "2026-11-08T12:01:12.867Z",
+        "bufferPostId": "6af06489562f2e6de9b72b14",
+        "submittedAt": "2026-11-08T12:01:14.485Z",
+        "postedAt": "2026-11-08T12:01:14.485Z"
+      },
+      "bufferPostId": "6af06489562f2e6de9b72b14",
+      "postedAt": "2026-11-08T12:01:14.485Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-08T09:01:03.017Z",
+    "lastSuccessfulScanAt": "2026-11-08T12:01:09.576Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14512,6 +14614,7 @@
       "5135750": "2026-10-23T15:01:04.807Z",
       "5135810": "2026-11-03T12:01:08.952Z",
       "5136630": "2026-10-14T15:30:36.000Z",
+      "5138130": "2026-11-08T12:01:09.576Z",
       "5138180": "2026-10-14T15:30:36.000Z",
       "5144300": "2026-10-14T15:30:36.000Z",
       "5156550": "2026-10-21T06:00:58.776Z",
@@ -14565,6 +14668,7 @@
       "5245030": "2026-10-24T18:01:06.791Z",
       "5246400": "2026-10-20T12:00:59.724Z",
       "5246480": "2026-10-28T03:01:23.689Z",
+      "5246960": "2026-11-08T12:01:09.576Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5247120": "2026-11-06T06:01:16.414Z",
       "5249390": "2026-10-14T15:30:36.000Z",
@@ -14705,6 +14809,7 @@
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446410": "2026-11-06T12:01:14.375Z",
+      "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
       "5462800": "2026-11-06T09:01:10.595Z",
       "5464240": "2026-11-06T06:01:16.414Z",
