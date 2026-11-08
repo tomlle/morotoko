@@ -1620,6 +1620,10 @@
     "steam:3681220:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:3681220:permanent_free:1"
+    },
+    "steam:5456600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5456600:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12985,7 +12989,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T00:01:08.929Z",
+      "lastSeenAt": "2026-11-08T03:01:05.662Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13040,7 +13044,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T00:01:08.929Z",
+      "lastSeenAt": "2026-11-08T03:01:05.662Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14140,11 +14144,41 @@
       },
       "bufferPostId": "6aefbbc7562f2e6de98a3853",
       "postedAt": "2026-11-08T00:01:12.374Z"
+    },
+    "steam:5456600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5456600:permanent_free:1",
+      "store": "steam",
+      "productId": "5456600",
+      "generation": 1,
+      "title": "KEYSMASH",
+      "storeUrl": "https://store.steampowered.com/app/5456600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T03:01:05.662Z",
+      "lastSeenAt": "2026-11-08T03:01:05.662Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "KEYSMASH is a keyboard fidget toy: mash any key and watch it bloom into color, shape, and sound. Play through 24 hand-crafted worlds, from Bauhaus galleries to cherry blossoms to a crashing stock ticker, and earn 100 honest achievements. No skill, no fail. Just vibes",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T03:01:05.662Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『KEYSMASH』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5456600/",
+        "attemptedAt": "2026-11-08T03:01:06.080Z",
+        "bufferPostId": "6aefe5f29214322f682bbb74",
+        "submittedAt": "2026-11-08T03:01:07.446Z",
+        "postedAt": "2026-11-08T03:01:07.446Z"
+      },
+      "bufferPostId": "6aefe5f29214322f682bbb74",
+      "postedAt": "2026-11-08T03:01:07.446Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-08T00:01:08.929Z",
+    "lastSuccessfulScanAt": "2026-11-08T03:01:05.662Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14637,6 +14671,7 @@
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446410": "2026-11-06T12:01:14.375Z",
+      "5456600": "2026-11-08T03:01:05.662Z",
       "5462800": "2026-11-06T09:01:10.595Z",
       "5464240": "2026-11-06T06:01:16.414Z",
       "5465230": "2026-11-06T06:01:16.414Z",
