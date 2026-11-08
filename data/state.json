@@ -1624,6 +1624,10 @@
     "steam:5456600:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5456600:permanent_free:1"
+    },
+    "steam:5490870:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5490870:permanent_free:1"
     }
   },
   "campaigns": {
@@ -12989,7 +12993,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T03:01:05.662Z",
+      "lastSeenAt": "2026-11-08T06:01:05.672Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13044,7 +13048,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-08T03:01:05.662Z",
+      "lastSeenAt": "2026-11-08T06:01:05.672Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13065,8 +13069,8 @@
         "戦略RPG",
         "シミュレーション",
         "ストラテジーRPG",
-        "探検",
         "マルチプレイヤー",
+        "探検",
         "シングルプレイヤー",
         "選択型進行",
         "協力プレイ",
@@ -14174,11 +14178,41 @@
       },
       "bufferPostId": "6aefe5f29214322f682bbb74",
       "postedAt": "2026-11-08T03:01:07.446Z"
+    },
+    "steam:5490870:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5490870:permanent_free:1",
+      "store": "steam",
+      "productId": "5490870",
+      "generation": 1,
+      "title": "ほろっちの挑戦状",
+      "storeUrl": "https://store.steampowered.com/app/5490870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-08T06:01:05.672Z",
+      "lastSeenAt": "2026-11-08T06:01:05.672Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "重力を6方向に切り替え、水晶オーブをゴールへ運ぶ1人用3Dパズル。全100ステージを最初から自由に選択！ EXTRA HARDではXOR回路と水位操作を使い、浮き床で仲間やオーブを運びながら大きな立体迷路に挑戦。メグルとビンバちゃんで最小手メダルを目指そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-08T06:01:05.672Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ほろっちの挑戦状』\n✨ いつでも無料でプレイ\n\n重力を6方向に切り替え、水晶オーブをゴールへ運ぶ1人用3Dパズル。全100ステージを最初から自由に選択！ EXTRA HARDではXOR回路と水位操作を使い、浮き床で仲間やオーブを運びながら大きな立…\n\nhttps://store.steampowered.com/app/5490870/",
+        "attemptedAt": "2026-11-08T06:01:06.174Z",
+        "bufferPostId": "6af0102251492b796e1d6f56",
+        "submittedAt": "2026-11-08T06:01:07.750Z",
+        "postedAt": "2026-11-08T06:01:07.750Z"
+      },
+      "bufferPostId": "6af0102251492b796e1d6f56",
+      "postedAt": "2026-11-08T06:01:07.750Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-08T03:01:05.662Z",
+    "lastSuccessfulScanAt": "2026-11-08T06:01:05.672Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14677,7 +14711,8 @@
       "5465230": "2026-11-06T06:01:16.414Z",
       "5465860": "2026-11-06T06:01:16.414Z",
       "5473010": "2026-11-06T06:01:16.414Z",
-      "5486310": "2026-11-06T12:01:14.375Z"
+      "5486310": "2026-11-06T12:01:14.375Z",
+      "5490870": "2026-11-08T06:01:05.672Z"
     }
   }
 }

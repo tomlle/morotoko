@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42452965390",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-08T06:00:59.938Z",
+    "finishedAt": "2026-11-08T06:01:07.762Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42452965390"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 1,
+    "knownPromotions": 2,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5490870",
+      "title": "ほろっちの挑戦状",
+      "storeUrl": "https://store.steampowered.com/app/5490870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490870/4740bfcde8676c5f9dbfa2074cad67222d7532cd/header_japanese.jpg?t=1794107272",
+      "officialDescription": "重力を6方向に切り替え、水晶オーブをゴールへ運ぶ1人用3Dパズル。全100ステージを最初から自由に選択！ EXTRA HARDではXOR回路と水位操作を使い、浮き床で仲間やオーブを運びながら大きな立体迷路に挑戦。メグルとビンバちゃんで最小手メダルを目指そう。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1669000",
+      "title": "Age of Wonders 4",
+      "storeUrl": "https://store.steampowered.com/app/1669000/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 60,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/88e025055b27f31e6685f70e0e3151071f6eb5f3/header_alt_assets_15_japanese.jpg?t=1793955877",
+      "officialDescription": "自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探検しよう。ターンごとに発展していく帝国とともに成長・変化する派閥を支配しよう！",
+      "tags": [
+        "ストラテジー",
+        "4X",
+        "ターン制ストラテジー",
+        "ファンタジー",
+        "キャラクターカスタマイズ",
+        "RPG",
+        "大戦略",
+        "ターン制コンバット",
+        "ダークファンタジー",
+        "戦争",
+        "戦術",
+        "戦略RPG",
+        "シミュレーション",
+        "ストラテジーRPG",
+        "マルチプレイヤー",
+        "探検",
+        "シングルプレイヤー",
+        "選択型進行",
+        "協力プレイ",
+        "MOD導入可能",
+        "+"
+      ],
+      "startsAt": "2026-11-05T18:00:00.000Z",
+      "endsAt": "2026-11-09T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1272080",
+      "title": "PAYDAY 3",
+      "storeUrl": "https://store.steampowered.com/app/1272080/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/3d85d86a3d2c792046792b19df83ceca0e6c58d3/header_alt_assets_12.jpg?t=1793958317",
+      "officialDescription": "『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせよ、獲物を手に脱出しろ。",
+      "tags": [
+        "強盗",
+        "協力プレイ",
+        "犯罪",
+        "マルチプレイヤー",
+        "アクション",
+        "FPS",
+        "シューティング",
+        "ステルス",
+        "戦術",
+        "オンライン協力プレイ",
+        "毒のあるユーモア",
+        "ファーストパーソン",
+        "PvE",
+        "カスタムガン",
+        "コンバット",
+        "RPG",
+        "3D",
+        "リアル",
+        "一騎当千方式シューティング",
+        "ルーターシューター",
+        "+"
+      ],
+      "startsAt": "2026-11-05T18:00:00.000Z",
+      "endsAt": "2026-11-09T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5490870:permanent_free:1",
+      "productId": "5490870",
+      "title": "ほろっちの挑戦状",
+      "status": "sent",
+      "bufferPostId": "6af0102251492b796e1d6f56"
+    }
+  ],
+  "errors": []
+}
