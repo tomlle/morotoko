@@ -13013,7 +13013,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T03:01:09.372Z",
+      "lastSeenAt": "2026-11-09T06:01:07.278Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13054,7 +13054,19 @@
         "postedAt": "2026-11-06T06:02:22.102Z"
       },
       "bufferPostId": "6aed6d6c07f945cca9445ba6",
-      "postedAt": "2026-11-06T06:02:22.102Z"
+      "postedAt": "2026-11-06T06:02:22.102Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T06:01:07.279Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『PAYDAY 3』\n🎮 無料プレイは 11/10 03:00まで\n\n『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせ…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/1272080/",
+        "attemptedAt": "2026-11-09T06:01:08.240Z",
+        "bufferPostId": "6af161a4cac9d7525f6fd466",
+        "submittedAt": "2026-11-09T06:01:09.741Z",
+        "postedAt": "2026-11-09T06:01:09.741Z"
+      },
+      "endingReminderBufferPostId": "6af161a4cac9d7525f6fd466",
+      "endingReminderPostedAt": "2026-11-09T06:01:09.741Z"
     },
     "steam:1669000:temporary_play:1": {
       "kind": "temporary_play",
@@ -13068,7 +13080,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T03:01:09.372Z",
+      "lastSeenAt": "2026-11-09T06:01:07.278Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13109,7 +13121,19 @@
         "postedAt": "2026-11-06T06:02:23.375Z"
       },
       "bufferPostId": "6aed6d6ef3498efda7728edf",
-      "postedAt": "2026-11-06T06:02:23.375Z"
+      "postedAt": "2026-11-06T06:02:23.375Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T06:01:07.279Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Age of Wonders 4』\n🎮 無料プレイは 11/10 03:00まで\n\n自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/1669000/",
+        "attemptedAt": "2026-11-09T06:01:09.748Z",
+        "bufferPostId": "6af161a57522f65ac0c17135",
+        "submittedAt": "2026-11-09T06:01:12.241Z",
+        "postedAt": "2026-11-09T06:01:12.241Z"
+      },
+      "endingReminderBufferPostId": "6af161a57522f65ac0c17135",
+      "endingReminderPostedAt": "2026-11-09T06:01:12.241Z"
     },
     "steam:5446230:permanent_free:1": {
       "kind": "permanent_free",
@@ -14382,7 +14406,7 @@
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T03:01:09.372Z",
+    "lastSuccessfulScanAt": "2026-11-09T06:01:07.278Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
