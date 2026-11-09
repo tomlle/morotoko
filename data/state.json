@@ -1470,12 +1470,10 @@
       "activeCampaignId": "steam:4843460:permanent_free:1"
     },
     "steam:1272080:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1272080:temporary_play:1"
+      "generation": 1
     },
     "steam:1669000:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1669000:temporary_play:1"
+      "generation": 1
     },
     "steam:5446230:permanent_free": {
       "generation": 1,
@@ -1692,6 +1690,14 @@
     "steam:1676840:temporary_play": {
       "generation": 1,
       "activeCampaignId": "steam:1676840:temporary_play:1"
+    },
+    "steam:5391510:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5391510:permanent_free:1"
+    },
+    "steam:5089680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5089680:permanent_free:1"
     }
   },
   "campaigns": {
@@ -13058,8 +13064,8 @@
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
       "lastSeenAt": "2026-11-09T15:01:12.687Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "『PAYDAY 3』は1〜4人協力プレイのFPSであり、世界一象徴的な街を舞台にした究極のヒーストファンタジーだ。痕跡を残さず消え去るか、銃弾の雨をくぐり抜けるか。どちらにせよ、獲物を手に脱出しろ。",
@@ -13125,8 +13131,8 @@
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
       "lastSeenAt": "2026-11-09T15:01:12.687Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "自分でデザインしたファンタジーの世界を統治しよう！ 4Xストラテジーと戦略的なターン制バトルが特異な融合を果たした「Age of Wonders」で、新たな魔法の世界を探検しよう。ターンごとに発展していく帝国とともに成長・変化する派閥を支配しよう！",
@@ -14759,7 +14765,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-09T18:01:24.470Z",
+      "lastSeenAt": "2026-11-09T21:01:13.739Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14801,11 +14807,71 @@
       },
       "bufferPostId": "6af20a7d92fe87571f0cac72",
       "postedAt": "2026-11-09T18:01:35.176Z"
+    },
+    "steam:5391510:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5391510:permanent_free:1",
+      "store": "steam",
+      "productId": "5391510",
+      "generation": 1,
+      "title": "Tea Break Poker Trainer",
+      "storeUrl": "https://store.steampowered.com/app/5391510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T21:01:13.739Z",
+      "lastSeenAt": "2026-11-09T21:01:13.739Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Learn game theory optimal (GTO) poker five minutes a day. Tea Break deals you a hand, a seat and a decision, grades your answer against solver output, and tells you which idea a mistake broke. A study tool for No Limit cash Hold'em, not a poker game: no real money, no wagering.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T21:01:13.739Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tea Break Poker Trainer』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5391510/",
+        "attemptedAt": "2026-11-09T21:01:14.276Z",
+        "bufferPostId": "6af2349a73b2b0fbabda71ba",
+        "submittedAt": "2026-11-09T21:01:15.811Z",
+        "postedAt": "2026-11-09T21:01:15.811Z"
+      },
+      "bufferPostId": "6af2349a73b2b0fbabda71ba",
+      "postedAt": "2026-11-09T21:01:15.811Z"
+    },
+    "steam:5089680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5089680:permanent_free:1",
+      "store": "steam",
+      "productId": "5089680",
+      "generation": 1,
+      "title": "Magua: Twenty Sorrows",
+      "storeUrl": "https://store.steampowered.com/app/5089680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T21:01:13.739Z",
+      "lastSeenAt": "2026-11-09T21:01:13.739Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "シナジーを組み合わせてチームを強化する、ローグライク・オートバトラー。ユニットを育て、次々と強くなる敵を打ち倒そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T21:01:13.739Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Magua: Twenty Sorrows』\n✨ いつでも無料でプレイ\n\nシナジーを組み合わせてチームを強化する、ローグライク・オートバトラー。ユニットを育て、次々と強くなる敵を打ち倒そう。\n\nhttps://store.steampowered.com/app/5089680/",
+        "attemptedAt": "2026-11-09T21:01:15.816Z",
+        "bufferPostId": "6af2349ba5835b9ab5b90214",
+        "submittedAt": "2026-11-09T21:01:17.320Z",
+        "postedAt": "2026-11-09T21:01:17.320Z"
+      },
+      "bufferPostId": "6af2349ba5835b9ab5b90214",
+      "postedAt": "2026-11-09T21:01:17.320Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T18:01:24.470Z",
+    "lastSuccessfulScanAt": "2026-11-09T21:01:13.739Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -15086,6 +15152,7 @@
       "5084200": "2026-10-25T12:01:01.232Z",
       "5088140": "2026-10-26T12:01:07.373Z",
       "5089050": "2026-10-28T21:01:20.934Z",
+      "5089680": "2026-11-09T21:01:13.739Z",
       "5090350": "2026-10-14T18:01:12.359Z",
       "5095690": "2026-10-29T18:01:09.856Z",
       "5099990": "2026-10-14T15:30:36.000Z",
@@ -15291,6 +15358,7 @@
       "5387790": "2026-10-30T21:01:07.872Z",
       "5389120": "2026-11-02T15:01:13.453Z",
       "5391500": "2026-10-26T15:01:10.225Z",
+      "5391510": "2026-11-09T21:01:13.739Z",
       "5391790": "2026-11-02T03:01:22.328Z",
       "5394530": "2026-10-23T09:01:01.018Z",
       "5397330": "2026-10-28T15:01:16.098Z",
