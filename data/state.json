@@ -1644,6 +1644,10 @@
     "steam:5323250:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5323250:permanent_free:1"
+    },
+    "steam:1742040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1742040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -13009,7 +13013,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T00:01:09.035Z",
+      "lastSeenAt": "2026-11-09T03:01:09.372Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13064,7 +13068,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T00:01:09.035Z",
+      "lastSeenAt": "2026-11-09T03:01:09.372Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14344,11 +14348,41 @@
       },
       "bufferPostId": "6af0b8e351492b796e51e6f9",
       "postedAt": "2026-11-08T18:01:09.265Z"
+    },
+    "steam:1742040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1742040:permanent_free:1",
+      "store": "steam",
+      "productId": "1742040",
+      "generation": 1,
+      "title": "Kingslayers",
+      "storeUrl": "https://store.steampowered.com/app/1742040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T03:01:09.372Z",
+      "lastSeenAt": "2026-11-09T03:01:09.372Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "PvPvEでもソロでも遊べるローグライト――ターン制でも、遅くない。共通のランで対戦相手とビルドとスピードを競い合い、各幕のボスを倒したらPvPで激突！ シングルプレイでは自分のペースでアセンションランクを駆け上がろう。何千ものビルドを探求して、好きなようにゲームをぶっ壊そう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T03:01:09.372Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Kingslayers』\n✨ いつでも無料でプレイ\n\nPvPvEでもソロでも遊べるローグライト――ターン制でも、遅くない。共通のランで対戦相手とビルドとスピードを競い合い、各幕のボスを倒したらPvPで激突！ シングルプレイでは自分のペースでアセン…\n\nhttps://store.steampowered.com/app/1742040/",
+        "attemptedAt": "2026-11-09T03:01:09.951Z",
+        "bufferPostId": "6af13776cac9d7525f6447ce",
+        "submittedAt": "2026-11-09T03:01:11.411Z",
+        "postedAt": "2026-11-09T03:01:11.411Z"
+      },
+      "bufferPostId": "6af13776cac9d7525f6447ce",
+      "postedAt": "2026-11-09T03:01:11.411Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T00:01:09.035Z",
+    "lastSuccessfulScanAt": "2026-11-09T03:01:09.372Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14359,6 +14393,7 @@
       "1593970": "2026-11-02T15:01:13.453Z",
       "1624430": "2026-10-19T21:01:06.551Z",
       "1674270": "2026-10-14T15:30:36.000Z",
+      "1742040": "2026-11-09T03:01:09.372Z",
       "1825840": "2026-11-07T12:38:12.800Z",
       "1868410": "2026-11-06T06:01:16.414Z",
       "1930320": "2026-10-25T00:01:08.164Z",
