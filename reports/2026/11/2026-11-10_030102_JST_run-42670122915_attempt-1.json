@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42670122915",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-09T18:01:02.061Z",
+    "finishedAt": "2026-11-09T18:01:35.186Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42670122915"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 6,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5352470",
+      "title": "Corgi Race Live",
+      "storeUrl": "https://store.steampowered.com/app/5352470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352470/e5efeaf29ff7c68f6d79309aca91d028b8bd0aee/header.jpg?t=1794244976",
+      "officialDescription": "Bring the greatest sport in the world to your Twitch stream with Corgi Race Live! Stream corgi races and have your chat compete with you; picking winners, exactas and trifectas with hopes of topping the leaderboard. Take on the mantle of corgi racing host and bring everyone to the party."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3081070",
+      "title": "MOLY",
+      "storeUrl": "https://store.steampowered.com/app/3081070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3081070/header.jpg?t=1794238244",
+      "officialDescription": "MOLY is a VR puzzle-solving immersive rowing simulator that uses VR rowing gameplay to represent the authors' perceptions of the world and their aspirations for the future as they come of age."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5427960",
+      "title": "怪異ジャッジ・ナイトメア",
+      "storeUrl": "https://store.steampowered.com/app/5427960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427960/69d0f68e6fdaaa80600a7213ac4ba10f688bf329/header_japanese.jpg?t=1794236465",
+      "officialDescription": "ポップで奇妙な怪異調査ADV短編集！ メカクレ青年ハマメが、悪夢のような不思議な世界へ！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5013770",
+      "title": "HolyDay",
+      "storeUrl": "https://store.steampowered.com/app/5013770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013770/33231e929532f35ece7ee8e7660ed293c63912b6/header.jpg?t=1794237534",
+      "officialDescription": "HOLYDAY is a casual 3v3 PvP action game where unique characters clash in battle, capturing or destroying statues to gather Divine Power and outplay the opposing team."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5369820",
+      "title": "Magic Pieces",
+      "storeUrl": "https://store.steampowered.com/app/5369820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5369820/94560384715691adf507be9a590872e1754fdbd4/header.jpg?t=1794155664",
+      "officialDescription": "Magic Pieces is tactical fantasy chess with asymmetric factions and mana-powered abilities. Command Raiders or Hollow, outmaneuver rivals in online duels, and choose between a normal move and a special ability each turn to checkmate the enemy king."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/4d80cc45817bf08773964e7f455fd962c8b556bd/header_alt_assets_13_japanese.jpg?t=1793725335",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5352470:permanent_free:1",
+      "productId": "5352470",
+      "title": "Corgi Race Live",
+      "status": "sent",
+      "bufferPostId": "6af20a755260c1ff2b16edd7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3081070:permanent_free:1",
+      "productId": "3081070",
+      "title": "MOLY",
+      "status": "sent",
+      "bufferPostId": "6af20a775260c1ff2b16ee8f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5427960:permanent_free:1",
+      "productId": "5427960",
+      "title": "怪異ジャッジ・ナイトメア",
+      "status": "sent",
+      "bufferPostId": "6af20a79c1ebd32415ddca9b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5013770:permanent_free:1",
+      "productId": "5013770",
+      "title": "HolyDay",
+      "status": "sent",
+      "bufferPostId": "6af20a7a92fe87571f0ca8b3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5369820:permanent_free:1",
+      "productId": "5369820",
+      "title": "Magic Pieces",
+      "status": "sent",
+      "bufferPostId": "6af20a7c4af3cc032bb639b8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1676840:temporary_play:1",
+      "productId": "1676840",
+      "title": "For The King II",
+      "status": "sent",
+      "bufferPostId": "6af20a7d92fe87571f0cac72"
+    }
+  ],
+  "errors": []
+}
