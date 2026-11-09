@@ -1656,6 +1656,18 @@
     "steam:5342780:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5342780:permanent_free:1"
+    },
+    "steam:5447060:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5447060:permanent_free:1"
+    },
+    "steam:3983230:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3983230:permanent_free:1"
+    },
+    "steam:5498810:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5498810:permanent_free:1"
     }
   },
   "campaigns": {
@@ -13021,7 +13033,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T09:01:07.965Z",
+      "lastSeenAt": "2026-11-09T12:01:11.937Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13088,7 +13100,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T09:01:07.965Z",
+      "lastSeenAt": "2026-11-09T12:01:11.937Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14470,11 +14482,101 @@
       },
       "bufferPostId": "6af18bd8763cb90570c8f9a3",
       "postedAt": "2026-11-09T09:01:15.402Z"
+    },
+    "steam:5447060:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5447060:permanent_free:1",
+      "store": "steam",
+      "productId": "5447060",
+      "generation": 1,
+      "title": "Card Heroes: Rune Deck",
+      "storeUrl": "https://store.steampowered.com/app/5447060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T12:01:11.937Z",
+      "lastSeenAt": "2026-11-09T12:01:11.937Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Fantasy turn-based card battler. Time your charges, chain five-element counters and rage-fueled ultimates. Conquer 15 dungeons across three difficulty tiers, brave the trial tower, duel a ranked arena, collect 541 cards and become the Rune Master.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T12:01:11.937Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Card Heroes: Rune Deck』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5447060/",
+        "attemptedAt": "2026-11-09T12:01:12.964Z",
+        "bufferPostId": "6af1b6092c4acc7aad27b76c",
+        "submittedAt": "2026-11-09T12:01:14.813Z",
+        "postedAt": "2026-11-09T12:01:14.813Z"
+      },
+      "bufferPostId": "6af1b6092c4acc7aad27b76c",
+      "postedAt": "2026-11-09T12:01:14.813Z"
+    },
+    "steam:3983230:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3983230:permanent_free:1",
+      "store": "steam",
+      "productId": "3983230",
+      "generation": 1,
+      "title": "The Cubiw Dungeon",
+      "storeUrl": "https://store.steampowered.com/app/3983230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T12:01:11.937Z",
+      "lastSeenAt": "2026-11-09T12:01:11.937Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free-to-play roguelike where a cube shoots to more cubes, explore the complex, find crazy combos, fight exciting bosses and dodge the thousands of projectiles than your enemies have prepared for you!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T12:01:11.937Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Cubiw Dungeon』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3983230/",
+        "attemptedAt": "2026-11-09T12:01:14.819Z",
+        "bufferPostId": "6af1b60b93969c2b52b081dc",
+        "submittedAt": "2026-11-09T12:01:16.348Z",
+        "postedAt": "2026-11-09T12:01:16.348Z"
+      },
+      "bufferPostId": "6af1b60b93969c2b52b081dc",
+      "postedAt": "2026-11-09T12:01:16.348Z"
+    },
+    "steam:5498810:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5498810:permanent_free:1",
+      "store": "steam",
+      "productId": "5498810",
+      "generation": 1,
+      "title": "Monquest",
+      "storeUrl": "https://store.steampowered.com/app/5498810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T12:01:11.937Z",
+      "lastSeenAt": "2026-11-09T12:01:11.937Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Monsters hide under your bed, and tonight they fight back. Summon a horde of creepy creatures, defend your lair and push into the humans’ neighborhood in this lane-battle strategy game. Upgrade, collect and unleash your monster army, free to play.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T12:01:11.937Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Monquest』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5498810/",
+        "attemptedAt": "2026-11-09T12:01:16.355Z",
+        "bufferPostId": "6af1b60ce94d5fc5f0f4b9ee",
+        "submittedAt": "2026-11-09T12:01:17.665Z",
+        "postedAt": "2026-11-09T12:01:17.665Z"
+      },
+      "bufferPostId": "6af1b60ce94d5fc5f0f4b9ee",
+      "postedAt": "2026-11-09T12:01:17.665Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T09:01:07.965Z",
+    "lastSuccessfulScanAt": "2026-11-09T12:01:11.937Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14542,6 +14644,7 @@
       "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
       "3976340": "2026-10-20T18:01:06.119Z",
+      "3983230": "2026-11-09T12:01:11.937Z",
       "3999990": "2026-11-02T15:01:13.453Z",
       "4020220": "2026-10-31T00:01:08.172Z",
       "4022530": "2026-10-15T21:00:58.160Z",
@@ -14973,6 +15076,7 @@
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446410": "2026-11-06T12:01:14.375Z",
+      "5447060": "2026-11-09T12:01:11.937Z",
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
       "5462800": "2026-11-06T09:01:10.595Z",
@@ -14981,7 +15085,8 @@
       "5465860": "2026-11-06T06:01:16.414Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5486310": "2026-11-06T12:01:14.375Z",
-      "5490870": "2026-11-08T06:01:05.672Z"
+      "5490870": "2026-11-08T06:01:05.672Z",
+      "5498810": "2026-11-09T12:01:11.937Z"
     }
   }
 }
