@@ -1648,6 +1648,14 @@
     "steam:1742040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:1742040:permanent_free:1"
+    },
+    "steam:4986330:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4986330:permanent_free:1"
+    },
+    "steam:5342780:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5342780:permanent_free:1"
     }
   },
   "campaigns": {
@@ -13013,7 +13021,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T06:01:07.278Z",
+      "lastSeenAt": "2026-11-09T09:01:07.965Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -13080,7 +13088,7 @@
       "currency": "JPY",
       "discountPercent": 60,
       "firstSeenAt": "2026-11-06T06:01:16.414Z",
-      "lastSeenAt": "2026-11-09T06:01:07.278Z",
+      "lastSeenAt": "2026-11-09T09:01:07.965Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14402,11 +14410,71 @@
       },
       "bufferPostId": "6af13776cac9d7525f6447ce",
       "postedAt": "2026-11-09T03:01:11.411Z"
+    },
+    "steam:4986330:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4986330:permanent_free:1",
+      "store": "steam",
+      "productId": "4986330",
+      "generation": 1,
+      "title": "Handsy",
+      "storeUrl": "https://store.steampowered.com/app/4986330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T09:01:07.965Z",
+      "lastSeenAt": "2026-11-09T09:01:07.965Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Your hands are the controller. Wave at your webcam, pinch to grab blocks, and stack a tower tall enough to carry the key to the lock. Solve physics puzzles across 90+ levels of wood, stone, glass, rope, and hope. Webcam required.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T09:01:07.965Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Handsy』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4986330/",
+        "attemptedAt": "2026-11-09T09:01:09.457Z",
+        "bufferPostId": "6af18bd53c216aaffd954764",
+        "submittedAt": "2026-11-09T09:01:11.478Z",
+        "postedAt": "2026-11-09T09:01:11.478Z"
+      },
+      "bufferPostId": "6af18bd53c216aaffd954764",
+      "postedAt": "2026-11-09T09:01:11.478Z"
+    },
+    "steam:5342780:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5342780:permanent_free:1",
+      "store": "steam",
+      "productId": "5342780",
+      "generation": 1,
+      "title": "喵～该工作啦！ Nya! Back to Work",
+      "storeUrl": "https://store.steampowered.com/app/5342780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-09T09:01:07.965Z",
+      "lastSeenAt": "2026-11-09T09:01:07.965Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A catgirl who lives in a cardboard box on your taskbar. Leave your PC too long and she pops out, knocks on your screen and nags you back to work. Pet her, pick her up by the scruff, teach her your own lines. Launches with a second character: Naiwa, the belly-laughing frog. Free to play.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-09T09:01:07.965Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『喵～该工作啦！ Nya! Back to Work』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5342780/",
+        "attemptedAt": "2026-11-09T09:01:11.482Z",
+        "bufferPostId": "6af18bd8763cb90570c8f9a3",
+        "submittedAt": "2026-11-09T09:01:15.402Z",
+        "postedAt": "2026-11-09T09:01:15.402Z"
+      },
+      "bufferPostId": "6af18bd8763cb90570c8f9a3",
+      "postedAt": "2026-11-09T09:01:15.402Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T06:01:07.278Z",
+    "lastSuccessfulScanAt": "2026-11-09T09:01:07.965Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14641,6 +14709,7 @@
       "4979300": "2026-10-14T15:30:36.000Z",
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
+      "4986330": "2026-11-09T09:01:07.965Z",
       "4989520": "2026-11-07T12:38:12.800Z",
       "4990890": "2026-11-07T12:38:12.800Z",
       "4993710": "2026-10-30T21:01:07.872Z",
@@ -14846,6 +14915,7 @@
       "5339870": "2026-10-24T15:01:00.588Z",
       "5341000": "2026-10-21T21:00:59.332Z",
       "5341010": "2026-11-02T06:01:05.538Z",
+      "5342780": "2026-11-09T09:01:07.965Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5349900": "2026-11-06T12:01:14.375Z",
