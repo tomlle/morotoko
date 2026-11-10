@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42870751961",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-10T18:01:00.152Z",
+    "finishedAt": "2026-11-10T18:01:48.432Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42870751961"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 20,
+    "verified": 7,
+    "newPromotions": 6,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1118300",
+      "title": "The Sea is Our Stage",
+      "storeUrl": "https://store.steampowered.com/app/1118300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118300/d22218799aa4f1c1f3002101141bd69e2194596f/header.jpg?t=1794333333",
+      "officialDescription": "A fantasy yuri visual novel in which a noblewoman uncovers her father's evil plot and, along with her lowborn friends, takes to the seas to flee from high society. Her plan to right her family's wrongs and return home are disrupted by the untimely arrival of an enigmatic and flirtatious pirate."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5356580",
+      "title": "Circulopolis: The Commissioner of Transition",
+      "storeUrl": "https://store.steampowered.com/app/5356580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5356580/f6d1c9452a0e2ed372cb658df3fa54b4d328f97e/header.jpg?t=1794332459",
+      "officialDescription": "Become the Commissioner of Transition! Swipe left or right on daily dilemmas from activists, tycoons, and citizens to transform a polluted district into a Circular Paradise. Balance Economy, Ecology, Social Inclusion, and Public Vibe to survive and shape a sustainable future. Play free today!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5437650",
+      "title": "Artifact Reforged",
+      "storeUrl": "https://store.steampowered.com/app/5437650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437650/16fc35801421ccba9f939f5fb707e77f63586f56/header.jpg?t=1794329049",
+      "officialDescription": "The classic online strategy game of empires and ancient artifacts, reborn. Found cities, raise armies of thousands and race rival players across a living world to seize the legendary Artifacts. Free to play, with one account on PC, browser and phone."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4914650",
+      "title": "Crownfront",
+      "storeUrl": "https://store.steampowered.com/app/4914650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914650/c8d2a7b59ae87fa08e4f42ef740394c4531dfdfd/header.jpg?t=1794323152",
+      "officialDescription": "チェス盤の上で遊ぶ、無料のターン制中世ストラテジー。町を築き、軍を養い、戦場の霧の向こうにある敵の城を攻め落とそう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5478680",
+      "title": "Pixel Pause: Color by Number",
+      "storeUrl": "https://store.steampowered.com/app/5478680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5478680/b2f0967f5174776100f6c9fc47b154487097c2bc/header.jpg?t=1794322992",
+      "officialDescription": "Relax with 80 free pixel art pictures in this cozy color by number game. Paint them in four styles, from classic pixels to mosaics, toy bricks and sparkling jewels. No timers, no pressure. Just color at your own pace."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5390960",
+      "title": "El Enigma del Colegio Cumbres",
+      "storeUrl": "https://store.steampowered.com/app/5390960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390960/13c9af2987bb0833a17a7f1ae35b5f950c53eae9/header.jpg?t=1794242740",
+      "officialDescription": "Explore Colegio Cumbres firsthand, solve puzzles, follow clues, and answer questions tailored to different levels. An educational mystery adventure to play solo or cooperatively, featuring exploration, challenges, and secrets to uncover."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:1118300:permanent_free:1",
+      "productId": "1118300",
+      "title": "The Sea is Our Stage",
+      "status": "sent",
+      "bufferPostId": "6af35c04341cea4af626bff9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5356580:permanent_free:1",
+      "productId": "5356580",
+      "title": "Circulopolis: The Commissioner of Transition",
+      "status": "sent",
+      "bufferPostId": "6af35c060649793ed2fd7dd4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5437650:permanent_free:1",
+      "productId": "5437650",
+      "title": "Artifact Reforged",
+      "status": "sent",
+      "bufferPostId": "6af35c075c5c35327141ec06"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4914650:permanent_free:1",
+      "productId": "4914650",
+      "title": "Crownfront",
+      "status": "sent",
+      "bufferPostId": "6af35c081d932748c7e0e09b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5478680:permanent_free:1",
+      "productId": "5478680",
+      "title": "Pixel Pause: Color by Number",
+      "status": "sent",
+      "bufferPostId": "6af35c0a94964d984f09ba9d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5390960:permanent_free:1",
+      "productId": "5390960",
+      "title": "El Enigma del Colegio Cumbres",
+      "status": "sent",
+      "bufferPostId": "6af35c0b94964d984f09bafe"
+    }
+  ],
+  "errors": []
+}
