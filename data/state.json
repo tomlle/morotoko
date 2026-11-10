@@ -1730,6 +1730,10 @@
     "steam:5466110:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5466110:permanent_free:1"
+    },
+    "steam:5293850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5293850:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14797,7 +14801,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T06:01:08.537Z",
+      "lastSeenAt": "2026-11-10T09:01:12.446Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15139,11 +15143,41 @@
       },
       "bufferPostId": "6af2b325d35dff5701e0f0e8",
       "postedAt": "2026-11-10T06:01:10.499Z"
+    },
+    "steam:5293850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5293850:permanent_free:1",
+      "store": "steam",
+      "productId": "5293850",
+      "generation": 1,
+      "title": "Keep It Burning",
+      "storeUrl": "https://store.steampowered.com/app/5293850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T09:01:12.446Z",
+      "lastSeenAt": "2026-11-10T09:01:12.446Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "To every dreamseeker, from another dreamseeker. Sit down and rest for the night, feed your flame, and brave the wind. Keep it burning.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T09:01:12.446Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Keep It Burning』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5293850/",
+        "attemptedAt": "2026-11-10T09:01:13.076Z",
+        "bufferPostId": "6af2dd592224e5e623745abf",
+        "submittedAt": "2026-11-10T09:01:14.445Z",
+        "postedAt": "2026-11-10T09:01:14.445Z"
+      },
+      "bufferPostId": "6af2dd592224e5e623745abf",
+      "postedAt": "2026-11-10T09:01:14.445Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T06:01:08.537Z",
+    "lastSuccessfulScanAt": "2026-11-10T09:01:12.446Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -15555,6 +15589,7 @@
       "5289970": "2026-10-14T15:30:36.000Z",
       "5291650": "2026-10-14T15:30:36.000Z",
       "5292650": "2026-10-29T00:01:06.982Z",
+      "5293850": "2026-11-10T09:01:12.446Z",
       "5294050": "2026-10-14T15:30:36.000Z",
       "5299150": "2026-10-14T15:30:36.000Z",
       "5299840": "2026-10-28T06:01:11.657Z",
