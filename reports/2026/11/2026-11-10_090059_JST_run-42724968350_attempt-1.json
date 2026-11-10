@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42724968350",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-10T00:00:59.261Z",
+    "finishedAt": "2026-11-10T00:01:17.223Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42724968350"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4010820",
+      "title": "Eye of Darkness",
+      "storeUrl": "https://store.steampowered.com/app/4010820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010820/cc17a881de164efe662b8b52d125cd3ce42f1910/header.jpg?t=1794258834",
+      "officialDescription": "Eye of Darkness is a survivor game with a focus on exploration. You take on the role of a dark cultist on the path to awaken ancient evil - the Eye of Darkness. The forces of Light throw everything at you to stop you from plunging the world into eternal darkness."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5082910",
+      "title": "Gomoku, But with Skills",
+      "storeUrl": "https://store.steampowered.com/app/5082910/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082910/d90155fb42442707d9029174b4818191bd66d11b/header.jpg?t=1794181073",
+      "officialDescription": "Build powerful combinations in a single-player roguelite. Draft stones, use skills and relics, and turn lines into points. Beat each stage's score requirement, then spend points to strengthen your build. The complete game is free, with no in-app purchases or ads."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4010820:permanent_free:1",
+      "productId": "4010820",
+      "title": "Eye of Darkness",
+      "status": "sent",
+      "bufferPostId": "6af25ecad35dff5701c941c6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5082910:permanent_free:1",
+      "productId": "5082910",
+      "title": "Gomoku, But with Skills",
+      "status": "sent",
+      "bufferPostId": "6af25ecbd35dff5701c94259"
+    }
+  ],
+  "errors": []
+}

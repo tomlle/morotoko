@@ -1698,6 +1698,14 @@
     "steam:5089680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5089680:permanent_free:1"
+    },
+    "steam:4010820:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4010820:permanent_free:1"
+    },
+    "steam:5082910:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5082910:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14765,7 +14773,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-09T21:01:13.739Z",
+      "lastSeenAt": "2026-11-10T00:01:13.317Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14867,11 +14875,71 @@
       },
       "bufferPostId": "6af2349ba5835b9ab5b90214",
       "postedAt": "2026-11-09T21:01:17.320Z"
+    },
+    "steam:4010820:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4010820:permanent_free:1",
+      "store": "steam",
+      "productId": "4010820",
+      "generation": 1,
+      "title": "Eye of Darkness",
+      "storeUrl": "https://store.steampowered.com/app/4010820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T00:01:13.317Z",
+      "lastSeenAt": "2026-11-10T00:01:13.317Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Eye of Darkness is a survivor game with a focus on exploration. You take on the role of a dark cultist on the path to awaken ancient evil - the Eye of Darkness. The forces of Light throw everything at you to stop you from plunging the world into eternal darkness.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T00:01:13.317Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Eye of Darkness』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4010820/",
+        "attemptedAt": "2026-11-10T00:01:14.242Z",
+        "bufferPostId": "6af25ecad35dff5701c941c6",
+        "submittedAt": "2026-11-10T00:01:15.823Z",
+        "postedAt": "2026-11-10T00:01:15.823Z"
+      },
+      "bufferPostId": "6af25ecad35dff5701c941c6",
+      "postedAt": "2026-11-10T00:01:15.823Z"
+    },
+    "steam:5082910:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5082910:permanent_free:1",
+      "store": "steam",
+      "productId": "5082910",
+      "generation": 1,
+      "title": "Gomoku, But with Skills",
+      "storeUrl": "https://store.steampowered.com/app/5082910/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T00:01:13.317Z",
+      "lastSeenAt": "2026-11-10T00:01:13.317Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build powerful combinations in a single-player roguelite. Draft stones, use skills and relics, and turn lines into points. Beat each stage's score requirement, then spend points to strengthen your build. The complete game is free, with no in-app purchases or ads.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T00:01:13.317Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gomoku, But with Skills』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5082910/",
+        "attemptedAt": "2026-11-10T00:01:15.837Z",
+        "bufferPostId": "6af25ecbd35dff5701c94259",
+        "submittedAt": "2026-11-10T00:01:17.213Z",
+        "postedAt": "2026-11-10T00:01:17.213Z"
+      },
+      "bufferPostId": "6af25ecbd35dff5701c94259",
+      "postedAt": "2026-11-10T00:01:17.213Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-09T21:01:13.739Z",
+    "lastSuccessfulScanAt": "2026-11-10T00:01:13.317Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -14942,6 +15010,7 @@
       "3976340": "2026-10-20T18:01:06.119Z",
       "3983230": "2026-11-09T12:01:11.937Z",
       "3999990": "2026-11-02T15:01:13.453Z",
+      "4010820": "2026-11-10T00:01:13.317Z",
       "4020220": "2026-10-31T00:01:08.172Z",
       "4022530": "2026-10-15T21:00:58.160Z",
       "4036370": "2026-10-22T12:01:30.927Z",
@@ -15148,6 +15217,7 @@
       "5073660": "2026-11-03T18:01:16.982Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
+      "5082910": "2026-11-10T00:01:13.317Z",
       "5083880": "2026-10-30T21:01:07.872Z",
       "5084200": "2026-10-25T12:01:01.232Z",
       "5088140": "2026-10-26T12:01:07.373Z",
