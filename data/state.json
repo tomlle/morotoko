@@ -1726,6 +1726,10 @@
     "steam:5311120:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5311120:permanent_free:1"
+    },
+    "steam:5466110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5466110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14793,7 +14797,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T03:01:09.985Z",
+      "lastSeenAt": "2026-11-10T06:01:08.537Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15105,11 +15109,41 @@
       },
       "bufferPostId": "6af288fbe261c09acc970279",
       "postedAt": "2026-11-10T03:01:16.850Z"
+    },
+    "steam:5466110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5466110:permanent_free:1",
+      "store": "steam",
+      "productId": "5466110",
+      "generation": 1,
+      "title": "ZOLGE STATION: HUGA Waiwai Academy",
+      "storeUrl": "https://store.steampowered.com/app/5466110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T06:01:08.537Z",
+      "lastSeenAt": "2026-11-10T06:01:08.537Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "無料の00号に、ラン＆ガン『緋修羅 HIJURA SCARLET GEAR』のここだけのスペシャルステージを収録！ インディーゲームスタジオ・ヒューガの作品を1本に詰め込んだソフトウェアマガジン。『ファイナルリクエスト』劇場版予告編のTRUE PIXEL版、特製冊子、トーク番組「ゾルゲステーション」特別回4本も入って無料。続きの号はDLCで追加していきます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T06:01:08.537Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ZOLGE STATION: HUGA Waiwai Academy』\n✨ いつでも無料でプレイ\n\n無料の00号に、ラン＆ガン『緋修羅 HIJURA SCARLET GEAR』のここだけのスペシャルステージを収録！ インディーゲームスタジオ・ヒューガの作品を1本に詰め込んだソフトウェ…\n\nhttps://store.steampowered.com/app/5466110/",
+        "attemptedAt": "2026-11-10T06:01:09.086Z",
+        "bufferPostId": "6af2b325d35dff5701e0f0e8",
+        "submittedAt": "2026-11-10T06:01:10.499Z",
+        "postedAt": "2026-11-10T06:01:10.499Z"
+      },
+      "bufferPostId": "6af2b325d35dff5701e0f0e8",
+      "postedAt": "2026-11-10T06:01:10.499Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T03:01:09.985Z",
+    "lastSuccessfulScanAt": "2026-11-10T06:01:08.537Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -15630,6 +15664,7 @@
       "5464240": "2026-11-06T06:01:16.414Z",
       "5465230": "2026-11-06T06:01:16.414Z",
       "5465860": "2026-11-06T06:01:16.414Z",
+      "5466110": "2026-11-10T06:01:08.537Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5490870": "2026-11-08T06:01:05.672Z",
