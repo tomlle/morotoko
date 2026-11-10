@@ -1770,6 +1770,14 @@
     "steam:5390960:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5390960:permanent_free:1"
+    },
+    "steam:5173530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5173530:permanent_free:1"
+    },
+    "steam:5226100:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5226100:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14837,7 +14845,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T18:01:39.865Z",
+      "lastSeenAt": "2026-11-10T21:01:09.176Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15479,11 +15487,71 @@
       },
       "bufferPostId": "6af35c0b94964d984f09bafe",
       "postedAt": "2026-11-10T18:01:48.419Z"
+    },
+    "steam:5173530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5173530:permanent_free:1",
+      "store": "steam",
+      "productId": "5173530",
+      "generation": 1,
+      "title": "Soleil & Suspense",
+      "storeUrl": "https://store.steampowered.com/app/5173530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T21:01:09.176Z",
+      "lastSeenAt": "2026-11-10T21:01:09.176Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Dive into the heart of the southern french region of Provence, in a tiny hamlet where the only people left are seniors gradually growing apart. Shake up their routine to bring them back together at the local café, in a short experience where you're never too old to look towards the future.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T21:01:09.176Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Soleil & Suspense』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5173530/",
+        "attemptedAt": "2026-11-10T21:01:09.971Z",
+        "bufferPostId": "6af3861691300263f77fc1f7",
+        "submittedAt": "2026-11-10T21:01:11.412Z",
+        "postedAt": "2026-11-10T21:01:11.412Z"
+      },
+      "bufferPostId": "6af3861691300263f77fc1f7",
+      "postedAt": "2026-11-10T21:01:11.412Z"
+    },
+    "steam:5226100:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5226100:permanent_free:1",
+      "store": "steam",
+      "productId": "5226100",
+      "generation": 1,
+      "title": "Grindveil",
+      "storeUrl": "https://store.steampowered.com/app/5226100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T21:01:09.176Z",
+      "lastSeenAt": "2026-11-10T21:01:09.176Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ファンタジー世界を舞台にした基本プレイ無料のオンライン放置型RPG。キャラクターを育成し、装備や宝石を集め、時間制ミッションを開始し、アリーナやボス戦に挑戦できます。ギルド、契約、釣り、ペット、実績、コーデックスも利用できます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T21:01:09.176Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Grindveil』\n✨ いつでも無料でプレイ\n\nファンタジー世界を舞台にした基本プレイ無料のオンライン放置型RPG。キャラクターを育成し、装備や宝石を集め、時間制ミッションを開始し、アリーナやボス戦に挑戦できます。ギルド、契約、釣り、ペ…\n\nhttps://store.steampowered.com/app/5226100/",
+        "attemptedAt": "2026-11-10T21:01:11.423Z",
+        "bufferPostId": "6af3861791300263f77fc385",
+        "submittedAt": "2026-11-10T21:01:12.990Z",
+        "postedAt": "2026-11-10T21:01:12.990Z"
+      },
+      "bufferPostId": "6af3861791300263f77fc385",
+      "postedAt": "2026-11-10T21:01:12.990Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T18:01:39.865Z",
+    "lastSuccessfulScanAt": "2026-11-10T21:01:09.176Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -15809,6 +15877,7 @@
       "5168580": "2026-10-30T18:01:08.710Z",
       "5170050": "2026-10-14T15:30:36.000Z",
       "5172820": "2026-10-31T12:01:05.079Z",
+      "5173530": "2026-11-10T21:01:09.176Z",
       "5173790": "2026-10-14T15:30:36.000Z",
       "5178180": "2026-10-20T09:01:01.492Z",
       "5178350": "2026-10-14T15:30:36.000Z",
@@ -15838,6 +15907,7 @@
       "5223810": "2026-10-14T15:30:36.000Z",
       "5224050": "2026-10-20T12:00:59.724Z",
       "5224380": "2026-10-14T15:30:36.000Z",
+      "5226100": "2026-11-10T21:01:09.176Z",
       "5226810": "2026-10-14T15:30:36.000Z",
       "5229130": "2026-11-06T09:01:10.595Z",
       "5230120": "2026-11-06T06:01:16.414Z",
