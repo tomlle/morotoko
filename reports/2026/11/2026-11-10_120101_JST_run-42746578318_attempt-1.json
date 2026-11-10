@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42746578318",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-10T03:01:01.850Z",
+    "finishedAt": "2026-11-10T03:01:16.862Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42746578318"
+  },
+  "detection": {
+    "searched": 114,
+    "candidates": 19,
+    "verified": 6,
+    "newPromotions": 5,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5302590",
+      "title": "CLETTER Homophone Word Spelling",
+      "storeUrl": "https://store.steampowered.com/app/5302590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302590/79c9a49a679283aecb5d6dbf3be600471e5304b1/header.jpg?t=1794278950",
+      "officialDescription": "CLETTER Homophone Word Spelling pictures English sounds. 7-color coding (colorful phonics) shows patterns. Spell right → words pop. Each level: tap letters, robot carries them, showing growth + 12 achievements. Switch CN/EN UI. Charts spot weak words & progress. PC numpad adds fun."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1545060",
+      "title": "Epic Wings 2",
+      "storeUrl": "https://store.steampowered.com/app/1545060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1545060/5863470ce6cae198af7cee074a94ac66bdc95b55/header.jpg?t=1794275637",
+      "officialDescription": "A Jrpg style turn-based game"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5312680",
+      "title": "The Light in the Darkness: Director's Cut",
+      "storeUrl": "https://store.steampowered.com/app/5312680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5312680/64b1e9801362ae83fbdb4c783d9a9347e63ad1bf/header.jpg?t=1794274669",
+      "officialDescription": "France, 1940. Follow a Polish-Jewish family as the Nazi occupation transforms their lives. Experience their story through the choices, struggles, and everyday moments that reveal the human cost of the Holocaust. A free narrative game."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5158710",
+      "title": "干支になりたい猫",
+      "storeUrl": "https://store.steampowered.com/app/5158710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158710/a163dba0844db255d6c8cf572fbd832a612c7088/header.jpg?t=1794274402",
+      "officialDescription": "十二支の「順番」を手がかりに、紛れ込んだ猫を見つけよう！ 子・丑・寅……十二支の決まった順序から答えを導き出す、全240ステージの論理パズルゲーム。春から冬へ、日本の四季をめぐりながら十二支の仲間たちに会いに行こう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5311120",
+      "title": "寻宝地下城",
+      "storeUrl": "https://store.steampowered.com/app/5311120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311120/da16805402a1f5ff4b561fc2f3fbe2b0d6d4eeec/header.jpg?t=1794269415",
+      "officialDescription": "A free adventure idle single-player hero game where you defeat enemies, collect treasures, challenge dungeon bosses, enhance equipment, and forge your own combat style. With hundreds of talents to choose from, Please note that it is entirely in Chinese and not in English"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5302590:permanent_free:1",
+      "productId": "5302590",
+      "title": "CLETTER Homophone Word Spelling",
+      "status": "sent",
+      "bufferPostId": "6af288f6b59b34913a506f14"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1545060:permanent_free:1",
+      "productId": "1545060",
+      "title": "Epic Wings 2",
+      "status": "sent",
+      "bufferPostId": "6af288f7d35dff5701d5339b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5312680:permanent_free:1",
+      "productId": "5312680",
+      "title": "The Light in the Darkness: Director's Cut",
+      "status": "sent",
+      "bufferPostId": "6af288f926f9e6aeeadda298"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5158710:permanent_free:1",
+      "productId": "5158710",
+      "title": "干支になりたい猫",
+      "status": "sent",
+      "bufferPostId": "6af288fad35dff5701d5341f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5311120:permanent_free:1",
+      "productId": "5311120",
+      "title": "寻宝地下城",
+      "status": "sent",
+      "bufferPostId": "6af288fbe261c09acc970279"
+    }
+  ],
+  "errors": []
+}
