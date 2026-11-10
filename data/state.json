@@ -1742,6 +1742,10 @@
     "steam:5049260:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5049260:permanent_free:1"
+    },
+    "steam:5446260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5446260:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14809,7 +14813,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T12:01:08.585Z",
+      "lastSeenAt": "2026-11-10T15:01:08.654Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15241,11 +15245,41 @@
       },
       "bufferPostId": "6af30786cbbac94e1ea4ff52",
       "postedAt": "2026-11-10T12:01:12.017Z"
+    },
+    "steam:5446260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5446260:permanent_free:1",
+      "store": "steam",
+      "productId": "5446260",
+      "generation": 1,
+      "title": "Lestvitsa",
+      "storeUrl": "https://store.steampowered.com/app/5446260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T15:01:08.654Z",
+      "lastSeenAt": "2026-11-10T15:01:08.654Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Immerse yourself in the nostalgic atmosphere of early 2000s Russia as you investigate the theft of a city relic. Interact with unique characters, make difficult decisions, and find your path. Save your hometown or feed it to the fiends.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T15:01:08.654Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Lestvitsa』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5446260/",
+        "attemptedAt": "2026-11-10T15:01:10.049Z",
+        "bufferPostId": "6af331b6e9e4a87f7b49eaa0",
+        "submittedAt": "2026-11-10T15:01:11.542Z",
+        "postedAt": "2026-11-10T15:01:11.542Z"
+      },
+      "bufferPostId": "6af331b6e9e4a87f7b49eaa0",
+      "postedAt": "2026-11-10T15:01:11.542Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T12:01:08.585Z",
+    "lastSuccessfulScanAt": "2026-11-10T15:01:08.654Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -15761,6 +15795,7 @@
       "5435190": "2026-11-07T15:01:11.737Z",
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
+      "5446260": "2026-11-10T15:01:08.654Z",
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
       "5455560": "2026-11-08T12:01:09.576Z",
