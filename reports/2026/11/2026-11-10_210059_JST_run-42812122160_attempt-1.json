@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "42812122160",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-10T12:00:59.416Z",
+    "finishedAt": "2026-11-10T12:01:12.025Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/42812122160"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5021660",
+      "title": "Scope Sweeper",
+      "storeUrl": "https://store.steampowered.com/app/5021660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5021660/8035b83626a571fa9b2fb26169a77cb521be5c24/header.jpg?t=1794303950",
+      "officialDescription": "21 windows. One real sniper. Two decoys. Scan the building, identify the threat, and take your shot without harming civilians. Test your observation, accuracy, and decision-making against the computer or challenge another player in asynchronous tactical sniper duels."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5049260",
+      "title": "Dragon Heist",
+      "storeUrl": "https://store.steampowered.com/app/5049260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049260/fa34159b85321bcf83dbb9dc63c93ba04db1de9e/header.jpg?t=1794220254",
+      "officialDescription": "Sneak into a castle guarded by a sleeping dragon with 3 other players, grab as much gold and treasure as you can, and flee before the dragon wakes up."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5021660:permanent_free:1",
+      "productId": "5021660",
+      "title": "Scope Sweeper",
+      "status": "sent",
+      "bufferPostId": "6af30785cbbac94e1ea4feb3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5049260:permanent_free:1",
+      "productId": "5049260",
+      "title": "Dragon Heist",
+      "status": "sent",
+      "bufferPostId": "6af30786cbbac94e1ea4ff52"
+    }
+  ],
+  "errors": []
+}

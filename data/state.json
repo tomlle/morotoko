@@ -1734,6 +1734,14 @@
     "steam:5293850:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5293850:permanent_free:1"
+    },
+    "steam:5021660:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5021660:permanent_free:1"
+    },
+    "steam:5049260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5049260:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14801,7 +14809,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T09:01:12.446Z",
+      "lastSeenAt": "2026-11-10T12:01:08.585Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15173,11 +15181,71 @@
       },
       "bufferPostId": "6af2dd592224e5e623745abf",
       "postedAt": "2026-11-10T09:01:14.445Z"
+    },
+    "steam:5021660:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5021660:permanent_free:1",
+      "store": "steam",
+      "productId": "5021660",
+      "generation": 1,
+      "title": "Scope Sweeper",
+      "storeUrl": "https://store.steampowered.com/app/5021660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T12:01:08.585Z",
+      "lastSeenAt": "2026-11-10T12:01:08.585Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "21 windows. One real sniper. Two decoys. Scan the building, identify the threat, and take your shot without harming civilians. Test your observation, accuracy, and decision-making against the computer or challenge another player in asynchronous tactical sniper duels.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T12:01:08.585Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Scope Sweeper』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5021660/",
+        "attemptedAt": "2026-11-10T12:01:09.123Z",
+        "bufferPostId": "6af30785cbbac94e1ea4feb3",
+        "submittedAt": "2026-11-10T12:01:10.597Z",
+        "postedAt": "2026-11-10T12:01:10.597Z"
+      },
+      "bufferPostId": "6af30785cbbac94e1ea4feb3",
+      "postedAt": "2026-11-10T12:01:10.597Z"
+    },
+    "steam:5049260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5049260:permanent_free:1",
+      "store": "steam",
+      "productId": "5049260",
+      "generation": 1,
+      "title": "Dragon Heist",
+      "storeUrl": "https://store.steampowered.com/app/5049260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-10T12:01:08.585Z",
+      "lastSeenAt": "2026-11-10T12:01:08.585Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Sneak into a castle guarded by a sleeping dragon with 3 other players, grab as much gold and treasure as you can, and flee before the dragon wakes up.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-10T12:01:08.585Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dragon Heist』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5049260/",
+        "attemptedAt": "2026-11-10T12:01:10.601Z",
+        "bufferPostId": "6af30786cbbac94e1ea4ff52",
+        "submittedAt": "2026-11-10T12:01:12.017Z",
+        "postedAt": "2026-11-10T12:01:12.017Z"
+      },
+      "bufferPostId": "6af30786cbbac94e1ea4ff52",
+      "postedAt": "2026-11-10T12:01:12.017Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T09:01:12.446Z",
+    "lastSuccessfulScanAt": "2026-11-10T12:01:08.585Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1149050": "2026-10-29T00:01:06.982Z",
@@ -15436,6 +15504,7 @@
       "5019180": "2026-10-29T09:01:05.116Z",
       "5021380": "2026-10-14T15:30:36.000Z",
       "5021400": "2026-10-14T15:30:36.000Z",
+      "5021660": "2026-11-10T12:01:08.585Z",
       "5023780": "2026-10-14T15:30:36.000Z",
       "5033230": "2026-11-06T06:01:16.414Z",
       "5034400": "2026-10-30T15:01:09.322Z",
@@ -15447,6 +15516,7 @@
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
       "5043860": "2026-10-21T00:01:08.212Z",
+      "5049260": "2026-11-10T12:01:08.585Z",
       "5049940": "2026-10-23T21:00:59.012Z",
       "5052450": "2026-11-06T06:01:16.414Z",
       "5057270": "2026-10-14T15:30:36.000Z",
