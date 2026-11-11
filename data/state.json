@@ -1818,6 +1818,14 @@
     "steam:5389200:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5389200:permanent_free:1"
+    },
+    "steam:5502850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5502850:permanent_free:1"
+    },
+    "steam:5432770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5432770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14885,7 +14893,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T12:01:11.916Z",
+      "lastSeenAt": "2026-11-11T15:01:08.794Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15887,11 +15895,71 @@
       },
       "bufferPostId": "6af4590c8bcfab418ea57c4d",
       "postedAt": "2026-11-11T12:01:18.055Z"
+    },
+    "steam:5502850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5502850:permanent_free:1",
+      "store": "steam",
+      "productId": "5502850",
+      "generation": 1,
+      "title": "SAILORSIM",
+      "storeUrl": "https://store.steampowered.com/app/5502850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T15:01:08.794Z",
+      "lastSeenAt": "2026-11-11T15:01:08.794Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Sail and motor across the Mediterranean, from Salou to Mallorca and Menorca. Berth, anchor in the coves, race a triangle course, cross to the Balearics by day or night and ride out a tramontane gale. Free, no ads.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T15:01:08.794Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『SAILORSIM』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5502850/",
+        "attemptedAt": "2026-11-11T15:01:10.252Z",
+        "bufferPostId": "6af4833674ad7524f8973262",
+        "submittedAt": "2026-11-11T15:01:11.868Z",
+        "postedAt": "2026-11-11T15:01:11.868Z"
+      },
+      "bufferPostId": "6af4833674ad7524f8973262",
+      "postedAt": "2026-11-11T15:01:11.868Z"
+    },
+    "steam:5432770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5432770:permanent_free:1",
+      "store": "steam",
+      "productId": "5432770",
+      "generation": 1,
+      "title": "Ocean Claw",
+      "storeUrl": "https://store.steampowered.com/app/5432770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T15:01:08.794Z",
+      "lastSeenAt": "2026-11-11T15:01:08.794Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "海の中で宝物を集め、装備を強化し、難破船の痕跡を追いかけて複数の海域を探検するゲームです。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T15:01:08.794Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ocean Claw』\n✨ いつでも無料でプレイ\n\n海の中で宝物を集め、装備を強化し、難破船の痕跡を追いかけて複数の海域を探検するゲームです。\n\nhttps://store.steampowered.com/app/5432770/",
+        "attemptedAt": "2026-11-11T15:01:11.875Z",
+        "bufferPostId": "6af483385e84a1f10e5c59d2",
+        "submittedAt": "2026-11-11T15:01:13.494Z",
+        "postedAt": "2026-11-11T15:01:13.494Z"
+      },
+      "bufferPostId": "6af483385e84a1f10e5c59d2",
+      "postedAt": "2026-11-11T15:01:13.494Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T12:01:11.916Z",
+    "lastSuccessfulScanAt": "2026-11-11T15:01:08.794Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16418,6 +16486,7 @@
       "5425530": "2026-11-06T06:01:16.414Z",
       "5427960": "2026-11-09T18:01:24.470Z",
       "5431590": "2026-10-31T21:01:15.957Z",
+      "5432770": "2026-11-11T15:01:08.794Z",
       "5433020": "2026-11-06T09:01:10.595Z",
       "5435190": "2026-11-07T15:01:11.737Z",
       "5437650": "2026-11-10T18:01:39.865Z",
@@ -16438,7 +16507,8 @@
       "5478680": "2026-11-10T18:01:39.865Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5490870": "2026-11-08T06:01:05.672Z",
-      "5498810": "2026-11-09T12:01:11.937Z"
+      "5498810": "2026-11-09T12:01:11.937Z",
+      "5502850": "2026-11-11T15:01:08.794Z"
     }
   }
 }

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43044019461",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-11T15:01:00.043Z",
+    "finishedAt": "2026-11-11T15:01:13.542Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43044019461"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5502850",
+      "title": "SAILORSIM",
+      "storeUrl": "https://store.steampowered.com/app/5502850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502850/a3aa028e8aa925d903bc63bbb1fdc575fe5e41af/header.jpg?t=1794302595",
+      "officialDescription": "Sail and motor across the Mediterranean, from Salou to Mallorca and Menorca. Berth, anchor in the coves, race a triangle course, cross to the Balearics by day or night and ride out a tramontane gale. Free, no ads."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5432770",
+      "title": "Ocean Claw",
+      "storeUrl": "https://store.steampowered.com/app/5432770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432770/0eb71ea3f7559042753b85cedb82d33cb4e121ee/header.jpg?t=1794274289",
+      "officialDescription": "海の中で宝物を集め、装備を強化し、難破船の痕跡を追いかけて複数の海域を探検するゲームです。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5502850:permanent_free:1",
+      "productId": "5502850",
+      "title": "SAILORSIM",
+      "status": "sent",
+      "bufferPostId": "6af4833674ad7524f8973262"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5432770:permanent_free:1",
+      "productId": "5432770",
+      "title": "Ocean Claw",
+      "status": "sent",
+      "bufferPostId": "6af483385e84a1f10e5c59d2"
+    }
+  ],
+  "errors": []
+}
