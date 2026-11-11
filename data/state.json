@@ -1798,6 +1798,10 @@
     "steam:4430560:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4430560:permanent_free:1"
+    },
+    "steam:4988440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4988440:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14865,7 +14869,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T03:01:13.820Z",
+      "lastSeenAt": "2026-11-11T06:01:10.103Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15717,11 +15721,41 @@
       },
       "bufferPostId": "6af3da7ed9a6812579c89c23",
       "postedAt": "2026-11-11T03:01:20.130Z"
+    },
+    "steam:4988440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4988440:permanent_free:1",
+      "store": "steam",
+      "productId": "4988440",
+      "generation": 1,
+      "title": "GUGUGAGA: PEEKABOO",
+      "storeUrl": "https://store.steampowered.com/app/4988440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T06:01:10.103Z",
+      "lastSeenAt": "2026-11-11T06:01:10.103Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "GUGUGAGA! Sudoku! Minesweeper! Combined gameplay!! Plus, you can play online with friends!!!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T06:01:10.103Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GUGUGAGA: PEEKABOO』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4988440/",
+        "attemptedAt": "2026-11-11T06:01:10.655Z",
+        "bufferPostId": "6af404a6a9d779009b8969b6",
+        "submittedAt": "2026-11-11T06:01:11.997Z",
+        "postedAt": "2026-11-11T06:01:11.997Z"
+      },
+      "bufferPostId": "6af404a6a9d779009b8969b6",
+      "postedAt": "2026-11-11T06:01:11.997Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T03:01:13.820Z",
+    "lastSuccessfulScanAt": "2026-11-11T06:01:10.103Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -15966,6 +16000,7 @@
       "4979430": "2026-10-14T15:30:36.000Z",
       "4982770": "2026-10-14T15:30:36.000Z",
       "4986330": "2026-11-09T09:01:07.965Z",
+      "4988440": "2026-11-11T06:01:10.103Z",
       "4989520": "2026-11-07T12:38:12.800Z",
       "4990890": "2026-11-07T12:38:12.800Z",
       "4993710": "2026-10-30T21:01:07.872Z",
