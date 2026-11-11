@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43099383360",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-11T21:01:00.974Z",
+    "finishedAt": "2026-11-11T21:01:14.476Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43099383360"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5476640",
+      "title": "FIRE CHESS",
+      "storeUrl": "https://store.steampowered.com/app/5476640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476640/aa0f98a7de91cfcae32930a22c5155b6e8deb8c9/header.jpg?t=1794429030",
+      "officialDescription": "FIRE CHESS is a serious strategy game that puts players in command of an emergency-response team to contain spreading wildfires. Recruit and manage units across a hex-grid map, use your limited resources to contain a spreading fire, protect residential communities, and respond to critical alerts."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5459270",
+      "title": "Revenge on the 13th Floor",
+      "storeUrl": "https://store.steampowered.com/app/5459270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5459270/5c835e6a52b980db145e788f149a6efdbb77eec7/header.jpg?t=1794426110",
+      "officialDescription": "A brutal top-down shooter inspired by DOS-era classics, ASCII graphics, arcade shoot 'em ups, and gloriously over-the-top '80s action movies. Fight through Campaign, Endless, and Horde modes, then create your own carnage with the built-in level editor and Steam Workshop support. NO MERCY!"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5476640:permanent_free:1",
+      "productId": "5476640",
+      "title": "FIRE CHESS",
+      "status": "sent",
+      "bufferPostId": "6af4d79738da815779d3ea8d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5459270:permanent_free:1",
+      "productId": "5459270",
+      "title": "Revenge on the 13th Floor",
+      "status": "sent",
+      "bufferPostId": "6af4d7992b84624b71500c07"
+    }
+  ],
+  "errors": []
+}

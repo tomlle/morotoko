@@ -1838,6 +1838,14 @@
     "steam:5198770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5198770:permanent_free:1"
+    },
+    "steam:5476640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5476640:permanent_free:1"
+    },
+    "steam:5459270:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5459270:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14905,7 +14913,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T18:01:09.437Z",
+      "lastSeenAt": "2026-11-11T21:01:10.292Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16057,11 +16065,71 @@
       },
       "bufferPostId": "6af4ad69e2a4a708f4d10cf9",
       "postedAt": "2026-11-11T18:01:14.792Z"
+    },
+    "steam:5476640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5476640:permanent_free:1",
+      "store": "steam",
+      "productId": "5476640",
+      "generation": 1,
+      "title": "FIRE CHESS",
+      "storeUrl": "https://store.steampowered.com/app/5476640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T21:01:10.292Z",
+      "lastSeenAt": "2026-11-11T21:01:10.292Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "FIRE CHESS is a serious strategy game that puts players in command of an emergency-response team to contain spreading wildfires. Recruit and manage units across a hex-grid map, use your limited resources to contain a spreading fire, protect residential communities, and respond to critical alerts.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T21:01:10.292Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『FIRE CHESS』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5476640/",
+        "attemptedAt": "2026-11-11T21:01:11.423Z",
+        "bufferPostId": "6af4d79738da815779d3ea8d",
+        "submittedAt": "2026-11-11T21:01:13.136Z",
+        "postedAt": "2026-11-11T21:01:13.136Z"
+      },
+      "bufferPostId": "6af4d79738da815779d3ea8d",
+      "postedAt": "2026-11-11T21:01:13.136Z"
+    },
+    "steam:5459270:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5459270:permanent_free:1",
+      "store": "steam",
+      "productId": "5459270",
+      "generation": 1,
+      "title": "Revenge on the 13th Floor",
+      "storeUrl": "https://store.steampowered.com/app/5459270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T21:01:10.292Z",
+      "lastSeenAt": "2026-11-11T21:01:10.292Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A brutal top-down shooter inspired by DOS-era classics, ASCII graphics, arcade shoot 'em ups, and gloriously over-the-top '80s action movies. Fight through Campaign, Endless, and Horde modes, then create your own carnage with the built-in level editor and Steam Workshop support. NO MERCY!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T21:01:10.292Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Revenge on the 13th Floor』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5459270/",
+        "attemptedAt": "2026-11-11T21:01:13.143Z",
+        "bufferPostId": "6af4d7992b84624b71500c07",
+        "submittedAt": "2026-11-11T21:01:14.462Z",
+        "postedAt": "2026-11-11T21:01:14.462Z"
+      },
+      "bufferPostId": "6af4d7992b84624b71500c07",
+      "postedAt": "2026-11-11T21:01:14.462Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T18:01:09.437Z",
+    "lastSuccessfulScanAt": "2026-11-11T21:01:10.292Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16602,6 +16670,7 @@
       "5447060": "2026-11-09T12:01:11.937Z",
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
+      "5459270": "2026-11-11T21:01:10.292Z",
       "5462800": "2026-11-06T09:01:10.595Z",
       "5464210": "2026-11-11T12:01:11.916Z",
       "5464240": "2026-11-06T06:01:16.414Z",
@@ -16609,6 +16678,7 @@
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
       "5473010": "2026-11-06T06:01:16.414Z",
+      "5476640": "2026-11-11T21:01:10.292Z",
       "5478680": "2026-11-10T18:01:39.865Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5490870": "2026-11-08T06:01:05.672Z",
