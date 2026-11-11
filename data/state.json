@@ -1802,6 +1802,10 @@
     "steam:4988440:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4988440:permanent_free:1"
+    },
+    "steam:5396440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5396440:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14869,7 +14873,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T06:01:10.103Z",
+      "lastSeenAt": "2026-11-11T09:01:07.205Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15751,11 +15755,41 @@
       },
       "bufferPostId": "6af404a6a9d779009b8969b6",
       "postedAt": "2026-11-11T06:01:11.997Z"
+    },
+    "steam:5396440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5396440:permanent_free:1",
+      "store": "steam",
+      "productId": "5396440",
+      "generation": 1,
+      "title": "ハジケロ！ゼリーパンパン",
+      "storeUrl": "https://store.steampowered.com/app/5396440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T09:01:07.205Z",
+      "lastSeenAt": "2026-11-11T09:01:07.205Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "1〜15ステージは無料 — 追加DLC「Full Version Unlock」で16〜50ステージが遊べます。ゼリーばくだんで閉じこめて パンパン！ じっとしていると砂糖でかたまってしまうお菓子の世界！シュガー ジャイアントに立ち向かう小さなゼリーの大冒険・友だちとは閉じこめ合うパンパンあそび",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T09:01:07.205Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ハジケロ！ゼリーパンパン』\n✨ いつでも無料でプレイ\n\n1〜15ステージは無料 — 追加DLC「Full Version Unlock」で16〜50ステージが遊べます。ゼリーばくだんで閉じこめて パンパン！ じっとしていると砂糖でかたまってしまうお菓子の世界…\n\nhttps://store.steampowered.com/app/5396440/",
+        "attemptedAt": "2026-11-11T09:01:07.849Z",
+        "bufferPostId": "6af42ed360e4cf0fafb576fc",
+        "submittedAt": "2026-11-11T09:01:09.174Z",
+        "postedAt": "2026-11-11T09:01:09.174Z"
+      },
+      "bufferPostId": "6af42ed360e4cf0fafb576fc",
+      "postedAt": "2026-11-11T09:01:09.174Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T06:01:10.103Z",
+    "lastSuccessfulScanAt": "2026-11-11T09:01:07.205Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16267,6 +16301,7 @@
       "5391510": "2026-11-09T21:01:13.739Z",
       "5391790": "2026-11-02T03:01:22.328Z",
       "5394530": "2026-10-23T09:01:01.018Z",
+      "5396440": "2026-11-11T09:01:07.205Z",
       "5397330": "2026-10-28T15:01:16.098Z",
       "5402200": "2026-10-30T15:01:09.322Z",
       "5402790": "2026-11-04T03:01:08.084Z",
