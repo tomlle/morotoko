@@ -1778,6 +1778,10 @@
     "steam:5226100:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5226100:permanent_free:1"
+    },
+    "steam:5142000:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5142000:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14845,7 +14849,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-10T21:01:09.176Z",
+      "lastSeenAt": "2026-11-11T00:01:08.109Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15547,11 +15551,41 @@
       },
       "bufferPostId": "6af3861791300263f77fc385",
       "postedAt": "2026-11-10T21:01:12.990Z"
+    },
+    "steam:5142000:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5142000:permanent_free:1",
+      "store": "steam",
+      "productId": "5142000",
+      "generation": 1,
+      "title": "OmniFlux MMO",
+      "storeUrl": "https://store.steampowered.com/app/5142000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T00:01:08.109Z",
+      "lastSeenAt": "2026-11-11T00:01:08.109Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "OmniFlux MMO is an indie fantasy MMORPG built around classic online RPG exploration, character progression, and dangerous open-world adventure.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T00:01:08.109Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『OmniFlux MMO』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5142000/",
+        "attemptedAt": "2026-11-11T00:01:08.831Z",
+        "bufferPostId": "6af3b044ce9a7df734524fb9",
+        "submittedAt": "2026-11-11T00:01:10.294Z",
+        "postedAt": "2026-11-11T00:01:10.294Z"
+      },
+      "bufferPostId": "6af3b044ce9a7df734524fb9",
+      "postedAt": "2026-11-11T00:01:10.294Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-10T21:01:09.176Z",
+    "lastSuccessfulScanAt": "2026-11-11T00:01:08.109Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -15866,6 +15900,7 @@
       "5136630": "2026-10-14T15:30:36.000Z",
       "5138130": "2026-11-08T12:01:09.576Z",
       "5138180": "2026-10-14T15:30:36.000Z",
+      "5142000": "2026-11-11T00:01:08.109Z",
       "5144300": "2026-10-14T15:30:36.000Z",
       "5156550": "2026-10-21T06:00:58.776Z",
       "5158710": "2026-11-10T03:01:09.985Z",
