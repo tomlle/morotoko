@@ -1826,6 +1826,18 @@
     "steam:5432770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5432770:permanent_free:1"
+    },
+    "steam:4975050:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4975050:permanent_free:1"
+    },
+    "steam:5238090:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5238090:permanent_free:1"
+    },
+    "steam:5198770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5198770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14893,7 +14905,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T15:01:08.794Z",
+      "lastSeenAt": "2026-11-11T18:01:09.437Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15955,11 +15967,101 @@
       },
       "bufferPostId": "6af483385e84a1f10e5c59d2",
       "postedAt": "2026-11-11T15:01:13.494Z"
+    },
+    "steam:4975050:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4975050:permanent_free:1",
+      "store": "steam",
+      "productId": "4975050",
+      "generation": 1,
+      "title": "Campus Clash",
+      "storeUrl": "https://store.steampowered.com/app/4975050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T18:01:09.437Z",
+      "lastSeenAt": "2026-11-11T18:01:09.437Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Campus Clashは、魔法の大学キャンパスを舞台にした基本プレイ無料のコレクタブルカードゲーム。ライバル関係にある5つのグループの15人のリーダーから1人を選び、242枚のカードでデッキを組んで、ターン制の対戦で相手を出し抜こう。AI戦にもオンラインのランク戦にも対応。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T18:01:09.437Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Campus Clash』\n✨ いつでも無料でプレイ\n\nCampus Clashは、魔法の大学キャンパスを舞台にした基本プレイ無料のコレクタブルカードゲーム。ライバル関係にある5つのグループの15人のリーダーから1人を選び、242枚のカードでデッキを組んで…\n\nhttps://store.steampowered.com/app/4975050/",
+        "attemptedAt": "2026-11-11T18:01:10.363Z",
+        "bufferPostId": "6af4ad66238825aa8d1119a1",
+        "submittedAt": "2026-11-11T18:01:12.027Z",
+        "postedAt": "2026-11-11T18:01:12.027Z"
+      },
+      "bufferPostId": "6af4ad66238825aa8d1119a1",
+      "postedAt": "2026-11-11T18:01:12.027Z"
+    },
+    "steam:5238090:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5238090:permanent_free:1",
+      "store": "steam",
+      "productId": "5238090",
+      "generation": 1,
+      "title": "NAQOO: BOLTFIRE",
+      "storeUrl": "https://store.steampowered.com/app/5238090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T18:01:09.437Z",
+      "lastSeenAt": "2026-11-11T18:01:09.437Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Fast-paced local arena shooter for 2–4 players on one screen. Shoot, set traps, capture automated turrets, and blow up explosive barrels. Destructible arenas and customizable rules keep every match different, with quick rematches, petty tricks, instant karma, and plenty of laughs.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T18:01:09.437Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『NAQOO: BOLTFIRE』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5238090/",
+        "attemptedAt": "2026-11-11T18:01:12.033Z",
+        "bufferPostId": "6af4ad68238825aa8d111ac6",
+        "submittedAt": "2026-11-11T18:01:13.403Z",
+        "postedAt": "2026-11-11T18:01:13.403Z"
+      },
+      "bufferPostId": "6af4ad68238825aa8d111ac6",
+      "postedAt": "2026-11-11T18:01:13.403Z"
+    },
+    "steam:5198770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5198770:permanent_free:1",
+      "store": "steam",
+      "productId": "5198770",
+      "generation": 1,
+      "title": "偽人鳥ゲーム -ニセペンギンゲーム-",
+      "storeUrl": "https://store.steampowered.com/app/5198770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T18:01:09.437Z",
+      "lastSeenAt": "2026-11-11T18:01:09.437Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "とある配信者のファンミーティング。豪華客船に幽閉された10名の男女。そして悪夢の \"デスゲーム\" は始まるーー。捜査でメモを集め、推理と投票で \"サメ\" を釣れ！ バッドエンド不可避の中編ミステリーADV。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T18:01:09.437Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『偽人鳥ゲーム -ニセペンギンゲーム-』\n✨ いつでも無料でプレイ\n\nとある配信者のファンミーティング。豪華客船に幽閉された10名の男女。そして悪夢の \"デスゲーム\" は始まるーー。捜査でメモを集め、推理と投票で \"サメ\" を釣れ！ バッドエ…\n\nhttps://store.steampowered.com/app/5198770/",
+        "attemptedAt": "2026-11-11T18:01:13.410Z",
+        "bufferPostId": "6af4ad69e2a4a708f4d10cf9",
+        "submittedAt": "2026-11-11T18:01:14.792Z",
+        "postedAt": "2026-11-11T18:01:14.792Z"
+      },
+      "bufferPostId": "6af4ad69e2a4a708f4d10cf9",
+      "postedAt": "2026-11-11T18:01:14.792Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T15:01:08.794Z",
+    "lastSuccessfulScanAt": "2026-11-11T18:01:09.437Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16200,6 +16302,7 @@
       "4967370": "2026-11-07T12:38:12.800Z",
       "4972430": "2026-10-23T06:01:01.508Z",
       "4974600": "2026-10-31T12:01:05.079Z",
+      "4975050": "2026-11-11T18:01:09.437Z",
       "4976270": "2026-11-07T12:38:12.800Z",
       "4979300": "2026-10-14T15:30:36.000Z",
       "4979430": "2026-10-14T15:30:36.000Z",
@@ -16309,6 +16412,7 @@
       "5196280": "2026-10-31T09:00:59.059Z",
       "5196510": "2026-10-15T21:00:58.160Z",
       "5198690": "2026-10-25T18:01:03.590Z",
+      "5198770": "2026-11-11T18:01:09.437Z",
       "5199830": "2026-10-16T15:01:11.993Z",
       "5206450": "2026-10-14T15:30:36.000Z",
       "5209250": "2026-10-25T09:01:01.104Z",
@@ -16330,6 +16434,7 @@
       "5231360": "2026-10-15T09:01:04.942Z",
       "5233990": "2026-10-16T15:01:11.993Z",
       "5234140": "2026-11-03T18:01:16.982Z",
+      "5238090": "2026-11-11T18:01:09.437Z",
       "5238690": "2026-10-30T18:01:08.710Z",
       "5241530": "2026-10-14T15:30:36.000Z",
       "5242290": "2026-10-26T09:01:11.947Z",

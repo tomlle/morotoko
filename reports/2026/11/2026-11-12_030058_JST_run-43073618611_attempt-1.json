@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43073618611",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-11T18:00:58.749Z",
+    "finishedAt": "2026-11-11T18:01:14.805Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43073618611"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 17,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4975050",
+      "title": "Campus Clash",
+      "storeUrl": "https://store.steampowered.com/app/4975050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975050/80517eef5c7075d961790365e5dc16429c5721a2/header.jpg?t=1794418516",
+      "officialDescription": "Campus Clashは、魔法の大学キャンパスを舞台にした基本プレイ無料のコレクタブルカードゲーム。ライバル関係にある5つのグループの15人のリーダーから1人を選び、242枚のカードでデッキを組んで、ターン制の対戦で相手を出し抜こう。AI戦にもオンラインのランク戦にも対応。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5238090",
+      "title": "NAQOO: BOLTFIRE",
+      "storeUrl": "https://store.steampowered.com/app/5238090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238090/82ed91ff52cce3f19aecb392300aa469ec4ab465/header.jpg?t=1794414945",
+      "officialDescription": "Fast-paced local arena shooter for 2–4 players on one screen. Shoot, set traps, capture automated turrets, and blow up explosive barrels. Destructible arenas and customizable rules keep every match different, with quick rematches, petty tricks, instant karma, and plenty of laughs."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5198770",
+      "title": "偽人鳥ゲーム -ニセペンギンゲーム-",
+      "storeUrl": "https://store.steampowered.com/app/5198770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5198770/3db1a565ab329a6902466a132729a06e6d34644c/header_japanese.jpg?t=1794322910",
+      "officialDescription": "とある配信者のファンミーティング。豪華客船に幽閉された10名の男女。そして悪夢の \"デスゲーム\" は始まるーー。捜査でメモを集め、推理と投票で \"サメ\" を釣れ！ バッドエンド不可避の中編ミステリーADV。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4975050:permanent_free:1",
+      "productId": "4975050",
+      "title": "Campus Clash",
+      "status": "sent",
+      "bufferPostId": "6af4ad66238825aa8d1119a1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5238090:permanent_free:1",
+      "productId": "5238090",
+      "title": "NAQOO: BOLTFIRE",
+      "status": "sent",
+      "bufferPostId": "6af4ad68238825aa8d111ac6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5198770:permanent_free:1",
+      "productId": "5198770",
+      "title": "偽人鳥ゲーム -ニセペンギンゲーム-",
+      "status": "sent",
+      "bufferPostId": "6af4ad69e2a4a708f4d10cf9"
+    }
+  ],
+  "errors": []
+}
