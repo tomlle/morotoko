@@ -1806,6 +1806,18 @@
     "steam:5396440:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5396440:permanent_free:1"
+    },
+    "steam:4908770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4908770:permanent_free:1"
+    },
+    "steam:5464210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5464210:permanent_free:1"
+    },
+    "steam:5389200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5389200:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14873,7 +14885,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T09:01:07.205Z",
+      "lastSeenAt": "2026-11-11T12:01:11.916Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15785,11 +15797,101 @@
       },
       "bufferPostId": "6af42ed360e4cf0fafb576fc",
       "postedAt": "2026-11-11T09:01:09.174Z"
+    },
+    "steam:4908770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4908770:permanent_free:1",
+      "store": "steam",
+      "productId": "4908770",
+      "generation": 1,
+      "title": "Rezonia",
+      "storeUrl": "https://store.steampowered.com/app/4908770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T12:01:11.916Z",
+      "lastSeenAt": "2026-11-11T12:01:11.916Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "4レーンを中心とした、シンプルで奥深いリズムゲーム。直感的な操作で気軽に楽しめる一方、精密な判定とスコアシステムが奥深いやり込みを生み出します。オンラインランキングにも対応。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T12:01:11.916Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Rezonia』\n✨ いつでも無料でプレイ\n\n4レーンを中心とした、シンプルで奥深いリズムゲーム。直感的な操作で気軽に楽しめる一方、精密な判定とスコアシステムが奥深いやり込みを生み出します。オンラインランキングにも対応。\n\nhttps://store.steampowered.com/app/4908770/",
+        "attemptedAt": "2026-11-11T12:01:12.887Z",
+        "bufferPostId": "6af459092c0a5da5340770ca",
+        "submittedAt": "2026-11-11T12:01:14.513Z",
+        "postedAt": "2026-11-11T12:01:14.513Z"
+      },
+      "bufferPostId": "6af459092c0a5da5340770ca",
+      "postedAt": "2026-11-11T12:01:14.513Z"
+    },
+    "steam:5464210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5464210:permanent_free:1",
+      "store": "steam",
+      "productId": "5464210",
+      "generation": 1,
+      "title": "Loamward",
+      "storeUrl": "https://store.steampowered.com/app/5464210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T12:01:11.916Z",
+      "lastSeenAt": "2026-11-11T12:01:11.916Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Shape a living world one spadeful at a time. Dig, level and pave the land, fell timber, mine deep veins and smith your own tools, raise houses piece by piece and found a settlement with your neighbors. Every skill grows with use in a slow, open sandbox you share online.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T12:01:11.916Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Loamward』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5464210/",
+        "attemptedAt": "2026-11-11T12:01:14.520Z",
+        "bufferPostId": "6af4590a8bcfab418ea57ae7",
+        "submittedAt": "2026-11-11T12:01:16.429Z",
+        "postedAt": "2026-11-11T12:01:16.429Z"
+      },
+      "bufferPostId": "6af4590a8bcfab418ea57ae7",
+      "postedAt": "2026-11-11T12:01:16.429Z"
+    },
+    "steam:5389200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5389200:permanent_free:1",
+      "store": "steam",
+      "productId": "5389200",
+      "generation": 1,
+      "title": "Asteroid Watch",
+      "storeUrl": "https://store.steampowered.com/app/5389200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T12:01:11.916Z",
+      "lastSeenAt": "2026-11-11T12:01:11.916Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An online space-mining idle incremental game that lives in the corner of your screen. Mine alongside other pilots, unlock automatic mining, upgrade your ship, and build your own orbital station while you work or browse.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T12:01:11.916Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Asteroid Watch』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5389200/",
+        "attemptedAt": "2026-11-11T12:01:16.435Z",
+        "bufferPostId": "6af4590c8bcfab418ea57c4d",
+        "submittedAt": "2026-11-11T12:01:18.055Z",
+        "postedAt": "2026-11-11T12:01:18.055Z"
+      },
+      "bufferPostId": "6af4590c8bcfab418ea57c4d",
+      "postedAt": "2026-11-11T12:01:18.055Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T09:01:07.205Z",
+    "lastSuccessfulScanAt": "2026-11-11T12:01:11.916Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16004,6 +16106,7 @@
       "4903830": "2026-10-29T06:01:00.110Z",
       "4904570": "2026-10-14T15:30:36.000Z",
       "4907670": "2026-10-14T15:30:36.000Z",
+      "4908770": "2026-11-11T12:01:11.916Z",
       "4910040": "2026-11-06T06:01:16.414Z",
       "4910060": "2026-10-20T09:01:01.492Z",
       "4914650": "2026-11-10T18:01:39.865Z",
@@ -16296,6 +16399,7 @@
       "5386310": "2026-11-02T15:01:13.453Z",
       "5387790": "2026-10-30T21:01:07.872Z",
       "5389120": "2026-11-02T15:01:13.453Z",
+      "5389200": "2026-11-11T12:01:11.916Z",
       "5390960": "2026-11-10T18:01:39.865Z",
       "5391500": "2026-10-26T15:01:10.225Z",
       "5391510": "2026-11-09T21:01:13.739Z",
@@ -16325,6 +16429,7 @@
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
       "5462800": "2026-11-06T09:01:10.595Z",
+      "5464210": "2026-11-11T12:01:11.916Z",
       "5464240": "2026-11-06T06:01:16.414Z",
       "5465230": "2026-11-06T06:01:16.414Z",
       "5465860": "2026-11-06T06:01:16.414Z",

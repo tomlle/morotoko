@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43016644516",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-11T12:01:00.953Z",
+    "finishedAt": "2026-11-11T12:01:18.068Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43016644516"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 17,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4908770",
+      "title": "Rezonia",
+      "storeUrl": "https://store.steampowered.com/app/4908770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908770/04e8f49759e5c201a69d517820e30a9cd8265aa9/header.jpg?t=1794395439",
+      "officialDescription": "4レーンを中心とした、シンプルで奥深いリズムゲーム。直感的な操作で気軽に楽しめる一方、精密な判定とスコアシステムが奥深いやり込みを生み出します。オンラインランキングにも対応。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5464210",
+      "title": "Loamward",
+      "storeUrl": "https://store.steampowered.com/app/5464210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5464210/7a34ffb51eeae13605189325d49f81c258138fd4/header.jpg?t=1794394461",
+      "officialDescription": "Shape a living world one spadeful at a time. Dig, level and pave the land, fell timber, mine deep veins and smith your own tools, raise houses piece by piece and found a settlement with your neighbors. Every skill grows with use in a slow, open sandbox you share online."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5389200",
+      "title": "Asteroid Watch",
+      "storeUrl": "https://store.steampowered.com/app/5389200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389200/255dda722489e8c405ebc3237496fccb820c7125/header.jpg?t=1794388577",
+      "officialDescription": "An online space-mining idle incremental game that lives in the corner of your screen. Mine alongside other pilots, unlock automatic mining, upgrade your ship, and build your own orbital station while you work or browse."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4908770:permanent_free:1",
+      "productId": "4908770",
+      "title": "Rezonia",
+      "status": "sent",
+      "bufferPostId": "6af459092c0a5da5340770ca"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5464210:permanent_free:1",
+      "productId": "5464210",
+      "title": "Loamward",
+      "status": "sent",
+      "bufferPostId": "6af4590a8bcfab418ea57ae7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5389200:permanent_free:1",
+      "productId": "5389200",
+      "title": "Asteroid Watch",
+      "status": "sent",
+      "bufferPostId": "6af4590c8bcfab418ea57c4d"
+    }
+  ],
+  "errors": []
+}
