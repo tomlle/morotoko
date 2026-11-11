@@ -1782,6 +1782,22 @@
     "steam:5142000:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5142000:permanent_free:1"
+    },
+    "steam:4399360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4399360:permanent_free:1"
+    },
+    "steam:2350690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2350690:permanent_free:1"
+    },
+    "steam:5105650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5105650:permanent_free:1"
+    },
+    "steam:4430560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4430560:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14849,7 +14865,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T00:01:08.109Z",
+      "lastSeenAt": "2026-11-11T03:01:13.820Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -15581,11 +15597,131 @@
       },
       "bufferPostId": "6af3b044ce9a7df734524fb9",
       "postedAt": "2026-11-11T00:01:10.294Z"
+    },
+    "steam:4399360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4399360:permanent_free:1",
+      "store": "steam",
+      "productId": "4399360",
+      "generation": 1,
+      "title": "时光餐厅",
+      "storeUrl": "https://store.steampowered.com/app/4399360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T03:01:13.820Z",
+      "lastSeenAt": "2026-11-11T03:01:13.820Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "《时光餐厅》是一款轻松休闲的餐厅经营游戏。你将从一家小餐馆开始，安排厨师做菜、服务员上菜，接待不断到来的顾客。随着生意越来越好，你可以扩展餐厅规模、解锁更多菜品，让自己的餐厅变得越来越热闹。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T03:01:13.820Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『时光餐厅』\n✨ いつでも無料でプレイ\n\n《时光餐厅》是一款轻松休闲的餐厅经营游戏。你将从一家小餐馆开始，安排厨师做菜、服务员上菜，接待不断到来的顾客。随着生意越来越好，你可以扩展餐厅规模、解锁更多菜品，让自己的餐厅变得越来越热…\n\nhttps://store.steampowered.com/app/4399360/",
+        "attemptedAt": "2026-11-11T03:01:14.565Z",
+        "bufferPostId": "6af3da7a5e53322cd5792a59",
+        "submittedAt": "2026-11-11T03:01:16.164Z",
+        "postedAt": "2026-11-11T03:01:16.164Z"
+      },
+      "bufferPostId": "6af3da7a5e53322cd5792a59",
+      "postedAt": "2026-11-11T03:01:16.164Z"
+    },
+    "steam:2350690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2350690:permanent_free:1",
+      "store": "steam",
+      "productId": "2350690",
+      "generation": 1,
+      "title": "District Null",
+      "storeUrl": "https://store.steampowered.com/app/2350690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T03:01:13.820Z",
+      "lastSeenAt": "2026-11-11T03:01:13.820Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "District Nullはサイバーパンク都市シミュレーションです。交通、エネルギー、消防、警察、学校、エンターテインメントがすべて同時に稼働します。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T03:01:13.820Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『District Null』\n✨ いつでも無料でプレイ\n\nDistrict Nullはサイバーパンク都市シミュレーションです。交通、エネルギー、消防、警察、学校、エンターテインメントがすべて同時に稼働します。\n\nhttps://store.steampowered.com/app/2350690/",
+        "attemptedAt": "2026-11-11T03:01:16.171Z",
+        "bufferPostId": "6af3da7c61555afe9ef33f55",
+        "submittedAt": "2026-11-11T03:01:17.484Z",
+        "postedAt": "2026-11-11T03:01:17.484Z"
+      },
+      "bufferPostId": "6af3da7c61555afe9ef33f55",
+      "postedAt": "2026-11-11T03:01:17.484Z"
+    },
+    "steam:5105650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5105650:permanent_free:1",
+      "store": "steam",
+      "productId": "5105650",
+      "generation": 1,
+      "title": "『愛と死と、私の娘』",
+      "storeUrl": "https://store.steampowered.com/app/5105650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T03:01:13.820Z",
+      "lastSeenAt": "2026-11-11T03:01:13.820Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『愛と死と、私の娘』は、無料で遊べる短編のピクセルアート・ナラティブゲームです。雨の墓地を歩き、不具合を修復し、記憶と記録をたどってください。かすかな恐怖と歪みの中で、ひとりの母親が遺した愛を知る物語です。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T03:01:13.820Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『『愛と死と、私の娘』』\n✨ いつでも無料でプレイ\n\n『愛と死と、私の娘』は、無料で遊べる短編のピクセルアート・ナラティブゲームです。雨の墓地を歩き、不具合を修復し、記憶と記録をたどってください。かすかな恐怖と歪みの中で、ひとり…\n\nhttps://store.steampowered.com/app/5105650/",
+        "attemptedAt": "2026-11-11T03:01:17.492Z",
+        "bufferPostId": "6af3da7d61555afe9ef33faf",
+        "submittedAt": "2026-11-11T03:01:18.853Z",
+        "postedAt": "2026-11-11T03:01:18.853Z"
+      },
+      "bufferPostId": "6af3da7d61555afe9ef33faf",
+      "postedAt": "2026-11-11T03:01:18.853Z"
+    },
+    "steam:4430560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4430560:permanent_free:1",
+      "store": "steam",
+      "productId": "4430560",
+      "generation": 1,
+      "title": "Survivor Joe Lost Island",
+      "storeUrl": "https://store.steampowered.com/app/4430560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-11T03:01:13.820Z",
+      "lastSeenAt": "2026-11-11T03:01:13.820Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 2D action platformer with guns, a surprisingly useful plunger, roguelike runs, co-op and 8-player deathmatch.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-11T03:01:13.820Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Survivor Joe Lost Island』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4430560/",
+        "attemptedAt": "2026-11-11T03:01:18.861Z",
+        "bufferPostId": "6af3da7ed9a6812579c89c23",
+        "submittedAt": "2026-11-11T03:01:20.130Z",
+        "postedAt": "2026-11-11T03:01:20.130Z"
+      },
+      "bufferPostId": "6af3da7ed9a6812579c89c23",
+      "postedAt": "2026-11-11T03:01:20.130Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T00:01:08.109Z",
+    "lastSuccessfulScanAt": "2026-11-11T03:01:13.820Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -15607,6 +15743,7 @@
       "2160130": "2026-10-31T21:01:15.957Z",
       "2213580": "2026-10-28T15:01:16.098Z",
       "2331730": "2026-10-14T15:30:36.000Z",
+      "2350690": "2026-11-11T03:01:13.820Z",
       "2415710": "2026-10-30T12:01:07.408Z",
       "2460020": "2026-11-06T06:01:16.414Z",
       "2488560": "2026-10-22T21:01:15.937Z",
@@ -15694,9 +15831,11 @@
       "4365790": "2026-10-16T18:01:10.079Z",
       "4374510": "2026-10-31T09:00:59.059Z",
       "4394570": "2026-10-31T03:11:06.746Z",
+      "4399360": "2026-11-11T03:01:13.820Z",
       "4410900": "2026-10-18T00:01:08.594Z",
       "4424740": "2026-11-02T18:01:16.242Z",
       "4429430": "2026-10-27T18:01:06.530Z",
+      "4430560": "2026-11-11T03:01:13.820Z",
       "4431370": "2026-10-31T21:01:15.957Z",
       "4431860": "2026-11-03T15:01:11.045Z",
       "4435950": "2026-10-27T15:01:11.766Z",
@@ -15879,6 +16018,7 @@
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
       "5105400": "2026-10-14T15:30:36.000Z",
+      "5105650": "2026-11-11T03:01:13.820Z",
       "5108310": "2026-10-18T12:00:59.249Z",
       "5109640": "2026-10-16T00:01:03.084Z",
       "5111880": "2026-11-06T06:01:16.414Z",
