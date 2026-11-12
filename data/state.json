@@ -1870,6 +1870,10 @@
     "steam:4869940:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4869940:permanent_free:1"
+    },
+    "steam:4859520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4859520:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14937,7 +14941,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-12T09:01:05.060Z",
+      "lastSeenAt": "2026-11-12T12:01:08.704Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16341,11 +16345,41 @@
       },
       "bufferPostId": "6af580553edeaff13c0db93d",
       "postedAt": "2026-11-12T09:01:10.625Z"
+    },
+    "steam:4859520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4859520:permanent_free:1",
+      "store": "steam",
+      "productId": "4859520",
+      "generation": 1,
+      "title": "Smashboom",
+      "storeUrl": "https://store.steampowered.com/app/4859520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T12:01:08.704Z",
+      "lastSeenAt": "2026-11-12T12:01:08.704Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Smashboom』は、飛んでくる弾をギリギリで見切り、反射して相手にぶつけるハイスピード3Dアクションシューティングです。ただ撃ち合うだけでなく、攻撃のタイミングをずらす「フェイク」を駆使した極限の心理戦が展開されます。テニスの超高速ラリーのような緊迫感の中、爆弾などの特殊能力を組み合わせて戦術を組み立てましょう。トゥーンレンダリング調の鮮やかなグラフィックで彩られたアリーナで、相手の意表を突くスマッシュを叩き込み、一瞬の判断と反射神経でライバルを撃ち倒せ！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T12:01:08.704Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Smashboom』\n✨ いつでも無料でプレイ\n\n『Smashboom』は、飛んでくる弾をギリギリで見切り、反射して相手にぶつけるハイスピード3Dアクションシューティングです。ただ撃ち合うだけでなく、攻撃のタイミングをずらす「フェイク」を駆使した…\n\nhttps://store.steampowered.com/app/4859520/",
+        "attemptedAt": "2026-11-12T12:01:09.533Z",
+        "bufferPostId": "6af5aa854926d8280f0d2afb",
+        "submittedAt": "2026-11-12T12:01:11.124Z",
+        "postedAt": "2026-11-12T12:01:11.124Z"
+      },
+      "bufferPostId": "6af5aa854926d8280f0d2afb",
+      "postedAt": "2026-11-12T12:01:11.124Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-12T09:01:05.060Z",
+    "lastSuccessfulScanAt": "2026-11-12T12:01:08.704Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16544,6 +16578,7 @@
       "4854020": "2026-10-14T21:01:00.572Z",
       "4855210": "2026-10-16T03:01:04.575Z",
       "4856160": "2026-10-27T09:01:03.509Z",
+      "4859520": "2026-11-12T12:01:08.704Z",
       "4864070": "2026-11-06T12:01:14.375Z",
       "4866750": "2026-10-23T18:01:08.113Z",
       "4869940": "2026-11-12T09:01:05.060Z",

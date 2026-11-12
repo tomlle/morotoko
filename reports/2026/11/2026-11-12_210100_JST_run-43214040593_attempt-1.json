@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43214040593",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-12T12:01:00.477Z",
+    "finishedAt": "2026-11-12T12:01:11.135Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43214040593"
+  },
+  "detection": {
+    "searched": 114,
+    "candidates": 15,
+    "verified": 2,
+    "newPromotions": 1,
+    "knownPromotions": 1,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4859520",
+      "title": "Smashboom",
+      "storeUrl": "https://store.steampowered.com/app/4859520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859520/b12653c9b25dd5d56577088f1179d095cf6b08ce/header.jpg?t=1794482776",
+      "officialDescription": "『Smashboom』は、飛んでくる弾をギリギリで見切り、反射して相手にぶつけるハイスピード3Dアクションシューティングです。ただ撃ち合うだけでなく、攻撃のタイミングをずらす「フェイク」を駆使した極限の心理戦が展開されます。テニスの超高速ラリーのような緊迫感の中、爆弾などの特殊能力を組み合わせて戦術を組み立てましょう。トゥーンレンダリング調の鮮やかなグラフィックで彩られたアリーナで、相手の意表を突くスマッシュを叩き込み、一瞬の判断と反射神経でライバルを撃ち倒せ！"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1676840",
+      "title": "For The King II",
+      "storeUrl": "https://store.steampowered.com/app/1676840/",
+      "initialPrice": 350000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676840/9ce3fe1c71c12b2ff5b9f57365e0e3633917f490/header_alt_assets_13_japanese.jpg?t=1794248102",
+      "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
+      "tags": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー",
+        "パーティー制RPG",
+        "ターン制ストラテジー",
+        "ボードゲーム",
+        "ローグライク",
+        "オンライン協力プレイ",
+        "マルチプレイヤー",
+        "ターン制コンバット",
+        "協力プレイ",
+        "テーブルトップ",
+        "ローグライト",
+        "ローカル協力プレイ",
+        "ファンタジー",
+        "ヘクス",
+        "ローカルマルチプレイヤー",
+        "オープンワールド",
+        "シングルプレイヤー",
+        "PvP",
+        "+"
+      ],
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-12T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4859520:permanent_free:1",
+      "productId": "4859520",
+      "title": "Smashboom",
+      "status": "sent",
+      "bufferPostId": "6af5aa854926d8280f0d2afb"
+    }
+  ],
+  "errors": []
+}
