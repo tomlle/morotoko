@@ -1688,8 +1688,7 @@
       "activeCampaignId": "steam:5369820:permanent_free:1"
     },
     "steam:1676840:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1676840:temporary_play:1"
+      "generation": 1
     },
     "steam:5391510:permanent_free": {
       "generation": 1,
@@ -1914,6 +1913,14 @@
     "steam:2605790:temporary_play": {
       "generation": 1,
       "activeCampaignId": "steam:2605790:temporary_play:1"
+    },
+    "steam:3354290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3354290:permanent_free:1"
+    },
+    "steam:5249380:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5249380:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14982,8 +14989,8 @@
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
       "lastSeenAt": "2026-11-12T15:01:10.708Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつては敬愛されていた女王に秘められた謎を解き明かすことが、あなたにできるか？",
@@ -16668,7 +16675,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-12T18:01:08.650Z",
+      "lastSeenAt": "2026-11-12T21:01:09.146Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16723,7 +16730,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-12T18:01:08.650Z",
+      "lastSeenAt": "2026-11-12T21:01:09.146Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16731,8 +16738,8 @@
       "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
       "tags": [
         "FPS",
-        "ドワーフ",
         "協力プレイ",
+        "ドワーフ",
         "PvE",
         "ローグライト",
         "ローグライクアクション",
@@ -16743,8 +16750,8 @@
         "ファーストパーソン",
         "オンライン協力プレイ",
         "ホラー",
-        "SF",
         "マルチプレイヤー",
+        "SF",
         "ダーク",
         "キャラクターカスタマイズ",
         "探検",
@@ -16765,11 +16772,71 @@
       },
       "bufferPostId": "6af5fef20587f22eee0d0f71",
       "postedAt": "2026-11-12T18:01:23.770Z"
+    },
+    "steam:3354290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3354290:permanent_free:1",
+      "store": "steam",
+      "productId": "3354290",
+      "generation": 1,
+      "title": "Mailbound",
+      "storeUrl": "https://store.steampowered.com/app/3354290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T21:01:09.146Z",
+      "lastSeenAt": "2026-11-12T21:01:09.146Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "EXPLORE, CONTAIN and FEED a CURSED PC, while what lives inside leaks out into the world around you. Mailbound is a narrative-driven horror game about attempting to uncover a conspiracy and amend your past mistakes.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T21:01:09.146Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mailbound』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3354290/",
+        "attemptedAt": "2026-11-12T21:01:09.657Z",
+        "bufferPostId": "6af62916a01fb6efee4ad0cb",
+        "submittedAt": "2026-11-12T21:01:11.308Z",
+        "postedAt": "2026-11-12T21:01:11.308Z"
+      },
+      "bufferPostId": "6af62916a01fb6efee4ad0cb",
+      "postedAt": "2026-11-12T21:01:11.308Z"
+    },
+    "steam:5249380:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5249380:permanent_free:1",
+      "store": "steam",
+      "productId": "5249380",
+      "generation": 1,
+      "title": "Leonard Sibelius",
+      "storeUrl": "https://store.steampowered.com/app/5249380/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T21:01:09.146Z",
+      "lastSeenAt": "2026-11-12T21:01:09.146Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "I'm 71. I spent forty years in cubicles building software systems that all were retired. Use of AI was forbidden. This is my memoir, and I built it with AI. Earn AI powers from five dancing AI agents, race go-karts, play chess and Go, and create movies about dancing.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T21:01:09.146Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Leonard Sibelius』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5249380/",
+        "attemptedAt": "2026-11-12T21:01:11.317Z",
+        "bufferPostId": "6af629177d05892ccea86b79",
+        "submittedAt": "2026-11-12T21:01:12.606Z",
+        "postedAt": "2026-11-12T21:01:12.606Z"
+      },
+      "bufferPostId": "6af629177d05892ccea86b79",
+      "postedAt": "2026-11-12T21:01:12.606Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-12T18:01:08.650Z",
+    "lastSuccessfulScanAt": "2026-11-12T21:01:09.146Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16813,6 +16880,7 @@
       "3301840": "2026-11-06T06:01:16.414Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3339970": "2026-11-04T06:01:02.326Z",
+      "3354290": "2026-11-12T21:01:09.146Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3466220": "2026-10-29T09:01:05.116Z",
       "3484110": "2026-11-03T06:01:07.148Z",
@@ -17163,6 +17231,7 @@
       "5246960": "2026-11-08T12:01:09.576Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5247120": "2026-11-06T06:01:16.414Z",
+      "5249380": "2026-11-12T21:01:09.146Z",
       "5249390": "2026-10-14T15:30:36.000Z",
       "5250500": "2026-10-16T21:01:03.467Z",
       "5252490": "2026-10-15T12:01:04.044Z",
