@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43275348065",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-12T18:00:59.917Z",
+    "finishedAt": "2026-11-12T18:01:23.785Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43275348065"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 22,
+    "verified": 8,
+    "newPromotions": 8,
+    "knownPromotions": 0,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 8,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4973650",
+      "title": "SoulForge Legends",
+      "storeUrl": "https://store.steampowered.com/app/4973650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973650/51f7f00c1c0844e979a8499ce0cc125a8e5bb661/header.jpg?t=1794506435",
+      "officialDescription": "12のクラス。ひとつのオープンワールド。尽きることのない伝説。 仲間とパーティーを組み、ワールドボスに挑み、自分だけのビルドでキャラクターを育成しよう。40人対戦アリーナでは、装備よりも実力が勝敗を決める。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3587480",
+      "title": "Underpacked!",
+      "storeUrl": "https://store.steampowered.com/app/3587480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587480/36a4d17931b5f318a92a450c1c6098a39e9b3a1a/header.jpg?t=1794505925",
+      "officialDescription": "Welcome to the galaxy´s biggest delivery company! Dive into a space odyssey as a delivery crew, alone or with your comrades. Dodge threats, survive the harsh realities of labor exploitation and deliver packages. Prove you’re the best employees in the universe!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5479850",
+      "title": "MORPHOKLASM",
+      "storeUrl": "https://store.steampowered.com/app/5479850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479850/39def244a1a48bf4cecae3af40e0902d790917a0/header.jpg?t=1794502841",
+      "officialDescription": "--- MORPHOKLASM: A NEW SURREAL BULLET HELL EXPERIENCE WITH UNIQUE HAND CRAFTED BOSS FIGHTS, BULLET PATTERNS, MECHANICS, SOUNDTRACKS, AND A HAUNTING SECRET ---"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5220530",
+      "title": "こんにちはにゃんこですよろしくお願いします",
+      "storeUrl": "https://store.steampowered.com/app/5220530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220530/0f9c3470759a67ef0ebcf8a8a62e4b253de03358/header_japanese.jpg?t=1794501685",
+      "officialDescription": "課金要素がまったくない無料デスクトップペット！猫アレルギーでも迎えられます！毎日やって来る個性あふれる98種の猫に、あなたのPCのウィンドウの上で会いましょう~"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4763980",
+      "title": "Your Sweet Little Kitty",
+      "storeUrl": "https://store.steampowered.com/app/4763980/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763980/b5197a0d016d1f383cdfe3a61f8d7b48f556b52a/header.jpg?t=1794500097",
+      "officialDescription": "あなたの作業を癒やしで見守る、かわいいデスクトップ猫！ 画面の端っこで、水分補給や休憩のタイミングをそっと教えてくれます。エサをあげて仲良くなれば、もっといろんな可愛い姿が見られちゃう！究極の「猫のしもべ（執事）」ライフ、始めてみませんか？"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5283320",
+      "title": "Quarantine Zombies - Prologue 2",
+      "storeUrl": "https://store.steampowered.com/app/5283320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283320/ae9f371d7ab616c69a4acbd3253044a68ff60f49/header.jpg?t=1794496605",
+      "officialDescription": "The prologue continues with new exclusive quests and a deadly dungeon. Survive the first 6 days in post-apocalyptic Chicago, where FPS action meets quarantine inspection. Repair your car and fight your way to the main checkpoint to save your younger brother. The army arrives in 30 days."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1794319233",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1793993292",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "ドワーフ",
+        "協力プレイ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "SF",
+        "マルチプレイヤー",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4973650:permanent_free:1",
+      "productId": "4973650",
+      "title": "SoulForge Legends",
+      "status": "sent",
+      "bufferPostId": "6af5fee5740fc9765f9eb414"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3587480:permanent_free:1",
+      "productId": "3587480",
+      "title": "Underpacked!",
+      "status": "sent",
+      "bufferPostId": "6af5fee75d62b98334bdb851"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5479850:permanent_free:1",
+      "productId": "5479850",
+      "title": "MORPHOKLASM",
+      "status": "sent",
+      "bufferPostId": "6af5fee90587f22eee0d0c03"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5220530:permanent_free:1",
+      "productId": "5220530",
+      "title": "こんにちはにゃんこですよろしくお願いします",
+      "status": "sent",
+      "bufferPostId": "6af5feec912fecb48ce321ee"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4763980:permanent_free:1",
+      "productId": "4763980",
+      "title": "Your Sweet Little Kitty",
+      "status": "sent",
+      "bufferPostId": "6af5feee912fecb48ce32298"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5283320:permanent_free:1",
+      "productId": "5283320",
+      "title": "Quarantine Zombies - Prologue 2",
+      "status": "sent",
+      "bufferPostId": "6af5feef912fecb48ce328b0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:949230:temporary_play:1",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "status": "sent",
+      "bufferPostId": "6af5fef1912fecb48ce329c6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2605790:temporary_play:1",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "status": "sent",
+      "bufferPostId": "6af5fef20587f22eee0d0f71"
+    }
+  ],
+  "errors": []
+}
