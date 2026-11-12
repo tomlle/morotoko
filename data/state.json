@@ -1854,6 +1854,14 @@
     "steam:5450430:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5450430:permanent_free:1"
+    },
+    "steam:5468140:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5468140:permanent_free:1"
+    },
+    "steam:4637430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4637430:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14921,7 +14929,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-12T03:01:09.307Z",
+      "lastSeenAt": "2026-11-12T06:01:04.893Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -14962,7 +14970,19 @@
         "postedAt": "2026-11-09T18:01:35.176Z"
       },
       "bufferPostId": "6af20a7d92fe87571f0cac72",
-      "postedAt": "2026-11-09T18:01:35.176Z"
+      "postedAt": "2026-11-09T18:01:35.176Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T06:01:08.706Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『For The King II』\n🎮 無料プレイは 11/13 03:00まで\n\n大人気を博したTRPG風のターン制ローグライト、『For The King』の続編が登場。Fahrulの残忍な女王に1人で立ち向かってもよし、4人パーティーで共闘してもよし。かつ…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/1676840/",
+        "attemptedAt": "2026-11-12T06:01:08.715Z",
+        "bufferPostId": "6af55624853b382e4d8616e9",
+        "submittedAt": "2026-11-12T06:01:10.170Z",
+        "postedAt": "2026-11-12T06:01:10.170Z"
+      },
+      "endingReminderBufferPostId": "6af55624853b382e4d8616e9",
+      "endingReminderPostedAt": "2026-11-12T06:01:10.170Z"
     },
     "steam:5391510:permanent_free:1": {
       "kind": "permanent_free",
@@ -16193,11 +16213,71 @@
       },
       "bufferPostId": "6af501cdcb4c7286fd007526",
       "postedAt": "2026-11-12T00:01:18.948Z"
+    },
+    "steam:5468140:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5468140:permanent_free:1",
+      "store": "steam",
+      "productId": "5468140",
+      "generation": 1,
+      "title": "Voxmons",
+      "storeUrl": "https://store.steampowered.com/app/5468140/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T06:01:04.893Z",
+      "lastSeenAt": "2026-11-12T06:01:04.893Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "のんびり楽しめるボクセルのクリーチャー収集ゲーム。187種のVoxmonをふ化・フュージョンし、4つの浮遊ワールドの守護者を解放しましょう。留守中もチームが自動でゴールドとジェムをファーム。スケートパークで記録に挑み、3Dアリーナで他のプレイヤーと対戦し、お宝はSteamコミュニティマーケットで取引できます。基本プレイ無料、広告なし。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T06:01:04.893Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Voxmons』\n✨ いつでも無料でプレイ\n\nのんびり楽しめるボクセルのクリーチャー収集ゲーム。187種のVoxmonをふ化・フュージョンし、4つの浮遊ワールドの守護者を解放しましょう。留守中もチームが自動でゴールドとジェムをファーム。スケー…\n\nhttps://store.steampowered.com/app/5468140/",
+        "attemptedAt": "2026-11-12T06:01:05.600Z",
+        "bufferPostId": "6af5562197798e85b9e73a7f",
+        "submittedAt": "2026-11-12T06:01:07.280Z",
+        "postedAt": "2026-11-12T06:01:07.280Z"
+      },
+      "bufferPostId": "6af5562197798e85b9e73a7f",
+      "postedAt": "2026-11-12T06:01:07.280Z"
+    },
+    "steam:4637430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4637430:permanent_free:1",
+      "store": "steam",
+      "productId": "4637430",
+      "generation": 1,
+      "title": "Everything Mart",
+      "storeUrl": "https://store.steampowered.com/app/4637430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T06:01:04.893Z",
+      "lastSeenAt": "2026-11-12T06:01:04.893Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Clock in, meet your productivity quota, and survive your shift. Divy up tasks with your coworkers... or at least make sure they are being useful as bait.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T06:01:04.893Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Everything Mart』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4637430/",
+        "attemptedAt": "2026-11-12T06:01:07.287Z",
+        "bufferPostId": "6af556239539b54d88228541",
+        "submittedAt": "2026-11-12T06:01:08.700Z",
+        "postedAt": "2026-11-12T06:01:08.700Z"
+      },
+      "bufferPostId": "6af556239539b54d88228541",
+      "postedAt": "2026-11-12T06:01:08.700Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-12T03:01:09.307Z",
+    "lastSuccessfulScanAt": "2026-11-12T06:01:04.893Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16347,6 +16427,7 @@
       "4631100": "2026-10-30T18:01:08.710Z",
       "4631420": "2026-10-28T00:01:10.872Z",
       "4632980": "2026-10-14T15:30:36.000Z",
+      "4637430": "2026-11-12T06:01:04.893Z",
       "4637710": "2026-11-06T06:01:16.414Z",
       "4643480": "2026-10-23T09:01:01.018Z",
       "4651700": "2026-10-27T21:01:04.552Z",
@@ -16747,6 +16828,7 @@
       "5465230": "2026-11-06T06:01:16.414Z",
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
+      "5468140": "2026-11-12T06:01:04.893Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5476640": "2026-11-11T21:01:10.292Z",
       "5478680": "2026-11-10T18:01:39.865Z",
