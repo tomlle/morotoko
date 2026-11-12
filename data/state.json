@@ -1846,6 +1846,14 @@
     "steam:5459270:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5459270:permanent_free:1"
+    },
+    "steam:5135440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5135440:permanent_free:1"
+    },
+    "steam:5450430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5450430:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14913,7 +14921,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-11T21:01:10.292Z",
+      "lastSeenAt": "2026-11-12T00:01:14.122Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16125,11 +16133,71 @@
       },
       "bufferPostId": "6af4d7992b84624b71500c07",
       "postedAt": "2026-11-11T21:01:14.462Z"
+    },
+    "steam:5135440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5135440:permanent_free:1",
+      "store": "steam",
+      "productId": "5135440",
+      "generation": 1,
+      "title": "デスクトップ・DPS：黄昏の遠征隊",
+      "storeUrl": "https://store.steampowered.com/app/5135440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T00:01:14.122Z",
+      "lastSeenAt": "2026-11-12T00:01:14.122Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "仕事中も勉強中も、画面の片隅でモンスターたちが自動で戦うデスクトップ放置RPG！ 個性豊かなモンスターを集めて自分だけのスクワッドを編成し、人間に奪われたダンジョンコアを取り戻そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T00:01:14.122Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『デスクトップ・DPS：黄昏の遠征隊』\n✨ いつでも無料でプレイ\n\n仕事中も勉強中も、画面の片隅でモンスターたちが自動で戦うデスクトップ放置RPG！ 個性豊かなモンスターを集めて自分だけのスクワッドを編成し、人間に奪われたダンジョンコ…\n\nhttps://store.steampowered.com/app/5135440/",
+        "attemptedAt": "2026-11-12T00:01:16.249Z",
+        "bufferPostId": "6af501cc304f8985c4728ece",
+        "submittedAt": "2026-11-12T00:01:17.704Z",
+        "postedAt": "2026-11-12T00:01:17.704Z"
+      },
+      "bufferPostId": "6af501cc304f8985c4728ece",
+      "postedAt": "2026-11-12T00:01:17.704Z"
+    },
+    "steam:5450430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5450430:permanent_free:1",
+      "store": "steam",
+      "productId": "5450430",
+      "generation": 1,
+      "title": "Hillbilly Yacht Club: Fishing",
+      "storeUrl": "https://store.steampowered.com/app/5450430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T00:01:14.122Z",
+      "lastSeenAt": "2026-11-12T00:01:14.122Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ヨットの正体は小舟、舵はホイールキャップ。魚はもっとおかしい。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T00:01:14.122Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Hillbilly Yacht Club: Fishing』\n✨ いつでも無料でプレイ\n\nヨットの正体は小舟、舵はホイールキャップ。魚はもっとおかしい。\n\nhttps://store.steampowered.com/app/5450430/",
+        "attemptedAt": "2026-11-12T00:01:17.712Z",
+        "bufferPostId": "6af501cdcb4c7286fd007526",
+        "submittedAt": "2026-11-12T00:01:18.948Z",
+        "postedAt": "2026-11-12T00:01:18.948Z"
+      },
+      "bufferPostId": "6af501cdcb4c7286fd007526",
+      "postedAt": "2026-11-12T00:01:18.948Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-11T21:01:10.292Z",
+    "lastSuccessfulScanAt": "2026-11-12T00:01:14.122Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16446,6 +16514,7 @@
       "5127780": "2026-10-22T09:00:56.350Z",
       "5128170": "2026-11-06T06:01:16.414Z",
       "5129250": "2026-10-14T15:30:36.000Z",
+      "5135440": "2026-11-12T00:01:14.122Z",
       "5135750": "2026-10-23T15:01:04.807Z",
       "5135810": "2026-11-03T12:01:08.952Z",
       "5136630": "2026-10-14T15:30:36.000Z",
@@ -16668,6 +16737,7 @@
       "5446260": "2026-11-10T15:01:08.654Z",
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
+      "5450430": "2026-11-12T00:01:14.122Z",
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
       "5459270": "2026-11-11T21:01:10.292Z",
