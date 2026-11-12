@@ -1874,6 +1874,14 @@
     "steam:4859520:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4859520:permanent_free:1"
+    },
+    "steam:5186400:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5186400:permanent_free:1"
+    },
+    "steam:4838950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4838950:permanent_free:1"
     }
   },
   "campaigns": {
@@ -14941,7 +14949,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-09T18:01:24.470Z",
-      "lastSeenAt": "2026-11-12T12:01:08.704Z",
+      "lastSeenAt": "2026-11-12T15:01:10.708Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16375,11 +16383,71 @@
       },
       "bufferPostId": "6af5aa854926d8280f0d2afb",
       "postedAt": "2026-11-12T12:01:11.124Z"
+    },
+    "steam:5186400:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5186400:permanent_free:1",
+      "store": "steam",
+      "productId": "5186400",
+      "generation": 1,
+      "title": "687 Days on Mars - First Steps",
+      "storeUrl": "https://store.steampowered.com/app/5186400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T15:01:10.708Z",
+      "lastSeenAt": "2026-11-12T15:01:10.708Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "火星に最初の一歩を踏み出し、赤い惑星でたった一人、生き残るという過酷な挑戦に立ち向かおう。最初のシェルターを建設し、生存に必要な資源を確保し、食料を育て、新たな技術を研究しながら、過酷な火星の大地を探索しよう。あなたのサバイバルは、ここから始まる。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T15:01:10.708Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『687 Days on Mars - First Steps』\n✨ いつでも無料でプレイ\n\n火星に最初の一歩を踏み出し、赤い惑星でたった一人、生き残るという過酷な挑戦に立ち向かおう。最初のシェルターを建設し、生存に必要な資源を確保し、食料を育て、新たな技術…\n\nhttps://store.steampowered.com/app/5186400/",
+        "attemptedAt": "2026-11-12T15:01:12.930Z",
+        "bufferPostId": "6af5d4b93b34f225ead79b4e",
+        "submittedAt": "2026-11-12T15:01:14.480Z",
+        "postedAt": "2026-11-12T15:01:14.480Z"
+      },
+      "bufferPostId": "6af5d4b93b34f225ead79b4e",
+      "postedAt": "2026-11-12T15:01:14.480Z"
+    },
+    "steam:4838950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4838950:permanent_free:1",
+      "store": "steam",
+      "productId": "4838950",
+      "generation": 1,
+      "title": "The Sky Breaker",
+      "storeUrl": "https://store.steampowered.com/app/4838950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-12T15:01:10.708Z",
+      "lastSeenAt": "2026-11-12T15:01:10.708Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A third-person hammer action game inspired by the Dangun myth of Gojoseon. Play as Jinhun, who lost his parents in the chaos caused by Cheonwuidan's opposition to the marriage of Ungnyeo and Hwanung, and embark on a journey of revenge.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-12T15:01:10.708Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Sky Breaker』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4838950/",
+        "attemptedAt": "2026-11-12T15:01:14.488Z",
+        "bufferPostId": "6af5d4ba31d8b91b5458990a",
+        "submittedAt": "2026-11-12T15:01:15.955Z",
+        "postedAt": "2026-11-12T15:01:15.955Z"
+      },
+      "bufferPostId": "6af5d4ba31d8b91b5458990a",
+      "postedAt": "2026-11-12T15:01:15.955Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-12T12:01:08.704Z",
+    "lastSuccessfulScanAt": "2026-11-12T15:01:10.708Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16570,6 +16638,7 @@
       "4813930": "2026-11-03T09:01:07.048Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4836460": "2026-10-28T15:01:16.098Z",
+      "4838950": "2026-11-12T15:01:10.708Z",
       "4843280": "2026-10-14T15:30:36.000Z",
       "4843460": "2026-11-06T06:01:16.414Z",
       "4843600": "2026-11-06T06:01:16.414Z",
@@ -16726,6 +16795,7 @@
       "5180840": "2026-10-14T15:30:36.000Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5186260": "2026-10-29T15:01:15.623Z",
+      "5186400": "2026-11-12T15:01:10.708Z",
       "5186550": "2026-10-14T15:30:36.000Z",
       "5188570": "2026-11-01T03:01:08.471Z",
       "5188720": "2026-10-28T12:01:11.239Z",
