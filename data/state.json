@@ -2029,6 +2029,10 @@
     "steam:5372270:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5372270:permanent_free:1"
+    },
+    "steam:5391940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5391940:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16783,7 +16787,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T18:01:06.687Z",
+      "lastSeenAt": "2026-11-13T21:01:06.833Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16838,7 +16842,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T18:01:06.687Z",
+      "lastSeenAt": "2026-11-13T21:01:06.833Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17750,11 +17754,41 @@
       },
       "bufferPostId": "6af7506e832266b7e906c2e5",
       "postedAt": "2026-11-13T18:01:19.246Z"
+    },
+    "steam:5391940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5391940:permanent_free:1",
+      "store": "steam",
+      "productId": "5391940",
+      "generation": 1,
+      "title": "Dub With Friends",
+      "storeUrl": "https://store.steampowered.com/app/5391940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T21:01:06.833Z",
+      "lastSeenAt": "2026-11-13T21:01:06.833Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Dub With Friends is an online party game where you and your friends dub video clips with your own voices. Pick a clip, record your lines, then watch the ridiculous results together. Discover and share new clips through the Steam Workshop.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T21:01:06.833Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dub With Friends』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5391940/",
+        "attemptedAt": "2026-11-13T21:01:07.705Z",
+        "bufferPostId": "6af77a9378196a0a971e2ab1",
+        "submittedAt": "2026-11-13T21:01:09.178Z",
+        "postedAt": "2026-11-13T21:01:09.178Z"
+      },
+      "bufferPostId": "6af77a9378196a0a971e2ab1",
+      "postedAt": "2026-11-13T21:01:09.178Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-13T18:01:06.687Z",
+    "lastSuccessfulScanAt": "2026-11-13T21:01:06.833Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -18303,6 +18337,7 @@
       "5391500": "2026-10-26T15:01:10.225Z",
       "5391510": "2026-11-09T21:01:13.739Z",
       "5391790": "2026-11-02T03:01:22.328Z",
+      "5391940": "2026-11-13T21:01:06.833Z",
       "5394530": "2026-10-23T09:01:01.018Z",
       "5396440": "2026-11-11T09:01:07.205Z",
       "5397330": "2026-10-28T15:01:16.098Z",
