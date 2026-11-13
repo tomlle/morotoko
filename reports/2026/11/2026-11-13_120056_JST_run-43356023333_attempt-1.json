@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43356023333",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T03:00:56.771Z",
+    "finishedAt": "2026-11-13T03:01:12.617Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43356023333"
+  },
+  "detection": {
+    "searched": 115,
+    "candidates": 19,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4435810",
+      "title": "焚天烈火之元素领主",
+      "storeUrl": "https://store.steampowered.com/app/4435810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435810/b9bca8a47bbdc31787138c7d22ca51547c033112/header.jpg?t=1794538314",
+      "officialDescription": "经典1:1原味复刻，战法道三职业重聚！⚔️ 踏入充满争夺与挑战的传奇世界，挑战强大 BOSS，收集装备，培养并肩作战的英雄，施展强大的英雄合击。集结行会伙伴征战沙城，争夺战场上的荣誉与资源。老情怀与新体验碰撞，焕新出发！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5412000",
+      "title": "Jibtik - جبتك",
+      "storeUrl": "https://store.steampowered.com/app/5412000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5412000/3b059568997f876e0f789e0b5765205ed2d7e66d/header.jpg?t=1794537991",
+      "officialDescription": "Play Solitaire. Move cards, undo a move, start a new deal, or check the in-game guide at your own pace. Then Explore DLCs. العب سوليتير بنظام سحب بطاقة واحدة. يمكنك نقل البطاقات، والتراجع عن خطوة، وبدء جولة جديدة، أو الرجوع إلى دليل اللعبة وبالسرعة التي تناسبك. ثم إستكشف الألعاب الأخرى."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4821590",
+      "title": "Solbreak Skirmish",
+      "storeUrl": "https://store.steampowered.com/app/4821590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821590/2fcc4518664a6d84dbedf8338d43a468dff8da96/header.jpg?t=1794538304",
+      "officialDescription": "Solbreak Skirmish is a fast-paced tactical 1v1 battle with RTS-like mechanics. Control your units, each with a unique ability, to help turn the tide of battle in your favor! With multiple win conditions, there's plenty of room for skill expression and creativity to take down your opponent."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4182680",
+      "title": "Dungeon Flop",
+      "storeUrl": "https://store.steampowered.com/app/4182680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182680/957ae37e14e5465e6195c8d2f92ef9a2ee9ef0f2/header.jpg?t=1794453122",
+      "officialDescription": "Recruit a squad, command real-time dungeon battles, and bring home the loot. Play solo or with friends, then use the included editors to create classes, items, abilities, enemies, and dungeons of your own. Build an adventure and share it with your group."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794506635",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4435810:permanent_free:1",
+      "productId": "4435810",
+      "title": "焚天烈火之元素领主",
+      "status": "sent",
+      "bufferPostId": "6af67d73c1a0010a5bf47090"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5412000:permanent_free:1",
+      "productId": "5412000",
+      "title": "Jibtik - جبتك",
+      "status": "sent",
+      "bufferPostId": "6af67d74e1d8eff610988865"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4821590:permanent_free:1",
+      "productId": "4821590",
+      "title": "Solbreak Skirmish",
+      "status": "sent",
+      "bufferPostId": "6af67d76ba218f3263748cf9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4182680:permanent_free:1",
+      "productId": "4182680",
+      "title": "Dungeon Flop",
+      "status": "sent",
+      "bufferPostId": "6af67d77c1a0010a5bf476f9"
+    }
+  ],
+  "errors": []
+}
