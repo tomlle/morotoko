@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43478377869",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T18:00:56.406Z",
+    "finishedAt": "2026-11-13T18:01:19.255Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43478377869"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 23,
+    "verified": 9,
+    "newPromotions": 7,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5418360",
+      "title": "Touch Grass, Pls!",
+      "storeUrl": "https://store.steampowered.com/app/5418360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5418360/706d7dd81b7434f1b57da7df23500c00eab92101/header.jpg?t=1794592814",
+      "officialDescription": "「外に出て草でも触ってこい」と言われたあなたへ。はい、草です。マウスで丘一面の草をなでて、花を摘み、ホタルを捕まえ、カエルから夜空のドラゴンまで、レアな訪問者を待ちましょう。丘をデスクトップのライブ壁紙にすることもできます。無料で、癒やされて、見事に非生産的。草は逃げません。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5434000",
+      "title": "Špatná noc",
+      "storeUrl": "https://store.steampowered.com/app/5434000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434000/06a42ead49b03d8e28a8544461e6ff329ca3d489/header.jpg?t=1794589330",
+      "officialDescription": "A very short horror game featuring a few choices. Experience an unusual evening with Peter, play several minigames, and find out if you will survive."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5376100",
+      "title": "Jinjja World: The Korean Learning MMO",
+      "storeUrl": "https://store.steampowered.com/app/5376100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5376100/60be9308bffecea99bf328a1c16a385353b9bee7/header.jpg?t=1794589317",
+      "officialDescription": "Jinjja World is a free online game for learning Korean. Practice your first sentences, audition with your own voice and take on Dokkaebi listening duels. Meet other Korea fans and make a home of your own. No prior knowledge needed."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4977070",
+      "title": "Legion Hunters",
+      "storeUrl": "https://store.steampowered.com/app/4977070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977070/7f38224272a905376ed32e4d14277382f833ea80/header.jpg?t=1794588848",
+      "officialDescription": "Lead a squad of 5-16 champions in a tactical Auto or Manual MMORPG. Build deep talent trees, gear up 200+ unique Champions across 11 races, optimize your strategic squad builds and dominate the global ranks!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5434650",
+      "title": "Rhythm of the Backwaters",
+      "storeUrl": "https://store.steampowered.com/app/5434650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434650/87a399e5422335ad4333e8d6110a1f5ae0890558/header.jpg?t=1794585785",
+      "officialDescription": "A short cozy building and management sim set in the sleepy waterways of Kerala, India. A once-mighty village boat club is being revived decades later. Design and build a race-worthy boat, manage the club and its funds through its comeback season."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4126400",
+      "title": "Rise Of Baihu",
+      "storeUrl": "https://store.steampowered.com/app/4126400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126400/fad6b70f0c55e24b81fe0d06e2809a9ba5de8759/header.jpg?t=1794584223",
+      "officialDescription": "You embody Baihu, a swift tiger. Before you lie the guardian lands, a magnificent landscape to explore at your leisure, filled with challenges. Your goal? Succeed in the trial of the gods to become one of the guardian beasts of the world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5372270",
+      "title": "Flux Fall",
+      "storeUrl": "https://store.steampowered.com/app/5372270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372270/afaedca5e4c6c8bc3608f6eb75078ede1e66bcfb/header.jpg?t=1794496139",
+      "officialDescription": "Idle pinball meets pachinko in Flux Fall. Drop balls through a glowing peg cascade, use your flippers to keep them in play, and hit ramps to build bigger chains and more coins. Level up every part of the board, upgrade your automation, and keep earning while you're away."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794569085",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5418360:permanent_free:1",
+      "productId": "5418360",
+      "title": "Touch Grass, Pls!",
+      "status": "sent",
+      "bufferPostId": "6af75064832266b7e906bbec"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5434000:permanent_free:1",
+      "productId": "5434000",
+      "title": "Špatná noc",
+      "status": "sent",
+      "bufferPostId": "6af75066ef65b221af10fcb1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5376100:permanent_free:1",
+      "productId": "5376100",
+      "title": "Jinjja World: The Korean Learning MMO",
+      "status": "sent",
+      "bufferPostId": "6af750675bbd7cc6dbc567a8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4977070:permanent_free:1",
+      "productId": "4977070",
+      "title": "Legion Hunters",
+      "status": "sent",
+      "bufferPostId": "6af75069357fdb912a6f2fab"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5434650:permanent_free:1",
+      "productId": "5434650",
+      "title": "Rhythm of the Backwaters",
+      "status": "sent",
+      "bufferPostId": "6af7506bef65b221af1100a7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4126400:permanent_free:1",
+      "productId": "4126400",
+      "title": "Rise Of Baihu",
+      "status": "sent",
+      "bufferPostId": "6af7506c357fdb912a6f3189"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5372270:permanent_free:1",
+      "productId": "5372270",
+      "title": "Flux Fall",
+      "status": "sent",
+      "bufferPostId": "6af7506e832266b7e906c2e5"
+    }
+  ],
+  "errors": []
+}
