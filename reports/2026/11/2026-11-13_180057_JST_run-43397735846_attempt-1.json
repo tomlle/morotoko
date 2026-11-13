@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43397735846",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T09:00:57.473Z",
+    "finishedAt": "2026-11-13T09:01:15.795Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43397735846"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 21,
+    "verified": 7,
+    "newPromotions": 5,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5094790",
+      "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
+      "storeUrl": "https://store.steampowered.com/app/5094790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094790/180a49cf6ff5fc3c4f02070e4859a71eaafbc8f8/header.jpg?t=1794560361",
+      "officialDescription": "QUTAS67は2067年を舞台にしたクリッカーゲーム。クリックとマネージャーの雇用で犯罪帝国を築き、次々と大きな建物を襲おう。最終目標は、延期され続けた伝説のゲームをついに「発売」すること！ 6️⃣7️⃣"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4911480",
+      "title": "Playworlds",
+      "storeUrl": "https://store.steampowered.com/app/4911480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911480/549b741a174608da1aef6a2c05e84f3146c827be/header.jpg?t=1794559145",
+      "officialDescription": "An AI roleplaying adventure shaped by you. Create a character, explore worlds with an AI game master."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5173540",
+      "title": "热血挂机",
+      "storeUrl": "https://store.steampowered.com/app/5173540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173540/8fcc24f124906ac78f5ef1e39c9e794df193b27b/header.jpg?t=1794556776",
+      "officialDescription": "A retro pixel desktop idle RPG. Warrior, Mage, and Taoist. Auto-combat, offline gains, and it can hide on your desktop."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5501320",
+      "title": "Asian Story",
+      "storeUrl": "https://store.steampowered.com/app/5501320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5501320/5f3537112f52cb39fd4566f27c8f2a83d8d40924/header.jpg?t=1794554680",
+      "officialDescription": "Help a floating island restore life in VR"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4833750",
+      "title": "仙途有约",
+      "storeUrl": "https://store.steampowered.com/app/4833750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833750/cb4fa265545fcc93d89f474a2c43ddccda5b45be/header.jpg?t=1794554619",
+      "officialDescription": "<仙途有约>是一款MMORPG动作仙侠游戏巨作，游戏拥有唯美的场景，精良的画面，悠长的故事，难尽的情缘。海市楼台，雾漫灵山，完美诠释国风神韵。宏大背景，曲折剧情，凄美再现仙侠长歌。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794506635",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5094790:permanent_free:1",
+      "productId": "5094790",
+      "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
+      "status": "sent",
+      "bufferPostId": "6af6d1d56da77f9a4688adeb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4911480:permanent_free:1",
+      "productId": "4911480",
+      "title": "Playworlds",
+      "status": "sent",
+      "bufferPostId": "6af6d1d64b6fe5c4b6dbe4e0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5173540:permanent_free:1",
+      "productId": "5173540",
+      "title": "热血挂机",
+      "status": "sent",
+      "bufferPostId": "6af6d1d8e99967e2bfd7ef13"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5501320:permanent_free:1",
+      "productId": "5501320",
+      "title": "Asian Story",
+      "status": "sent",
+      "bufferPostId": "6af6d1d96d858908964e56d3"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4833750:permanent_free:1",
+      "productId": "4833750",
+      "title": "仙途有约",
+      "status": "sent",
+      "bufferPostId": "6af6d1dae99967e2bfd7f07c"
+    }
+  ],
+  "errors": []
+}
