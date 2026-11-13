@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43448235405",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T15:01:16.392Z",
+    "finishedAt": "2026-11-13T15:01:32.448Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43448235405"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 22,
+    "verified": 8,
+    "newPromotions": 6,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5011370",
+      "title": "Lowbar Legends",
+      "storeUrl": "https://store.steampowered.com/app/5011370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011370/101958b959ed141ad7898c9cc8401bc8d9ab0c61/header.jpg?t=1794582010",
+      "officialDescription": "Windowsのタスクバーの上に住むアイドルMMO。仕事の合間に、クランと一緒に伐採し、精錬し、討伐し、レイドしよう。拾ったアイテムはすべてSteamコミュニティマーケットで取引可能·装備、鍵、チェスト、ペットまで。基本プレイ無料。広告なし、スタミナなし、サブスクなし。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5294230",
+      "title": "鬼ドット Onidot",
+      "storeUrl": "https://store.steampowered.com/app/5294230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294230/b3dd9c8a635321aeeb33235b3df9de89aeb53881/header.jpg?t=1794580880",
+      "officialDescription": "ひとりでも、最大20人でも。シンプルな見下ろし型鬼ごっこ！ミッションでアイテムを獲得し、狭い視界と足音を頼りに鬼から逃げ切れ！「逃走者」かあるいは「追跡者（鬼）」か、好きな陣営が選べるぞ！友達と同じ部屋に集まって遊ぶモードや、知らない人と対戦するランダムマッチも搭載！オフラインではNPCを相手にした対戦や、クリア条件の達成を目指すステージチャレンジが遊べる！さらにマップ作成機能、キャラクターカスタマイズ機能なども充実！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5463830",
+      "title": "StarsPartyNext",
+      "storeUrl": "https://store.steampowered.com/app/5463830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463830/7395915f24ed37302e0c957d87dbf36a3247d702/header_japanese.jpg?t=1794580304",
+      "officialDescription": "ダッシュとコンボで爽快にプレイできる、面クリア型2Dアクション。 星の力を使いこなす、カッコ可愛い少年・スピカを操作して、 次々に現れるモンスターを撃退しましょう！ アクションゲームツクールGで制作。 ８方向ダッシュと多才なスキルで気持ちよくプレイ可能。１プレイは比較的短めで、難易度選択も可能。 初心者から上級者まで、タイムやスコアアタックなど幅広い遊び方にも対応しています。 主人公スピカの魅力あふれるアクション・リアクションも注目ポイント！ 全36ステージあり、繰り返し遊べます。 (EASY3ステージ、NORMAL・HARD各4ステージ×4ルート＋最終ステージ）"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5485060",
+      "title": "PAWHOLD: Idle Desktop Cat Space Game",
+      "storeUrl": "https://store.steampowered.com/app/5485060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485060/d93f6d862fbb5aee209006d0792c6cee6207fa39/header.jpg?t=1794577167",
+      "officialDescription": "どこか遠くで、AIが人類を征服するための世界と敵を生み出し続けている。迎え撃つのは、あなたのネコたち。仕事中、画面の下にずっといてくれる放置系ドット絵スクワッドシューター。4匹のネコ・コマンドーが戦い、あなたはクリックで援護。賞金を預けて、クルーを強化しよう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4086230",
+      "title": "Wellspring OLC",
+      "storeUrl": "https://store.steampowered.com/app/4086230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086230/d8e96405a44194ac0143d468356061ab9daaa2da/header.jpg?t=1794575523",
+      "officialDescription": "A deep, simulation-heavy RPG with a complete campaign, persistent online worlds, and no-code world creation. Play the campaign solo or with friends, build your own worlds, and let anyone join them for free."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5054440",
+      "title": "Custimity",
+      "storeUrl": "https://store.steampowered.com/app/5054440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054440/91b942e9b4988b186c94b398e38c0e85933723f1/header.jpg?t=1794575242",
+      "officialDescription": "基本プレイ無料のオンラインアリーナ型アクションRPG。PvEウェーブを突破し、PvPで戦い、スキルとアイテムでビルドを組もう。戦闘の合間にはライバルの勝負にベット——ビルドを読み、直感を信じ、的中をゴールドに変えろ。生き残り、出し抜き、ランクを上げろ。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794569085",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5011370:permanent_free:1",
+      "productId": "5011370",
+      "title": "Lowbar Legends",
+      "status": "sent",
+      "bufferPostId": "6af72643bc4abf9aec220890"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5294230:permanent_free:1",
+      "productId": "5294230",
+      "title": "鬼ドット Onidot",
+      "status": "sent",
+      "bufferPostId": "6af72645d9925e036e3e11cd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5463830:permanent_free:1",
+      "productId": "5463830",
+      "title": "StarsPartyNext",
+      "status": "sent",
+      "bufferPostId": "6af72646bc4abf9aec220a42"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5485060:permanent_free:1",
+      "productId": "5485060",
+      "title": "PAWHOLD: Idle Desktop Cat Space Game",
+      "status": "sent",
+      "bufferPostId": "6af726482c8334b3896befe0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4086230:permanent_free:1",
+      "productId": "4086230",
+      "title": "Wellspring OLC",
+      "status": "sent",
+      "bufferPostId": "6af7264988f57d6580d10988"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5054440:permanent_free:1",
+      "productId": "5054440",
+      "title": "Custimity",
+      "status": "sent",
+      "bufferPostId": "6af7264b5d42e353d9995b87"
+    }
+  ],
+  "errors": []
+}
