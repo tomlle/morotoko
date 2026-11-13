@@ -1921,6 +1921,14 @@
     "steam:5249380:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5249380:permanent_free:1"
+    },
+    "steam:5496510:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5496510:permanent_free:1"
+    },
+    "steam:4437290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4437290:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16675,7 +16683,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-12T21:01:09.146Z",
+      "lastSeenAt": "2026-11-13T00:01:07.533Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16730,7 +16738,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-12T21:01:09.146Z",
+      "lastSeenAt": "2026-11-13T00:01:07.533Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16832,11 +16840,71 @@
       },
       "bufferPostId": "6af629177d05892ccea86b79",
       "postedAt": "2026-11-12T21:01:12.606Z"
+    },
+    "steam:5496510:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5496510:permanent_free:1",
+      "store": "steam",
+      "productId": "5496510",
+      "generation": 1,
+      "title": "GOALTURN",
+      "storeUrl": "https://store.steampowered.com/app/5496510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T00:01:07.533Z",
+      "lastSeenAt": "2026-11-13T00:01:07.533Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Goalturnはターン制のサッカーカードゲームです。手描きの11対11のピッチでパス、ドリブル、シュートを繰り出し、戦術カードを使い、6つのプレースタイルから1つを選び、250人以上の選手を集めましょう。リスクのある行動は、決める前に成功率が表示されます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T00:01:07.533Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GOALTURN』\n✨ いつでも無料でプレイ\n\nGoalturnはターン制のサッカーカードゲームです。手描きの11対11のピッチでパス、ドリブル、シュートを繰り出し、戦術カードを使い、6つのプレースタイルから1つを選び、250人以上の選手を集めましょ…\n\nhttps://store.steampowered.com/app/5496510/",
+        "attemptedAt": "2026-11-13T00:01:08.552Z",
+        "bufferPostId": "6af65344e1d8eff6108c93cd",
+        "submittedAt": "2026-11-13T00:01:10.341Z",
+        "postedAt": "2026-11-13T00:01:10.341Z"
+      },
+      "bufferPostId": "6af65344e1d8eff6108c93cd",
+      "postedAt": "2026-11-13T00:01:10.341Z"
+    },
+    "steam:4437290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4437290:permanent_free:1",
+      "store": "steam",
+      "productId": "4437290",
+      "generation": 1,
+      "title": "Lorenium Orbit",
+      "storeUrl": "https://store.steampowered.com/app/4437290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T00:01:07.533Z",
+      "lastSeenAt": "2026-11-13T00:01:07.533Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Lorenium Orbit is a fast-paced 2D team-based space combat arena where players pilot specialized warships, customize loadouts, and battle in tactical 7v7 matches. Master momentum-based flight, precision aiming, and coordinated fleet strategy to dominate orbit.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T00:01:07.533Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Lorenium Orbit』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4437290/",
+        "attemptedAt": "2026-11-13T00:01:10.347Z",
+        "bufferPostId": "6af65346c1a0010a5be8abe9",
+        "submittedAt": "2026-11-13T00:01:11.672Z",
+        "postedAt": "2026-11-13T00:01:11.672Z"
+      },
+      "bufferPostId": "6af65346c1a0010a5be8abe9",
+      "postedAt": "2026-11-13T00:01:11.672Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-12T21:01:09.146Z",
+    "lastSuccessfulScanAt": "2026-11-13T00:01:07.533Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -16958,6 +17026,7 @@
       "4431860": "2026-11-03T15:01:11.045Z",
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
+      "4437290": "2026-11-13T00:01:07.533Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4450900": "2026-11-03T21:01:10.649Z",
       "4452480": "2026-11-03T06:01:07.148Z",
@@ -17406,6 +17475,7 @@
       "5479850": "2026-11-12T18:01:08.650Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5490870": "2026-11-08T06:01:05.672Z",
+      "5496510": "2026-11-13T00:01:07.533Z",
       "5498810": "2026-11-09T12:01:11.937Z",
       "5502850": "2026-11-11T15:01:08.794Z"
     }

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43333552160",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T00:00:58.001Z",
+    "finishedAt": "2026-11-13T00:01:11.689Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43333552160"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 17,
+    "verified": 4,
+    "newPromotions": 2,
+    "knownPromotions": 2,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5496510",
+      "title": "GOALTURN",
+      "storeUrl": "https://store.steampowered.com/app/5496510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5496510/5408478aa6fabb5fc21208125738e7e7d3ad156f/header.jpg?t=1794526710",
+      "officialDescription": "Goalturnはターン制のサッカーカードゲームです。手描きの11対11のピッチでパス、ドリブル、シュートを繰り出し、戦術カードを使い、6つのプレースタイルから1つを選び、250人以上の選手を集めましょう。リスクのある行動は、決める前に成功率が表示されます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4437290",
+      "title": "Lorenium Orbit",
+      "storeUrl": "https://store.steampowered.com/app/4437290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437290/a6d315765a53913bd68141574091f2664de48fdc/header.jpg?t=1794524311",
+      "officialDescription": "Lorenium Orbit is a fast-paced 2D team-based space combat arena where players pilot specialized warships, customize loadouts, and battle in tactical 7v7 matches. Master momentum-based flight, precision aiming, and coordinated fleet strategy to dominate orbit."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794506635",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5496510:permanent_free:1",
+      "productId": "5496510",
+      "title": "GOALTURN",
+      "status": "sent",
+      "bufferPostId": "6af65344e1d8eff6108c93cd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4437290:permanent_free:1",
+      "productId": "4437290",
+      "title": "Lorenium Orbit",
+      "status": "sent",
+      "bufferPostId": "6af65346c1a0010a5be8abe9"
+    }
+  ],
+  "errors": []
+}
