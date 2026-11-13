@@ -1945,6 +1945,10 @@
     "steam:4182680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4182680:permanent_free:1"
+    },
+    "steam:5205880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5205880:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16699,7 +16703,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T03:01:05.989Z",
+      "lastSeenAt": "2026-11-13T06:01:03.560Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16754,7 +16758,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T03:01:05.989Z",
+      "lastSeenAt": "2026-11-13T06:01:03.560Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17036,11 +17040,41 @@
       },
       "bufferPostId": "6af67d77c1a0010a5bf476f9",
       "postedAt": "2026-11-13T03:01:12.520Z"
+    },
+    "steam:5205880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5205880:permanent_free:1",
+      "store": "steam",
+      "productId": "5205880",
+      "generation": 1,
+      "title": "Undealt",
+      "storeUrl": "https://store.steampowered.com/app/5205880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T06:01:03.560Z",
+      "lastSeenAt": "2026-11-13T06:01:03.560Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Undealtは画面の片隅で暮らす放置系RPG。仕事中や別のゲームを遊んでいる間も、4人の英雄が自動で戦います。戻ったら戦利品を装備し、鍛冶で強化し、スキルを習得。戦いのルールを書き換えるカードを集めましょう。無料でプレイできます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T06:01:03.560Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Undealt』\n✨ いつでも無料でプレイ\n\nUndealtは画面の片隅で暮らす放置系RPG。仕事中や別のゲームを遊んでいる間も、4人の英雄が自動で戦います。戻ったら戦利品を装備し、鍛冶で強化し、スキルを習得。戦いのルールを書き換えるカードを集…\n\nhttps://store.steampowered.com/app/5205880/",
+        "attemptedAt": "2026-11-13T06:01:04.766Z",
+        "bufferPostId": "6af6a7a05ec1c9d5be6233b6",
+        "submittedAt": "2026-11-13T06:01:06.205Z",
+        "postedAt": "2026-11-13T06:01:06.205Z"
+      },
+      "bufferPostId": "6af6a7a05ec1c9d5be6233b6",
+      "postedAt": "2026-11-13T06:01:06.205Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-13T03:01:05.989Z",
+    "lastSuccessfulScanAt": "2026-11-13T06:01:03.560Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -17408,6 +17442,7 @@
       "5198690": "2026-10-25T18:01:03.590Z",
       "5198770": "2026-11-11T18:01:09.437Z",
       "5199830": "2026-10-16T15:01:11.993Z",
+      "5205880": "2026-11-13T06:01:03.560Z",
       "5206450": "2026-10-14T15:30:36.000Z",
       "5209250": "2026-10-25T09:01:01.104Z",
       "5210050": "2026-10-14T15:30:36.000Z",

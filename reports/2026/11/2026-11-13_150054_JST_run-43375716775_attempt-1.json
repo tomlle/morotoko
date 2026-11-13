@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43375716775",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-13T06:00:54.044Z",
+    "finishedAt": "2026-11-13T06:01:06.216Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43375716775"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 17,
+    "verified": 3,
+    "newPromotions": 1,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5205880",
+      "title": "Undealt",
+      "storeUrl": "https://store.steampowered.com/app/5205880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5205880/f2a0603edd09251507938ea286c5a484820929e1/header.jpg?t=1794538913",
+      "officialDescription": "Undealtは画面の片隅で暮らす放置系RPG。仕事中や別のゲームを遊んでいる間も、4人の英雄が自動で戦います。戻ったら戦利品を装備し、鍛冶で強化し、スキルを習得。戦いのルールを書き換えるカードを集めましょう。無料でプレイできます。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794506635",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5205880:permanent_free:1",
+      "productId": "5205880",
+      "title": "Undealt",
+      "status": "sent",
+      "bufferPostId": "6af6a7a05ec1c9d5be6233b6"
+    }
+  ],
+  "errors": []
+}
