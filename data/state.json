@@ -1969,6 +1969,14 @@
     "steam:4833750:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4833750:permanent_free:1"
+    },
+    "steam:5379860:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5379860:permanent_free:1"
+    },
+    "steam:5093040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5093040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16723,7 +16731,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T09:01:08.396Z",
+      "lastSeenAt": "2026-11-13T12:01:06.895Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16778,7 +16786,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T09:01:08.396Z",
+      "lastSeenAt": "2026-11-13T12:01:06.895Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17240,11 +17248,71 @@
       },
       "bufferPostId": "6af6d1dae99967e2bfd7f07c",
       "postedAt": "2026-11-13T09:01:15.779Z"
+    },
+    "steam:5379860:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5379860:permanent_free:1",
+      "store": "steam",
+      "productId": "5379860",
+      "generation": 1,
+      "title": "迷宮の残響",
+      "storeUrl": "https://store.steampowered.com/app/5379860/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T12:01:06.895Z",
+      "lastSeenAt": "2026-11-13T12:01:06.895Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "この療養院には、あなたが忘れたことを知っている人がいる。『Maze Echo』は、現実と鏡の世界を調べ、失われた記憶をたどるサイコロジカルホラー・ビジュアルノベル。記録と証言の食い違いを探し、誰を信じるかを選んでください。理性・猜疑心・洞察によって、一部の選択肢も変わります。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T12:01:06.895Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『迷宮の残響』\n✨ いつでも無料でプレイ\n\nこの療養院には、あなたが忘れたことを知っている人がいる。『Maze Echo』は、現実と鏡の世界を調べ、失われた記憶をたどるサイコロジカルホラー・ビジュアルノベル。記録と証言の食い違いを探し、…\n\nhttps://store.steampowered.com/app/5379860/",
+        "attemptedAt": "2026-11-13T12:01:08.300Z",
+        "bufferPostId": "6af6fc04bd1182b0d3efa002",
+        "submittedAt": "2026-11-13T12:01:10.084Z",
+        "postedAt": "2026-11-13T12:01:10.084Z"
+      },
+      "bufferPostId": "6af6fc04bd1182b0d3efa002",
+      "postedAt": "2026-11-13T12:01:10.084Z"
+    },
+    "steam:5093040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5093040:permanent_free:1",
+      "store": "steam",
+      "productId": "5093040",
+      "generation": 1,
+      "title": "星の足跡",
+      "storeUrl": "https://store.steampowered.com/app/5093040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-13T12:01:06.895Z",
+      "lastSeenAt": "2026-11-13T12:01:06.895Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『星の足跡』は、王道日系ファンタジーを題材としたリアルタイムバトル RPG です。古びた星穹の伝説に包まれた広大な大陸には、失われた星裔文明の遺跡と、天地の元素から生まれた不思議な生き物「星霊」が点在しています。あなたは自由な旅人として旅路を歩み出し、性格の異なる仲間たちと共に王都・城邦・晶霜の雪原・浮空の秘境・砂漠の古墳を巡ります。王国勢力の角力と古代の秘め事の中で、星穹の下に封じられた真実を一歩ずつ解き明かしていきましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-13T12:01:06.895Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『星の足跡』\n✨ いつでも無料でプレイ\n\n『星の足跡』は、王道日系ファンタジーを題材としたリアルタイムバトル RPG です。古びた星穹の伝説に包まれた広大な大陸には、失われた星裔文明の遺跡と、天地の元素から生まれた不思議な生き物「星…\n\nhttps://store.steampowered.com/app/5093040/",
+        "attemptedAt": "2026-11-13T12:01:10.092Z",
+        "bufferPostId": "6af6fc067828e7ae1b0981a7",
+        "submittedAt": "2026-11-13T12:01:11.588Z",
+        "postedAt": "2026-11-13T12:01:11.588Z"
+      },
+      "bufferPostId": "6af6fc067828e7ae1b0981a7",
+      "postedAt": "2026-11-13T12:01:11.588Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-13T09:01:08.396Z",
+    "lastSuccessfulScanAt": "2026-11-13T12:01:06.895Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -17555,6 +17623,7 @@
       "5089050": "2026-10-28T21:01:20.934Z",
       "5089680": "2026-11-09T21:01:13.739Z",
       "5090350": "2026-10-14T18:01:12.359Z",
+      "5093040": "2026-11-13T12:01:06.895Z",
       "5094790": "2026-11-13T09:01:08.396Z",
       "5095690": "2026-10-29T18:01:09.856Z",
       "5099990": "2026-10-14T15:30:36.000Z",
@@ -17768,6 +17837,7 @@
       "5377010": "2026-10-27T12:01:11.410Z",
       "5377440": "2026-11-02T06:01:05.538Z",
       "5377530": "2026-10-27T18:01:06.530Z",
+      "5379860": "2026-11-13T12:01:06.895Z",
       "5380340": "2026-10-29T09:01:05.116Z",
       "5380390": "2026-11-07T12:38:12.800Z",
       "5382010": "2026-11-06T06:01:16.414Z",
