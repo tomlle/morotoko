@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43592686936",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-14T12:00:56.809Z",
+    "finishedAt": "2026-11-14T12:01:14.524Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43592686936"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5421960",
+      "title": "The Friendly Monster",
+      "storeUrl": "https://store.steampowered.com/app/5421960/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421960/b8bf29af561774b8cc5aaf25b60da7fd6c818a1d/header.jpg?t=1794657136",
+      "officialDescription": "Search for your missing dad in a mysterious horror adventure. Build a portal, step into the unknown, and discover what lies beyond. But be careful... you never know what might be waiting on the other side. Can you find him?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2365370",
+      "title": "Dodge Mayhem",
+      "storeUrl": "https://store.steampowered.com/app/2365370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365370/d8829ef9dbbd830bd94f41b3aeaea863bb6409b6/header.jpg?t=1794654627",
+      "officialDescription": "A fast-paced top-down endless fighting game that turns it into an all-out arena fight, dodge , grab and throw your balls against waves of enemies."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4802670",
+      "title": "The Fly's Fantastic Adventure",
+      "storeUrl": "https://store.steampowered.com/app/4802670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802670/a948be293c65c56a32662bca8cf28757b894f7a4/header.jpg?t=1794649330",
+      "officialDescription": "The Fly’s Fantastic Adventure is a 2D run-and-gun platformer about an innocent little fly who finds a weapon shaped like a fruit fly and sets out to defeat the spider that has always been chasing him."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5435270",
+      "title": "Holtmezo",
+      "storeUrl": "https://store.steampowered.com/app/5435270/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435270/aaedb107b3454d607cc0ab8fba7544bc536f088b/header.jpg?t=1794648422",
+      "officialDescription": "The villagers were conducting an experiment, but it went wrong and they were transformed into monsters. You are a soldier and must clear the village of monsters."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5421960:permanent_free:1",
+      "productId": "5421960",
+      "title": "The Friendly Monster",
+      "status": "sent",
+      "bufferPostId": "6af84d83d16af15d4d11ef16"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2365370:permanent_free:1",
+      "productId": "2365370",
+      "title": "Dodge Mayhem",
+      "status": "sent",
+      "bufferPostId": "6af84d85bb36d009090a688b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4802670:permanent_free:1",
+      "productId": "4802670",
+      "title": "The Fly's Fantastic Adventure",
+      "status": "sent",
+      "bufferPostId": "6af84d86d8bd2962e4297435"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5435270:permanent_free:1",
+      "productId": "5435270",
+      "title": "Holtmezo",
+      "status": "sent",
+      "bufferPostId": "6af84d88d16af15d4d11f54c"
+    }
+  ],
+  "errors": []
+}
