@@ -2033,6 +2033,14 @@
     "steam:5391940:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5391940:permanent_free:1"
+    },
+    "steam:5348940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5348940:permanent_free:1"
+    },
+    "steam:4927770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4927770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16787,7 +16795,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T21:01:06.833Z",
+      "lastSeenAt": "2026-11-14T00:01:17.704Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16842,7 +16850,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-13T21:01:06.833Z",
+      "lastSeenAt": "2026-11-14T00:01:17.704Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17784,11 +17792,71 @@
       },
       "bufferPostId": "6af77a9378196a0a971e2ab1",
       "postedAt": "2026-11-13T21:01:09.178Z"
+    },
+    "steam:5348940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5348940:permanent_free:1",
+      "store": "steam",
+      "productId": "5348940",
+      "generation": 1,
+      "title": "Exo7",
+      "storeUrl": "https://store.steampowered.com/app/5348940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-14T00:01:17.704Z",
+      "lastSeenAt": "2026-11-14T00:01:17.704Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build your interstellar empire in Exo7! Colonize new worlds, extract Metal, Silicium, Tridioxid, and Antimatter, build mighty fleets, and explore hyperspace. Choose your faction, conquer raids and bounty hunts, and dominate Sector 7!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-14T00:01:17.704Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Exo7』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5348940/",
+        "attemptedAt": "2026-11-14T00:01:18.609Z",
+        "bufferPostId": "6af7a4ce4b28296eb122fdf6",
+        "submittedAt": "2026-11-14T00:01:20.088Z",
+        "postedAt": "2026-11-14T00:01:20.088Z"
+      },
+      "bufferPostId": "6af7a4ce4b28296eb122fdf6",
+      "postedAt": "2026-11-14T00:01:20.088Z"
+    },
+    "steam:4927770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4927770:permanent_free:1",
+      "store": "steam",
+      "productId": "4927770",
+      "generation": 1,
+      "title": "The Joust Autochess",
+      "storeUrl": "https://store.steampowered.com/app/4927770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-14T00:01:17.704Z",
+      "lastSeenAt": "2026-11-14T00:01:17.704Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The Joust Autochess allows you to see your favorite zany physics brawlers in an environment like you've never seen them before... tactical autochess combat! Combine like cards to upgrade your forces! Strategize with items to find the perfect build!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-14T00:01:17.704Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Joust Autochess』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4927770/",
+        "attemptedAt": "2026-11-14T00:01:20.094Z",
+        "bufferPostId": "6af7a4d09257ce33981c62c8",
+        "submittedAt": "2026-11-14T00:01:21.529Z",
+        "postedAt": "2026-11-14T00:01:21.529Z"
+      },
+      "bufferPostId": "6af7a4d09257ce33981c62c8",
+      "postedAt": "2026-11-14T00:01:21.529Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-13T21:01:06.833Z",
+    "lastSuccessfulScanAt": "2026-11-14T00:01:17.704Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -18026,6 +18094,7 @@
       "4914750": "2026-11-06T06:01:16.414Z",
       "4921720": "2026-11-06T09:01:10.595Z",
       "4926310": "2026-10-26T18:01:07.648Z",
+      "4927770": "2026-11-14T00:01:17.704Z",
       "4929010": "2026-10-24T18:01:06.791Z",
       "4930500": "2026-10-16T03:01:04.575Z",
       "4931230": "2026-10-16T18:01:10.079Z",
@@ -18290,6 +18359,7 @@
       "5342780": "2026-11-09T09:01:07.965Z",
       "5343970": "2026-10-16T09:01:06.129Z",
       "5345030": "2026-10-18T09:00:58.727Z",
+      "5348940": "2026-11-14T00:01:17.704Z",
       "5349900": "2026-11-06T12:01:14.375Z",
       "5349960": "2026-10-30T06:01:06.346Z",
       "5351540": "2026-10-31T06:01:01.191Z",
