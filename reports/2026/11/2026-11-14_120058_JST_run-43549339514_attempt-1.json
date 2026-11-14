@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43549339514",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-14T03:00:58.697Z",
+    "finishedAt": "2026-11-14T03:01:21.847Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43549339514"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 23,
+    "verified": 9,
+    "newPromotions": 7,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4369110",
+      "title": "デモンズゲート with サバゲでGo!",
+      "storeUrl": "https://store.steampowered.com/app/4369110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369110/7fbd253891a20ca5978cece900c22b77ac50a47d/header_japanese.jpg?t=1794624558",
+      "officialDescription": "DGシリーズ1作目 + サバゲーシミュレーション。 キャラクター育成を楽しんでください。 100以上のキャラクター保持枠。50以上のステージ。 派遣システムでの自動進行も可能。 `tactical role‑playing game (tactical RPG)` `Japanese turn‑based tactical RPG series` +`Real time - survival game simulation Battle`"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5264330",
+      "title": "VibeMarket",
+      "storeUrl": "https://store.steampowered.com/app/5264330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5264330/e2ffddb5cd8d569cfda4beabfcf703127d23e208/header.jpg?t=1794621312",
+      "officialDescription": "究極のコレクタソン。誰かが作ったものなら、何でも集められる。すべてのパックは誰かのアートで、引いたカードはすべてピクセルのViberになってあなたの部屋にやってくる。ブースターパックを作って、開けて、トレード。報酬はNuggetで！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5502460",
+      "title": "Doomfield:The Maze",
+      "storeUrl": "https://store.steampowered.com/app/5502460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5502460/c8e469624d7e89d63a6792d6c7d4a47d2ffa0677/header.jpg?t=1794618494",
+      "officialDescription": "Doomfield: The Maze is a single-player horror minigame where you explore a cornfield maze to find your missing dog while evading two deadly virus entities. Venture off the main path to discover hidden areas where the digital memory grows increasingly distorted."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4706390",
+      "title": "Adventures Online",
+      "storeUrl": "https://store.steampowered.com/app/4706390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706390/2b0c75d20efeb28aab4e7eaeaa9904024dfa3674/header.jpg?t=1794620161",
+      "officialDescription": "Tactical hex-grid fantasy RPG meets persistent multiplayer world. Six races, six classes, deep crafting, real-time exploration with shared or solo player shards. Free to play, free forever. No pay-to-win, ever."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5282510",
+      "title": "Shadow Realms RPG",
+      "storeUrl": "https://store.steampowered.com/app/5282510/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282510/29b55ac4e0ac5ff27139bec2bf0ffb8d9a1ca43b/header.jpg?t=1794615325",
+      "officialDescription": "A free dark-fantasy idle RPG that keeps fighting in a strip above your taskbar while you work. One persistent world on Steam, web and Android with a single account: loot, world bosses, the endless Eternal, clan wars. No energy walls. Power is never for sale."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4578590",
+      "title": "BagoLand",
+      "storeUrl": "https://store.steampowered.com/app/4578590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578590/0341d86bd3d20e3f84d447e7413494da3169b865/header.jpg?t=1794614495",
+      "officialDescription": "Bagoland is a unique community sandbox in Unreal Engine 5. Explore and roam the world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5423320",
+      "title": "疯狂世界超变",
+      "storeUrl": "https://store.steampowered.com/app/5423320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423320/4b13e1acb3352b3e0ff29ece950d6aabf7047d62/header.jpg?t=1794542578",
+      "officialDescription": "无套路! 无强制消费! 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4369110:permanent_free:1",
+      "productId": "4369110",
+      "title": "デモンズゲート with サバゲでGo!",
+      "status": "sent",
+      "bufferPostId": "6af7cef7d16af15d4deafb35"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5264330:permanent_free:1",
+      "productId": "5264330",
+      "title": "VibeMarket",
+      "status": "sent",
+      "bufferPostId": "6af7cef9bb36d00909e369c4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5502460:permanent_free:1",
+      "productId": "5502460",
+      "title": "Doomfield:The Maze",
+      "status": "sent",
+      "bufferPostId": "6af7cefa97efac0554d47d06"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4706390:permanent_free:1",
+      "productId": "4706390",
+      "title": "Adventures Online",
+      "status": "sent",
+      "bufferPostId": "6af7cefb78196a0a97381706"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5282510:permanent_free:1",
+      "productId": "5282510",
+      "title": "Shadow Realms RPG",
+      "status": "sent",
+      "bufferPostId": "6af7cefc81e1228421dcc334"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4578590:permanent_free:1",
+      "productId": "4578590",
+      "title": "BagoLand",
+      "status": "sent",
+      "bufferPostId": "6af7cefebb36d00909e36bb8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5423320:permanent_free:1",
+      "productId": "5423320",
+      "title": "疯狂世界超变",
+      "status": "sent",
+      "bufferPostId": "6af7cf0081e1228421dcc4a2"
+    }
+  ],
+  "errors": []
+}
