@@ -2105,6 +2105,10 @@
     "steam:5435270:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5435270:permanent_free:1"
+    },
+    "steam:5393800:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5393800:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16859,7 +16863,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T12:01:04.545Z",
+      "lastSeenAt": "2026-11-14T15:01:03.788Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16914,7 +16918,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T12:01:04.545Z",
+      "lastSeenAt": "2026-11-14T15:01:03.788Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18396,11 +18400,41 @@
       },
       "bufferPostId": "6af84d88d16af15d4d11f54c",
       "postedAt": "2026-11-14T12:01:14.510Z"
+    },
+    "steam:5393800:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5393800:permanent_free:1",
+      "store": "steam",
+      "productId": "5393800",
+      "generation": 1,
+      "title": "Grandparadox",
+      "storeUrl": "https://store.steampowered.com/app/5393800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-14T15:01:03.788Z",
+      "lastSeenAt": "2026-11-14T15:01:03.788Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Go back through time and kill Grandad. A co-op board game with absurd weapons used to hunt your Grandfather throughout the decades to create the ultimate grandfather paradox... The Grandparadox! Play solo with bot helpers, or with up to 9 other people in online multiplayer!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-14T15:01:03.788Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Grandparadox』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5393800/",
+        "attemptedAt": "2026-11-14T15:01:04.853Z",
+        "bufferPostId": "6af877b1e86a5789a6b36d2f",
+        "submittedAt": "2026-11-14T15:01:06.678Z",
+        "postedAt": "2026-11-14T15:01:06.678Z"
+      },
+      "bufferPostId": "6af877b1e86a5789a6b36d2f",
+      "postedAt": "2026-11-14T15:01:06.678Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-14T12:01:04.545Z",
+    "lastSuccessfulScanAt": "2026-11-14T15:01:03.788Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -18962,6 +18996,7 @@
       "5391510": "2026-11-09T21:01:13.739Z",
       "5391790": "2026-11-02T03:01:22.328Z",
       "5391940": "2026-11-13T21:01:06.833Z",
+      "5393800": "2026-11-14T15:01:03.788Z",
       "5394530": "2026-10-23T09:01:01.018Z",
       "5396440": "2026-11-11T09:01:07.205Z",
       "5397330": "2026-10-28T15:01:16.098Z",
