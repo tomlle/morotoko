@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43624174955",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-14T18:00:53.655Z",
+    "finishedAt": "2026-11-14T18:01:13.655Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43624174955"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 21,
+    "verified": 7,
+    "newPromotions": 5,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3618810",
+      "title": "Rico Rite",
+      "storeUrl": "https://store.steampowered.com/app/3618810/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618810/1211194c07c8c682ec64cccc0a5de9741580367e/header.jpg?t=1794675473",
+      "officialDescription": "A breakout roguelike where the balls fight for you. Draft a party of bouncing heroes, aim them into descending swarms, and chain ricochets to climb a combo meter that speeds your heroes up."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5372560",
+      "title": "Zattrick Manager",
+      "storeUrl": "https://store.steampowered.com/app/5372560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372560/a82499f4e948949d0826519d432f8cc99bdf26f3/header.jpg?t=1794675322",
+      "officialDescription": "Manage a football club in a persistent online world. Build your squad, set tactics, develop facilities and compete in evolving leagues while your decisions shape the long-term future of your club. Scout talent and follow every result."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5183740",
+      "title": "Glims",
+      "storeUrl": "https://store.steampowered.com/app/5183740/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5183740/11c88b51fc1a38ef807732fe173f12ccadf7dd1d/header.jpg?t=1794674594",
+      "officialDescription": "A battle pet that lives on your desktop. Your glims walk your taskbar, live in a 3D house you decorate and earn gold on their own. When you call, they hold off an invasion on your screen or dive a 20-floor dungeon. Free, light, and it works offline."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5239620",
+      "title": "疯狂德州",
+      "storeUrl": "https://store.steampowered.com/app/5239620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239620/7e57302f223454f579661479c58d9b4bf42d7fbd/header.jpg?t=1794672452",
+      "officialDescription": "友達のゲームルームに、カジノ仕様のポーカーテーブル。一人称視点で席につき、自分の手でチップを押し出して、ほかのプレイヤーや常連AIとノーリミット・ホールデムをプレイ。ルーキーからハイステークスへ挑むもよし、クレイジーテーブルで停電やクレイジーパイナップル、おでこポーカーなどを楽しむもよし。基本プレイ無料。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5473320",
+      "title": "Detective Club",
+      "storeUrl": "https://store.steampowered.com/app/5473320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5473320/27e701550792ebc45c6b9ddf85edecf1639b5111/header.jpg?t=1794577905",
+      "officialDescription": "担当刑事として現場を調べ、関係者に質問し、決定的な証拠で嘘を見抜きましょう。二つの事件を結末と解説まで無料でプレイ。さらに遊びたい方は、別売りの事件簿で捜査を続けられます。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3618810:permanent_free:1",
+      "productId": "3618810",
+      "title": "Rico Rite",
+      "status": "sent",
+      "bufferPostId": "6af8a1e276c23bf1c730a277"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5372560:permanent_free:1",
+      "productId": "5372560",
+      "title": "Zattrick Manager",
+      "status": "sent",
+      "bufferPostId": "6af8a1e4e86a5789a6c2ae94"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5183740:permanent_free:1",
+      "productId": "5183740",
+      "title": "Glims",
+      "status": "sent",
+      "bufferPostId": "6af8a1e5e86a5789a6c2b081"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5239620:permanent_free:1",
+      "productId": "5239620",
+      "title": "疯狂德州",
+      "status": "sent",
+      "bufferPostId": "6af8a1e6918fe79d2e967513"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5473320:permanent_free:1",
+      "productId": "5473320",
+      "title": "Detective Club",
+      "status": "sent",
+      "bufferPostId": "6af8a1e8b9a106584c5ef81e"
+    }
+  ],
+  "errors": []
+}
