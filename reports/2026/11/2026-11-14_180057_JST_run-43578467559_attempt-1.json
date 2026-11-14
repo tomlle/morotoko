@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43578467559",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-14T09:00:57.687Z",
+    "finishedAt": "2026-11-14T09:01:12.791Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43578467559"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5242160",
+      "title": "TWENTY+",
+      "storeUrl": "https://store.steampowered.com/app/5242160/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242160/6d303f01f1b8a038be6fc685571c1388f665c86c/header.jpg?t=1794645686",
+      "officialDescription": "20を目指してカードを引く。＋カードで逆転。TWENTY+は、1〜11の数字カードを使う1対1の対戦カードゲームです。引くか、止めるか、目標そのものを変えるか。相手の伏せ札を読み、＋カードを切るタイミングで勝負を決めよう。オンライン対戦・CPU戦に対応。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4989970",
+      "title": "Pot O' Gnomes",
+      "storeUrl": "https://store.steampowered.com/app/4989970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989970/a225876f0fe91d3b836dd4b5dc3fc52ff3387a57/header.jpg?t=1794642548",
+      "officialDescription": "Pot o' Gnomes is a destruction-based pot-building roguelite, where you draw lines of falling gnomes to blow up plants, rocks, and everything in between. Craft your run from various biomes, choose from powerful items, and set off ridiculous explosion chains!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5403440",
+      "title": "奥术棋域",
+      "storeUrl": "https://store.steampowered.com/app/5403440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403440/44f5e8194f8f78c9159abad31df466f0c6f41c1d/header.jpg?t=1794641905",
+      "officialDescription": "チェス風の駒移動とデッキ構築を組み合わせた、無料のオンライン1対1戦術ゲーム。カードで駒を動かし、重要な駒を守り、相手の戦術を妨害しよう。川の宝箱を奪い合い、増え続ける危険マスを避けながら敵の主将を倒せ。すべてのカードは最初から使用可能。自分だけの戦術を組み立てよう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5079490",
+      "title": "WDR:弹窗保卫战",
+      "storeUrl": "https://store.steampowered.com/app/5079490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5079490/e103127ed44d8d072e9582228589873d5308051f/header.jpg?t=1794567508",
+      "officialDescription": "Ultimate mini idle tower defense! Cute pixel heroes are waiting to join you in defending against data invasions – right inside your desktop popups. Use an extensive variety of tower combinations and your brilliant tactical setups to fend off the boredom of everyday life!"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5242160:permanent_free:1",
+      "productId": "5242160",
+      "title": "TWENTY+",
+      "status": "sent",
+      "bufferPostId": "6af823534b28296eb146ef34"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4989970:permanent_free:1",
+      "productId": "4989970",
+      "title": "Pot O' Gnomes",
+      "status": "sent",
+      "bufferPostId": "6af823544b28296eb146efff"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5403440:permanent_free:1",
+      "productId": "5403440",
+      "title": "奥术棋域",
+      "status": "sent",
+      "bufferPostId": "6af823564b28296eb146f163"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5079490:permanent_free:1",
+      "productId": "5079490",
+      "title": "WDR:弹窗保卫战",
+      "status": "sent",
+      "bufferPostId": "6af82357bb36d00909fbea27"
+    }
+  ],
+  "errors": []
+}
