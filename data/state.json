@@ -2129,6 +2129,14 @@
     "steam:5473320:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5473320:permanent_free:1"
+    },
+    "steam:2772070:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2772070:permanent_free:1"
+    },
+    "steam:5300300:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5300300:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16883,7 +16891,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T18:01:03.320Z",
+      "lastSeenAt": "2026-11-14T21:01:09.395Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16938,7 +16946,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T18:01:03.320Z",
+      "lastSeenAt": "2026-11-14T21:01:09.395Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18600,11 +18608,71 @@
       },
       "bufferPostId": "6af8a1e8b9a106584c5ef81e",
       "postedAt": "2026-11-14T18:01:13.646Z"
+    },
+    "steam:2772070:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2772070:permanent_free:1",
+      "store": "steam",
+      "productId": "2772070",
+      "generation": 1,
+      "title": "In Waiting",
+      "storeUrl": "https://store.steampowered.com/app/2772070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-14T21:01:09.395Z",
+      "lastSeenAt": "2026-11-14T21:01:09.395Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "In Waiting is a first-person psychological horror game where you explore a haunted manor guided by Eleanor, an AI-powered ghost. Solve puzzles, uncover dark secrets, and experience true AI conversations that run 100% on your device with zero data collection.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-14T21:01:09.395Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『In Waiting』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2772070/",
+        "attemptedAt": "2026-11-14T21:01:10.438Z",
+        "bufferPostId": "6af8cc16b9a106584c6c97ef",
+        "submittedAt": "2026-11-14T21:01:12.216Z",
+        "postedAt": "2026-11-14T21:01:12.216Z"
+      },
+      "bufferPostId": "6af8cc16b9a106584c6c97ef",
+      "postedAt": "2026-11-14T21:01:12.216Z"
+    },
+    "steam:5300300:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5300300:permanent_free:1",
+      "store": "steam",
+      "productId": "5300300",
+      "generation": 1,
+      "title": "Elementys",
+      "storeUrl": "https://store.steampowered.com/app/5300300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-14T21:01:09.395Z",
+      "lastSeenAt": "2026-11-14T21:01:09.395Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Explore a vast pixel-art MMORPG where adventure, progression, crafting, trading, PvE, and ranked PvP shape your journey. Play alone or with others, master your class, conquer powerful bosses, and build your legacy in the world of Elementys.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-14T21:01:09.395Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Elementys』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5300300/",
+        "attemptedAt": "2026-11-14T21:01:12.222Z",
+        "bufferPostId": "6af8cc18c5b364e06217b18a",
+        "submittedAt": "2026-11-14T21:01:13.606Z",
+        "postedAt": "2026-11-14T21:01:13.606Z"
+      },
+      "bufferPostId": "6af8cc18c5b364e06217b18a",
+      "postedAt": "2026-11-14T21:01:13.606Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-14T18:01:03.320Z",
+    "lastSuccessfulScanAt": "2026-11-14T21:01:09.395Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -18635,6 +18703,7 @@
       "2582880": "2026-10-21T12:01:06.252Z",
       "2622100": "2026-10-28T03:01:23.689Z",
       "2700640": "2026-10-28T15:01:16.098Z",
+      "2772070": "2026-11-14T21:01:09.395Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
       "2967590": "2026-11-07T15:01:11.737Z",
@@ -19080,6 +19149,7 @@
       "5294230": "2026-11-13T15:01:22.449Z",
       "5299150": "2026-10-14T15:30:36.000Z",
       "5299840": "2026-10-28T06:01:11.657Z",
+      "5300300": "2026-11-14T21:01:09.395Z",
       "5300980": "2026-11-06T06:01:16.414Z",
       "5301420": "2026-10-14T15:30:36.000Z",
       "5301870": "2026-11-03T09:01:07.048Z",
