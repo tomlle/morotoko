@@ -2149,6 +2149,10 @@
     "steam:5350040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5350040:permanent_free:1"
+    },
+    "steam:5408030:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5408030:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16903,7 +16907,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T03:01:08.806Z",
+      "lastSeenAt": "2026-11-15T06:01:04.768Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16958,7 +16962,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T03:01:08.806Z",
+      "lastSeenAt": "2026-11-15T06:01:04.768Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18770,11 +18774,41 @@
       },
       "bufferPostId": "6af92077e5a113497ac172f5",
       "postedAt": "2026-11-15T03:01:13.155Z"
+    },
+    "steam:5408030:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5408030:permanent_free:1",
+      "store": "steam",
+      "productId": "5408030",
+      "generation": 1,
+      "title": "Cycle of the First Dawn",
+      "storeUrl": "https://store.steampowered.com/app/5408030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T06:01:04.768Z",
+      "lastSeenAt": "2026-11-15T06:01:04.768Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A slow, story-rich xianxia idle RPG about cultivation, discovery, and reincarnation. Work, train, explore, and uncover new systems across repeated lives. Progress carries forward, the world changes, and each journey reveals more than the last.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T06:01:04.768Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cycle of the First Dawn』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5408030/",
+        "attemptedAt": "2026-11-15T06:01:05.161Z",
+        "bufferPostId": "6af94aa1c5b364e06238f49a",
+        "submittedAt": "2026-11-15T06:01:06.557Z",
+        "postedAt": "2026-11-15T06:01:06.557Z"
+      },
+      "bufferPostId": "6af94aa1c5b364e06238f49a",
+      "postedAt": "2026-11-15T06:01:06.557Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T03:01:08.806Z",
+    "lastSuccessfulScanAt": "2026-11-15T06:01:04.768Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19352,6 +19386,7 @@
       "5402790": "2026-11-04T03:01:08.084Z",
       "5403440": "2026-11-14T09:01:05.364Z",
       "5405810": "2026-10-29T12:01:05.996Z",
+      "5408030": "2026-11-15T06:01:04.768Z",
       "5409660": "2026-11-06T06:01:16.414Z",
       "5411640": "2026-10-29T15:01:15.623Z",
       "5412000": "2026-11-13T03:01:05.989Z",
