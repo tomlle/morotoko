@@ -2165,6 +2165,10 @@
     "steam:5487790:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5487790:permanent_free:1"
+    },
+    "steam:4604010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4604010:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16919,7 +16923,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T09:01:06.193Z",
+      "lastSeenAt": "2026-11-15T12:01:04.799Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16974,7 +16978,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T09:01:06.193Z",
+      "lastSeenAt": "2026-11-15T12:01:04.799Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18906,11 +18910,41 @@
       },
       "bufferPostId": "6af974d776c23bf1c76b83b8",
       "postedAt": "2026-11-15T09:01:12.509Z"
+    },
+    "steam:4604010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4604010:permanent_free:1",
+      "store": "steam",
+      "productId": "4604010",
+      "generation": 1,
+      "title": "BEAST",
+      "storeUrl": "https://store.steampowered.com/app/4604010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T12:01:04.799Z",
+      "lastSeenAt": "2026-11-15T12:01:04.799Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "BEAST is a wildlife-themed strategy card game that authentically captures the law of the jungle — survival of the fittest. Players will collect over a hundred species of wild animals that have truly existed on Earth, lead their beast army, and compete against players from around the world.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T12:01:04.799Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『BEAST』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4604010/",
+        "attemptedAt": "2026-11-15T12:01:05.660Z",
+        "bufferPostId": "6af99f01c5b364e06252a6f7",
+        "submittedAt": "2026-11-15T12:01:07.140Z",
+        "postedAt": "2026-11-15T12:01:07.140Z"
+      },
+      "bufferPostId": "6af99f01c5b364e06252a6f7",
+      "postedAt": "2026-11-15T12:01:07.140Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T09:01:06.193Z",
+    "lastSuccessfulScanAt": "2026-11-15T12:01:04.799Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19066,6 +19100,7 @@
       "4578590": "2026-11-14T03:01:11.349Z",
       "4594300": "2026-10-27T09:01:03.509Z",
       "4597820": "2026-10-27T00:01:18.126Z",
+      "4604010": "2026-11-15T12:01:04.799Z",
       "4607460": "2026-11-04T00:01:23.910Z",
       "4607590": "2026-10-28T15:01:16.098Z",
       "4610720": "2026-10-31T18:01:01.493Z",
