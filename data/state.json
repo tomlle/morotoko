@@ -2153,6 +2153,18 @@
     "steam:5408030:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5408030:permanent_free:1"
+    },
+    "steam:5512840:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5512840:permanent_free:1"
+    },
+    "steam:5478700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5478700:permanent_free:1"
+    },
+    "steam:5487790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5487790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16907,7 +16919,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T06:01:04.768Z",
+      "lastSeenAt": "2026-11-15T09:01:06.193Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16962,7 +16974,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T06:01:04.768Z",
+      "lastSeenAt": "2026-11-15T09:01:06.193Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18804,11 +18816,101 @@
       },
       "bufferPostId": "6af94aa1c5b364e06238f49a",
       "postedAt": "2026-11-15T06:01:06.557Z"
+    },
+    "steam:5512840:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5512840:permanent_free:1",
+      "store": "steam",
+      "productId": "5512840",
+      "generation": 1,
+      "title": "Code Red RTS",
+      "storeUrl": "https://store.steampowered.com/app/5512840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T09:01:06.193Z",
+      "lastSeenAt": "2026-11-15T09:01:06.193Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free Cold War real-time strategy game in full 3D. Build a base, mine ore and lead the Allies or the Soviets across 16 maps. Fight the computer, battle friends with up to eight players, or climb the ranked 1v1 and 2v2 ladders.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T09:01:06.193Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Code Red RTS』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5512840/",
+        "attemptedAt": "2026-11-15T09:01:07.234Z",
+        "bufferPostId": "6af974d3b9a106584c99a05e",
+        "submittedAt": "2026-11-15T09:01:08.716Z",
+        "postedAt": "2026-11-15T09:01:08.716Z"
+      },
+      "bufferPostId": "6af974d3b9a106584c99a05e",
+      "postedAt": "2026-11-15T09:01:08.716Z"
+    },
+    "steam:5478700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5478700:permanent_free:1",
+      "store": "steam",
+      "productId": "5478700",
+      "generation": 1,
+      "title": "Online Poly",
+      "storeUrl": "https://store.steampowered.com/app/5478700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T09:01:06.193Z",
+      "lastSeenAt": "2026-11-15T09:01:06.193Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "サイコロを振って、世界の都市を買って、通行料をいただき！かわいいキャラクターと遊ぶ無料オンラインボードゲーム。ランドマークを建て、ランキングに挑戦。タイルリフトで盤面を持ち上げれば、次の一振りが大逆転に！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T09:01:06.193Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Online Poly』\n✨ いつでも無料でプレイ\n\nサイコロを振って、世界の都市を買って、通行料をいただき！かわいいキャラクターと遊ぶ無料オンラインボードゲーム。ランドマークを建て、ランキングに挑戦。タイルリフトで盤面を持ち上げれば、…\n\nhttps://store.steampowered.com/app/5478700/",
+        "attemptedAt": "2026-11-15T09:01:08.734Z",
+        "bufferPostId": "6af974d4b9a106584c99a0df",
+        "submittedAt": "2026-11-15T09:01:11.166Z",
+        "postedAt": "2026-11-15T09:01:11.166Z"
+      },
+      "bufferPostId": "6af974d4b9a106584c99a0df",
+      "postedAt": "2026-11-15T09:01:11.166Z"
+    },
+    "steam:5487790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5487790:permanent_free:1",
+      "store": "steam",
+      "productId": "5487790",
+      "generation": 1,
+      "title": "A Taste of Success",
+      "storeUrl": "https://store.steampowered.com/app/5487790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T09:01:06.193Z",
+      "lastSeenAt": "2026-11-15T09:01:06.193Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A five-course meal, painstaking prepared. In this fully voiced visual novel, you play as Reynard Russet. As an up-and-coming chef, can you balance your career and family? Or will you sacrifice everything to reach the pinnacle of culinary success?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T09:01:06.193Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『A Taste of Success』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5487790/",
+        "attemptedAt": "2026-11-15T09:01:11.174Z",
+        "bufferPostId": "6af974d776c23bf1c76b83b8",
+        "submittedAt": "2026-11-15T09:01:12.509Z",
+        "postedAt": "2026-11-15T09:01:12.509Z"
+      },
+      "bufferPostId": "6af974d776c23bf1c76b83b8",
+      "postedAt": "2026-11-15T09:01:12.509Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T06:01:04.768Z",
+    "lastSuccessfulScanAt": "2026-11-15T09:01:06.193Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19427,9 +19529,11 @@
       "5473320": "2026-11-14T18:01:03.320Z",
       "5476640": "2026-11-11T21:01:10.292Z",
       "5478680": "2026-11-10T18:01:39.865Z",
+      "5478700": "2026-11-15T09:01:06.193Z",
       "5479850": "2026-11-12T18:01:08.650Z",
       "5485060": "2026-11-13T15:01:22.449Z",
       "5486310": "2026-11-06T12:01:14.375Z",
+      "5487790": "2026-11-15T09:01:06.193Z",
       "5487820": "2026-11-14T06:01:15.741Z",
       "5490450": "2026-11-15T00:01:05.244Z",
       "5490870": "2026-11-08T06:01:05.672Z",
@@ -19437,7 +19541,8 @@
       "5498810": "2026-11-09T12:01:11.937Z",
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
-      "5502850": "2026-11-11T15:01:08.794Z"
+      "5502850": "2026-11-11T15:01:08.794Z",
+      "5512840": "2026-11-15T09:01:06.193Z"
     }
   }
 }
