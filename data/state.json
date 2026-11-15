@@ -2141,6 +2141,14 @@
     "steam:5490450:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5490450:permanent_free:1"
+    },
+    "steam:4366550:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4366550:permanent_free:1"
+    },
+    "steam:5350040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5350040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16895,7 +16903,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T00:01:05.244Z",
+      "lastSeenAt": "2026-11-15T03:01:08.806Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16950,7 +16958,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T00:01:05.244Z",
+      "lastSeenAt": "2026-11-15T03:01:08.806Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18702,11 +18710,71 @@
       },
       "bufferPostId": "6af8f642e86a5789a6dc1fa3",
       "postedAt": "2026-11-15T00:01:08.171Z"
+    },
+    "steam:4366550:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4366550:permanent_free:1",
+      "store": "steam",
+      "productId": "4366550",
+      "generation": 1,
+      "title": "Tenrei",
+      "storeUrl": "https://store.steampowered.com/app/4366550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T03:01:08.806Z",
+      "lastSeenAt": "2026-11-15T03:01:08.806Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "2Dウォーバンド・サンドボックス。マップを巡り、軍を集め、ターン制で戦え。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T03:01:08.806Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tenrei』\n✨ いつでも無料でプレイ\n\n2Dウォーバンド・サンドボックス。マップを巡り、軍を集め、ターン制で戦え。\n\nhttps://store.steampowered.com/app/4366550/",
+        "attemptedAt": "2026-11-15T03:01:09.380Z",
+        "bufferPostId": "6af92075e5a113497ac17236",
+        "submittedAt": "2026-11-15T03:01:11.797Z",
+        "postedAt": "2026-11-15T03:01:11.797Z"
+      },
+      "bufferPostId": "6af92075e5a113497ac17236",
+      "postedAt": "2026-11-15T03:01:11.797Z"
+    },
+    "steam:5350040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5350040:permanent_free:1",
+      "store": "steam",
+      "productId": "5350040",
+      "generation": 1,
+      "title": "Manafest",
+      "storeUrl": "https://store.steampowered.com/app/5350040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T03:01:08.806Z",
+      "lastSeenAt": "2026-11-15T03:01:08.806Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free 1v1 collectible card game with a mean sense of humour. Build a 30-card deck from six kinds of mana, climb the ranked ladder, draft from sealed packs and fight in weekly tournaments.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T03:01:08.806Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Manafest』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5350040/",
+        "attemptedAt": "2026-11-15T03:01:11.805Z",
+        "bufferPostId": "6af92077e5a113497ac172f5",
+        "submittedAt": "2026-11-15T03:01:13.155Z",
+        "postedAt": "2026-11-15T03:01:13.155Z"
+      },
+      "bufferPostId": "6af92077e5a113497ac172f5",
+      "postedAt": "2026-11-15T03:01:13.155Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T00:01:05.244Z",
+    "lastSuccessfulScanAt": "2026-11-15T03:01:08.806Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -18823,6 +18891,7 @@
       "4355200": "2026-10-16T06:01:00.623Z",
       "4360980": "2026-10-17T03:01:07.080Z",
       "4365790": "2026-10-16T18:01:10.079Z",
+      "4366550": "2026-11-15T03:01:08.806Z",
       "4369110": "2026-11-14T03:01:11.349Z",
       "4374510": "2026-10-31T09:00:59.059Z",
       "4394570": "2026-10-31T03:11:06.746Z",
@@ -19227,6 +19296,7 @@
       "5348940": "2026-11-14T00:01:17.704Z",
       "5349900": "2026-11-06T12:01:14.375Z",
       "5349960": "2026-10-30T06:01:06.346Z",
+      "5350040": "2026-11-15T03:01:08.806Z",
       "5351540": "2026-10-31T06:01:01.191Z",
       "5352150": "2026-11-07T21:01:08.968Z",
       "5352470": "2026-11-09T18:01:24.470Z",
