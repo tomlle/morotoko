@@ -2137,6 +2137,10 @@
     "steam:5300300:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5300300:permanent_free:1"
+    },
+    "steam:5490450:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5490450:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16891,7 +16895,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T21:01:09.395Z",
+      "lastSeenAt": "2026-11-15T00:01:05.244Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16946,7 +16950,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-14T21:01:09.395Z",
+      "lastSeenAt": "2026-11-15T00:01:05.244Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18668,11 +18672,41 @@
       },
       "bufferPostId": "6af8cc18c5b364e06217b18a",
       "postedAt": "2026-11-14T21:01:13.606Z"
+    },
+    "steam:5490450:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5490450:permanent_free:1",
+      "store": "steam",
+      "productId": "5490450",
+      "generation": 1,
+      "title": "NeoTanker",
+      "storeUrl": "https://store.steampowered.com/app/5490450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T00:01:05.244Z",
+      "lastSeenAt": "2026-11-15T00:01:05.244Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "小さな戦車、大きな決断。マスひとつで形勢が変わるターン制タクティクス。都市を占領し、軍を育て、手ごわいロボット将軍、友だち、オンラインの誰とでも戦おう。基本無料、広告なし、課金で勝てる要素なし。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T00:01:05.244Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『NeoTanker』\n✨ いつでも無料でプレイ\n\n小さな戦車、大きな決断。マスひとつで形勢が変わるターン制タクティクス。都市を占領し、軍を育て、手ごわいロボット将軍、友だち、オンラインの誰とでも戦おう。基本無料、広告なし、課金で勝てる…\n\nhttps://store.steampowered.com/app/5490450/",
+        "attemptedAt": "2026-11-15T00:01:06.611Z",
+        "bufferPostId": "6af8f642e86a5789a6dc1fa3",
+        "submittedAt": "2026-11-15T00:01:08.171Z",
+        "postedAt": "2026-11-15T00:01:08.171Z"
+      },
+      "bufferPostId": "6af8f642e86a5789a6dc1fa3",
+      "postedAt": "2026-11-15T00:01:08.171Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-14T21:01:09.395Z",
+    "lastSuccessfulScanAt": "2026-11-15T00:01:05.244Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19292,6 +19326,7 @@
       "5485060": "2026-11-13T15:01:22.449Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5487820": "2026-11-14T06:01:15.741Z",
+      "5490450": "2026-11-15T00:01:05.244Z",
       "5490870": "2026-11-08T06:01:05.672Z",
       "5496510": "2026-11-13T00:01:07.533Z",
       "5498810": "2026-11-09T12:01:11.937Z",
