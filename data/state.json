@@ -2169,6 +2169,10 @@
     "steam:4604010:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4604010:permanent_free:1"
+    },
+    "steam:4757880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4757880:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16923,7 +16927,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T12:01:04.799Z",
+      "lastSeenAt": "2026-11-15T15:01:07.240Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16978,7 +16982,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T12:01:04.799Z",
+      "lastSeenAt": "2026-11-15T15:01:07.240Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -18940,11 +18944,41 @@
       },
       "bufferPostId": "6af99f01c5b364e06252a6f7",
       "postedAt": "2026-11-15T12:01:07.140Z"
+    },
+    "steam:4757880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4757880:permanent_free:1",
+      "store": "steam",
+      "productId": "4757880",
+      "generation": 1,
+      "title": "Diriyah Tale",
+      "storeUrl": "https://store.steampowered.com/app/4757880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-15T15:01:07.240Z",
+      "lastSeenAt": "2026-11-15T15:01:07.240Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A narrative-driven JRPG inspired by Arabian mythology where you explore ancient lands, battle rising darkness, and unite tribes to save Diriyah.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-15T15:01:07.240Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Diriyah Tale』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4757880/",
+        "attemptedAt": "2026-11-15T15:01:08.224Z",
+        "bufferPostId": "6af9c934544d0574a9252398",
+        "submittedAt": "2026-11-15T15:01:09.687Z",
+        "postedAt": "2026-11-15T15:01:09.687Z"
+      },
+      "bufferPostId": "6af9c934544d0574a9252398",
+      "postedAt": "2026-11-15T15:01:09.687Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T12:01:04.799Z",
+    "lastSuccessfulScanAt": "2026-11-15T15:01:07.240Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19135,6 +19169,7 @@
       "4746110": "2026-10-16T09:01:06.129Z",
       "4747360": "2026-11-07T21:01:08.968Z",
       "4756450": "2026-10-22T18:01:09.344Z",
+      "4757880": "2026-11-15T15:01:07.240Z",
       "4763980": "2026-11-12T18:01:08.650Z",
       "4766670": "2026-11-06T09:01:10.595Z",
       "4769150": "2026-10-19T18:01:19.647Z",
