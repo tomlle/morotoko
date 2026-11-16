@@ -2193,6 +2193,22 @@
     "steam:5345880:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5345880:permanent_free:1"
+    },
+    "steam:4940260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4940260:permanent_free:1"
+    },
+    "steam:4475300:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4475300:permanent_free:1"
+    },
+    "steam:5048390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5048390:permanent_free:1"
+    },
+    "steam:3963000:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3963000:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16947,7 +16963,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-16T03:01:14.549Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16988,7 +17004,19 @@
         "postedAt": "2026-11-12T18:01:22.418Z"
       },
       "bufferPostId": "6af5fef1912fecb48ce329c6",
-      "postedAt": "2026-11-12T18:01:22.418Z"
+      "postedAt": "2026-11-12T18:01:22.418Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:15.510Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Cities: Skylines II』\n🎮 無料プレイは 11/17 03:00まで\n\nゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/949230/",
+        "attemptedAt": "2026-11-16T06:01:15.518Z",
+        "bufferPostId": "6afa9c2ba869c35e5bbf7364",
+        "submittedAt": "2026-11-16T06:01:16.746Z",
+        "postedAt": "2026-11-16T06:01:16.746Z"
+      },
+      "endingReminderBufferPostId": "6afa9c2ba869c35e5bbf7364",
+      "endingReminderPostedAt": "2026-11-16T06:01:16.746Z"
     },
     "steam:2605790:temporary_play:1": {
       "kind": "temporary_play",
@@ -17002,7 +17030,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-16T03:01:14.549Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17043,7 +17071,19 @@
         "postedAt": "2026-11-12T18:01:23.770Z"
       },
       "bufferPostId": "6af5fef20587f22eee0d0f71",
-      "postedAt": "2026-11-12T18:01:23.770Z"
+      "postedAt": "2026-11-12T18:01:23.770Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:15.510Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Deep Rock Galactic: Rogue Core』\n🎮 無料プレイは 11/17 03:00まで\n\nDEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/2605790/",
+        "attemptedAt": "2026-11-16T06:01:16.756Z",
+        "bufferPostId": "6afa9c2ca869c35e5bbf73e7",
+        "submittedAt": "2026-11-16T06:01:18.119Z",
+        "postedAt": "2026-11-16T06:01:18.119Z"
+      },
+      "endingReminderBufferPostId": "6afa9c2ca869c35e5bbf73e7",
+      "endingReminderPostedAt": "2026-11-16T06:01:18.119Z"
     },
     "steam:3354290:permanent_free:1": {
       "kind": "permanent_free",
@@ -19144,11 +19184,131 @@
       },
       "bufferPostId": "6afa71fd8e87c256a3aa9ca9",
       "postedAt": "2026-11-16T03:01:19.250Z"
+    },
+    "steam:4940260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4940260:permanent_free:1",
+      "store": "steam",
+      "productId": "4940260",
+      "generation": 1,
+      "title": "GrooveDeck",
+      "storeUrl": "https://store.steampowered.com/app/4940260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T06:01:09.607Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "GrooveDeck is inspired by hardware grooveboxes and excellent with controllers. Sequence beats, program melodies, and shape your sound live. Pick it up, press play, and make your next banger.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:09.607Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GrooveDeck』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4940260/",
+        "attemptedAt": "2026-11-16T06:01:10.240Z",
+        "bufferPostId": "6afa9c26a869c35e5bbf6fc8",
+        "submittedAt": "2026-11-16T06:01:11.671Z",
+        "postedAt": "2026-11-16T06:01:11.671Z"
+      },
+      "bufferPostId": "6afa9c26a869c35e5bbf6fc8",
+      "postedAt": "2026-11-16T06:01:11.671Z"
+    },
+    "steam:4475300:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4475300:permanent_free:1",
+      "store": "steam",
+      "productId": "4475300",
+      "generation": 1,
+      "title": "Smash Dash: Demolition Run",
+      "storeUrl": "https://store.steampowered.com/app/4475300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T06:01:09.607Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "トップダウン視点のPvEルートシューター。戦って奪い、生き残れ。脱出に成功すればアイテムを持ち帰り、ステージをクリアできます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:09.607Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Smash Dash: Demolition Run』\n✨ いつでも無料でプレイ\n\nトップダウン視点のPvEルートシューター。戦って奪い、生き残れ。脱出に成功すればアイテムを持ち帰り、ステージをクリアできます。\n\nhttps://store.steampowered.com/app/4475300/",
+        "attemptedAt": "2026-11-16T06:01:11.678Z",
+        "bufferPostId": "6afa9c27a869c35e5bbf70c5",
+        "submittedAt": "2026-11-16T06:01:12.927Z",
+        "postedAt": "2026-11-16T06:01:12.927Z"
+      },
+      "bufferPostId": "6afa9c27a869c35e5bbf70c5",
+      "postedAt": "2026-11-16T06:01:12.927Z"
+    },
+    "steam:5048390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5048390:permanent_free:1",
+      "store": "steam",
+      "productId": "5048390",
+      "generation": 1,
+      "title": "君の……植物、見てもいい？",
+      "storeUrl": "https://store.steampowered.com/app/5048390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T06:01:09.607Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "自分だけの植物の壁を作ろう！実在する植物を育て、放置中にもお金を稼ごう。育てるほど収入もアップ！蝶や昆虫を呼び寄せ、まだ誰も見たことのない変異植物や交配植物を生み出し、少しずつ理想の植物の壁を完成させよう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:09.607Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『君の……植物、見てもいい？』\n✨ いつでも無料でプレイ\n\n自分だけの植物の壁を作ろう！実在する植物を育て、放置中にもお金を稼ごう。育てるほど収入もアップ！蝶や昆虫を呼び寄せ、まだ誰も見たことのない変異植物や交配植物を生み出し、…\n\nhttps://store.steampowered.com/app/5048390/",
+        "attemptedAt": "2026-11-16T06:01:12.940Z",
+        "bufferPostId": "6afa9c29d7e5fee638a46d95",
+        "submittedAt": "2026-11-16T06:01:14.157Z",
+        "postedAt": "2026-11-16T06:01:14.157Z"
+      },
+      "bufferPostId": "6afa9c29d7e5fee638a46d95",
+      "postedAt": "2026-11-16T06:01:14.157Z"
+    },
+    "steam:3963000:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3963000:permanent_free:1",
+      "store": "steam",
+      "productId": "3963000",
+      "generation": 1,
+      "title": "Mourning Brew",
+      "storeUrl": "https://store.steampowered.com/app/3963000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T06:01:09.607Z",
+      "lastSeenAt": "2026-11-16T06:01:09.607Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "You died... and now you're a ghost! Stranded in purgatory with no idea how to tackle your own issues, you decide to open up a cafe to chat with other ghosts and the grim reaper, and maybe learn a bit more about yourself!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T06:01:09.607Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mourning Brew』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3963000/",
+        "attemptedAt": "2026-11-16T06:01:14.163Z",
+        "bufferPostId": "6afa9c2aa869c35e5bbf71a1",
+        "submittedAt": "2026-11-16T06:01:15.497Z",
+        "postedAt": "2026-11-16T06:01:15.497Z"
+      },
+      "bufferPostId": "6afa9c2aa869c35e5bbf71a1",
+      "postedAt": "2026-11-16T06:01:15.497Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-16T03:01:14.549Z",
+    "lastSuccessfulScanAt": "2026-11-16T06:01:09.607Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19227,6 +19387,7 @@
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
       "3952540": "2026-10-14T15:30:36.000Z",
+      "3963000": "2026-11-16T06:01:09.607Z",
       "3976340": "2026-10-20T18:01:06.119Z",
       "3983230": "2026-11-09T12:01:11.937Z",
       "3999990": "2026-11-02T15:01:13.453Z",
@@ -19286,6 +19447,7 @@
       "4450900": "2026-11-03T21:01:10.649Z",
       "4452480": "2026-11-03T06:01:07.148Z",
       "4463860": "2026-10-30T12:01:07.408Z",
+      "4475300": "2026-11-16T06:01:09.607Z",
       "4475480": "2026-10-28T00:01:10.872Z",
       "4481760": "2026-10-29T09:01:05.116Z",
       "4491130": "2026-10-19T03:01:01.402Z",
@@ -19406,6 +19568,7 @@
       "4936460": "2026-10-29T21:01:08.062Z",
       "4938170": "2026-10-30T12:01:07.408Z",
       "4938300": "2026-11-06T06:01:16.414Z",
+      "4940260": "2026-11-16T06:01:09.607Z",
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
       "4946250": "2026-11-02T21:01:11.825Z",
@@ -19461,6 +19624,7 @@
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
       "5043860": "2026-10-21T00:01:08.212Z",
+      "5048390": "2026-11-16T06:01:09.607Z",
       "5049260": "2026-11-10T12:01:08.585Z",
       "5049940": "2026-10-23T21:00:59.012Z",
       "5052450": "2026-11-06T06:01:16.414Z",

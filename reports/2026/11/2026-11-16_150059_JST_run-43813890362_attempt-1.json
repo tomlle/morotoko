@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43813890362",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-16T06:00:59.025Z",
+    "finishedAt": "2026-11-16T06:01:18.132Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43813890362"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4940260",
+      "title": "GrooveDeck",
+      "storeUrl": "https://store.steampowered.com/app/4940260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940260/1475481e7f405e180ee9de87ed1c622cb0da6a07/header.jpg?t=1794807823",
+      "officialDescription": "GrooveDeck is inspired by hardware grooveboxes and excellent with controllers. Sequence beats, program melodies, and shape your sound live. Pick it up, press play, and make your next banger."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4475300",
+      "title": "Smash Dash: Demolition Run",
+      "storeUrl": "https://store.steampowered.com/app/4475300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475300/76ca24c5057dab1ee4a86469fc6a13259da3362b/header.jpg?t=1794807496",
+      "officialDescription": "トップダウン視点のPvEルートシューター。戦って奪い、生き残れ。脱出に成功すればアイテムを持ち帰り、ステージをクリアできます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5048390",
+      "title": "君の……植物、見てもいい？",
+      "storeUrl": "https://store.steampowered.com/app/5048390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048390/e9af2a576149da50bc741fe6b513b784702a4d64/header.jpg?t=1794800561",
+      "officialDescription": "自分だけの植物の壁を作ろう！実在する植物を育て、放置中にもお金を稼ごう。育てるほど収入もアップ！蝶や昆虫を呼び寄せ、まだ誰も見たことのない変異植物や交配植物を生み出し、少しずつ理想の植物の壁を完成させよう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3963000",
+      "title": "Mourning Brew",
+      "storeUrl": "https://store.steampowered.com/app/3963000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3963000/55f5fe9ac1f452391f4dc3e044ecb137b14b70b2/header.jpg?t=1794798751",
+      "officialDescription": "You died... and now you're a ghost! Stranded in purgatory with no idea how to tackle your own issues, you decide to open up a cafe to chat with other ghosts and the grim reaper, and maybe learn a bit more about yourself!"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4940260:permanent_free:1",
+      "productId": "4940260",
+      "title": "GrooveDeck",
+      "status": "sent",
+      "bufferPostId": "6afa9c26a869c35e5bbf6fc8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4475300:permanent_free:1",
+      "productId": "4475300",
+      "title": "Smash Dash: Demolition Run",
+      "status": "sent",
+      "bufferPostId": "6afa9c27a869c35e5bbf70c5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5048390:permanent_free:1",
+      "productId": "5048390",
+      "title": "君の……植物、見てもいい？",
+      "status": "sent",
+      "bufferPostId": "6afa9c29d7e5fee638a46d95"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3963000:permanent_free:1",
+      "productId": "3963000",
+      "title": "Mourning Brew",
+      "status": "sent",
+      "bufferPostId": "6afa9c2aa869c35e5bbf71a1"
+    },
+    {
+      "type": "ending_reminder",
+      "campaignId": "steam:949230:temporary_play:1",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "status": "sent",
+      "bufferPostId": "6afa9c2ba869c35e5bbf7364"
+    },
+    {
+      "type": "ending_reminder",
+      "campaignId": "steam:2605790:temporary_play:1",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "status": "sent",
+      "bufferPostId": "6afa9c2ca869c35e5bbf73e7"
+    }
+  ],
+  "errors": []
+}
