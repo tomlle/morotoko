@@ -110,6 +110,46 @@
         "submittedAt": "2026-11-08T00:01:38.347Z",
         "postedAt": "2026-11-08T00:01:38.347Z"
       }
+    },
+    "steam:3056550": {
+      "generation": 1,
+      "processedAnnouncementIds": [
+        "1849458702689422"
+      ],
+      "event": {
+        "id": "steam:3056550:paid-transition:1",
+        "status": "sent",
+        "active": true,
+        "announcementIds": [
+          "1849458702689422"
+        ],
+        "firstSeenAt": "2026-11-16T15:01:38.949Z",
+        "postText": "⚠️ 無料で入手できるのは今のうち！\n\n『Bananamana』\n💰 現在無料 → 近日中に有料化予定\n\n気軽に楽しめるシミュレーションゲーム。\n\nhttps://store.steampowered.com/app/3056550/",
+        "attemptedAt": "2026-11-16T15:01:39.376Z",
+        "bufferPostId": "6afb1ad375345b4eae965264",
+        "submittedAt": "2026-11-16T15:01:40.809Z",
+        "postedAt": "2026-11-16T15:01:40.809Z"
+      }
+    },
+    "steam:2989720": {
+      "generation": 1,
+      "processedAnnouncementIds": [
+        "1849458702689414"
+      ],
+      "event": {
+        "id": "steam:2989720:paid-transition:1",
+        "status": "sent",
+        "active": true,
+        "announcementIds": [
+          "1849458702689414"
+        ],
+        "firstSeenAt": "2026-11-16T15:01:40.810Z",
+        "postText": "⚠️ 無料で入手できるのは今のうち！\n\n『Item Tower』\n💰 現在無料 → 近日中に有料化予定\n\n気軽に楽しめるカジュアルゲーム。\n\nhttps://store.steampowered.com/app/2989720/",
+        "attemptedAt": "2026-11-16T15:01:40.810Z",
+        "bufferPostId": "6afb1ad46b7e529a1fddbfda",
+        "submittedAt": "2026-11-16T15:01:42.103Z",
+        "postedAt": "2026-11-16T15:01:42.103Z"
+      }
     }
   }
 }

@@ -2225,6 +2225,10 @@
     "steam:1573870:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:1573870:permanent_free:1"
+    },
+    "steam:5262190:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5262190:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16979,7 +16983,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-16T12:06:11.307Z",
+      "lastSeenAt": "2026-11-16T15:01:09.079Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -17046,7 +17050,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-16T12:06:11.307Z",
+      "lastSeenAt": "2026-11-16T15:01:09.079Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -19440,11 +19444,41 @@
       },
       "bufferPostId": "6afaf1b991ba8aa74bd16649",
       "postedAt": "2026-11-16T12:06:18.259Z"
+    },
+    "steam:5262190:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5262190:permanent_free:1",
+      "store": "steam",
+      "productId": "5262190",
+      "generation": 1,
+      "title": "Blind Katana: The Ember Keeper",
+      "storeUrl": "https://store.steampowered.com/app/5262190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T15:01:09.079Z",
+      "lastSeenAt": "2026-11-16T15:01:09.079Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "音で敵を見る盲目の剣士のサムライアクションローグライクゲームです。[永遠の夜]に沈んだ世界で、敵の足音は光の波となってその居場所を明かします。闇を読み、斬り、防ぎ、転がりながら敵を処刑しましょう。ステージごとにカードを選んで自分だけの剣術を築き、世界の[火種]を奪った[暁]に立ち向かいましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T15:01:09.079Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Blind Katana: The Ember Keeper』\n✨ いつでも無料でプレイ\n\n音で敵を見る盲目の剣士のサムライアクションローグライクゲームです。[永遠の夜]に沈んだ世界で、敵の足音は光の波となってその居場所を明かします。闇を読み、斬り、防ぎ、転…\n\nhttps://store.steampowered.com/app/5262190/",
+        "attemptedAt": "2026-11-16T15:01:10.959Z",
+        "bufferPostId": "6afb1ab775345b4eae963a5f",
+        "submittedAt": "2026-11-16T15:01:12.384Z",
+        "postedAt": "2026-11-16T15:01:12.384Z"
+      },
+      "bufferPostId": "6afb1ab775345b4eae963a5f",
+      "postedAt": "2026-11-16T15:01:12.384Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-16T12:06:11.307Z",
+    "lastSuccessfulScanAt": "2026-11-16T15:01:09.079Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19896,6 +19930,7 @@
       "5261040": "2026-11-02T21:01:11.825Z",
       "5261400": "2026-11-02T06:01:05.538Z",
       "5261940": "2026-10-14T15:30:36.000Z",
+      "5262190": "2026-11-16T15:01:09.079Z",
       "5262490": "2026-10-14T21:01:00.572Z",
       "5264330": "2026-11-14T03:01:11.349Z",
       "5265570": "2026-11-07T15:01:11.737Z",
