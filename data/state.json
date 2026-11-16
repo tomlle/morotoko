@@ -2181,6 +2181,10 @@
     "steam:5454740:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5454740:permanent_free:1"
+    },
+    "steam:1975300:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1975300:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16935,7 +16939,7 @@
       "currency": "JPY",
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T21:01:06.729Z",
+      "lastSeenAt": "2026-11-16T00:01:12.496Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -16990,7 +16994,7 @@
       "currency": "JPY",
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
-      "lastSeenAt": "2026-11-15T21:01:06.729Z",
+      "lastSeenAt": "2026-11-16T00:01:12.496Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -19042,11 +19046,41 @@
       },
       "bufferPostId": "6af9f36e4f0276ab9453862d",
       "postedAt": "2026-11-15T18:01:20.074Z"
+    },
+    "steam:1975300:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1975300:permanent_free:1",
+      "store": "steam",
+      "productId": "1975300",
+      "generation": 1,
+      "title": "War: Weaponry and Resources",
+      "storeUrl": "https://store.steampowered.com/app/1975300/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T00:01:12.496Z",
+      "lastSeenAt": "2026-11-16T00:01:12.496Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A top-down RTS for you and your friends, with armies in the thousands. Dig through rock, wall off chokepoints and hide bombs, then throw everything at your rivals' HQ. Every match is a new cave map. Online multiplayer only for now; AI opponents are planned.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T00:01:12.496Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『War: Weaponry and Resources』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/1975300/",
+        "attemptedAt": "2026-11-16T00:01:14.939Z",
+        "bufferPostId": "6afa47cb8e87c256a39dc4ea",
+        "submittedAt": "2026-11-16T00:01:16.595Z",
+        "postedAt": "2026-11-16T00:01:16.595Z"
+      },
+      "bufferPostId": "6afa47cb8e87c256a39dc4ea",
+      "postedAt": "2026-11-16T00:01:16.595Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-15T21:01:06.729Z",
+    "lastSuccessfulScanAt": "2026-11-16T00:01:12.496Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19064,6 +19098,7 @@
       "1868410": "2026-11-06T06:01:16.414Z",
       "1930320": "2026-10-25T00:01:08.164Z",
       "1965430": "2026-10-14T15:30:36.000Z",
+      "1975300": "2026-11-16T00:01:12.496Z",
       "1979510": "2026-10-17T15:01:03.979Z",
       "2160130": "2026-10-31T21:01:15.957Z",
       "2213580": "2026-10-28T15:01:16.098Z",
