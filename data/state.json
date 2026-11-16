@@ -1907,12 +1907,10 @@
       "activeCampaignId": "steam:5283320:permanent_free:1"
     },
     "steam:949230:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:949230:temporary_play:1"
+      "generation": 1
     },
     "steam:2605790:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:2605790:temporary_play:1"
+      "generation": 1
     },
     "steam:3354290:permanent_free": {
       "generation": 1,
@@ -2241,6 +2239,30 @@
     "steam:2415210:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2415210:permanent_free:1"
+    },
+    "steam:5115660:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5115660:permanent_free:1"
+    },
+    "steam:5239180:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5239180:permanent_free:1"
+    },
+    "steam:5402310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5402310:permanent_free:1"
+    },
+    "steam:5045330:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5045330:permanent_free:1"
+    },
+    "steam:5249600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5249600:permanent_free:1"
+    },
+    "steam:1936110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:1936110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16996,8 +17018,8 @@
       "discountPercent": 30,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
       "lastSeenAt": "2026-11-16T15:01:09.079Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
@@ -17063,8 +17085,8 @@
       "discountPercent": 50,
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
       "lastSeenAt": "2026-11-16T15:01:09.079Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
@@ -19576,11 +19598,191 @@
       },
       "bufferPostId": "6afb44ea9251db550b845924",
       "postedAt": "2026-11-16T18:01:15.339Z"
+    },
+    "steam:5115660:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5115660:permanent_free:1",
+      "store": "steam",
+      "productId": "5115660",
+      "generation": 1,
+      "title": "Left4Sol",
+      "storeUrl": "https://store.steampowered.com/app/5115660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Hold the line alone or in four-player online co-op. Survive endless waves across six battlegrounds or fight through a 12-chapter campaign with 100+ weapons, perks, barricades, turrets, special infected, titan bosses, and the WUNDERSLIME.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Left4Sol』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5115660/",
+        "attemptedAt": "2026-11-16T21:01:11.398Z",
+        "bufferPostId": "6afb6f17614de19dc0777a63",
+        "submittedAt": "2026-11-16T21:01:13.357Z",
+        "postedAt": "2026-11-16T21:01:13.357Z"
+      },
+      "bufferPostId": "6afb6f17614de19dc0777a63",
+      "postedAt": "2026-11-16T21:01:13.357Z"
+    },
+    "steam:5239180:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5239180:permanent_free:1",
+      "store": "steam",
+      "productId": "5239180",
+      "generation": 1,
+      "title": "Threshold Zero",
+      "storeUrl": "https://store.steampowered.com/app/5239180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The game is made for PC, and will be released in stages, the first part clear to the end of Mission 1 (\"Signal Lost\"), will be totally free to play. DLC and other missions will be added if the game takes off. I'll discuss each of those openly with anyone on Discord or via the DLR Community.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Threshold Zero』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5239180/",
+        "attemptedAt": "2026-11-16T21:01:13.362Z",
+        "bufferPostId": "6afb6f19424f9447814b37fb",
+        "submittedAt": "2026-11-16T21:01:14.845Z",
+        "postedAt": "2026-11-16T21:01:14.845Z"
+      },
+      "bufferPostId": "6afb6f19424f9447814b37fb",
+      "postedAt": "2026-11-16T21:01:14.845Z"
+    },
+    "steam:5402310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5402310:permanent_free:1",
+      "store": "steam",
+      "productId": "5402310",
+      "generation": 1,
+      "title": "RemparZ",
+      "storeUrl": "https://store.steampowered.com/app/5402310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Medieval-fantasy tower defense: raise towers along the roads, upgrade them and hold through five Ages up to the dragons. Then send your army to storm forts held by the computer in the Conquest, defend a shared castle with a friend in Duo and grow your Bastion.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『RemparZ』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5402310/",
+        "attemptedAt": "2026-11-16T21:01:14.850Z",
+        "bufferPostId": "6afb6f1bba7bc29d96c91edc",
+        "submittedAt": "2026-11-16T21:01:16.420Z",
+        "postedAt": "2026-11-16T21:01:16.420Z"
+      },
+      "bufferPostId": "6afb6f1bba7bc29d96c91edc",
+      "postedAt": "2026-11-16T21:01:16.420Z"
+    },
+    "steam:5045330:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5045330:permanent_free:1",
+      "store": "steam",
+      "productId": "5045330",
+      "generation": 1,
+      "title": "DOTARIX",
+      "storeUrl": "https://store.steampowered.com/app/5045330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Make your way through levels packed with traps and puzzles, put your reflexes and wits to the test, and take on increasingly difficult challenges.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『DOTARIX』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5045330/",
+        "attemptedAt": "2026-11-16T21:01:16.426Z",
+        "bufferPostId": "6afb6f1cba7bc29d96c91fb5",
+        "submittedAt": "2026-11-16T21:01:17.877Z",
+        "postedAt": "2026-11-16T21:01:17.877Z"
+      },
+      "bufferPostId": "6afb6f1cba7bc29d96c91fb5",
+      "postedAt": "2026-11-16T21:01:17.877Z"
+    },
+    "steam:5249600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5249600:permanent_free:1",
+      "store": "steam",
+      "productId": "5249600",
+      "generation": 1,
+      "title": "Cappy-Barrage",
+      "storeUrl": "https://store.steampowered.com/app/5249600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "“Cappy-Barrage” is a fast-paced third-person shooter where you play as a capybara defending your forest home. Utilize fast, hyper-aggressive movement mechanics, along with a gun, to take back your home from the metal machines that have invaded it.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cappy-Barrage』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5249600/",
+        "attemptedAt": "2026-11-16T21:01:17.883Z",
+        "bufferPostId": "6afb6f1e9bf8f900343e560b",
+        "submittedAt": "2026-11-16T21:01:19.262Z",
+        "postedAt": "2026-11-16T21:01:19.262Z"
+      },
+      "bufferPostId": "6afb6f1e9bf8f900343e560b",
+      "postedAt": "2026-11-16T21:01:19.262Z"
+    },
+    "steam:1936110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:1936110:permanent_free:1",
+      "store": "steam",
+      "productId": "1936110",
+      "generation": 1,
+      "title": "Quantum Go",
+      "storeUrl": "https://store.steampowered.com/app/1936110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T21:01:09.959Z",
+      "lastSeenAt": "2026-11-16T21:01:09.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "一つの手から、いくつもの可能性へ。Quantum Goは囲碁に重ね合わせともつれを取り入れたオンライン対戦ゲームです。不確かな局面を読み、可能性の収束によって盤面が変わる、新しい囲碁を体験しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T21:01:09.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Quantum Go』\n✨ いつでも無料でプレイ\n\n一つの手から、いくつもの可能性へ。Quantum Goは囲碁に重ね合わせともつれを取り入れたオンライン対戦ゲームです。不確かな局面を読み、可能性の収束によって盤面が変わる、新しい囲碁を体験しまし…\n\nhttps://store.steampowered.com/app/1936110/",
+        "attemptedAt": "2026-11-16T21:01:19.274Z",
+        "bufferPostId": "6afb6f1fad3dda871ee5beae",
+        "submittedAt": "2026-11-16T21:01:20.894Z",
+        "postedAt": "2026-11-16T21:01:20.894Z"
+      },
+      "bufferPostId": "6afb6f1fad3dda871ee5beae",
+      "postedAt": "2026-11-16T21:01:20.894Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-16T18:01:09.149Z",
+    "lastSuccessfulScanAt": "2026-11-16T21:01:09.959Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19598,6 +19800,7 @@
       "1825840": "2026-11-07T12:38:12.800Z",
       "1868410": "2026-11-06T06:01:16.414Z",
       "1930320": "2026-10-25T00:01:08.164Z",
+      "1936110": "2026-11-16T21:01:09.959Z",
       "1965430": "2026-10-14T15:30:36.000Z",
       "1975300": "2026-11-16T00:01:12.496Z",
       "1979510": "2026-10-17T15:01:03.979Z",
@@ -19900,6 +20103,7 @@
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
       "5043860": "2026-10-21T00:01:08.212Z",
+      "5045330": "2026-11-16T21:01:09.959Z",
       "5048390": "2026-11-16T06:01:09.607Z",
       "5049260": "2026-11-10T12:01:08.585Z",
       "5049940": "2026-10-23T21:00:59.012Z",
@@ -19933,6 +20137,7 @@
       "5112180": "2026-10-27T06:01:12.023Z",
       "5114130": "2026-10-17T12:01:03.272Z",
       "5115590": "2026-10-18T06:01:03.221Z",
+      "5115660": "2026-11-16T21:01:09.959Z",
       "5117590": "2026-11-03T18:01:16.982Z",
       "5118700": "2026-10-16T18:01:10.079Z",
       "5120560": "2026-10-23T03:01:08.088Z",
@@ -20007,6 +20212,7 @@
       "5234140": "2026-11-03T18:01:16.982Z",
       "5238090": "2026-11-11T18:01:09.437Z",
       "5238690": "2026-10-30T18:01:08.710Z",
+      "5239180": "2026-11-16T21:01:09.959Z",
       "5239620": "2026-11-14T18:01:03.320Z",
       "5240500": "2026-11-16T12:06:11.307Z",
       "5241530": "2026-10-14T15:30:36.000Z",
@@ -20020,6 +20226,7 @@
       "5247120": "2026-11-06T06:01:16.414Z",
       "5249380": "2026-11-12T21:01:09.146Z",
       "5249390": "2026-10-14T15:30:36.000Z",
+      "5249600": "2026-11-16T21:01:09.959Z",
       "5250500": "2026-10-16T21:01:03.467Z",
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
@@ -20171,6 +20378,7 @@
       "5396440": "2026-11-11T09:01:07.205Z",
       "5397330": "2026-10-28T15:01:16.098Z",
       "5402200": "2026-10-30T15:01:09.322Z",
+      "5402310": "2026-11-16T21:01:09.959Z",
       "5402790": "2026-11-04T03:01:08.084Z",
       "5403440": "2026-11-14T09:01:05.364Z",
       "5405810": "2026-10-29T12:01:05.996Z",

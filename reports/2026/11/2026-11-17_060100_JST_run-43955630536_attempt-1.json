@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43955630536",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-16T21:01:00.033Z",
+    "finishedAt": "2026-11-16T21:01:20.905Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43955630536"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 21,
+    "verified": 6,
+    "newPromotions": 6,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5115660",
+      "title": "Left4Sol",
+      "storeUrl": "https://store.steampowered.com/app/5115660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115660/a75c912a07184a090a03fd63cba64af404f2e114/header.jpg?t=1794861842",
+      "officialDescription": "Hold the line alone or in four-player online co-op. Survive endless waves across six battlegrounds or fight through a 12-chapter campaign with 100+ weapons, perks, barricades, turrets, special infected, titan bosses, and the WUNDERSLIME."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5239180",
+      "title": "Threshold Zero",
+      "storeUrl": "https://store.steampowered.com/app/5239180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239180/88cb1ce3970b13901d4053c89e3d9cecf683295a/header.jpg?t=1794861155",
+      "officialDescription": "The game is made for PC, and will be released in stages, the first part clear to the end of Mission 1 (\"Signal Lost\"), will be totally free to play. DLC and other missions will be added if the game takes off. I'll discuss each of those openly with anyone on Discord or via the DLR Community."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5402310",
+      "title": "RemparZ",
+      "storeUrl": "https://store.steampowered.com/app/5402310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402310/28b11112bf368a6b49440445ac12f25b0f8fe9e9/header.jpg?t=1794860549",
+      "officialDescription": "Medieval-fantasy tower defense: raise towers along the roads, upgrade them and hold through five Ages up to the dragons. Then send your army to storm forts held by the computer in the Conquest, defend a shared castle with a friend in Duo and grow your Bastion."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5045330",
+      "title": "DOTARIX",
+      "storeUrl": "https://store.steampowered.com/app/5045330/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045330/bdc3593a8c30e25b43eb815d835e3ad8875275ff/header.jpg?t=1794600259",
+      "officialDescription": "Make your way through levels packed with traps and puzzles, put your reflexes and wits to the test, and take on increasingly difficult challenges."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5249600",
+      "title": "Cappy-Barrage",
+      "storeUrl": "https://store.steampowered.com/app/5249600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5249600/3bfb5b3b2e9a8e8fad29fd9708c71010451bd4e5/header.jpg?t=1794860508",
+      "officialDescription": "“Cappy-Barrage” is a fast-paced third-person shooter where you play as a capybara defending your forest home. Utilize fast, hyper-aggressive movement mechanics, along with a gun, to take back your home from the metal machines that have invaded it."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1936110",
+      "title": "Quantum Go",
+      "storeUrl": "https://store.steampowered.com/app/1936110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1936110/6d11862e74fa738379538eb7c0c6fdfbeb900264/header.jpg?t=1794765649",
+      "officialDescription": "一つの手から、いくつもの可能性へ。Quantum Goは囲碁に重ね合わせともつれを取り入れたオンライン対戦ゲームです。不確かな局面を読み、可能性の収束によって盤面が変わる、新しい囲碁を体験しましょう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5115660:permanent_free:1",
+      "productId": "5115660",
+      "title": "Left4Sol",
+      "status": "sent",
+      "bufferPostId": "6afb6f17614de19dc0777a63"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5239180:permanent_free:1",
+      "productId": "5239180",
+      "title": "Threshold Zero",
+      "status": "sent",
+      "bufferPostId": "6afb6f19424f9447814b37fb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5402310:permanent_free:1",
+      "productId": "5402310",
+      "title": "RemparZ",
+      "status": "sent",
+      "bufferPostId": "6afb6f1bba7bc29d96c91edc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5045330:permanent_free:1",
+      "productId": "5045330",
+      "title": "DOTARIX",
+      "status": "sent",
+      "bufferPostId": "6afb6f1cba7bc29d96c91fb5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5249600:permanent_free:1",
+      "productId": "5249600",
+      "title": "Cappy-Barrage",
+      "status": "sent",
+      "bufferPostId": "6afb6f1e9bf8f900343e560b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1936110:permanent_free:1",
+      "productId": "1936110",
+      "title": "Quantum Go",
+      "status": "sent",
+      "bufferPostId": "6afb6f1fad3dda871ee5beae"
+    }
+  ],
+  "errors": []
+}
