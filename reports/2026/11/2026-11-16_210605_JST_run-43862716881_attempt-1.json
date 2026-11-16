@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43862716881",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-16T12:06:05.599Z",
+    "finishedAt": "2026-11-16T12:06:18.271Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43862716881"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 6,
+    "newPromotions": 4,
+    "knownPromotions": 2,
+    "excluded": 14,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4102830",
+      "title": "Disc Treks",
+      "storeUrl": "https://store.steampowered.com/app/4102830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102830/b7d9d86273c514c713f90a6c128e0e0343c7e7a6/header.jpg?t=1794829075",
+      "officialDescription": "Disc Treks is a sandbox disc golf game with exploration, gathering, course modification and building. Intuitive physics-based gameplay that captures the feel of the disc flight."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4642040",
+      "title": "Youth Center Simulator",
+      "storeUrl": "https://store.steampowered.com/app/4642040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642040/302771045969e7e6f795d08eeddaddbd2602b430/header.jpg?t=1794829048",
+      "officialDescription": "Build up your youth center: Hire staff, develop facilities, write and join EU-funded projects, and grow your organization while handling unexpected events."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5240500",
+      "title": "永夜无期：光圈2号 Evernight Imperative: Iris 2",
+      "storeUrl": "https://store.steampowered.com/app/5240500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5240500/6d9f13fd49e5be79f2c08b0a17ddc9e73b505604/header.jpg?t=1794826605",
+      "officialDescription": "Evernight Imperative: Iris 2 is a free short-form sci-fi visual novel set in a far-future spacefaring civilization. Follow the crew, uncovering the truth behind unfolding events while navigating shifting relationships, conflicting perspectives, and difficult choices."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "1573870",
+      "title": "E-xode: ROM",
+      "storeUrl": "https://store.steampowered.com/app/1573870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573870/7741847f5f10481f5fbd64e6dafe9e33032ec92c/header.jpg?t=1794825904",
+      "officialDescription": "A real-time multiplayer 4X set in a persistent galaxy of 729 sectors. Mine the belts, build a fleet, and push past the secured frontier into lawless space where patrols never reach and pirate stations trade with anyone. The galaxy keeps running when you log off."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "949230",
+      "title": "Cities: Skylines II",
+      "storeUrl": "https://store.steampowered.com/app/949230/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 30,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/32fb7aeb36e9815a16e65b7c1bf2a4fdfa300764/header_alt_assets_9_japanese.jpg?t=1794506466",
+      "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
+      "tags": [
+        "街づくり",
+        "シミュレーション",
+        "建設",
+        "サンドボックス",
+        "管理",
+        "シングルプレイヤー",
+        "経済",
+        "ストラテジー",
+        "リアル",
+        "MOD導入可能",
+        "資源管理",
+        "リラックス",
+        "輸送",
+        "カジュアル",
+        "雰囲気",
+        "早期アクセス",
+        "オープンワールド",
+        "MOD",
+        "良質サントラ",
+        "精神的恐怖",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "2605790",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "storeUrl": "https://store.steampowered.com/app/2605790/",
+      "initialPrice": 340000,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794615194",
+      "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
+      "tags": [
+        "FPS",
+        "協力プレイ",
+        "ドワーフ",
+        "PvE",
+        "ローグライト",
+        "ローグライクアクション",
+        "シューティング",
+        "ペースの速い",
+        "アクション",
+        "コンバット",
+        "ファーストパーソン",
+        "オンライン協力プレイ",
+        "ホラー",
+        "マルチプレイヤー",
+        "SF",
+        "ダーク",
+        "キャラクターカスタマイズ",
+        "探検",
+        "ローグライク",
+        "早期アクセス",
+        "+"
+      ],
+      "startsAt": "2026-11-12T18:00:00.000Z",
+      "endsAt": "2026-11-16T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4102830:permanent_free:1",
+      "productId": "4102830",
+      "title": "Disc Treks",
+      "status": "sent",
+      "bufferPostId": "6afaf1b437f9e5273be67684"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4642040:permanent_free:1",
+      "productId": "4642040",
+      "title": "Youth Center Simulator",
+      "status": "sent",
+      "bufferPostId": "6afaf1b608eb28e26b01339d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5240500:permanent_free:1",
+      "productId": "5240500",
+      "title": "永夜无期：光圈2号 Evernight Imperative: Iris 2",
+      "status": "sent",
+      "bufferPostId": "6afaf1b7d2a6b9d4fcb4878a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1573870:permanent_free:1",
+      "productId": "1573870",
+      "title": "E-xode: ROM",
+      "status": "sent",
+      "bufferPostId": "6afaf1b991ba8aa74bd16649"
+    }
+  ],
+  "errors": []
+}
