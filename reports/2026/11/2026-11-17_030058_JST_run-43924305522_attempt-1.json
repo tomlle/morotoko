@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "43924305522",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-16T18:00:58.537Z",
+    "finishedAt": "2026-11-16T18:01:15.357Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/43924305522"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5465830",
+      "title": "Banner Age",
+      "storeUrl": "https://store.steampowered.com/app/5465830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465830/b540e00652df86c6e3b299a6b920fe73978ca21e/header.jpg?t=1794847210",
+      "officialDescription": "『Banner Age』は中世ファンタジーの世界を舞台にしたリアルタイムストラテジーゲームです。軍隊を編成し、時代を進化させ、タレントツリーで部隊を強化。オンラインのプレイヤーやAIと戦い、自軍の軍旗を守りながら敵の軍旗を破壊しましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5515850",
+      "title": "Gramps & Whiskers",
+      "storeUrl": "https://store.steampowered.com/app/5515850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515850/98150374d1cf28f2404bb63d846e0f0cdbafb0e6/header.jpg?t=1794851567",
+      "officialDescription": "気難しい老漁師が、あなたのWindowsタスクバーに座って釣りをしながら作業に付き合ってくれます。飼い猫はウィンドウをよじ登り、おじいちゃんのひざで昼寝をし、釣った魚をくすねます。おじいちゃんが釣り上げた帽子や道具で、ふたりを着せ替えましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2415210",
+      "title": "Okey Online",
+      "storeUrl": "https://store.steampowered.com/app/2415210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2415210/948275fc41da3932acfc8d756a4af4e4ff0765d2/header.jpg?t=1794760579",
+      "officialDescription": "Okey Online is a Free-to-Play take on the beloved Turkish tile game. Play online with friends or bots in cozy 3D rooms, seated as your own avatar behind a custom ıstaka. Chat by voice, fire off emotes, slap a rival who stalls, and earn titles as you level up."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5465830:permanent_free:1",
+      "productId": "5465830",
+      "title": "Banner Age",
+      "status": "sent",
+      "bufferPostId": "6afb44e6d2971d5b1dc2d25b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5515850:permanent_free:1",
+      "productId": "5515850",
+      "title": "Gramps & Whiskers",
+      "status": "sent",
+      "bufferPostId": "6afb44e8ca12ef5afd65126b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2415210:permanent_free:1",
+      "productId": "2415210",
+      "title": "Okey Online",
+      "status": "sent",
+      "bufferPostId": "6afb44ea9251db550b845924"
+    }
+  ],
+  "errors": []
+}

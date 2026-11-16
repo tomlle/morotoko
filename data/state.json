@@ -2229,6 +2229,18 @@
     "steam:5262190:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5262190:permanent_free:1"
+    },
+    "steam:5465830:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5465830:permanent_free:1"
+    },
+    "steam:5515850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5515850:permanent_free:1"
+    },
+    "steam:2415210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2415210:permanent_free:1"
     }
   },
   "campaigns": {
@@ -16985,7 +16997,7 @@
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
       "lastSeenAt": "2026-11-16T15:01:09.079Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "ゼロから都市を建設し、大都市へと発展させましょう。緻密なシミュレーションと移り変わる経済で、創造性と問題解決能力を試しましょう。「Cities: Skylines II」のマップがお待ちしています。想像できれば、創造することができます。",
@@ -17052,7 +17064,7 @@
       "firstSeenAt": "2026-11-12T18:01:08.650Z",
       "lastSeenAt": "2026-11-16T15:01:09.079Z",
       "active": true,
-      "consecutiveMisses": 0,
+      "consecutiveMisses": 1,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "DEEP ROCK GALACTIC: ROGUE COREは1～4人プレイヤーの協力FPSアクションローグライトゲーム。SF世界のドワーフ、エイリアンの恐怖、自動生成される洞窟といった要素を備えています。ドワーフの精鋭部隊「リクレイマー」に加わり、危険なコアスポーンで満ちた採掘施設を突き進みましょう。ROCK AND STONE！",
@@ -19474,11 +19486,101 @@
       },
       "bufferPostId": "6afb1ab775345b4eae963a5f",
       "postedAt": "2026-11-16T15:01:12.384Z"
+    },
+    "steam:5465830:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5465830:permanent_free:1",
+      "store": "steam",
+      "productId": "5465830",
+      "generation": 1,
+      "title": "Banner Age",
+      "storeUrl": "https://store.steampowered.com/app/5465830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T18:01:09.149Z",
+      "lastSeenAt": "2026-11-16T18:01:09.149Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Banner Age』は中世ファンタジーの世界を舞台にしたリアルタイムストラテジーゲームです。軍隊を編成し、時代を進化させ、タレントツリーで部隊を強化。オンラインのプレイヤーやAIと戦い、自軍の軍旗を守りながら敵の軍旗を破壊しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T18:01:09.149Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Banner Age』\n✨ いつでも無料でプレイ\n\n『Banner Age』は中世ファンタジーの世界を舞台にしたリアルタイムストラテジーゲームです。軍隊を編成し、時代を進化させ、タレントツリーで部隊を強化。オンラインのプレイヤーやAIと戦い、自軍の…\n\nhttps://store.steampowered.com/app/5465830/",
+        "attemptedAt": "2026-11-16T18:01:10.420Z",
+        "bufferPostId": "6afb44e6d2971d5b1dc2d25b",
+        "submittedAt": "2026-11-16T18:01:11.995Z",
+        "postedAt": "2026-11-16T18:01:11.995Z"
+      },
+      "bufferPostId": "6afb44e6d2971d5b1dc2d25b",
+      "postedAt": "2026-11-16T18:01:11.995Z"
+    },
+    "steam:5515850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5515850:permanent_free:1",
+      "store": "steam",
+      "productId": "5515850",
+      "generation": 1,
+      "title": "Gramps & Whiskers",
+      "storeUrl": "https://store.steampowered.com/app/5515850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T18:01:09.149Z",
+      "lastSeenAt": "2026-11-16T18:01:09.149Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "気難しい老漁師が、あなたのWindowsタスクバーに座って釣りをしながら作業に付き合ってくれます。飼い猫はウィンドウをよじ登り、おじいちゃんのひざで昼寝をし、釣った魚をくすねます。おじいちゃんが釣り上げた帽子や道具で、ふたりを着せ替えましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T18:01:09.149Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gramps & Whiskers』\n✨ いつでも無料でプレイ\n\n気難しい老漁師が、あなたのWindowsタスクバーに座って釣りをしながら作業に付き合ってくれます。飼い猫はウィンドウをよじ登り、おじいちゃんのひざで昼寝をし、釣った魚をくすねます。おじ…\n\nhttps://store.steampowered.com/app/5515850/",
+        "attemptedAt": "2026-11-16T18:01:12.005Z",
+        "bufferPostId": "6afb44e8ca12ef5afd65126b",
+        "submittedAt": "2026-11-16T18:01:14.081Z",
+        "postedAt": "2026-11-16T18:01:14.081Z"
+      },
+      "bufferPostId": "6afb44e8ca12ef5afd65126b",
+      "postedAt": "2026-11-16T18:01:14.081Z"
+    },
+    "steam:2415210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2415210:permanent_free:1",
+      "store": "steam",
+      "productId": "2415210",
+      "generation": 1,
+      "title": "Okey Online",
+      "storeUrl": "https://store.steampowered.com/app/2415210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-16T18:01:09.149Z",
+      "lastSeenAt": "2026-11-16T18:01:09.149Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Okey Online is a Free-to-Play take on the beloved Turkish tile game. Play online with friends or bots in cozy 3D rooms, seated as your own avatar behind a custom ıstaka. Chat by voice, fire off emotes, slap a rival who stalls, and earn titles as you level up.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-16T18:01:09.149Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Okey Online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2415210/",
+        "attemptedAt": "2026-11-16T18:01:14.090Z",
+        "bufferPostId": "6afb44ea9251db550b845924",
+        "submittedAt": "2026-11-16T18:01:15.339Z",
+        "postedAt": "2026-11-16T18:01:15.339Z"
+      },
+      "bufferPostId": "6afb44ea9251db550b845924",
+      "postedAt": "2026-11-16T18:01:15.339Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-16T15:01:09.079Z",
+    "lastSuccessfulScanAt": "2026-11-16T18:01:09.149Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -19504,6 +19606,7 @@
       "2331730": "2026-10-14T15:30:36.000Z",
       "2350690": "2026-11-11T03:01:13.820Z",
       "2365370": "2026-11-14T12:01:04.545Z",
+      "2415210": "2026-11-16T18:01:09.149Z",
       "2415710": "2026-10-30T12:01:07.408Z",
       "2460020": "2026-11-06T06:01:16.414Z",
       "2488560": "2026-10-22T21:01:15.937Z",
@@ -20106,6 +20209,7 @@
       "5464210": "2026-11-11T12:01:11.916Z",
       "5464240": "2026-11-06T06:01:16.414Z",
       "5465230": "2026-11-06T06:01:16.414Z",
+      "5465830": "2026-11-16T18:01:09.149Z",
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
       "5468140": "2026-11-12T06:01:04.893Z",
@@ -20126,7 +20230,8 @@
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
       "5502850": "2026-11-11T15:01:08.794Z",
-      "5512840": "2026-11-15T09:01:06.193Z"
+      "5512840": "2026-11-15T09:01:06.193Z",
+      "5515850": "2026-11-16T18:01:09.149Z"
     }
   }
 }
