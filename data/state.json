@@ -2287,6 +2287,10 @@
     "steam:5295460:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5295460:permanent_free:1"
+    },
+    "steam:4498540:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4498540:permanent_free:1"
     }
   },
   "campaigns": {
@@ -19982,11 +19986,41 @@
       },
       "bufferPostId": "6afc17d410136223625509dc",
       "postedAt": "2026-11-17T09:01:09.795Z"
+    },
+    "steam:4498540:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4498540:permanent_free:1",
+      "store": "steam",
+      "productId": "4498540",
+      "generation": 1,
+      "title": "Spooky's Playground",
+      "storeUrl": "https://store.steampowered.com/app/4498540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T12:01:14.416Z",
+      "lastSeenAt": "2026-11-17T12:01:14.416Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Spooky's Playground is an arcade-inspired Score Attack physics sandbox game where wreaking havoc is rewarded! Complete challenges, find secrets and perfect your scores with each new run!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T12:01:14.416Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Spooky's Playground』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4498540/",
+        "attemptedAt": "2026-11-17T12:01:16.273Z",
+        "bufferPostId": "6afc420c6d6484cf6f18e7f3",
+        "submittedAt": "2026-11-17T12:01:17.755Z",
+        "postedAt": "2026-11-17T12:01:17.755Z"
+      },
+      "bufferPostId": "6afc420c6d6484cf6f18e7f3",
+      "postedAt": "2026-11-17T12:01:17.755Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T09:01:05.156Z",
+    "lastSuccessfulScanAt": "2026-11-17T12:01:14.416Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20135,6 +20169,7 @@
       "4491130": "2026-10-19T03:01:01.402Z",
       "4492040": "2026-10-30T15:01:09.322Z",
       "4492590": "2026-11-06T06:01:16.414Z",
+      "4498540": "2026-11-17T12:01:14.416Z",
       "4513920": "2026-11-06T06:01:16.414Z",
       "4522380": "2026-10-24T06:01:02.274Z",
       "4527880": "2026-10-22T18:01:09.344Z",
