@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44143187211",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-17T18:00:57.677Z",
+    "finishedAt": "2026-11-17T18:01:15.296Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44143187211"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5507480",
+      "title": "Maglev Driver",
+      "storeUrl": "https://store.steampowered.com/app/5507480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507480/0ea6357715ecaab8dff6f2d4ed81f6a93f062bbb/header.jpg?t=1794938356",
+      "officialDescription": "Drive Japan’s superconducting maglevs at up to 603 km/h. Break speed records, run timetabled passenger services, handle emergencies at speed, or head out trackside as a spotter."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3046540",
+      "title": "10 Second Mixtape",
+      "storeUrl": "https://store.steampowered.com/app/3046540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046540/627068ae2aa3a7df5c1312d3d20c72acc4f44cb2/header.jpg?t=1794927689",
+      "officialDescription": "インターネット越しに、みんなで小さな音楽を作ろう！非同期で気軽に共同制作できる、創造力をくすぐる癒やし系ゲームです。ヘンテコな楽器で自分だけの曲を作るもよし、のんびりしながら、ほかのプレイヤーたちのバンドが舞台に上がるのを楽しむもよし！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4910940",
+      "title": "High Level Alchemy: Scenarios",
+      "storeUrl": "https://store.steampowered.com/app/4910940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4910940/fb3743d57a996147e9a28f47121ef0f30c20bee2/header.jpg?t=1794877151",
+      "officialDescription": "An anthology of action and slice-of-life short stories, following a group of not-so-\"good\" Alchemists, navigating brutal and bloody battles and the messy reality of living alongside each other."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5507480:permanent_free:1",
+      "productId": "5507480",
+      "title": "Maglev Driver",
+      "status": "sent",
+      "bufferPostId": "6afc966676241fcf0c6789de"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3046540:permanent_free:1",
+      "productId": "3046540",
+      "title": "10 Second Mixtape",
+      "status": "sent",
+      "bufferPostId": "6afc96681521a8d0229180a5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4910940:permanent_free:1",
+      "productId": "4910940",
+      "title": "High Level Alchemy: Scenarios",
+      "status": "sent",
+      "bufferPostId": "6afc96695689ca43c10c4ea0"
+    }
+  ],
+  "errors": []
+}

@@ -2303,6 +2303,18 @@
     "steam:5151020:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5151020:permanent_free:1"
+    },
+    "steam:5507480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5507480:permanent_free:1"
+    },
+    "steam:3046540:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3046540:permanent_free:1"
+    },
+    "steam:4910940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4910940:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20118,11 +20130,101 @@
       },
       "bufferPostId": "6afc6c3e865468accabbef83",
       "postedAt": "2026-11-17T15:01:19.501Z"
+    },
+    "steam:5507480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5507480:permanent_free:1",
+      "store": "steam",
+      "productId": "5507480",
+      "generation": 1,
+      "title": "Maglev Driver",
+      "storeUrl": "https://store.steampowered.com/app/5507480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T18:01:08.800Z",
+      "lastSeenAt": "2026-11-17T18:01:08.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Drive Japan’s superconducting maglevs at up to 603 km/h. Break speed records, run timetabled passenger services, handle emergencies at speed, or head out trackside as a spotter.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T18:01:08.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Maglev Driver』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5507480/",
+        "attemptedAt": "2026-11-17T18:01:10.675Z",
+        "bufferPostId": "6afc966676241fcf0c6789de",
+        "submittedAt": "2026-11-17T18:01:12.155Z",
+        "postedAt": "2026-11-17T18:01:12.156Z"
+      },
+      "bufferPostId": "6afc966676241fcf0c6789de",
+      "postedAt": "2026-11-17T18:01:12.156Z"
+    },
+    "steam:3046540:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3046540:permanent_free:1",
+      "store": "steam",
+      "productId": "3046540",
+      "generation": 1,
+      "title": "10 Second Mixtape",
+      "storeUrl": "https://store.steampowered.com/app/3046540/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T18:01:08.800Z",
+      "lastSeenAt": "2026-11-17T18:01:08.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "インターネット越しに、みんなで小さな音楽を作ろう！非同期で気軽に共同制作できる、創造力をくすぐる癒やし系ゲームです。ヘンテコな楽器で自分だけの曲を作るもよし、のんびりしながら、ほかのプレイヤーたちのバンドが舞台に上がるのを楽しむもよし！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T18:01:08.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『10 Second Mixtape』\n✨ いつでも無料でプレイ\n\nインターネット越しに、みんなで小さな音楽を作ろう！非同期で気軽に共同制作できる、創造力をくすぐる癒やし系ゲームです。ヘンテコな楽器で自分だけの曲を作るもよし、のんびりしながら、…\n\nhttps://store.steampowered.com/app/3046540/",
+        "attemptedAt": "2026-11-17T18:01:12.168Z",
+        "bufferPostId": "6afc96681521a8d0229180a5",
+        "submittedAt": "2026-11-17T18:01:13.591Z",
+        "postedAt": "2026-11-17T18:01:13.592Z"
+      },
+      "bufferPostId": "6afc96681521a8d0229180a5",
+      "postedAt": "2026-11-17T18:01:13.592Z"
+    },
+    "steam:4910940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4910940:permanent_free:1",
+      "store": "steam",
+      "productId": "4910940",
+      "generation": 1,
+      "title": "High Level Alchemy: Scenarios",
+      "storeUrl": "https://store.steampowered.com/app/4910940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T18:01:08.800Z",
+      "lastSeenAt": "2026-11-17T18:01:08.800Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An anthology of action and slice-of-life short stories, following a group of not-so-\"good\" Alchemists, navigating brutal and bloody battles and the messy reality of living alongside each other.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T18:01:08.800Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『High Level Alchemy: Scenarios』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4910940/",
+        "attemptedAt": "2026-11-17T18:01:13.597Z",
+        "bufferPostId": "6afc96695689ca43c10c4ea0",
+        "submittedAt": "2026-11-17T18:01:15.277Z",
+        "postedAt": "2026-11-17T18:01:15.277Z"
+      },
+      "bufferPostId": "6afc96695689ca43c10c4ea0",
+      "postedAt": "2026-11-17T18:01:15.277Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T15:01:11.620Z",
+    "lastSuccessfulScanAt": "2026-11-17T18:01:08.800Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20165,6 +20267,7 @@
       "2982680": "2026-10-27T00:01:18.126Z",
       "2986590": "2026-10-31T09:00:59.059Z",
       "3017040": "2026-11-01T21:01:00.687Z",
+      "3046540": "2026-11-17T18:01:08.800Z",
       "3063380": "2026-10-28T06:01:11.657Z",
       "3081070": "2026-11-09T18:01:24.470Z",
       "3120010": "2026-10-30T03:01:09.846Z",
@@ -20376,6 +20479,7 @@
       "4908770": "2026-11-11T12:01:11.916Z",
       "4910040": "2026-11-06T06:01:16.414Z",
       "4910060": "2026-10-20T09:01:01.492Z",
+      "4910940": "2026-11-17T18:01:08.800Z",
       "4911480": "2026-11-13T09:01:08.396Z",
       "4914650": "2026-11-10T18:01:39.865Z",
       "4914750": "2026-11-06T06:01:16.414Z",
@@ -20787,6 +20891,7 @@
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
       "5502850": "2026-11-11T15:01:08.794Z",
+      "5507480": "2026-11-17T18:01:08.800Z",
       "5512840": "2026-11-15T09:01:06.193Z",
       "5515850": "2026-11-16T18:01:09.149Z",
       "5541800": "2026-11-17T09:01:05.156Z"
