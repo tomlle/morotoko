@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44175268587",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-17T21:00:59.264Z",
+    "finishedAt": "2026-11-17T21:01:10.606Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44175268587"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 16,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4788590",
+      "title": "Tile Conquest",
+      "storeUrl": "https://store.steampowered.com/app/4788590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788590/8d88e5237a36f24ac696bf4c4db8cd5175eebbcf/header.jpg?t=1794855651",
+      "officialDescription": "Tile Conquest is a turn-based tile area control strategy game. Compete in online multiplayer or fight against advanced bots. Claim territory and dominate the map in multiple win conditions. Win matches to climb the ranked leaderboards, earn exclusive rewards, and unlock items in the shop."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4788590:permanent_free:1",
+      "productId": "4788590",
+      "title": "Tile Conquest",
+      "status": "sent",
+      "bufferPostId": "6afcc095b3721c6a00ca0aed"
+    }
+  ],
+  "errors": []
+}

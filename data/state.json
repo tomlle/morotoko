@@ -2315,6 +2315,10 @@
     "steam:4910940:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4910940:permanent_free:1"
+    },
+    "steam:4788590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4788590:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20220,11 +20224,41 @@
       },
       "bufferPostId": "6afc96695689ca43c10c4ea0",
       "postedAt": "2026-11-17T18:01:15.277Z"
+    },
+    "steam:4788590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4788590:permanent_free:1",
+      "store": "steam",
+      "productId": "4788590",
+      "generation": 1,
+      "title": "Tile Conquest",
+      "storeUrl": "https://store.steampowered.com/app/4788590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T21:01:07.295Z",
+      "lastSeenAt": "2026-11-17T21:01:07.295Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Tile Conquest is a turn-based tile area control strategy game. Compete in online multiplayer or fight against advanced bots. Claim territory and dominate the map in multiple win conditions. Win matches to climb the ranked leaderboards, earn exclusive rewards, and unlock items in the shop.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T21:01:07.295Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tile Conquest』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4788590/",
+        "attemptedAt": "2026-11-17T21:01:09.115Z",
+        "bufferPostId": "6afcc095b3721c6a00ca0aed",
+        "submittedAt": "2026-11-17T21:01:10.589Z",
+        "postedAt": "2026-11-17T21:01:10.589Z"
+      },
+      "bufferPostId": "6afcc095b3721c6a00ca0aed",
+      "postedAt": "2026-11-17T21:01:10.589Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T18:01:08.800Z",
+    "lastSuccessfulScanAt": "2026-11-17T21:01:07.295Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20435,6 +20469,7 @@
       "4773930": "2026-10-23T03:01:08.088Z",
       "4775990": "2026-10-24T00:01:05.299Z",
       "4776360": "2026-11-02T06:01:05.538Z",
+      "4788590": "2026-11-17T21:01:07.295Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
