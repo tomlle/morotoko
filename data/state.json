@@ -2267,6 +2267,14 @@
     "steam:5300950:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5300950:permanent_free:1"
+    },
+    "steam:5255210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5255210:permanent_free:1"
+    },
+    "steam:5451420:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5451420:permanent_free:1"
     }
   },
   "campaigns": {
@@ -19812,11 +19820,71 @@
       },
       "bufferPostId": "6afbc37a797935b975d950bc",
       "postedAt": "2026-11-17T03:01:15.907Z"
+    },
+    "steam:5255210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5255210:permanent_free:1",
+      "store": "steam",
+      "productId": "5255210",
+      "generation": 1,
+      "title": "Tactics Arena",
+      "storeUrl": "https://store.steampowered.com/app/5255210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T06:01:08.190Z",
+      "lastSeenAt": "2026-11-17T06:01:08.190Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Tactics Arena is a free-to-play turn-based strategy game where every move matters. Build your squad, master positioning and facing, challenge players or unique AI opponents, climb the ratings, solve tactical puzzles, and replay battles to refine your strategy.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T06:01:08.190Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tactics Arena』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5255210/",
+        "attemptedAt": "2026-11-17T06:01:09.267Z",
+        "bufferPostId": "6afbeda5f83aaca8f3b24a28",
+        "submittedAt": "2026-11-17T06:01:10.626Z",
+        "postedAt": "2026-11-17T06:01:10.627Z"
+      },
+      "bufferPostId": "6afbeda5f83aaca8f3b24a28",
+      "postedAt": "2026-11-17T06:01:10.627Z"
+    },
+    "steam:5451420:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5451420:permanent_free:1",
+      "store": "steam",
+      "productId": "5451420",
+      "generation": 1,
+      "title": "Murder Mystery Online",
+      "storeUrl": "https://store.steampowered.com/app/5451420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T06:01:08.190Z",
+      "lastSeenAt": "2026-11-17T06:01:08.190Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A first-person 3D online murder mystery for you and your friends. Each player takes a role, walks the same crime scene, hunts for clues, and argues their way to the truth. Start with a free case. For paid episodes, one player buys and the whole group joins.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T06:01:08.190Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Murder Mystery Online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5451420/",
+        "attemptedAt": "2026-11-17T06:01:10.632Z",
+        "bufferPostId": "6afbeda63e42cd001e57073e",
+        "submittedAt": "2026-11-17T06:01:11.937Z",
+        "postedAt": "2026-11-17T06:01:11.937Z"
+      },
+      "bufferPostId": "6afbeda63e42cd001e57073e",
+      "postedAt": "2026-11-17T06:01:11.937Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T03:01:12.655Z",
+    "lastSuccessfulScanAt": "2026-11-17T06:01:08.190Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20265,6 +20333,7 @@
       "5252490": "2026-10-15T12:01:04.044Z",
       "5252510": "2026-10-14T15:30:36.000Z",
       "5254090": "2026-10-23T18:01:08.113Z",
+      "5255210": "2026-11-17T06:01:08.190Z",
       "5255280": "2026-10-14T15:30:36.000Z",
       "5256250": "2026-10-28T18:01:10.127Z",
       "5256770": "2026-10-16T15:01:11.993Z",
@@ -20443,6 +20512,7 @@
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
       "5450430": "2026-11-12T00:01:14.122Z",
+      "5451420": "2026-11-17T06:01:08.190Z",
       "5454740": "2026-11-15T18:01:15.376Z",
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",
