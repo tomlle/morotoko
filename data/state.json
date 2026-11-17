@@ -2275,6 +2275,18 @@
     "steam:5451420:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5451420:permanent_free:1"
+    },
+    "steam:5541800:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5541800:permanent_free:1"
+    },
+    "steam:5494850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5494850:permanent_free:1"
+    },
+    "steam:5295460:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5295460:permanent_free:1"
     }
   },
   "campaigns": {
@@ -19880,11 +19892,101 @@
       },
       "bufferPostId": "6afbeda63e42cd001e57073e",
       "postedAt": "2026-11-17T06:01:11.937Z"
+    },
+    "steam:5541800:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5541800:permanent_free:1",
+      "store": "steam",
+      "productId": "5541800",
+      "generation": 1,
+      "title": "Summer, Youth, and Baseball",
+      "storeUrl": "https://store.steampowered.com/app/5541800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T09:01:05.156Z",
+      "lastSeenAt": "2026-11-17T09:01:05.156Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ボールを打ち、歓声を集めてエンディングへ向かう、短いインクリメンタル野球ゲーム。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T09:01:05.156Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Summer, Youth, and Baseball』\n✨ いつでも無料でプレイ\n\nボールを打ち、歓声を集めてエンディングへ向かう、短いインクリメンタル野球ゲーム。\n\nhttps://store.steampowered.com/app/5541800/",
+        "attemptedAt": "2026-11-17T09:01:05.568Z",
+        "bufferPostId": "6afc17d17974b4805639ca0c",
+        "submittedAt": "2026-11-17T09:01:06.864Z",
+        "postedAt": "2026-11-17T09:01:06.864Z"
+      },
+      "bufferPostId": "6afc17d17974b4805639ca0c",
+      "postedAt": "2026-11-17T09:01:06.864Z"
+    },
+    "steam:5494850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5494850:permanent_free:1",
+      "store": "steam",
+      "productId": "5494850",
+      "generation": 1,
+      "title": "Age of Me",
+      "storeUrl": "https://store.steampowered.com/app/5494850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T09:01:05.156Z",
+      "lastSeenAt": "2026-11-17T09:01:05.156Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An idle civilization game for desktop and mobile. From your first settlement to distant worlds, every discovery brings a new possibility. Build, research, and expand in an idle game designed for desktop and mobile, with offline production that keeps your civilization growing between visits.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T09:01:05.156Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Age of Me』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5494850/",
+        "attemptedAt": "2026-11-17T09:01:06.872Z",
+        "bufferPostId": "6afc17d3dfcbde96ef714916",
+        "submittedAt": "2026-11-17T09:01:08.141Z",
+        "postedAt": "2026-11-17T09:01:08.141Z"
+      },
+      "bufferPostId": "6afc17d3dfcbde96ef714916",
+      "postedAt": "2026-11-17T09:01:08.141Z"
+    },
+    "steam:5295460:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5295460:permanent_free:1",
+      "store": "steam",
+      "productId": "5295460",
+      "generation": 1,
+      "title": "Gamejam",
+      "storeUrl": "https://store.steampowered.com/app/5295460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T09:01:05.156Z",
+      "lastSeenAt": "2026-11-17T09:01:05.156Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free, growing shelf of small handmade games in one app, from action roguelikes to sandboxes and real-time strategy. New games arrive right in the app, and every one plays with a controller or at the keyboard. Pick a game and be playing in seconds.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T09:01:05.156Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Gamejam』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5295460/",
+        "attemptedAt": "2026-11-17T09:01:08.148Z",
+        "bufferPostId": "6afc17d410136223625509dc",
+        "submittedAt": "2026-11-17T09:01:09.795Z",
+        "postedAt": "2026-11-17T09:01:09.795Z"
+      },
+      "bufferPostId": "6afc17d410136223625509dc",
+      "postedAt": "2026-11-17T09:01:09.795Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T06:01:08.190Z",
+    "lastSuccessfulScanAt": "2026-11-17T09:01:05.156Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20381,6 +20483,7 @@
       "5293850": "2026-11-10T09:01:12.446Z",
       "5294050": "2026-10-14T15:30:36.000Z",
       "5294230": "2026-11-13T15:01:22.449Z",
+      "5295460": "2026-11-17T09:01:05.156Z",
       "5299150": "2026-10-14T15:30:36.000Z",
       "5299840": "2026-10-28T06:01:11.657Z",
       "5300300": "2026-11-14T21:01:09.395Z",
@@ -20538,13 +20641,15 @@
       "5487820": "2026-11-14T06:01:15.741Z",
       "5490450": "2026-11-15T00:01:05.244Z",
       "5490870": "2026-11-08T06:01:05.672Z",
+      "5494850": "2026-11-17T09:01:05.156Z",
       "5496510": "2026-11-13T00:01:07.533Z",
       "5498810": "2026-11-09T12:01:11.937Z",
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
       "5502850": "2026-11-11T15:01:08.794Z",
       "5512840": "2026-11-15T09:01:06.193Z",
-      "5515850": "2026-11-16T18:01:09.149Z"
+      "5515850": "2026-11-16T18:01:09.149Z",
+      "5541800": "2026-11-17T09:01:05.156Z"
     }
   }
 }

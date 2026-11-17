@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44051625748",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-17T09:00:56.822Z",
+    "finishedAt": "2026-11-17T09:01:09.822Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44051625748"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5541800",
+      "title": "Summer, Youth, and Baseball",
+      "storeUrl": "https://store.steampowered.com/app/5541800/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5541800/1a0db1f150d37c3378205d05919736955e78e876/header.jpg?t=1794903065",
+      "officialDescription": "ボールを打ち、歓声を集めてエンディングへ向かう、短いインクリメンタル野球ゲーム。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5494850",
+      "title": "Age of Me",
+      "storeUrl": "https://store.steampowered.com/app/5494850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494850/be43041553538d10bad9991b6ec37f2421cf829d/header.jpg?t=1794902904",
+      "officialDescription": "An idle civilization game for desktop and mobile. From your first settlement to distant worlds, every discovery brings a new possibility. Build, research, and expand in an idle game designed for desktop and mobile, with offline production that keeps your civilization growing between visits."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5295460",
+      "title": "Gamejam",
+      "storeUrl": "https://store.steampowered.com/app/5295460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295460/014c437544816c2ed5e553ba6b1c58056962d3fb/header.jpg?t=1794816299",
+      "officialDescription": "A free, growing shelf of small handmade games in one app, from action roguelikes to sandboxes and real-time strategy. New games arrive right in the app, and every one plays with a controller or at the keyboard. Pick a game and be playing in seconds."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5541800:permanent_free:1",
+      "productId": "5541800",
+      "title": "Summer, Youth, and Baseball",
+      "status": "sent",
+      "bufferPostId": "6afc17d17974b4805639ca0c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5494850:permanent_free:1",
+      "productId": "5494850",
+      "title": "Age of Me",
+      "status": "sent",
+      "bufferPostId": "6afc17d3dfcbde96ef714916"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5295460:permanent_free:1",
+      "productId": "5295460",
+      "title": "Gamejam",
+      "status": "sent",
+      "bufferPostId": "6afc17d410136223625509dc"
+    }
+  ],
+  "errors": []
+}
