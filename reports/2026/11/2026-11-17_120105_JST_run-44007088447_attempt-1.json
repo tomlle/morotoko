@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44007088447",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-17T03:01:05.390Z",
+    "finishedAt": "2026-11-17T03:01:15.925Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44007088447"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 16,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5300950",
+      "title": "Helbreath Mystic Tavern Classic",
+      "storeUrl": "https://store.steampowered.com/app/5300950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300950/c2eb79a1e0664edf7cbe3a1d7cd147a1538f731a/header.jpg?t=1794875333",
+      "officialDescription": "Rise, level up, and arm yourself for an endless war between two rival nations. Choose your allegiance and carve a path of destruction through your enemies in this reimagined and customized world of Helbreath."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5300950:permanent_free:1",
+      "productId": "5300950",
+      "title": "Helbreath Mystic Tavern Classic",
+      "status": "sent",
+      "bufferPostId": "6afbc37a797935b975d950bc"
+    }
+  ],
+  "errors": []
+}
