@@ -2291,6 +2291,18 @@
     "steam:4498540:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4498540:permanent_free:1"
+    },
+    "steam:5486590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5486590:permanent_free:1"
+    },
+    "steam:4905760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4905760:permanent_free:1"
+    },
+    "steam:5151020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5151020:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20016,11 +20028,101 @@
       },
       "bufferPostId": "6afc420c6d6484cf6f18e7f3",
       "postedAt": "2026-11-17T12:01:17.755Z"
+    },
+    "steam:5486590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5486590:permanent_free:1",
+      "store": "steam",
+      "productId": "5486590",
+      "generation": 1,
+      "title": "Tryll Colony",
+      "storeUrl": "https://store.steampowered.com/app/5486590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T15:01:11.620Z",
+      "lastSeenAt": "2026-11-17T15:01:11.620Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A medieval colony sim where every villager talks back. Guide a small village through harsh seasons and speak to your settlers in your own words, by text or by voice. They remember, haggle, gossip and hold you to your promises. All AI runs locally on your PC.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T15:01:11.620Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tryll Colony』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5486590/",
+        "attemptedAt": "2026-11-17T15:01:14.186Z",
+        "bufferPostId": "6afc6c3ad1e5be30a5505a7c",
+        "submittedAt": "2026-11-17T15:01:16.269Z",
+        "postedAt": "2026-11-17T15:01:16.269Z"
+      },
+      "bufferPostId": "6afc6c3ad1e5be30a5505a7c",
+      "postedAt": "2026-11-17T15:01:16.269Z"
+    },
+    "steam:4905760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4905760:permanent_free:1",
+      "store": "steam",
+      "productId": "4905760",
+      "generation": 1,
+      "title": "Spin Ball",
+      "storeUrl": "https://store.steampowered.com/app/4905760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T15:01:11.620Z",
+      "lastSeenAt": "2026-11-17T15:01:11.620Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Spin Ball is a fast-paced 2D physics sports game. Swing your arms and legs to slap the ball, master angles and momentum, and score in local 1-4 player chaos. Play a 50+ level campaign, PvP, and party modes, with a handicap system that keeps matches fair no matter the skill gap.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T15:01:11.620Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Spin Ball』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4905760/",
+        "attemptedAt": "2026-11-17T15:01:16.275Z",
+        "bufferPostId": "6afc6c3cf319214706db1427",
+        "submittedAt": "2026-11-17T15:01:18.059Z",
+        "postedAt": "2026-11-17T15:01:18.059Z"
+      },
+      "bufferPostId": "6afc6c3cf319214706db1427",
+      "postedAt": "2026-11-17T15:01:18.059Z"
+    },
+    "steam:5151020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5151020:permanent_free:1",
+      "store": "steam",
+      "productId": "5151020",
+      "generation": 1,
+      "title": "Aleryos : Le Réveil des Monarques",
+      "storeUrl": "https://store.steampowered.com/app/5151020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-17T15:01:11.620Z",
+      "lastSeenAt": "2026-11-17T15:01:11.620Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Aleryos is a free-to-play persistent space strategy MMO. Develop your planets, design fleets, master the Pillars, confront rival players and PvE threats, and build an alliance powerful enough to dominate the galaxy.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-17T15:01:11.620Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Aleryos : Le Réveil des Monarques』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5151020/",
+        "attemptedAt": "2026-11-17T15:01:18.065Z",
+        "bufferPostId": "6afc6c3e865468accabbef83",
+        "submittedAt": "2026-11-17T15:01:19.501Z",
+        "postedAt": "2026-11-17T15:01:19.501Z"
+      },
+      "bufferPostId": "6afc6c3e865468accabbef83",
+      "postedAt": "2026-11-17T15:01:19.501Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T12:01:14.416Z",
+    "lastSuccessfulScanAt": "2026-11-17T15:01:11.620Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20269,6 +20371,7 @@
       "4902150": "2026-10-30T18:01:08.710Z",
       "4903830": "2026-10-29T06:01:00.110Z",
       "4904570": "2026-10-14T15:30:36.000Z",
+      "4905760": "2026-11-17T15:01:11.620Z",
       "4907670": "2026-10-14T15:30:36.000Z",
       "4908770": "2026-11-11T12:01:11.916Z",
       "4910040": "2026-11-06T06:01:16.414Z",
@@ -20395,6 +20498,7 @@
       "5138180": "2026-10-14T15:30:36.000Z",
       "5142000": "2026-11-11T00:01:08.109Z",
       "5144300": "2026-10-14T15:30:36.000Z",
+      "5151020": "2026-11-17T15:01:11.620Z",
       "5156550": "2026-10-21T06:00:58.776Z",
       "5158710": "2026-11-10T03:01:09.985Z",
       "5159730": "2026-10-14T15:30:36.000Z",
@@ -20672,6 +20776,7 @@
       "5479850": "2026-11-12T18:01:08.650Z",
       "5485060": "2026-11-13T15:01:22.449Z",
       "5486310": "2026-11-06T12:01:14.375Z",
+      "5486590": "2026-11-17T15:01:11.620Z",
       "5487790": "2026-11-15T09:01:06.193Z",
       "5487820": "2026-11-14T06:01:15.741Z",
       "5490450": "2026-11-15T00:01:05.244Z",
