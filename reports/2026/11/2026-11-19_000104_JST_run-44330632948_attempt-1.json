@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44330632948",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T15:01:04.689Z",
+    "finishedAt": "2026-11-18T15:01:25.770Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44330632948"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5485410",
+      "title": "Cosmic Crumbs: Bakery Simulator - First Bite",
+      "storeUrl": "https://store.steampowered.com/app/5485410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485410/908a2958bb4209ba2398a53d73335c4d19ce8d7f/header.jpg?t=1795010955",
+      "officialDescription": "Cosmic Crumbs: Bakery Simulatorの無料入門編で、宇宙のベーカリー経営をひとくち体験。スイーツを作り、コーヒーを淹れ、ロボットアシスタントに手伝ってもらい、猫を迎えましょう。一人でも、最大4人のオンライン協力プレイでも楽しめます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5449680",
+      "title": "Mini Legends Idle",
+      "storeUrl": "https://store.steampowered.com/app/5449680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5449680/31e84970cf7a1ed5463072bb3bb1167044541f56/header.jpg?t=1795010426",
+      "officialDescription": "ボクセルのファンタジー世界で楽しむ放置系RPG。戦利品を集め、レベルを上げて、自分だけの英雄を育てましょう。武器や防具を収集・強化し、レアな魔法を解放！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4078690",
+      "title": "Biztopia: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/4078690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078690/0754945ba8fda53877b1009c999bc137971f31e3/header.jpg?t=1795009894",
+      "officialDescription": "Biztopia: Prologue は Biztopia の無料の序章です。倉庫を借り、卸売業者から仕入れ、棚に商品を並べて最初の配送を送り出そう。ひとりでも、オンライン協力プレイで友達とでも。レベル10に到達しても、そのまま遊び続けられます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4707110",
+      "title": "Outralism",
+      "storeUrl": "https://store.steampowered.com/app/4707110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707110/87e411410176a7ad30012045ea90d5b092fa3b1e/header.jpg?t=1795003737",
+      "officialDescription": "A minimalist black-and-white rhythm game made for modding. Play songs from the Steam Workshop, make your own packs and charts in the game's editors, write Lua mods, and play together in Steam lobbies of up to 16 players. Narrated tutorials show you around."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5485410:permanent_free:1",
+      "productId": "5485410",
+      "title": "Cosmic Crumbs: Bakery Simulator - First Bite",
+      "status": "sent",
+      "bufferPostId": "6afdbdbfff73344f88f25a82"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5449680:permanent_free:1",
+      "productId": "5449680",
+      "title": "Mini Legends Idle",
+      "status": "sent",
+      "bufferPostId": "6afdbdc0ff73344f88f25bb5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4078690:permanent_free:1",
+      "productId": "4078690",
+      "title": "Biztopia: Prologue",
+      "status": "sent",
+      "bufferPostId": "6afdbdc30a7aa6dca2c41e61"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4707110:permanent_free:1",
+      "productId": "4707110",
+      "title": "Outralism",
+      "status": "sent",
+      "bufferPostId": "6afdbdc40a7aa6dca2c42022"
+    }
+  ],
+  "errors": []
+}

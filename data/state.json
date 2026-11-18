@@ -2375,6 +2375,22 @@
     "steam:4437450:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4437450:permanent_free:1"
+    },
+    "steam:5485410:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5485410:permanent_free:1"
+    },
+    "steam:5449680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5449680:permanent_free:1"
+    },
+    "steam:4078690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4078690:permanent_free:1"
+    },
+    "steam:4707110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4707110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20730,11 +20746,131 @@
       },
       "bufferPostId": "6afd938867b44b742a519c53",
       "postedAt": "2026-11-18T12:01:13.657Z"
+    },
+    "steam:5485410:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5485410:permanent_free:1",
+      "store": "steam",
+      "productId": "5485410",
+      "generation": 1,
+      "title": "Cosmic Crumbs: Bakery Simulator - First Bite",
+      "storeUrl": "https://store.steampowered.com/app/5485410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T15:01:17.672Z",
+      "lastSeenAt": "2026-11-18T15:01:17.672Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Cosmic Crumbs: Bakery Simulatorの無料入門編で、宇宙のベーカリー経営をひとくち体験。スイーツを作り、コーヒーを淹れ、ロボットアシスタントに手伝ってもらい、猫を迎えましょう。一人でも、最大4人のオンライン協力プレイでも楽しめます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T15:01:17.672Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cosmic Crumbs: Bakery Simulator - First Bite』\n✨ いつでも無料でプレイ\n\nCosmic Crumbs: Bakery Simulatorの無料入門編で、宇宙のベーカリー経営をひとくち体験。スイーツを作り、コーヒーを淹れ、ロボットアシスタントに手伝ってもら…\n\nhttps://store.steampowered.com/app/5485410/",
+        "attemptedAt": "2026-11-18T15:01:19.034Z",
+        "bufferPostId": "6afdbdbfff73344f88f25a82",
+        "submittedAt": "2026-11-18T15:01:20.750Z",
+        "postedAt": "2026-11-18T15:01:20.750Z"
+      },
+      "bufferPostId": "6afdbdbfff73344f88f25a82",
+      "postedAt": "2026-11-18T15:01:20.750Z"
+    },
+    "steam:5449680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5449680:permanent_free:1",
+      "store": "steam",
+      "productId": "5449680",
+      "generation": 1,
+      "title": "Mini Legends Idle",
+      "storeUrl": "https://store.steampowered.com/app/5449680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T15:01:17.672Z",
+      "lastSeenAt": "2026-11-18T15:01:17.672Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ボクセルのファンタジー世界で楽しむ放置系RPG。戦利品を集め、レベルを上げて、自分だけの英雄を育てましょう。武器や防具を収集・強化し、レアな魔法を解放！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T15:01:17.672Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mini Legends Idle』\n✨ いつでも無料でプレイ\n\nボクセルのファンタジー世界で楽しむ放置系RPG。戦利品を集め、レベルを上げて、自分だけの英雄を育てましょう。武器や防具を収集・強化し、レアな魔法を解放！\n\nhttps://store.steampowered.com/app/5449680/",
+        "attemptedAt": "2026-11-18T15:01:20.758Z",
+        "bufferPostId": "6afdbdc0ff73344f88f25bb5",
+        "submittedAt": "2026-11-18T15:01:22.252Z",
+        "postedAt": "2026-11-18T15:01:22.252Z"
+      },
+      "bufferPostId": "6afdbdc0ff73344f88f25bb5",
+      "postedAt": "2026-11-18T15:01:22.252Z"
+    },
+    "steam:4078690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4078690:permanent_free:1",
+      "store": "steam",
+      "productId": "4078690",
+      "generation": 1,
+      "title": "Biztopia: Prologue",
+      "storeUrl": "https://store.steampowered.com/app/4078690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T15:01:17.672Z",
+      "lastSeenAt": "2026-11-18T15:01:17.672Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Biztopia: Prologue は Biztopia の無料の序章です。倉庫を借り、卸売業者から仕入れ、棚に商品を並べて最初の配送を送り出そう。ひとりでも、オンライン協力プレイで友達とでも。レベル10に到達しても、そのまま遊び続けられます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T15:01:17.672Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Biztopia: Prologue』\n✨ いつでも無料でプレイ\n\nBiztopia: Prologue は Biztopia の無料の序章です。倉庫を借り、卸売業者から仕入れ、棚に商品を並べて最初の配送を送り出そう。ひとりでも、オンライン協力プレイで友達とでも。レベル10…\n\nhttps://store.steampowered.com/app/4078690/",
+        "attemptedAt": "2026-11-18T15:01:22.283Z",
+        "bufferPostId": "6afdbdc30a7aa6dca2c41e61",
+        "submittedAt": "2026-11-18T15:01:24.343Z",
+        "postedAt": "2026-11-18T15:01:24.343Z"
+      },
+      "bufferPostId": "6afdbdc30a7aa6dca2c41e61",
+      "postedAt": "2026-11-18T15:01:24.343Z"
+    },
+    "steam:4707110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4707110:permanent_free:1",
+      "store": "steam",
+      "productId": "4707110",
+      "generation": 1,
+      "title": "Outralism",
+      "storeUrl": "https://store.steampowered.com/app/4707110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T15:01:17.672Z",
+      "lastSeenAt": "2026-11-18T15:01:17.672Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A minimalist black-and-white rhythm game made for modding. Play songs from the Steam Workshop, make your own packs and charts in the game's editors, write Lua mods, and play together in Steam lobbies of up to 16 players. Narrated tutorials show you around.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T15:01:17.672Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Outralism』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4707110/",
+        "attemptedAt": "2026-11-18T15:01:24.350Z",
+        "bufferPostId": "6afdbdc40a7aa6dca2c42022",
+        "submittedAt": "2026-11-18T15:01:25.756Z",
+        "postedAt": "2026-11-18T15:01:25.756Z"
+      },
+      "bufferPostId": "6afdbdc40a7aa6dca2c42022",
+      "postedAt": "2026-11-18T15:01:25.756Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T12:01:09.615Z",
+    "lastSuccessfulScanAt": "2026-11-18T15:01:17.672Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20826,6 +20962,7 @@
       "4020220": "2026-10-31T00:01:08.172Z",
       "4022530": "2026-10-15T21:00:58.160Z",
       "4036370": "2026-10-22T12:01:30.927Z",
+      "4078690": "2026-11-18T15:01:17.672Z",
       "4079960": "2026-10-19T00:01:02.686Z",
       "4080860": "2026-10-14T15:30:36.000Z",
       "4086230": "2026-11-13T15:01:22.449Z",
@@ -20924,6 +21061,7 @@
       "4704760": "2026-10-29T15:01:15.623Z",
       "4706390": "2026-11-14T03:01:11.349Z",
       "4706500": "2026-10-23T00:01:04.971Z",
+      "4707110": "2026-11-18T15:01:17.672Z",
       "4711830": "2026-10-14T15:30:36.000Z",
       "4713410": "2026-10-30T18:01:08.710Z",
       "4714620": "2026-10-19T06:01:01.979Z",
@@ -21378,6 +21516,7 @@
       "5446390": "2026-11-18T00:01:16.673Z",
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
+      "5449680": "2026-11-18T15:01:17.672Z",
       "5450430": "2026-11-12T00:01:14.122Z",
       "5451420": "2026-11-17T06:01:08.190Z",
       "5454740": "2026-11-15T18:01:15.376Z",
@@ -21400,6 +21539,7 @@
       "5478700": "2026-11-15T09:01:06.193Z",
       "5479850": "2026-11-12T18:01:08.650Z",
       "5485060": "2026-11-13T15:01:22.449Z",
+      "5485410": "2026-11-18T15:01:17.672Z",
       "5486310": "2026-11-06T12:01:14.375Z",
       "5486590": "2026-11-17T15:01:11.620Z",
       "5487790": "2026-11-15T09:01:06.193Z",
