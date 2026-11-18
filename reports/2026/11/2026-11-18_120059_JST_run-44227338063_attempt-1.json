@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44227338063",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T03:00:59.811Z",
+    "finishedAt": "2026-11-18T03:01:17.126Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44227338063"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 19,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5520310",
+      "title": "バロック商人 ～ バッハの残響",
+      "storeUrl": "https://store.steampowered.com/app/5520310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520310/3f129bb15f296360741e5d5c67e0be5639ddb7d4/header.jpg?t=1794968985",
+      "officialDescription": "水上都市を自由に作る、街づくりシミュレーションゲーム。バロック音楽に包まれながら、通りを歩く商人や行き交う馬車、美しい街並みや建造物を眺めて過ごす。そんな『ひとときの空間』を、あなたに。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4969000",
+      "title": "Regradable",
+      "storeUrl": "https://store.steampowered.com/app/4969000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969000/1484065e9fe9cb5359112d8b5f2b338b60d3d0f7/header.jpg?t=1794970421",
+      "officialDescription": "A single-player third-person linear action platformer. Use your vine arms to swing through three levels, grapple and launch yourself off of enemies, and throw two seeds to tether two objects as you master the fast-paced traversal and platforming."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5518020",
+      "title": "Red Eye Empire",
+      "storeUrl": "https://store.steampowered.com/app/5518020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518020/9093476e8893b94db4eac049def8bf96e6cc1232/header.jpg?t=1794967559",
+      "officialDescription": "Build a global airline from a single prop-plane. Your planes fly real routes on a living globe and keep earning while you're away. Grow hubs, unlock new regions, then sell your airline and start a holding company of subsidiaries. A relaxing idle tycoon that lives on your desktop."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5532770",
+      "title": "Pocket Pilots",
+      "storeUrl": "https://store.steampowered.com/app/5532770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532770/57111b0ab81afc2e15534cca8241fa58f1d1058a/header.jpg?t=1794964968",
+      "officialDescription": "Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5520310:permanent_free:1",
+      "productId": "5520310",
+      "title": "バロック商人 ～ バッハの残響",
+      "status": "sent",
+      "bufferPostId": "6afd14f7fc933ac285bd5dbb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4969000:permanent_free:1",
+      "productId": "4969000",
+      "title": "Regradable",
+      "status": "sent",
+      "bufferPostId": "6afd14f939777dd13e0faf88"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5518020:permanent_free:1",
+      "productId": "5518020",
+      "title": "Red Eye Empire",
+      "status": "sent",
+      "bufferPostId": "6afd14fabb12698d15927b50"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5532770:permanent_free:1",
+      "productId": "5532770",
+      "title": "Pocket Pilots",
+      "status": "sent",
+      "bufferPostId": "6afd14fb93fa11d37d0151cf"
+    }
+  ],
+  "errors": []
+}

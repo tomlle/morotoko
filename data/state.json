@@ -2339,6 +2339,22 @@
     "steam:5446390:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5446390:permanent_free:1"
+    },
+    "steam:5520310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5520310:permanent_free:1"
+    },
+    "steam:4969000:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4969000:permanent_free:1"
+    },
+    "steam:5518020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5518020:permanent_free:1"
+    },
+    "steam:5532770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5532770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20424,11 +20440,131 @@
       },
       "bufferPostId": "6afcead5f0c5ce9361abf510",
       "postedAt": "2026-11-18T00:01:26.474Z"
+    },
+    "steam:5520310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5520310:permanent_free:1",
+      "store": "steam",
+      "productId": "5520310",
+      "generation": 1,
+      "title": "バロック商人 ～ バッハの残響",
+      "storeUrl": "https://store.steampowered.com/app/5520310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T03:01:11.268Z",
+      "lastSeenAt": "2026-11-18T03:01:11.268Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "水上都市を自由に作る、街づくりシミュレーションゲーム。バロック音楽に包まれながら、通りを歩く商人や行き交う馬車、美しい街並みや建造物を眺めて過ごす。そんな『ひとときの空間』を、あなたに。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T03:01:11.268Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『バロック商人 ～ バッハの残響』\n✨ いつでも無料でプレイ\n\n水上都市を自由に作る、街づくりシミュレーションゲーム。バロック音楽に包まれながら、通りを歩く商人や行き交う馬車、美しい街並みや建造物を眺めて過ごす。そんな『ひとときの…\n\nhttps://store.steampowered.com/app/5520310/",
+        "attemptedAt": "2026-11-18T03:01:11.669Z",
+        "bufferPostId": "6afd14f7fc933ac285bd5dbb",
+        "submittedAt": "2026-11-18T03:01:13.020Z",
+        "postedAt": "2026-11-18T03:01:13.020Z"
+      },
+      "bufferPostId": "6afd14f7fc933ac285bd5dbb",
+      "postedAt": "2026-11-18T03:01:13.020Z"
+    },
+    "steam:4969000:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4969000:permanent_free:1",
+      "store": "steam",
+      "productId": "4969000",
+      "generation": 1,
+      "title": "Regradable",
+      "storeUrl": "https://store.steampowered.com/app/4969000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T03:01:11.268Z",
+      "lastSeenAt": "2026-11-18T03:01:11.268Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A single-player third-person linear action platformer. Use your vine arms to swing through three levels, grapple and launch yourself off of enemies, and throw two seeds to tether two objects as you master the fast-paced traversal and platforming.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T03:01:11.268Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Regradable』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4969000/",
+        "attemptedAt": "2026-11-18T03:01:13.028Z",
+        "bufferPostId": "6afd14f939777dd13e0faf88",
+        "submittedAt": "2026-11-18T03:01:14.324Z",
+        "postedAt": "2026-11-18T03:01:14.324Z"
+      },
+      "bufferPostId": "6afd14f939777dd13e0faf88",
+      "postedAt": "2026-11-18T03:01:14.324Z"
+    },
+    "steam:5518020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5518020:permanent_free:1",
+      "store": "steam",
+      "productId": "5518020",
+      "generation": 1,
+      "title": "Red Eye Empire",
+      "storeUrl": "https://store.steampowered.com/app/5518020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T03:01:11.268Z",
+      "lastSeenAt": "2026-11-18T03:01:11.268Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build a global airline from a single prop-plane. Your planes fly real routes on a living globe and keep earning while you're away. Grow hubs, unlock new regions, then sell your airline and start a holding company of subsidiaries. A relaxing idle tycoon that lives on your desktop.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T03:01:11.268Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Red Eye Empire』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5518020/",
+        "attemptedAt": "2026-11-18T03:01:14.332Z",
+        "bufferPostId": "6afd14fabb12698d15927b50",
+        "submittedAt": "2026-11-18T03:01:15.721Z",
+        "postedAt": "2026-11-18T03:01:15.721Z"
+      },
+      "bufferPostId": "6afd14fabb12698d15927b50",
+      "postedAt": "2026-11-18T03:01:15.721Z"
+    },
+    "steam:5532770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5532770:permanent_free:1",
+      "store": "steam",
+      "productId": "5532770",
+      "generation": 1,
+      "title": "Pocket Pilots",
+      "storeUrl": "https://store.steampowered.com/app/5532770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T03:01:11.268Z",
+      "lastSeenAt": "2026-11-18T03:01:11.268Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T03:01:11.268Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pocket Pilots』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5532770/",
+        "attemptedAt": "2026-11-18T03:01:15.729Z",
+        "bufferPostId": "6afd14fb93fa11d37d0151cf",
+        "submittedAt": "2026-11-18T03:01:17.110Z",
+        "postedAt": "2026-11-18T03:01:17.110Z"
+      },
+      "bufferPostId": "6afd14fb93fa11d37d0151cf",
+      "postedAt": "2026-11-18T03:01:17.110Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T00:01:16.673Z",
+    "lastSuccessfulScanAt": "2026-11-18T03:01:11.268Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20711,6 +20847,7 @@
       "4959560": "2026-11-07T12:38:12.800Z",
       "4963800": "2026-10-14T15:30:36.000Z",
       "4967370": "2026-11-07T12:38:12.800Z",
+      "4969000": "2026-11-18T03:01:11.268Z",
       "4972430": "2026-10-23T06:01:01.508Z",
       "4973650": "2026-11-12T18:01:08.650Z",
       "4974600": "2026-10-31T12:01:05.079Z",
@@ -21104,6 +21241,9 @@
       "5512840": "2026-11-15T09:01:06.193Z",
       "5515850": "2026-11-16T18:01:09.149Z",
       "5516180": "2026-11-18T00:01:16.673Z",
+      "5518020": "2026-11-18T03:01:11.268Z",
+      "5520310": "2026-11-18T03:01:11.268Z",
+      "5532770": "2026-11-18T03:01:11.268Z",
       "5541800": "2026-11-17T09:01:05.156Z"
     }
   }
