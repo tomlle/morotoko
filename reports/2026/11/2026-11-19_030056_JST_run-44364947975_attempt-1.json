@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44364947975",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T18:00:56.061Z",
+    "finishedAt": "2026-11-18T18:01:09.287Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44364947975"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3810590",
+      "title": "Celestial Decks",
+      "storeUrl": "https://store.steampowered.com/app/3810590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810590/628bd60f827d74e6ecbfeb6d53f9d67042fb24fc/header.jpg?t=1795022490",
+      "officialDescription": "Life is brief... But death? That's another story. Celestial is a competitive card game where experience is worth its weight in gold. Weave your tale with beautifully illustrated cards. Uncover powerful synergies to claim victory. Follow the paths of the Penumbra, or match wits against other players."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5488370",
+      "title": "代号宝石",
+      "storeUrl": "https://store.steampowered.com/app/5488370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5488370/42afc4017ce98884199b88c37040c3363a122bba/header.jpg?t=1794885127",
+      "officialDescription": "Codename Gem is a side-scrolling roguelike. Clear endless stages, collect stronger relics, and face fiercer monsters. Spend the gold you bring back from each dungeon on upgrades and consumables — or risk it all in a mini-game for a one-shot leap. How far can you go?"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3810590:permanent_free:1",
+      "productId": "3810590",
+      "title": "Celestial Decks",
+      "status": "sent",
+      "bufferPostId": "6afde7e27e147f9a56174acb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5488370:permanent_free:1",
+      "productId": "5488370",
+      "title": "代号宝石",
+      "status": "sent",
+      "bufferPostId": "6afde7e4a11f24337a108845"
+    }
+  ],
+  "errors": []
+}

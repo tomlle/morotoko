@@ -2391,6 +2391,14 @@
     "steam:4707110:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4707110:permanent_free:1"
+    },
+    "steam:3810590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3810590:permanent_free:1"
+    },
+    "steam:5488370:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5488370:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20866,11 +20874,71 @@
       },
       "bufferPostId": "6afdbdc40a7aa6dca2c42022",
       "postedAt": "2026-11-18T15:01:25.756Z"
+    },
+    "steam:3810590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3810590:permanent_free:1",
+      "store": "steam",
+      "productId": "3810590",
+      "generation": 1,
+      "title": "Celestial Decks",
+      "storeUrl": "https://store.steampowered.com/app/3810590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T18:01:04.021Z",
+      "lastSeenAt": "2026-11-18T18:01:04.021Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Life is brief... But death? That's another story. Celestial is a competitive card game where experience is worth its weight in gold. Weave your tale with beautifully illustrated cards. Uncover powerful synergies to claim victory. Follow the paths of the Penumbra, or match wits against other players.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T18:01:04.021Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Celestial Decks』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3810590/",
+        "attemptedAt": "2026-11-18T18:01:06.479Z",
+        "bufferPostId": "6afde7e27e147f9a56174acb",
+        "submittedAt": "2026-11-18T18:01:08.022Z",
+        "postedAt": "2026-11-18T18:01:08.022Z"
+      },
+      "bufferPostId": "6afde7e27e147f9a56174acb",
+      "postedAt": "2026-11-18T18:01:08.022Z"
+    },
+    "steam:5488370:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5488370:permanent_free:1",
+      "store": "steam",
+      "productId": "5488370",
+      "generation": 1,
+      "title": "代号宝石",
+      "storeUrl": "https://store.steampowered.com/app/5488370/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T18:01:04.021Z",
+      "lastSeenAt": "2026-11-18T18:01:04.021Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Codename Gem is a side-scrolling roguelike. Clear endless stages, collect stronger relics, and face fiercer monsters. Spend the gold you bring back from each dungeon on upgrades and consumables — or risk it all in a mini-game for a one-shot leap. How far can you go?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T18:01:04.021Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『代号宝石』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5488370/",
+        "attemptedAt": "2026-11-18T18:01:08.028Z",
+        "bufferPostId": "6afde7e4a11f24337a108845",
+        "submittedAt": "2026-11-18T18:01:09.276Z",
+        "postedAt": "2026-11-18T18:01:09.276Z"
+      },
+      "bufferPostId": "6afde7e4a11f24337a108845",
+      "postedAt": "2026-11-18T18:01:09.276Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T15:01:17.672Z",
+    "lastSuccessfulScanAt": "2026-11-18T18:01:04.021Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20944,6 +21012,7 @@
       "3703550": "2026-10-17T15:01:03.979Z",
       "3703890": "2026-10-14T15:30:36.000Z",
       "3775510": "2026-10-14T15:30:36.000Z",
+      "3810590": "2026-11-18T18:01:04.021Z",
       "3819330": "2026-10-31T18:01:01.493Z",
       "3839200": "2026-10-24T03:00:59.931Z",
       "3841580": "2026-10-26T18:01:07.648Z",
@@ -21544,6 +21613,7 @@
       "5486590": "2026-11-17T15:01:11.620Z",
       "5487790": "2026-11-15T09:01:06.193Z",
       "5487820": "2026-11-14T06:01:15.741Z",
+      "5488370": "2026-11-18T18:01:04.021Z",
       "5490450": "2026-11-15T00:01:05.244Z",
       "5490870": "2026-11-08T06:01:05.672Z",
       "5494850": "2026-11-17T09:01:05.156Z",
