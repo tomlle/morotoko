@@ -2399,6 +2399,14 @@
     "steam:5488370:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5488370:permanent_free:1"
+    },
+    "steam:5016240:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5016240:permanent_free:1"
+    },
+    "steam:2176920:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2176920:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20934,11 +20942,71 @@
       },
       "bufferPostId": "6afde7e4a11f24337a108845",
       "postedAt": "2026-11-18T18:01:09.276Z"
+    },
+    "steam:5016240:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5016240:permanent_free:1",
+      "store": "steam",
+      "productId": "5016240",
+      "generation": 1,
+      "title": "ソラの教室 : Classroom in Sora",
+      "storeUrl": "https://store.steampowered.com/app/5016240/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T21:01:08.756Z",
+      "lastSeenAt": "2026-11-18T21:01:08.756Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "宇宙（ソラ）にある学校でともだちを作る、ゆるSFアドベンチャーです。 主人公はともだちがほしい宇宙育ちのヒト。転校先は、さまざまな種の宇宙人が学ぶ学校。みんなに話しかけていきます。 仲良くなったり、すれちがったり…その先にある、学校の謎とは。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T21:01:08.756Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ソラの教室 : Classroom in Sora』\n✨ いつでも無料でプレイ\n\n宇宙（ソラ）にある学校でともだちを作る、ゆるSFアドベンチャーです。 主人公はともだちがほしい宇宙育ちのヒト。転校先は、さまざまな種の宇宙人が学ぶ学校。みんなに話しか…\n\nhttps://store.steampowered.com/app/5016240/",
+        "attemptedAt": "2026-11-18T21:01:10.129Z",
+        "bufferPostId": "6afe1216a8bd8e4ffd18b440",
+        "submittedAt": "2026-11-18T21:01:11.557Z",
+        "postedAt": "2026-11-18T21:01:11.557Z"
+      },
+      "bufferPostId": "6afe1216a8bd8e4ffd18b440",
+      "postedAt": "2026-11-18T21:01:11.557Z"
+    },
+    "steam:2176920:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2176920:permanent_free:1",
+      "store": "steam",
+      "productId": "2176920",
+      "generation": 1,
+      "title": "Flempire",
+      "storeUrl": "https://store.steampowered.com/app/2176920/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T21:01:08.756Z",
+      "lastSeenAt": "2026-11-18T21:01:08.756Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "This game is a digital version of the Danish tabletop game Matador. It's very much like Monopoly, but in Denmark this is the mainstream of this game type. It was originally developed by Curt Drechsler in 1936.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T21:01:08.756Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Flempire』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2176920/",
+        "attemptedAt": "2026-11-18T21:01:11.564Z",
+        "bufferPostId": "6afe1217a8bd8e4ffd18b524",
+        "submittedAt": "2026-11-18T21:01:12.878Z",
+        "postedAt": "2026-11-18T21:01:12.878Z"
+      },
+      "bufferPostId": "6afe1217a8bd8e4ffd18b524",
+      "postedAt": "2026-11-18T21:01:12.878Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T18:01:04.021Z",
+    "lastSuccessfulScanAt": "2026-11-18T21:01:08.756Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20961,6 +21029,7 @@
       "1975300": "2026-11-16T00:01:12.496Z",
       "1979510": "2026-10-17T15:01:03.979Z",
       "2160130": "2026-10-31T21:01:15.957Z",
+      "2176920": "2026-11-18T21:01:08.756Z",
       "2213580": "2026-10-28T15:01:16.098Z",
       "2331730": "2026-10-14T15:30:36.000Z",
       "2350690": "2026-11-11T03:01:13.820Z",
@@ -21255,6 +21324,7 @@
       "5011370": "2026-11-13T15:01:22.449Z",
       "5012600": "2026-10-31T00:01:08.172Z",
       "5013770": "2026-11-09T18:01:24.470Z",
+      "5016240": "2026-11-18T21:01:08.756Z",
       "5017520": "2026-10-30T15:01:09.322Z",
       "5019180": "2026-10-29T09:01:05.116Z",
       "5021380": "2026-10-14T15:30:36.000Z",

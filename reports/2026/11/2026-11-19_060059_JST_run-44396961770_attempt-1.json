@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44396961770",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T21:00:59.110Z",
+    "finishedAt": "2026-11-18T21:01:12.891Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44396961770"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5016240",
+      "title": "ソラの教室 : Classroom in Sora",
+      "storeUrl": "https://store.steampowered.com/app/5016240/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016240/edef913cffcb1e07f7f6e97287e2dabcb4d6cf5d/header.jpg?t=1795031001",
+      "officialDescription": "宇宙（ソラ）にある学校でともだちを作る、ゆるSFアドベンチャーです。 主人公はともだちがほしい宇宙育ちのヒト。転校先は、さまざまな種の宇宙人が学ぶ学校。みんなに話しかけていきます。 仲良くなったり、すれちがったり…その先にある、学校の謎とは。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2176920",
+      "title": "Flempire",
+      "storeUrl": "https://store.steampowered.com/app/2176920/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2176920/header.jpg?t=1794995885",
+      "officialDescription": "This game is a digital version of the Danish tabletop game Matador. It's very much like Monopoly, but in Denmark this is the mainstream of this game type. It was originally developed by Curt Drechsler in 1936."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5016240:permanent_free:1",
+      "productId": "5016240",
+      "title": "ソラの教室 : Classroom in Sora",
+      "status": "sent",
+      "bufferPostId": "6afe1216a8bd8e4ffd18b440"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2176920:permanent_free:1",
+      "productId": "2176920",
+      "title": "Flempire",
+      "status": "sent",
+      "bufferPostId": "6afe1217a8bd8e4ffd18b524"
+    }
+  ],
+  "errors": []
+}
