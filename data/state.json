@@ -2319,6 +2319,26 @@
     "steam:4788590:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4788590:permanent_free:1"
+    },
+    "steam:5027890:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5027890:permanent_free:1"
+    },
+    "steam:5516180:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5516180:permanent_free:1"
+    },
+    "steam:3249730:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3249730:permanent_free:1"
+    },
+    "steam:5434630:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5434630:permanent_free:1"
+    },
+    "steam:5446390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5446390:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20254,11 +20274,161 @@
       },
       "bufferPostId": "6afcc095b3721c6a00ca0aed",
       "postedAt": "2026-11-17T21:01:10.589Z"
+    },
+    "steam:5027890:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5027890:permanent_free:1",
+      "store": "steam",
+      "productId": "5027890",
+      "generation": 1,
+      "title": "Majulah: Shape Your City – Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5027890/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T00:01:16.673Z",
+      "lastSeenAt": "2026-11-18T00:01:16.673Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A roguelike city builder on a sunny island inspired by Singapore. Place homes, offices, food markets and train stations, recruit a Cabinet of eccentric advisors, and multiply your Support into enough Votes to win the next Election. Your first term is free.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T00:01:16.673Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Majulah: Shape Your City – Prologue』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5027890/",
+        "attemptedAt": "2026-11-18T00:01:19.118Z",
+        "bufferPostId": "6afceacffc933ac285aefee6",
+        "submittedAt": "2026-11-18T00:01:20.647Z",
+        "postedAt": "2026-11-18T00:01:20.647Z"
+      },
+      "bufferPostId": "6afceacffc933ac285aefee6",
+      "postedAt": "2026-11-18T00:01:20.647Z"
+    },
+    "steam:5516180:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5516180:permanent_free:1",
+      "store": "steam",
+      "productId": "5516180",
+      "generation": 1,
+      "title": "Ringfall TD",
+      "storeUrl": "https://store.steampowered.com/app/5516180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T00:01:16.673Z",
+      "lastSeenAt": "2026-11-18T00:01:16.673Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Maze tower defense for up to eight players. Hold one lane of a ring round a castle: build the longest maze you can, catch what leaks from your teammates and see how many endless waves your team can hold. Or go PvP: two teams, mercenary sends, and ranked ladders from 1v1 to 4v4.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T00:01:16.673Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ringfall TD』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5516180/",
+        "attemptedAt": "2026-11-18T00:01:20.655Z",
+        "bufferPostId": "6afcead0bb12698d1583d3b4",
+        "submittedAt": "2026-11-18T00:01:22.128Z",
+        "postedAt": "2026-11-18T00:01:22.128Z"
+      },
+      "bufferPostId": "6afcead0bb12698d1583d3b4",
+      "postedAt": "2026-11-18T00:01:22.128Z"
+    },
+    "steam:3249730:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3249730:permanent_free:1",
+      "store": "steam",
+      "productId": "3249730",
+      "generation": 1,
+      "title": "Crossroads: Ancient Sagas online",
+      "storeUrl": "https://store.steampowered.com/app/3249730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T00:01:16.673Z",
+      "lastSeenAt": "2026-11-18T00:01:16.673Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Experience Crossroads: Ancient Sagas, where every turn is a new chapter. Master the art of tactical deployment and cunning maneuvers. Vibrant colors and diverse deck compositions ensure no two games are alike.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T00:01:16.673Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crossroads: Ancient Sagas online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3249730/",
+        "attemptedAt": "2026-11-18T00:01:22.136Z",
+        "bufferPostId": "6afcead2ab47737bddb46088",
+        "submittedAt": "2026-11-18T00:01:23.529Z",
+        "postedAt": "2026-11-18T00:01:23.529Z"
+      },
+      "bufferPostId": "6afcead2ab47737bddb46088",
+      "postedAt": "2026-11-18T00:01:23.529Z"
+    },
+    "steam:5434630:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5434630:permanent_free:1",
+      "store": "steam",
+      "productId": "5434630",
+      "generation": 1,
+      "title": "CHILD ABUSE HEROES",
+      "storeUrl": "https://store.steampowered.com/app/5434630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T00:01:16.673Z",
+      "lastSeenAt": "2026-11-18T00:01:16.673Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "CHILD ABUSE HEROES - A story about children who dreamed and became heroes... A narrative action fighting game created by Rahad Ali. It blends story-driven dialogue and character interactions with straightforward combat.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T00:01:16.673Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『CHILD ABUSE HEROES』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5434630/",
+        "attemptedAt": "2026-11-18T00:01:23.538Z",
+        "bufferPostId": "6afcead393fa11d37df3015a",
+        "submittedAt": "2026-11-18T00:01:25.009Z",
+        "postedAt": "2026-11-18T00:01:25.009Z"
+      },
+      "bufferPostId": "6afcead393fa11d37df3015a",
+      "postedAt": "2026-11-18T00:01:25.009Z"
+    },
+    "steam:5446390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5446390:permanent_free:1",
+      "store": "steam",
+      "productId": "5446390",
+      "generation": 1,
+      "title": "Mediotorum",
+      "storeUrl": "https://store.steampowered.com/app/5446390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T00:01:16.673Z",
+      "lastSeenAt": "2026-11-18T00:01:16.673Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Enter Mediotorum, a fantasy world torn by rival factions. Collect cards, forge your deck, and face other players in turn-based duels where every decision can tip the balance of the war.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T00:01:16.673Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mediotorum』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5446390/",
+        "attemptedAt": "2026-11-18T00:01:25.031Z",
+        "bufferPostId": "6afcead5f0c5ce9361abf510",
+        "submittedAt": "2026-11-18T00:01:26.474Z",
+        "postedAt": "2026-11-18T00:01:26.474Z"
+      },
+      "bufferPostId": "6afcead5f0c5ce9361abf510",
+      "postedAt": "2026-11-18T00:01:26.474Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-17T21:01:07.295Z",
+    "lastSuccessfulScanAt": "2026-11-18T00:01:16.673Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20307,6 +20477,7 @@
       "3120010": "2026-10-30T03:01:09.846Z",
       "3138080": "2026-10-25T09:01:01.104Z",
       "3199110": "2026-10-30T21:01:07.872Z",
+      "3249730": "2026-11-18T00:01:16.673Z",
       "3301840": "2026-11-06T06:01:16.414Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3339970": "2026-11-04T06:01:02.326Z",
@@ -20574,6 +20745,7 @@
       "5021400": "2026-10-14T15:30:36.000Z",
       "5021660": "2026-11-10T12:01:08.585Z",
       "5023780": "2026-10-14T15:30:36.000Z",
+      "5027890": "2026-11-18T00:01:16.673Z",
       "5033230": "2026-11-06T06:01:16.414Z",
       "5034400": "2026-10-30T15:01:09.322Z",
       "5034420": "2026-10-27T12:01:11.410Z",
@@ -20883,6 +21055,7 @@
       "5432770": "2026-11-11T15:01:08.794Z",
       "5433020": "2026-11-06T09:01:10.595Z",
       "5434000": "2026-11-13T18:01:06.687Z",
+      "5434630": "2026-11-18T00:01:16.673Z",
       "5434650": "2026-11-13T18:01:06.687Z",
       "5435190": "2026-11-07T15:01:11.737Z",
       "5435270": "2026-11-14T12:01:04.545Z",
@@ -20890,6 +21063,7 @@
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446260": "2026-11-10T15:01:08.654Z",
+      "5446390": "2026-11-18T00:01:16.673Z",
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
       "5450430": "2026-11-12T00:01:14.122Z",
@@ -20929,6 +21103,7 @@
       "5507480": "2026-11-17T18:01:08.800Z",
       "5512840": "2026-11-15T09:01:06.193Z",
       "5515850": "2026-11-16T18:01:09.149Z",
+      "5516180": "2026-11-18T00:01:16.673Z",
       "5541800": "2026-11-17T09:01:05.156Z"
     }
   }

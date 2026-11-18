@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44204233573",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T00:01:03.673Z",
+    "finishedAt": "2026-11-18T00:01:26.491Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44204233573"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5027890",
+      "title": "Majulah: Shape Your City – Prologue",
+      "storeUrl": "https://store.steampowered.com/app/5027890/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5027890/d7990990018db360feb2b95472af16da4b62671c/header.jpg?t=1794955264",
+      "officialDescription": "A roguelike city builder on a sunny island inspired by Singapore. Place homes, offices, food markets and train stations, recruit a Cabinet of eccentric advisors, and multiply your Support into enough Votes to win the next Election. Your first term is free."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5516180",
+      "title": "Ringfall TD",
+      "storeUrl": "https://store.steampowered.com/app/5516180/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5516180/3cc5c88bf38620110a7f0cc53a78a53c3731d2fb/header.jpg?t=1794951064",
+      "officialDescription": "Maze tower defense for up to eight players. Hold one lane of a ring round a castle: build the longest maze you can, catch what leaks from your teammates and see how many endless waves your team can hold. Or go PvP: two teams, mercenary sends, and ranked ladders from 1v1 to 4v4."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3249730",
+      "title": "Crossroads: Ancient Sagas online",
+      "storeUrl": "https://store.steampowered.com/app/3249730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249730/ebfc40d5763a7391611f0d01e575c51db1898a6a/header.jpg?t=1794958622",
+      "officialDescription": "Experience Crossroads: Ancient Sagas, where every turn is a new chapter. Master the art of tactical deployment and cunning maneuvers. Vibrant colors and diverse deck compositions ensure no two games are alike."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5434630",
+      "title": "CHILD ABUSE HEROES",
+      "storeUrl": "https://store.steampowered.com/app/5434630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434630/4cda3533ce8b8cc7add09ff483f51b4f20f3b907/header.jpg?t=1794872015",
+      "officialDescription": "CHILD ABUSE HEROES - A story about children who dreamed and became heroes... A narrative action fighting game created by Rahad Ali. It blends story-driven dialogue and character interactions with straightforward combat."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5446390",
+      "title": "Mediotorum",
+      "storeUrl": "https://store.steampowered.com/app/5446390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5446390/2b2e8f43940c40def32a5ac20c4e948ac5ba59ef/header.jpg?t=1794867827",
+      "officialDescription": "Enter Mediotorum, a fantasy world torn by rival factions. Collect cards, forge your deck, and face other players in turn-based duels where every decision can tip the balance of the war."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5027890:permanent_free:1",
+      "productId": "5027890",
+      "title": "Majulah: Shape Your City – Prologue",
+      "status": "sent",
+      "bufferPostId": "6afceacffc933ac285aefee6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5516180:permanent_free:1",
+      "productId": "5516180",
+      "title": "Ringfall TD",
+      "status": "sent",
+      "bufferPostId": "6afcead0bb12698d1583d3b4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3249730:permanent_free:1",
+      "productId": "3249730",
+      "title": "Crossroads: Ancient Sagas online",
+      "status": "sent",
+      "bufferPostId": "6afcead2ab47737bddb46088"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5434630:permanent_free:1",
+      "productId": "5434630",
+      "title": "CHILD ABUSE HEROES",
+      "status": "sent",
+      "bufferPostId": "6afcead393fa11d37df3015a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5446390:permanent_free:1",
+      "productId": "5446390",
+      "title": "Mediotorum",
+      "status": "sent",
+      "bufferPostId": "6afcead5f0c5ce9361abf510"
+    }
+  ],
+  "errors": []
+}
