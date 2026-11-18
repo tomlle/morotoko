@@ -2355,6 +2355,18 @@
     "steam:5532770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5532770:permanent_free:1"
+    },
+    "steam:5194360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5194360:permanent_free:1"
+    },
+    "steam:4408850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4408850:permanent_free:1"
+    },
+    "steam:5222880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5222880:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20560,11 +20572,101 @@
       },
       "bufferPostId": "6afd14fb93fa11d37d0151cf",
       "postedAt": "2026-11-18T03:01:17.110Z"
+    },
+    "steam:5194360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5194360:permanent_free:1",
+      "store": "steam",
+      "productId": "5194360",
+      "generation": 1,
+      "title": "Super Plants",
+      "storeUrl": "https://store.steampowered.com/app/5194360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T06:01:05.627Z",
+      "lastSeenAt": "2026-11-18T06:01:05.627Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『スーパープランツ』は、スーパー植物を植えて育て、害虫を撃退する、サクッと遊べるタワーディフェンスゲームです。敵を倒して新しい種やツールをアンロックし、植物を融合して新たな能力を獲得し、究極の防衛線を育て上げましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T06:01:05.627Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Super Plants』\n✨ いつでも無料でプレイ\n\n『スーパープランツ』は、スーパー植物を植えて育て、害虫を撃退する、サクッと遊べるタワーディフェンスゲームです。敵を倒して新しい種やツールをアンロックし、植物を融合して新たな能力を獲得…\n\nhttps://store.steampowered.com/app/5194360/",
+        "attemptedAt": "2026-11-18T06:01:06.813Z",
+        "bufferPostId": "6afd3f22aa3b065dd97839d5",
+        "submittedAt": "2026-11-18T06:01:08.338Z",
+        "postedAt": "2026-11-18T06:01:08.338Z"
+      },
+      "bufferPostId": "6afd3f22aa3b065dd97839d5",
+      "postedAt": "2026-11-18T06:01:08.338Z"
+    },
+    "steam:4408850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4408850:permanent_free:1",
+      "store": "steam",
+      "productId": "4408850",
+      "generation": 1,
+      "title": "HATFINITY",
+      "storeUrl": "https://store.steampowered.com/app/4408850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T06:01:05.627Z",
+      "lastSeenAt": "2026-11-18T06:01:05.627Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "TIME TO PUT SOME MAGIC HATS ON YOU BALDY! Hatfinity is a top-down roguelike arcade experience set within a dark crystal cave. Play as a powerful wizard that combines his spells into something greater than their elements. Your choices determine whether you become the man with infinite hats!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T06:01:05.627Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『HATFINITY』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4408850/",
+        "attemptedAt": "2026-11-18T06:01:08.344Z",
+        "bufferPostId": "6afd3f24bb12698d159f489d",
+        "submittedAt": "2026-11-18T06:01:09.637Z",
+        "postedAt": "2026-11-18T06:01:09.637Z"
+      },
+      "bufferPostId": "6afd3f24bb12698d159f489d",
+      "postedAt": "2026-11-18T06:01:09.637Z"
+    },
+    "steam:5222880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5222880:permanent_free:1",
+      "store": "steam",
+      "productId": "5222880",
+      "generation": 1,
+      "title": "Wizards of Elnia",
+      "storeUrl": "https://store.steampowered.com/app/5222880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T06:01:05.627Z",
+      "lastSeenAt": "2026-11-18T06:01:05.627Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Build a five-spell loadout and outplay rival wizards in a free-to-play online arena for up to eight players. Aim your casts, dodge incoming magic, and combine 40+ spells across free-for-all, team battles, and Deathmatch.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T06:01:05.627Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Wizards of Elnia』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5222880/",
+        "attemptedAt": "2026-11-18T06:01:09.642Z",
+        "bufferPostId": "6afd3f25f38e9cc5486903e9",
+        "submittedAt": "2026-11-18T06:01:10.967Z",
+        "postedAt": "2026-11-18T06:01:10.967Z"
+      },
+      "bufferPostId": "6afd3f25f38e9cc5486903e9",
+      "postedAt": "2026-11-18T06:01:10.967Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T03:01:11.268Z",
+    "lastSuccessfulScanAt": "2026-11-18T06:01:05.627Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20695,6 +20797,7 @@
       "4374510": "2026-10-31T09:00:59.059Z",
       "4394570": "2026-10-31T03:11:06.746Z",
       "4399360": "2026-11-11T03:01:13.820Z",
+      "4408850": "2026-11-18T06:01:05.627Z",
       "4410900": "2026-10-18T00:01:08.594Z",
       "4424740": "2026-11-02T18:01:16.242Z",
       "4429430": "2026-10-27T18:01:06.530Z",
@@ -20973,6 +21076,7 @@
       "5188720": "2026-10-28T12:01:11.239Z",
       "5190580": "2026-10-29T21:01:08.062Z",
       "5191970": "2026-10-28T18:01:10.127Z",
+      "5194360": "2026-11-18T06:01:05.627Z",
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196280": "2026-10-31T09:00:59.059Z",
       "5196510": "2026-10-15T21:00:58.160Z",
@@ -20989,6 +21093,7 @@
       "5219930": "2026-11-06T09:01:10.595Z",
       "5220530": "2026-11-12T18:01:08.650Z",
       "5220890": "2026-10-16T18:01:10.079Z",
+      "5222880": "2026-11-18T06:01:05.627Z",
       "5223700": "2026-10-14T15:30:36.000Z",
       "5223810": "2026-10-14T15:30:36.000Z",
       "5224050": "2026-10-20T12:00:59.724Z",

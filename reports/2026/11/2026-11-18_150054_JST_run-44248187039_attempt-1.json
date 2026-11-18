@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44248187039",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T06:00:54.900Z",
+    "finishedAt": "2026-11-18T06:01:10.978Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44248187039"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5194360",
+      "title": "Super Plants",
+      "storeUrl": "https://store.steampowered.com/app/5194360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194360/3764e0fddf7d6bd6f793224c20fd304c8e27ae5a/header.jpg?t=1794978803",
+      "officialDescription": "『スーパープランツ』は、スーパー植物を植えて育て、害虫を撃退する、サクッと遊べるタワーディフェンスゲームです。敵を倒して新しい種やツールをアンロックし、植物を融合して新たな能力を獲得し、究極の防衛線を育て上げましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4408850",
+      "title": "HATFINITY",
+      "storeUrl": "https://store.steampowered.com/app/4408850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4408850/560a9122dca99491c23211947c27848dd5eaefbf/header.jpg?t=1794978784",
+      "officialDescription": "TIME TO PUT SOME MAGIC HATS ON YOU BALDY! Hatfinity is a top-down roguelike arcade experience set within a dark crystal cave. Play as a powerful wizard that combines his spells into something greater than their elements. Your choices determine whether you become the man with infinite hats!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5222880",
+      "title": "Wizards of Elnia",
+      "storeUrl": "https://store.steampowered.com/app/5222880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5222880/eec2f65d95402cf8e8ff0b24595f43a49cdb6196/header.jpg?t=1794971841",
+      "officialDescription": "Build a five-spell loadout and outplay rival wizards in a free-to-play online arena for up to eight players. Aim your casts, dodge incoming magic, and combine 40+ spells across free-for-all, team battles, and Deathmatch."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5194360:permanent_free:1",
+      "productId": "5194360",
+      "title": "Super Plants",
+      "status": "sent",
+      "bufferPostId": "6afd3f22aa3b065dd97839d5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4408850:permanent_free:1",
+      "productId": "4408850",
+      "title": "HATFINITY",
+      "status": "sent",
+      "bufferPostId": "6afd3f24bb12698d159f489d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5222880:permanent_free:1",
+      "productId": "5222880",
+      "title": "Wizards of Elnia",
+      "status": "sent",
+      "bufferPostId": "6afd3f25f38e9cc5486903e9"
+    }
+  ],
+  "errors": []
+}
