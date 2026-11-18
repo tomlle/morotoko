@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44299847643",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-18T12:01:00.699Z",
+    "finishedAt": "2026-11-18T12:01:13.676Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44299847643"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5366290",
+      "title": "ARES: THE IRON VANGUARD",
+      "storeUrl": "https://store.steampowered.com/app/5366290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5366290/7654a692888012127be2c1713f1686f3e68398b2/header.jpg?t=1794999666",
+      "officialDescription": "▣ Stylish Sci-Fi Action RPG ▣ ■ Switch combat suits and classes in real time. ■ Master parries, perfect dodges, and powerful combos. ■ Battle massive enemies across vast battlefields with other Guardians."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4437450",
+      "title": "ネコぱら セカイコネクト",
+      "storeUrl": "https://store.steampowered.com/app/4437450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437450/ed352df73ab4e2b8fc740f01e181541fae9bbfa7/header_japanese.jpg?t=1794995634",
+      "officialDescription": "『ハートフルネココメディが、セカイ中のネコたちとつながる！』 全世界でシリーズ累計７００万本以上を販売 大人気アドベンチャーゲーム「ネコぱら」の最新作"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5366290:permanent_free:1",
+      "productId": "5366290",
+      "title": "ARES: THE IRON VANGUARD",
+      "status": "sent",
+      "bufferPostId": "6afd938667b44b742a519bcd"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4437450:permanent_free:1",
+      "productId": "4437450",
+      "title": "ネコぱら セカイコネクト",
+      "status": "sent",
+      "bufferPostId": "6afd938867b44b742a519c53"
+    }
+  ],
+  "errors": []
+}

@@ -2367,6 +2367,14 @@
     "steam:5222880:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5222880:permanent_free:1"
+    },
+    "steam:5366290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5366290:permanent_free:1"
+    },
+    "steam:4437450:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4437450:permanent_free:1"
     }
   },
   "campaigns": {
@@ -20662,11 +20670,71 @@
       },
       "bufferPostId": "6afd3f25f38e9cc5486903e9",
       "postedAt": "2026-11-18T06:01:10.967Z"
+    },
+    "steam:5366290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5366290:permanent_free:1",
+      "store": "steam",
+      "productId": "5366290",
+      "generation": 1,
+      "title": "ARES: THE IRON VANGUARD",
+      "storeUrl": "https://store.steampowered.com/app/5366290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T12:01:09.615Z",
+      "lastSeenAt": "2026-11-18T12:01:09.615Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "▣ Stylish Sci-Fi Action RPG ▣ ■ Switch combat suits and classes in real time. ■ Master parries, perfect dodges, and powerful combos. ■ Battle massive enemies across vast battlefields with other Guardians.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T12:01:09.615Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ARES: THE IRON VANGUARD』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5366290/",
+        "attemptedAt": "2026-11-18T12:01:10.769Z",
+        "bufferPostId": "6afd938667b44b742a519bcd",
+        "submittedAt": "2026-11-18T12:01:12.221Z",
+        "postedAt": "2026-11-18T12:01:12.221Z"
+      },
+      "bufferPostId": "6afd938667b44b742a519bcd",
+      "postedAt": "2026-11-18T12:01:12.221Z"
+    },
+    "steam:4437450:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4437450:permanent_free:1",
+      "store": "steam",
+      "productId": "4437450",
+      "generation": 1,
+      "title": "ネコぱら セカイコネクト",
+      "storeUrl": "https://store.steampowered.com/app/4437450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-18T12:01:09.615Z",
+      "lastSeenAt": "2026-11-18T12:01:09.615Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『ハートフルネココメディが、セカイ中のネコたちとつながる！』 全世界でシリーズ累計７００万本以上を販売 大人気アドベンチャーゲーム「ネコぱら」の最新作",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-18T12:01:09.615Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ネコぱら セカイコネクト』\n✨ いつでも無料でプレイ\n\n『ハートフルネココメディが、セカイ中のネコたちとつながる！』 全世界でシリーズ累計７００万本以上を販売 大人気アドベンチャーゲーム「ネコぱら」の最新作\n\nhttps://store.steampowered.com/app/4437450/",
+        "attemptedAt": "2026-11-18T12:01:12.230Z",
+        "bufferPostId": "6afd938867b44b742a519c53",
+        "submittedAt": "2026-11-18T12:01:13.657Z",
+        "postedAt": "2026-11-18T12:01:13.657Z"
+      },
+      "bufferPostId": "6afd938867b44b742a519c53",
+      "postedAt": "2026-11-18T12:01:13.657Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T09:01:05.629Z",
+    "lastSuccessfulScanAt": "2026-11-18T12:01:09.615Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -20808,6 +20876,7 @@
       "4435950": "2026-10-27T15:01:11.766Z",
       "4437140": "2026-10-22T06:00:50.818Z",
       "4437290": "2026-11-13T00:01:07.533Z",
+      "4437450": "2026-11-18T12:01:09.615Z",
       "4437770": "2026-10-17T21:01:00.535Z",
       "4450900": "2026-11-03T21:01:10.649Z",
       "4452480": "2026-11-03T06:01:07.148Z",
@@ -21241,6 +21310,7 @@
       "5364920": "2026-11-06T06:01:16.414Z",
       "5365450": "2026-10-24T03:00:59.931Z",
       "5365780": "2026-10-23T00:01:04.971Z",
+      "5366290": "2026-11-18T12:01:09.615Z",
       "5367090": "2026-11-01T12:01:00.497Z",
       "5367650": "2026-10-27T09:01:03.509Z",
       "5369820": "2026-11-09T18:01:24.470Z",
