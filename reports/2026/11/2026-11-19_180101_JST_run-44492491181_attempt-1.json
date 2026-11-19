@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44492491181",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T09:01:01.641Z",
+    "finishedAt": "2026-11-19T09:01:10.242Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44492491181"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 17,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5285500",
+      "title": "Peril and Plunder",
+      "storeUrl": "https://store.steampowered.com/app/5285500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285500/7ac3ebd27a3d68e64af121a2161d58498ce85713/header.jpg?t=1795075105",
+      "officialDescription": "Betray your friends. Haunt them afterward. A turn-based dungeon card game for 2–8 players: fight monsters, grab loot, and turn on your allies. When you die, return as a ghost and keep meddling with the survivors."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5285500:permanent_free:1",
+      "productId": "5285500",
+      "title": "Peril and Plunder",
+      "status": "sent",
+      "bufferPostId": "6afebad44a35072d027d88c4"
+    }
+  ],
+  "errors": []
+}
