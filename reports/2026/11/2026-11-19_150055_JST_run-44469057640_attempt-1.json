@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44469057640",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T06:00:55.317Z",
+    "finishedAt": "2026-11-19T06:01:12.153Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44469057640"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 19,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5429100",
+      "title": "Garvog: Monster Fight Combat",
+      "storeUrl": "https://store.steampowered.com/app/5429100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429100/5ed86f654b9a8bd64a9ceca43964473887502e49/header.jpg?t=1795064829",
+      "officialDescription": "Unleash 65+ monsters in a free-to-play 3D arena fighting game. Master intense 1v1 combat, unleash devastating magic, conquer challenging bosses, and fight through Tournament, Chaos, unpredictable Duels, and online battles."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5033020",
+      "title": "Xuverse",
+      "storeUrl": "https://store.steampowered.com/app/5033020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033020/dad5090d59b691788ca10635cf104311331eaf18/header.jpg?t=1795062603",
+      "officialDescription": "A cozy idle MMO where tiny creatures called Xu share your days. Gather, craft and wander a painted world that keeps turning while you're away, then gather with the whole realm for boss visits, festivals and guild feasts."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4972120",
+      "title": "⋆｡°✩ Y2K Meter ✩°｡⋆",
+      "storeUrl": "https://store.steampowered.com/app/4972120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972120/461dfdf5ce61cc4fb34ee2b5905b161724ab9066/header.jpg?t=1795058568",
+      "officialDescription": "Y2Kmeter is a free, open-source desktop audio analyzer with a retro pixel look. Explore loudness, levels, phase, dynamics and spectrum, plus audio-reactive visuals, a desktop virtual pet, fuse-bead pixel art and an analog VU meter. Poke every module in Toybox mode."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4398690",
+      "title": "MoSimulator",
+      "storeUrl": "https://store.steampowered.com/app/4398690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398690/31cde74ba653e0b4d606e3abb95f3202b5a933a3/header.jpg?t=1795057587",
+      "officialDescription": "MoSimulator is a robotics simulation game with an arcade feel that lets players mod in their own robots. Experience the excitement of competitive student robotics in a fun, accessible format where you can bring your own robot designs to life and compete in simulated matches."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5429100:permanent_free:1",
+      "productId": "5429100",
+      "title": "Garvog: Monster Fight Combat",
+      "status": "sent",
+      "bufferPostId": "6afe90a2b16549e9b82aac05"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5033020:permanent_free:1",
+      "productId": "5033020",
+      "title": "Xuverse",
+      "status": "sent",
+      "bufferPostId": "6afe90a446636f319e90072a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4972120:permanent_free:1",
+      "productId": "4972120",
+      "title": "⋆｡°✩ Y2K Meter ✩°｡⋆",
+      "status": "sent",
+      "bufferPostId": "6afe90a53802f5b9fc6fde82"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4398690:permanent_free:1",
+      "productId": "4398690",
+      "title": "MoSimulator",
+      "status": "sent",
+      "bufferPostId": "6afe90a646636f319e9008ff"
+    }
+  ],
+  "errors": []
+}

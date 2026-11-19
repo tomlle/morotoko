@@ -2431,6 +2431,22 @@
     "steam:5248290:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5248290:permanent_free:1"
+    },
+    "steam:5429100:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5429100:permanent_free:1"
+    },
+    "steam:5033020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5033020:permanent_free:1"
+    },
+    "steam:4972120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4972120:permanent_free:1"
+    },
+    "steam:4398690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4398690:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21206,11 +21222,131 @@
       },
       "bufferPostId": "6afe667659eff0b616d65ca3",
       "postedAt": "2026-11-19T03:01:11.982Z"
+    },
+    "steam:5429100:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5429100:permanent_free:1",
+      "store": "steam",
+      "productId": "5429100",
+      "generation": 1,
+      "title": "Garvog: Monster Fight Combat",
+      "storeUrl": "https://store.steampowered.com/app/5429100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T06:01:04.315Z",
+      "lastSeenAt": "2026-11-19T06:01:04.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Unleash 65+ monsters in a free-to-play 3D arena fighting game. Master intense 1v1 combat, unleash devastating magic, conquer challenging bosses, and fight through Tournament, Chaos, unpredictable Duels, and online battles.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T06:01:04.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Garvog: Monster Fight Combat』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5429100/",
+        "attemptedAt": "2026-11-19T06:01:06.699Z",
+        "bufferPostId": "6afe90a2b16549e9b82aac05",
+        "submittedAt": "2026-11-19T06:01:08.123Z",
+        "postedAt": "2026-11-19T06:01:08.123Z"
+      },
+      "bufferPostId": "6afe90a2b16549e9b82aac05",
+      "postedAt": "2026-11-19T06:01:08.123Z"
+    },
+    "steam:5033020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5033020:permanent_free:1",
+      "store": "steam",
+      "productId": "5033020",
+      "generation": 1,
+      "title": "Xuverse",
+      "storeUrl": "https://store.steampowered.com/app/5033020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T06:01:04.315Z",
+      "lastSeenAt": "2026-11-19T06:01:04.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A cozy idle MMO where tiny creatures called Xu share your days. Gather, craft and wander a painted world that keeps turning while you're away, then gather with the whole realm for boss visits, festivals and guild feasts.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T06:01:04.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Xuverse』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5033020/",
+        "attemptedAt": "2026-11-19T06:01:08.129Z",
+        "bufferPostId": "6afe90a446636f319e90072a",
+        "submittedAt": "2026-11-19T06:01:09.468Z",
+        "postedAt": "2026-11-19T06:01:09.468Z"
+      },
+      "bufferPostId": "6afe90a446636f319e90072a",
+      "postedAt": "2026-11-19T06:01:09.468Z"
+    },
+    "steam:4972120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4972120:permanent_free:1",
+      "store": "steam",
+      "productId": "4972120",
+      "generation": 1,
+      "title": "⋆｡°✩ Y2K Meter ✩°｡⋆",
+      "storeUrl": "https://store.steampowered.com/app/4972120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T06:01:04.315Z",
+      "lastSeenAt": "2026-11-19T06:01:04.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Y2Kmeter is a free, open-source desktop audio analyzer with a retro pixel look. Explore loudness, levels, phase, dynamics and spectrum, plus audio-reactive visuals, a desktop virtual pet, fuse-bead pixel art and an analog VU meter. Poke every module in Toybox mode.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T06:01:04.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『⋆｡°✩ Y2K Meter ✩°｡⋆』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4972120/",
+        "attemptedAt": "2026-11-19T06:01:09.473Z",
+        "bufferPostId": "6afe90a53802f5b9fc6fde82",
+        "submittedAt": "2026-11-19T06:01:10.852Z",
+        "postedAt": "2026-11-19T06:01:10.852Z"
+      },
+      "bufferPostId": "6afe90a53802f5b9fc6fde82",
+      "postedAt": "2026-11-19T06:01:10.852Z"
+    },
+    "steam:4398690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4398690:permanent_free:1",
+      "store": "steam",
+      "productId": "4398690",
+      "generation": 1,
+      "title": "MoSimulator",
+      "storeUrl": "https://store.steampowered.com/app/4398690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T06:01:04.315Z",
+      "lastSeenAt": "2026-11-19T06:01:04.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "MoSimulator is a robotics simulation game with an arcade feel that lets players mod in their own robots. Experience the excitement of competitive student robotics in a fun, accessible format where you can bring your own robot designs to life and compete in simulated matches.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T06:01:04.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『MoSimulator』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4398690/",
+        "attemptedAt": "2026-11-19T06:01:10.858Z",
+        "bufferPostId": "6afe90a646636f319e9008ff",
+        "submittedAt": "2026-11-19T06:01:12.142Z",
+        "postedAt": "2026-11-19T06:01:12.142Z"
+      },
+      "bufferPostId": "6afe90a646636f319e9008ff",
+      "postedAt": "2026-11-19T06:01:12.142Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-19T03:01:06.773Z",
+    "lastSuccessfulScanAt": "2026-11-19T06:01:04.315Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -21343,6 +21479,7 @@
       "4369110": "2026-11-14T03:01:11.349Z",
       "4374510": "2026-10-31T09:00:59.059Z",
       "4394570": "2026-10-31T03:11:06.746Z",
+      "4398690": "2026-11-19T06:01:04.315Z",
       "4399360": "2026-11-11T03:01:13.820Z",
       "4408850": "2026-11-18T06:01:05.627Z",
       "4410900": "2026-10-18T00:01:08.594Z",
@@ -21501,6 +21638,7 @@
       "4963800": "2026-10-14T15:30:36.000Z",
       "4967370": "2026-11-07T12:38:12.800Z",
       "4969000": "2026-11-18T03:01:11.268Z",
+      "4972120": "2026-11-19T06:01:04.315Z",
       "4972430": "2026-10-23T06:01:01.508Z",
       "4973650": "2026-11-12T18:01:08.650Z",
       "4974600": "2026-10-31T12:01:05.079Z",
@@ -21537,6 +21675,7 @@
       "5021660": "2026-11-10T12:01:08.585Z",
       "5023780": "2026-10-14T15:30:36.000Z",
       "5027890": "2026-11-18T00:01:16.673Z",
+      "5033020": "2026-11-19T06:01:04.315Z",
       "5033230": "2026-11-06T06:01:16.414Z",
       "5034400": "2026-10-30T15:01:09.322Z",
       "5034420": "2026-10-27T12:01:11.410Z",
@@ -21849,6 +21988,7 @@
       "5423320": "2026-11-14T03:01:11.349Z",
       "5425530": "2026-11-06T06:01:16.414Z",
       "5427960": "2026-11-09T18:01:24.470Z",
+      "5429100": "2026-11-19T06:01:04.315Z",
       "5431590": "2026-10-31T21:01:15.957Z",
       "5432770": "2026-11-11T15:01:08.794Z",
       "5433020": "2026-11-06T09:01:10.595Z",
