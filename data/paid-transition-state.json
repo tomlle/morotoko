@@ -59,17 +59,19 @@
       "event": {
         "id": "steam:5257350:paid-transition:1",
         "status": "sent",
-        "active": true,
+        "active": false,
         "announcementIds": [
           "1846018067925478"
         ],
         "firstSeenAt": "2026-10-07T15:17:47.818Z",
         "postedAt": "2026-10-07T15:17:49.242Z",
-        "bufferPostId": "6ac6629c75e2178a99496e97"
+        "bufferPostId": "6ac6629c75e2178a99496e97",
+        "convertedAt": "2026-11-19T15:01:39.110Z"
       },
       "processedAnnouncementIds": [
         "1846018067925478"
-      ]
+      ],
+      "lastConvertedAt": "2026-11-19T15:01:39.110Z"
     },
     "steam:3943750": {
       "generation": 1,

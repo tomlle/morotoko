@@ -2459,6 +2459,14 @@
     "steam:5303830:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5303830:permanent_free:1"
+    },
+    "steam:5041320:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5041320:permanent_free:1"
+    },
+    "steam:5361040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5361040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21444,11 +21452,71 @@
       },
       "bufferPostId": "6afee50ef7f7dcd7c39d6b84",
       "postedAt": "2026-11-19T12:01:20.217Z"
+    },
+    "steam:5041320:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5041320:permanent_free:1",
+      "store": "steam",
+      "productId": "5041320",
+      "generation": 1,
+      "title": "Roadkill",
+      "storeUrl": "https://store.steampowered.com/app/5041320/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T15:01:07.664Z",
+      "lastSeenAt": "2026-11-19T15:01:07.664Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The City Streets are Dangerous for a Single Raccoon! Dodge Vehicles, Scavenge Food, and Manage your Child's Insatiable Appetite!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T15:01:07.664Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Roadkill』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5041320/",
+        "attemptedAt": "2026-11-19T15:01:10.022Z",
+        "bufferPostId": "6aff0f3676fc37c1234f7550",
+        "submittedAt": "2026-11-19T15:01:11.534Z",
+        "postedAt": "2026-11-19T15:01:11.534Z"
+      },
+      "bufferPostId": "6aff0f3676fc37c1234f7550",
+      "postedAt": "2026-11-19T15:01:11.534Z"
+    },
+    "steam:5361040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5361040:permanent_free:1",
+      "store": "steam",
+      "productId": "5361040",
+      "generation": 1,
+      "title": "DD33: Death by Dice",
+      "storeUrl": "https://store.steampowered.com/app/5361040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T15:01:07.664Z",
+      "lastSeenAt": "2026-11-19T15:01:07.664Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Five dice, five enemy lanes, and a plan that may not survive the next roll. Build poker-style combos, collect powerful cards, and upgrade your dice in a free turn-based roguelike. Choose your attacks carefully: a bigger combo is not always the better move.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T15:01:07.664Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『DD33: Death by Dice』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5361040/",
+        "attemptedAt": "2026-11-19T15:01:11.540Z",
+        "bufferPostId": "6aff0f375187bf7d546d642d",
+        "submittedAt": "2026-11-19T15:01:13.346Z",
+        "postedAt": "2026-11-19T15:01:13.346Z"
+      },
+      "bufferPostId": "6aff0f375187bf7d546d642d",
+      "postedAt": "2026-11-19T15:01:13.346Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-19T12:01:09.406Z",
+    "lastSuccessfulScanAt": "2026-11-19T15:01:07.664Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -21787,6 +21855,7 @@
       "5038620": "2026-10-29T21:01:08.062Z",
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
+      "5041320": "2026-11-19T15:01:07.664Z",
       "5043860": "2026-10-21T00:01:08.212Z",
       "5045330": "2026-11-16T21:01:09.959Z",
       "5048390": "2026-11-16T06:01:09.607Z",
@@ -22037,6 +22106,7 @@
       "5357680": "2026-10-20T18:01:06.119Z",
       "5358500": "2026-10-23T15:01:04.807Z",
       "5359760": "2026-10-19T09:01:06.915Z",
+      "5361040": "2026-11-19T15:01:07.664Z",
       "5364920": "2026-11-06T06:01:16.414Z",
       "5365450": "2026-10-24T03:00:59.931Z",
       "5365780": "2026-10-23T00:01:04.971Z",
