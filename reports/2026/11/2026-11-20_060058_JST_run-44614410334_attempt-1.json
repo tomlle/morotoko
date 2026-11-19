@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44614410334",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T21:00:58.310Z",
+    "finishedAt": "2026-11-19T21:01:14.431Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44614410334"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5366850",
+      "title": "IMMISCERE",
+      "storeUrl": "https://store.steampowered.com/app/5366850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5366850/5e2245dc5303b14fb1b8f2d2cb07146673178525/header.jpg?t=1795118545",
+      "officialDescription": "A short, mystery-thriller adventure game about attending to a regular Halloween party. At least, that's the goal. Right?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5006630",
+      "title": "Starcore",
+      "storeUrl": "https://store.steampowered.com/app/5006630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006630/609a030f46b38d1ecd120e3bc355429f5b84c70f/header.jpg?t=1795116518",
+      "officialDescription": "Starcore is a free-to-play voxel fortress-defense roguelite. Build, mine, research, and fight escalating swarms solo or in four-player co-op. Wage team battles in Corenet, or create and share custom scenarios through Steam Workshop."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5175130",
+      "title": "烈火皇城",
+      "storeUrl": "https://store.steampowered.com/app/5175130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175130/dca993ed1fd4ce07b93bf6d634ca80a6cf93d9aa/header.jpg?t=1795111888",
+      "officialDescription": "《烈火皇城》是一款角色扮演类游戏，游戏以经典传奇为背景，游戏采用完全免费的收费模式，游戏延续1.76经典玩法，设有战法道三职业，在画面和玩法上进行了升级，还原了经典传奇地图，包含PVE、PVP以及跨服攻沙等交互玩法。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795111327",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5366850:permanent_free:1",
+      "productId": "5366850",
+      "title": "IMMISCERE",
+      "status": "sent",
+      "bufferPostId": "6aff63948ba5b0cdc4acb9c4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5006630:permanent_free:1",
+      "productId": "5006630",
+      "title": "Starcore",
+      "status": "sent",
+      "bufferPostId": "6aff63968ba5b0cdc4acbaa9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5175130:permanent_free:1",
+      "productId": "5175130",
+      "title": "烈火皇城",
+      "status": "sent",
+      "bufferPostId": "6aff63976e5bb62d74cc762a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:1158310:temporary_play:1",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "status": "sent",
+      "bufferPostId": "6aff6399373c7db3cb522f35"
+    }
+  ],
+  "errors": []
+}
