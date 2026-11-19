@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44519895746",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T12:00:57.179Z",
+    "finishedAt": "2026-11-19T12:01:20.232Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44519895746"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5059250",
+      "title": "Thoth's Riddle",
+      "storeUrl": "https://store.steampowered.com/app/5059250/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059250/dcb991b7962a0c9f48392b5fcd1eebd56442d7a2/header.jpg?t=1795082718",
+      "officialDescription": "Can you escape the Pyramid of Thoth? You have been tasked to explore the Pyramid and uncover its secrets. But you have fallen into the chamber and now must escape this mysterious Pyramid by solving 7 uniquely themed puzzles."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5303830",
+      "title": "Petrol Empire",
+      "storeUrl": "https://store.steampowered.com/app/5303830/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303830/eb5c2d0e5aa06cdd120fc720c5a0c2f09955c5fc/header.jpg?t=1795012538",
+      "officialDescription": "燃料ビジネスを題材にした放置型経営ゲーム。通りの向こうのスタンドを相手にリッター単価を決め、勝てばその系列を買収し、サプライチェーンをさかのぼって製油所と油田まで手に入れよう。七十の市場、それぞれに独自のマップ。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5059250:permanent_free:1",
+      "productId": "5059250",
+      "title": "Thoth's Riddle",
+      "status": "sent",
+      "bufferPostId": "6afee50a9f302b4ad1889223"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5303830:permanent_free:1",
+      "productId": "5303830",
+      "title": "Petrol Empire",
+      "status": "sent",
+      "bufferPostId": "6afee50ef7f7dcd7c39d6b84"
+    }
+  ],
+  "errors": []
+}
