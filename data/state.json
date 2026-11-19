@@ -2407,6 +2407,18 @@
     "steam:2176920:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2176920:permanent_free:1"
+    },
+    "steam:5532190:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5532190:permanent_free:1"
+    },
+    "steam:5182760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5182760:permanent_free:1"
+    },
+    "steam:5322700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5322700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21002,11 +21014,101 @@
       },
       "bufferPostId": "6afe1217a8bd8e4ffd18b524",
       "postedAt": "2026-11-18T21:01:12.878Z"
+    },
+    "steam:5532190:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5532190:permanent_free:1",
+      "store": "steam",
+      "productId": "5532190",
+      "generation": 1,
+      "title": "Oustwit",
+      "storeUrl": "https://store.steampowered.com/app/5532190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T00:01:12.361Z",
+      "lastSeenAt": "2026-11-19T00:01:12.361Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A tactical 1v1 board duel on a 6×6 grid where every piece you place shoves its neighbours. Line up three or deploy all eight to win. Quick online matches against players on PC and mobile, or play the AI offline. Outwit. Oust. Win.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T00:01:12.361Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Oustwit』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5532190/",
+        "attemptedAt": "2026-11-19T00:01:14.924Z",
+        "bufferPostId": "6afe3c4bc69bd1cb88903e53",
+        "submittedAt": "2026-11-19T00:01:16.420Z",
+        "postedAt": "2026-11-19T00:01:16.420Z"
+      },
+      "bufferPostId": "6afe3c4bc69bd1cb88903e53",
+      "postedAt": "2026-11-19T00:01:16.420Z"
+    },
+    "steam:5182760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5182760:permanent_free:1",
+      "store": "steam",
+      "productId": "5182760",
+      "generation": 1,
+      "title": "Supernova",
+      "storeUrl": "https://store.steampowered.com/app/5182760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T00:01:12.361Z",
+      "lastSeenAt": "2026-11-19T00:01:12.361Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Supernova is a sci-fi movement FPS about a doomed star thief who, with the help of their protégé and an other-worldly stranger, must battle through hordes of cosmic monsters, explore an abandoned metropolis, and unlock new abilities to save themselves and the galaxy.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T00:01:12.361Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Supernova』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5182760/",
+        "attemptedAt": "2026-11-19T00:01:16.429Z",
+        "bufferPostId": "6afe3c4cebd4409dc905a4e5",
+        "submittedAt": "2026-11-19T00:01:17.765Z",
+        "postedAt": "2026-11-19T00:01:17.765Z"
+      },
+      "bufferPostId": "6afe3c4cebd4409dc905a4e5",
+      "postedAt": "2026-11-19T00:01:17.765Z"
+    },
+    "steam:5322700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5322700:permanent_free:1",
+      "store": "steam",
+      "productId": "5322700",
+      "generation": 1,
+      "title": "Eclipse Conquest",
+      "storeUrl": "https://store.steampowered.com/app/5322700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T00:01:12.361Z",
+      "lastSeenAt": "2026-11-19T00:01:12.361Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Eclipse Conquestは3Dファンタジーのトレーディングカードゲームです。デッキを組み、ブースターを開封して、戦略的なターン制バトルでほかのプレイヤーに挑みましょう。細部まで作り込まれた戦場でAIと戦い、腕を磨くこともできます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T00:01:12.361Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Eclipse Conquest』\n✨ いつでも無料でプレイ\n\nEclipse Conquestは3Dファンタジーのトレーディングカードゲームです。デッキを組み、ブースターを開封して、戦略的なターン制バトルでほかのプレイヤーに挑みましょう。細部まで作り込まれた…\n\nhttps://store.steampowered.com/app/5322700/",
+        "attemptedAt": "2026-11-19T00:01:17.785Z",
+        "bufferPostId": "6afe3c4debd4409dc905a587",
+        "submittedAt": "2026-11-19T00:01:19.175Z",
+        "postedAt": "2026-11-19T00:01:19.175Z"
+      },
+      "bufferPostId": "6afe3c4debd4409dc905a587",
+      "postedAt": "2026-11-19T00:01:19.175Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-18T21:01:08.756Z",
+    "lastSuccessfulScanAt": "2026-11-19T00:01:12.361Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -21413,6 +21515,7 @@
       "5178350": "2026-10-14T15:30:36.000Z",
       "5179280": "2026-10-23T03:01:08.088Z",
       "5180840": "2026-10-14T15:30:36.000Z",
+      "5182760": "2026-11-19T00:01:12.361Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5183740": "2026-11-14T18:01:03.320Z",
       "5186260": "2026-10-29T15:01:15.623Z",
@@ -21547,6 +21650,7 @@
       "5319610": "2026-10-14T15:30:36.000Z",
       "5321810": "2026-11-06T06:01:16.414Z",
       "5322620": "2026-10-28T06:01:11.657Z",
+      "5322700": "2026-11-19T00:01:12.361Z",
       "5323250": "2026-11-08T18:01:07.512Z",
       "5324320": "2026-10-26T00:01:03.264Z",
       "5325220": "2026-11-07T15:01:11.737Z",
@@ -21698,6 +21802,7 @@
       "5516180": "2026-11-18T00:01:16.673Z",
       "5518020": "2026-11-18T03:01:11.268Z",
       "5520310": "2026-11-18T03:01:11.268Z",
+      "5532190": "2026-11-19T00:01:12.361Z",
       "5532770": "2026-11-18T03:01:11.268Z",
       "5541800": "2026-11-17T09:01:05.156Z"
     }

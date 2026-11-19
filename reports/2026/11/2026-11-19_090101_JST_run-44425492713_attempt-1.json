@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44425492713",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T00:01:01.816Z",
+    "finishedAt": "2026-11-19T00:01:19.194Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44425492713"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5532190",
+      "title": "Oustwit",
+      "storeUrl": "https://store.steampowered.com/app/5532190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532190/0e9e58d1afcea694040f39e3b98a7ab2cdc78781/header.jpg?t=1795036591",
+      "officialDescription": "A tactical 1v1 board duel on a 6×6 grid where every piece you place shoves its neighbours. Line up three or deploy all eight to win. Quick online matches against players on PC and mobile, or play the AI offline. Outwit. Oust. Win."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5182760",
+      "title": "Supernova",
+      "storeUrl": "https://store.steampowered.com/app/5182760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182760/bc0131a1e3576bd28cb678042d98d7db0ec7cd53/header.jpg?t=1795036360",
+      "officialDescription": "Supernova is a sci-fi movement FPS about a doomed star thief who, with the help of their protégé and an other-worldly stranger, must battle through hordes of cosmic monsters, explore an abandoned metropolis, and unlock new abilities to save themselves and the galaxy."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5322700",
+      "title": "Eclipse Conquest",
+      "storeUrl": "https://store.steampowered.com/app/5322700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322700/2f7677f6f8e0dfd04876295b58b0eaaa5083fa89/header.jpg?t=1795037716",
+      "officialDescription": "Eclipse Conquestは3Dファンタジーのトレーディングカードゲームです。デッキを組み、ブースターを開封して、戦略的なターン制バトルでほかのプレイヤーに挑みましょう。細部まで作り込まれた戦場でAIと戦い、腕を磨くこともできます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5532190:permanent_free:1",
+      "productId": "5532190",
+      "title": "Oustwit",
+      "status": "sent",
+      "bufferPostId": "6afe3c4bc69bd1cb88903e53"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5182760:permanent_free:1",
+      "productId": "5182760",
+      "title": "Supernova",
+      "status": "sent",
+      "bufferPostId": "6afe3c4cebd4409dc905a4e5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5322700:permanent_free:1",
+      "productId": "5322700",
+      "title": "Eclipse Conquest",
+      "status": "sent",
+      "bufferPostId": "6afe3c4debd4409dc905a587"
+    }
+  ],
+  "errors": []
+}
