@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44583221589",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T18:01:03.696Z",
+    "finishedAt": "2026-11-19T18:01:25.295Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44583221589"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5505310",
+      "title": "Drift Wreck: Online Racing",
+      "storeUrl": "https://store.steampowered.com/app/5505310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5505310/db34594803906b296af169f0645205102a8f1426/header.jpg?t=1795103758",
+      "officialDescription": "ドリフトとニトロでライバルを振り切り、ゴールを目指す高速アーケードレース。へこむボディ、飛び散るパーツ、大迫力のクラッシュ。個性的な車を集めてチューンし、ショートカットを見つけ、PCとAndroidのプレイヤーとオンラインで競い合おう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5192950",
+      "title": "Crinimal Land",
+      "storeUrl": "https://store.steampowered.com/app/5192950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5192950/ed4c4919910c80e36a086d68bd3dbfa9aa24fc61/header.jpg?t=1795102936",
+      "officialDescription": "Crinimal Land is an open-world game featuring animals, inspired by the police missions in some of the most beloved games from the 2000's, but more family-friendly. Be a police officer that can run, crouch, aim and use non-lethal weapons to shoot groups of crinimal animals."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5472990",
+      "title": "猫猫放置",
+      "storeUrl": "https://store.steampowered.com/app/5472990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472990/183a45d976d0c28bf01bba0a6962dd901e664583/header.jpg?t=1795101519",
+      "officialDescription": "MiaoMiao Idle is a healing-style cat-themed idle game. In the peaceful \"Cat Village\", you live alongside adorable cats — gathering, fishing, farming, mining, raising cats, building, and crafting equipment, enjoying a laid-back countryside cat life."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5185210",
+      "title": "The Reverend: A Happyhills Homicide Story",
+      "storeUrl": "https://store.steampowered.com/app/5185210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185210/ff3c114b41da4853c18ceefa1ca7b0e9a5d327e3/header.jpg?t=1794984797",
+      "officialDescription": "Unravel the dark secrets of Reverend Lawrence, known for his appearance in The Happyhills Homicide 2: Out For Blood. Prior to his death, Reverend Lawrence was a devout Christian and an example for the community of Happyhills. Everyone has skeletons in their closets, but some more than others..."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5505310:permanent_free:1",
+      "productId": "5505310",
+      "title": "Drift Wreck: Online Racing",
+      "status": "sent",
+      "bufferPostId": "6aff397006d992381c75c046"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5192950:permanent_free:1",
+      "productId": "5192950",
+      "title": "Crinimal Land",
+      "status": "sent",
+      "bufferPostId": "6aff39715d2b29e3f55575d1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5472990:permanent_free:1",
+      "productId": "5472990",
+      "title": "猫猫放置",
+      "status": "sent",
+      "bufferPostId": "6aff397206d992381c75c317"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5185210:permanent_free:1",
+      "productId": "5185210",
+      "title": "The Reverend: A Happyhills Homicide Story",
+      "status": "sent",
+      "bufferPostId": "6aff3974b96c7393c03f8676"
+    }
+  ],
+  "errors": []
+}

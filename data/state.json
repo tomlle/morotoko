@@ -2467,6 +2467,22 @@
     "steam:5361040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5361040:permanent_free:1"
+    },
+    "steam:5505310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5505310:permanent_free:1"
+    },
+    "steam:5192950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5192950:permanent_free:1"
+    },
+    "steam:5472990:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5472990:permanent_free:1"
+    },
+    "steam:5185210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5185210:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21512,11 +21528,131 @@
       },
       "bufferPostId": "6aff0f375187bf7d546d642d",
       "postedAt": "2026-11-19T15:01:13.346Z"
+    },
+    "steam:5505310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5505310:permanent_free:1",
+      "store": "steam",
+      "productId": "5505310",
+      "generation": 1,
+      "title": "Drift Wreck: Online Racing",
+      "storeUrl": "https://store.steampowered.com/app/5505310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T18:01:18.855Z",
+      "lastSeenAt": "2026-11-19T18:01:18.855Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ドリフトとニトロでライバルを振り切り、ゴールを目指す高速アーケードレース。へこむボディ、飛び散るパーツ、大迫力のクラッシュ。個性的な車を集めてチューンし、ショートカットを見つけ、PCとAndroidのプレイヤーとオンラインで競い合おう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T18:01:18.855Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Drift Wreck: Online Racing』\n✨ いつでも無料でプレイ\n\nドリフトとニトロでライバルを振り切り、ゴールを目指す高速アーケードレース。へこむボディ、飛び散るパーツ、大迫力のクラッシュ。個性的な車を集めてチューンし、ショートカット…\n\nhttps://store.steampowered.com/app/5505310/",
+        "attemptedAt": "2026-11-19T18:01:19.896Z",
+        "bufferPostId": "6aff397006d992381c75c046",
+        "submittedAt": "2026-11-19T18:01:21.284Z",
+        "postedAt": "2026-11-19T18:01:21.284Z"
+      },
+      "bufferPostId": "6aff397006d992381c75c046",
+      "postedAt": "2026-11-19T18:01:21.284Z"
+    },
+    "steam:5192950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5192950:permanent_free:1",
+      "store": "steam",
+      "productId": "5192950",
+      "generation": 1,
+      "title": "Crinimal Land",
+      "storeUrl": "https://store.steampowered.com/app/5192950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T18:01:18.855Z",
+      "lastSeenAt": "2026-11-19T18:01:18.855Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Crinimal Land is an open-world game featuring animals, inspired by the police missions in some of the most beloved games from the 2000's, but more family-friendly. Be a police officer that can run, crouch, aim and use non-lethal weapons to shoot groups of crinimal animals.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T18:01:18.855Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crinimal Land』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5192950/",
+        "attemptedAt": "2026-11-19T18:01:21.292Z",
+        "bufferPostId": "6aff39715d2b29e3f55575d1",
+        "submittedAt": "2026-11-19T18:01:22.557Z",
+        "postedAt": "2026-11-19T18:01:22.557Z"
+      },
+      "bufferPostId": "6aff39715d2b29e3f55575d1",
+      "postedAt": "2026-11-19T18:01:22.557Z"
+    },
+    "steam:5472990:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5472990:permanent_free:1",
+      "store": "steam",
+      "productId": "5472990",
+      "generation": 1,
+      "title": "猫猫放置",
+      "storeUrl": "https://store.steampowered.com/app/5472990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T18:01:18.855Z",
+      "lastSeenAt": "2026-11-19T18:01:18.855Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "MiaoMiao Idle is a healing-style cat-themed idle game. In the peaceful \"Cat Village\", you live alongside adorable cats — gathering, fishing, farming, mining, raising cats, building, and crafting equipment, enjoying a laid-back countryside cat life.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T18:01:18.855Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『猫猫放置』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5472990/",
+        "attemptedAt": "2026-11-19T18:01:22.566Z",
+        "bufferPostId": "6aff397206d992381c75c317",
+        "submittedAt": "2026-11-19T18:01:23.977Z",
+        "postedAt": "2026-11-19T18:01:23.977Z"
+      },
+      "bufferPostId": "6aff397206d992381c75c317",
+      "postedAt": "2026-11-19T18:01:23.977Z"
+    },
+    "steam:5185210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5185210:permanent_free:1",
+      "store": "steam",
+      "productId": "5185210",
+      "generation": 1,
+      "title": "The Reverend: A Happyhills Homicide Story",
+      "storeUrl": "https://store.steampowered.com/app/5185210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T18:01:18.855Z",
+      "lastSeenAt": "2026-11-19T18:01:18.855Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Unravel the dark secrets of Reverend Lawrence, known for his appearance in The Happyhills Homicide 2: Out For Blood. Prior to his death, Reverend Lawrence was a devout Christian and an example for the community of Happyhills. Everyone has skeletons in their closets, but some more than others...",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T18:01:18.855Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Reverend: A Happyhills Homicide Story』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5185210/",
+        "attemptedAt": "2026-11-19T18:01:23.984Z",
+        "bufferPostId": "6aff3974b96c7393c03f8676",
+        "submittedAt": "2026-11-19T18:01:25.281Z",
+        "postedAt": "2026-11-19T18:01:25.281Z"
+      },
+      "bufferPostId": "6aff3974b96c7393c03f8676",
+      "postedAt": "2026-11-19T18:01:25.281Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-19T15:01:07.664Z",
+    "lastSuccessfulScanAt": "2026-11-19T18:01:18.855Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -21932,6 +22068,7 @@
       "5182760": "2026-11-19T00:01:12.361Z",
       "5183540": "2026-10-16T09:01:06.129Z",
       "5183740": "2026-11-14T18:01:03.320Z",
+      "5185210": "2026-11-19T18:01:18.855Z",
       "5186260": "2026-10-29T15:01:15.623Z",
       "5186400": "2026-11-12T15:01:10.708Z",
       "5186550": "2026-10-14T15:30:36.000Z",
@@ -21939,6 +22076,7 @@
       "5188720": "2026-10-28T12:01:11.239Z",
       "5190580": "2026-10-29T21:01:08.062Z",
       "5191970": "2026-10-28T18:01:10.127Z",
+      "5192950": "2026-11-19T18:01:18.855Z",
       "5194360": "2026-11-18T06:01:05.627Z",
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196280": "2026-10-31T09:00:59.059Z",
@@ -22195,6 +22333,7 @@
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
       "5468140": "2026-11-12T06:01:04.893Z",
+      "5472990": "2026-11-19T18:01:18.855Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5473320": "2026-11-14T18:01:03.320Z",
       "5476640": "2026-11-11T21:01:10.292Z",
@@ -22216,6 +22355,7 @@
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
       "5502850": "2026-11-11T15:01:08.794Z",
+      "5505310": "2026-11-19T18:01:18.855Z",
       "5507480": "2026-11-17T18:01:08.800Z",
       "5512840": "2026-11-15T09:01:06.193Z",
       "5515850": "2026-11-16T18:01:09.149Z",
