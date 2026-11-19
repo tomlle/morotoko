@@ -2419,6 +2419,18 @@
     "steam:5322700:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5322700:permanent_free:1"
+    },
+    "steam:4620120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4620120:permanent_free:1"
+    },
+    "steam:5302340:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5302340:permanent_free:1"
+    },
+    "steam:5248290:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5248290:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21104,11 +21116,101 @@
       },
       "bufferPostId": "6afe3c4debd4409dc905a587",
       "postedAt": "2026-11-19T00:01:19.175Z"
+    },
+    "steam:4620120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4620120:permanent_free:1",
+      "store": "steam",
+      "productId": "4620120",
+      "generation": 1,
+      "title": "Last Ride",
+      "storeUrl": "https://store.steampowered.com/app/4620120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T03:01:06.773Z",
+      "lastSeenAt": "2026-11-19T03:01:06.773Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Last Ride』は、心霊を題材にした調査・捕獲ゲームです。プレイヤーは事務所の新しい一員として、異常事件の現場を探索し、手がかりを集めます。悪霊の物語と動機を知ることで対抗手段を見つけ、最後に収容します。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T03:01:06.773Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Last Ride』\n✨ いつでも無料でプレイ\n\n『Last Ride』は、心霊を題材にした調査・捕獲ゲームです。プレイヤーは事務所の新しい一員として、異常事件の現場を探索し、手がかりを集めます。悪霊の物語と動機を知ることで対抗手段を見つけ、最…\n\nhttps://store.steampowered.com/app/4620120/",
+        "attemptedAt": "2026-11-19T03:01:07.863Z",
+        "bufferPostId": "6afe667459eff0b616d65b1a",
+        "submittedAt": "2026-11-19T03:01:09.323Z",
+        "postedAt": "2026-11-19T03:01:09.323Z"
+      },
+      "bufferPostId": "6afe667459eff0b616d65b1a",
+      "postedAt": "2026-11-19T03:01:09.323Z"
+    },
+    "steam:5302340:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5302340:permanent_free:1",
+      "store": "steam",
+      "productId": "5302340",
+      "generation": 1,
+      "title": "Solis Chronicles",
+      "storeUrl": "https://store.steampowered.com/app/5302340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T03:01:06.773Z",
+      "lastSeenAt": "2026-11-19T03:01:06.773Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Fleeing a future that executes the obsolete, Dr. Solis Renforge crash-lands among the dinosaurs, 65 million years in the past. Build a life with a prehistoric tribe, contain the corruption you unleashed, and face a people who fear what your technology makes of them. A sci-fi isekai visual novel.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T03:01:06.773Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Solis Chronicles』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5302340/",
+        "attemptedAt": "2026-11-19T03:01:09.332Z",
+        "bufferPostId": "6afe6675749099bdc7062df1",
+        "submittedAt": "2026-11-19T03:01:10.659Z",
+        "postedAt": "2026-11-19T03:01:10.659Z"
+      },
+      "bufferPostId": "6afe6675749099bdc7062df1",
+      "postedAt": "2026-11-19T03:01:10.659Z"
+    },
+    "steam:5248290:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5248290:permanent_free:1",
+      "store": "steam",
+      "productId": "5248290",
+      "generation": 1,
+      "title": "Roomy",
+      "storeUrl": "https://store.steampowered.com/app/5248290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-19T03:01:06.773Z",
+      "lastSeenAt": "2026-11-19T03:01:06.773Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Roomyは、シーン作成、キャラクターのポージング、部屋の装飾、バーチャル写真、インタラクティブ環境の探索を楽しめるカスタマイズ可能な3Dアバター＆ルームサンドボックスです。部屋、アバター、カメラ、天候、照明、家具、アニメーションなどを調整でき、Modやカスタムコンテンツにも対応しています。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-19T03:01:06.773Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Roomy』\n✨ いつでも無料でプレイ\n\nRoomyは、シーン作成、キャラクターのポージング、部屋の装飾、バーチャル写真、インタラクティブ環境の探索を楽しめるカスタマイズ可能な3Dアバター＆ルームサンドボックスです。部屋、アバター、カメラ…\n\nhttps://store.steampowered.com/app/5248290/",
+        "attemptedAt": "2026-11-19T03:01:10.670Z",
+        "bufferPostId": "6afe667659eff0b616d65ca3",
+        "submittedAt": "2026-11-19T03:01:11.982Z",
+        "postedAt": "2026-11-19T03:01:11.982Z"
+      },
+      "bufferPostId": "6afe667659eff0b616d65ca3",
+      "postedAt": "2026-11-19T03:01:11.982Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-19T00:01:12.361Z",
+    "lastSuccessfulScanAt": "2026-11-19T03:01:06.773Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -21285,6 +21387,7 @@
       "4607590": "2026-10-28T15:01:16.098Z",
       "4610720": "2026-10-31T18:01:01.493Z",
       "4611710": "2026-10-14T15:30:36.000Z",
+      "4620120": "2026-11-19T03:01:06.773Z",
       "4622120": "2026-10-14T15:30:36.000Z",
       "4631100": "2026-10-30T18:01:08.710Z",
       "4631420": "2026-10-28T00:01:10.872Z",
@@ -21569,6 +21672,7 @@
       "5246960": "2026-11-08T12:01:09.576Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5247120": "2026-11-06T06:01:16.414Z",
+      "5248290": "2026-11-19T03:01:06.773Z",
       "5249380": "2026-11-12T21:01:09.146Z",
       "5249390": "2026-10-14T15:30:36.000Z",
       "5249600": "2026-11-16T21:01:09.959Z",
@@ -21633,6 +21737,7 @@
       "5301420": "2026-10-14T15:30:36.000Z",
       "5301870": "2026-11-03T09:01:07.048Z",
       "5302110": "2026-10-16T12:01:06.356Z",
+      "5302340": "2026-11-19T03:01:06.773Z",
       "5302590": "2026-11-10T03:01:09.985Z",
       "5303740": "2026-10-14T15:30:36.000Z",
       "5306270": "2026-10-14T15:30:36.000Z",

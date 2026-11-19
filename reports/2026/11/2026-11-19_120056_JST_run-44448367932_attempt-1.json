@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44448367932",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-19T03:00:56.484Z",
+    "finishedAt": "2026-11-19T03:01:11.998Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44448367932"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4620120",
+      "title": "Last Ride",
+      "storeUrl": "https://store.steampowered.com/app/4620120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620120/8977b96251066bc87f45c4a04002cd16db813bee/header.jpg?t=1795054120",
+      "officialDescription": "『Last Ride』は、心霊を題材にした調査・捕獲ゲームです。プレイヤーは事務所の新しい一員として、異常事件の現場を探索し、手がかりを集めます。悪霊の物語と動機を知ることで対抗手段を見つけ、最後に収容します。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5302340",
+      "title": "Solis Chronicles",
+      "storeUrl": "https://store.steampowered.com/app/5302340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302340/d9fa5318061f8ef21fd87bce35d631699f4a44a2/header.jpg?t=1795051883",
+      "officialDescription": "Fleeing a future that executes the obsolete, Dr. Solis Renforge crash-lands among the dinosaurs, 65 million years in the past. Build a life with a prehistoric tribe, contain the corruption you unleashed, and face a people who fear what your technology makes of them. A sci-fi isekai visual novel."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5248290",
+      "title": "Roomy",
+      "storeUrl": "https://store.steampowered.com/app/5248290/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248290/5cfaffa6a3eea3cbd71e300870daf182927e77f8/header.jpg?t=1795050491",
+      "officialDescription": "Roomyは、シーン作成、キャラクターのポージング、部屋の装飾、バーチャル写真、インタラクティブ環境の探索を楽しめるカスタマイズ可能な3Dアバター＆ルームサンドボックスです。部屋、アバター、カメラ、天候、照明、家具、アニメーションなどを調整でき、Modやカスタムコンテンツにも対応しています。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4620120:permanent_free:1",
+      "productId": "4620120",
+      "title": "Last Ride",
+      "status": "sent",
+      "bufferPostId": "6afe667459eff0b616d65b1a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5302340:permanent_free:1",
+      "productId": "5302340",
+      "title": "Solis Chronicles",
+      "status": "sent",
+      "bufferPostId": "6afe6675749099bdc7062df1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5248290:permanent_free:1",
+      "productId": "5248290",
+      "title": "Roomy",
+      "status": "sent",
+      "bufferPostId": "6afe667659eff0b616d65ca3"
+    }
+  ],
+  "errors": []
+}
