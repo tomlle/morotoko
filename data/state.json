@@ -2583,6 +2583,14 @@
     "steam:5102260:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5102260:permanent_free:1"
+    },
+    "steam:2919410:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2919410:permanent_free:1"
+    },
+    "steam:5338480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5338480:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21851,7 +21859,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-20T18:01:12.152Z",
+      "lastSeenAt": "2026-11-20T21:01:15.221Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22523,11 +22531,71 @@
       },
       "bufferPostId": "6b008aed861298c9b13f65cb",
       "postedAt": "2026-11-20T18:01:20.146Z"
+    },
+    "steam:2919410:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2919410:permanent_free:1",
+      "store": "steam",
+      "productId": "2919410",
+      "generation": 1,
+      "title": "神雕江湖：命运推演",
+      "storeUrl": "https://store.steampowered.com/app/2919410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T21:01:15.221Z",
+      "lastSeenAt": "2026-11-20T21:01:15.221Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "一款南宋末年的AI推演游戏",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T21:01:15.221Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『神雕江湖：命运推演』\n✨ いつでも無料でプレイ\n\n一款南宋末年的AI推演游戏\n\nhttps://store.steampowered.com/app/2919410/",
+        "attemptedAt": "2026-11-20T21:01:17.427Z",
+        "bufferPostId": "6b00b51dd9cbb430a1f76978",
+        "submittedAt": "2026-11-20T21:01:18.796Z",
+        "postedAt": "2026-11-20T21:01:18.796Z"
+      },
+      "bufferPostId": "6b00b51dd9cbb430a1f76978",
+      "postedAt": "2026-11-20T21:01:18.796Z"
+    },
+    "steam:5338480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5338480:permanent_free:1",
+      "store": "steam",
+      "productId": "5338480",
+      "generation": 1,
+      "title": "Crazy Chess",
+      "storeUrl": "https://store.steampowered.com/app/5338480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T21:01:15.221Z",
+      "lastSeenAt": "2026-11-20T21:01:15.221Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A game based on chess. Solve 50 puzzles on boards of every kind and shape, with different types of tiles. Mechanics and rules that are a little crazy but a lot of fun.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T21:01:15.221Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Crazy Chess』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5338480/",
+        "attemptedAt": "2026-11-20T21:01:18.804Z",
+        "bufferPostId": "6b00b51e5102766245d1a4e4",
+        "submittedAt": "2026-11-20T21:01:20.130Z",
+        "postedAt": "2026-11-20T21:01:20.130Z"
+      },
+      "bufferPostId": "6b00b51e5102766245d1a4e4",
+      "postedAt": "2026-11-20T21:01:20.130Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-20T18:01:12.152Z",
+    "lastSuccessfulScanAt": "2026-11-20T21:01:15.221Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22566,6 +22634,7 @@
       "2772070": "2026-11-14T21:01:09.395Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
+      "2919410": "2026-11-20T21:01:15.221Z",
       "2920710": "2026-11-16T03:01:14.549Z",
       "2967590": "2026-11-07T15:01:11.737Z",
       "2982680": "2026-10-27T00:01:18.126Z",
@@ -23110,6 +23179,7 @@
       "5333130": "2026-11-07T12:38:12.800Z",
       "5333290": "2026-10-28T21:01:20.934Z",
       "5334390": "2026-11-07T12:38:12.800Z",
+      "5338480": "2026-11-20T21:01:15.221Z",
       "5338650": "2026-11-07T12:38:12.800Z",
       "5339870": "2026-10-24T15:01:00.588Z",
       "5341000": "2026-10-21T21:00:59.332Z",

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44816451916",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T21:01:05.783Z",
+    "finishedAt": "2026-11-20T21:01:20.143Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44816451916"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2919410",
+      "title": "神雕江湖：命运推演",
+      "storeUrl": "https://store.steampowered.com/app/2919410/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2919410/840b3ad850134c1953eaf51227dc198e5cb7460d/header.jpg?t=1795202676",
+      "officialDescription": "一款南宋末年的AI推演游戏"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5338480",
+      "title": "Crazy Chess",
+      "storeUrl": "https://store.steampowered.com/app/5338480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338480/02d4813029d94736d68fa0512cccf6eb75831a06/header.jpg?t=1795201321",
+      "officialDescription": "A game based on chess. Solve 50 puzzles on boards of every kind and shape, with different types of tiles. Mechanics and rules that are a little crazy but a lot of fun."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:2919410:permanent_free:1",
+      "productId": "2919410",
+      "title": "神雕江湖：命运推演",
+      "status": "sent",
+      "bufferPostId": "6b00b51dd9cbb430a1f76978"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5338480:permanent_free:1",
+      "productId": "5338480",
+      "title": "Crazy Chess",
+      "status": "sent",
+      "bufferPostId": "6b00b51e5102766245d1a4e4"
+    }
+  ],
+  "errors": []
+}
