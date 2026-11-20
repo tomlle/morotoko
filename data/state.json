@@ -2515,6 +2515,14 @@
     "steam:5224490:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5224490:permanent_free:1"
+    },
+    "steam:5471210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5471210:permanent_free:1"
+    },
+    "steam:5324400:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5324400:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21783,7 +21791,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-20T03:01:16.802Z",
+      "lastSeenAt": "2026-11-20T06:01:06.206Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -21945,11 +21953,71 @@
       },
       "bufferPostId": "6affb800738ce4635f7fae14",
       "postedAt": "2026-11-20T03:01:21.386Z"
+    },
+    "steam:5471210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5471210:permanent_free:1",
+      "store": "steam",
+      "productId": "5471210",
+      "generation": 1,
+      "title": "Pickleball Pro",
+      "storeUrl": "https://store.steampowered.com/app/5471210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T06:01:06.206Z",
+      "lastSeenAt": "2026-11-20T06:01:06.206Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Pickleball Pro is a 3D doubles pickleball game with the real rules: the kitchen, the two-bounce rule and 0-0-2 scoring. Dink, drop and drive through a 16-team Pro Tour, or take on a friend in online multiplayer. Every shot is here, from the third-shot drop to the Erne.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T06:01:06.206Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pickleball Pro』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5471210/",
+        "attemptedAt": "2026-11-20T06:01:07.376Z",
+        "bufferPostId": "6affe2230f5eda1a57c6a63b",
+        "submittedAt": "2026-11-20T06:01:08.832Z",
+        "postedAt": "2026-11-20T06:01:08.832Z"
+      },
+      "bufferPostId": "6affe2230f5eda1a57c6a63b",
+      "postedAt": "2026-11-20T06:01:08.832Z"
+    },
+    "steam:5324400:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5324400:permanent_free:1",
+      "store": "steam",
+      "productId": "5324400",
+      "generation": 1,
+      "title": "湖边的山香果-Cinnamomum",
+      "storeUrl": "https://store.steampowered.com/app/5324400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T06:01:06.206Z",
+      "lastSeenAt": "2026-11-20T06:01:06.206Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Scenes from dreams and people already passed away appear in reality. What secret lies behind it all? The game contains 70,000 characters and 20 CG. You need to click on the locations shown as explorable each day on the map. Please read it like novel. The playtime is about two hours.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T06:01:06.206Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『湖边的山香果-Cinnamomum』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5324400/",
+        "attemptedAt": "2026-11-20T06:01:08.839Z",
+        "bufferPostId": "6affe224738ce4635f8e8eb0",
+        "submittedAt": "2026-11-20T06:01:10.212Z",
+        "postedAt": "2026-11-20T06:01:10.212Z"
+      },
+      "bufferPostId": "6affe224738ce4635f8e8eb0",
+      "postedAt": "2026-11-20T06:01:10.212Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-20T03:01:16.802Z",
+    "lastSuccessfulScanAt": "2026-11-20T06:01:06.206Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22512,6 +22580,7 @@
       "5322700": "2026-11-19T00:01:12.361Z",
       "5323250": "2026-11-08T18:01:07.512Z",
       "5324320": "2026-10-26T00:01:03.264Z",
+      "5324400": "2026-11-20T06:01:06.206Z",
       "5325220": "2026-11-07T15:01:11.737Z",
       "5326340": "2026-10-31T15:01:00.614Z",
       "5328020": "2026-11-04T03:01:08.084Z",
@@ -22637,6 +22706,7 @@
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
       "5468140": "2026-11-12T06:01:04.893Z",
+      "5471210": "2026-11-20T06:01:06.206Z",
       "5472990": "2026-11-19T18:01:18.855Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5473320": "2026-11-14T18:01:03.320Z",
