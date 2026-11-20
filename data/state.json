@@ -2575,6 +2575,14 @@
     "steam:4513210:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4513210:permanent_free:1"
+    },
+    "steam:5454640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5454640:permanent_free:1"
+    },
+    "steam:5102260:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5102260:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21843,7 +21851,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-20T15:01:27.184Z",
+      "lastSeenAt": "2026-11-20T18:01:12.152Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22455,11 +22463,71 @@
       },
       "bufferPostId": "6b0060d25d9549971cb56a93",
       "postedAt": "2026-11-20T15:01:39.835Z"
+    },
+    "steam:5454640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5454640:permanent_free:1",
+      "store": "steam",
+      "productId": "5454640",
+      "generation": 1,
+      "title": "Perfect Pancakes",
+      "storeUrl": "https://store.steampowered.com/app/5454640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T18:01:12.152Z",
+      "lastSeenAt": "2026-11-20T18:01:12.152Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An experimental VR cooking game with liquid and soft-body physics.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T18:01:12.152Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Perfect Pancakes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5454640/",
+        "attemptedAt": "2026-11-20T18:01:14.654Z",
+        "bufferPostId": "6b008aeae3772ee0cf55dd32",
+        "submittedAt": "2026-11-20T18:01:17.463Z",
+        "postedAt": "2026-11-20T18:01:17.463Z"
+      },
+      "bufferPostId": "6b008aeae3772ee0cf55dd32",
+      "postedAt": "2026-11-20T18:01:17.463Z"
+    },
+    "steam:5102260:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5102260:permanent_free:1",
+      "store": "steam",
+      "productId": "5102260",
+      "generation": 1,
+      "title": "Mini Crime City",
+      "storeUrl": "https://store.steampowered.com/app/5102260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T18:01:12.152Z",
+      "lastSeenAt": "2026-11-20T18:01:12.152Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Welcome to Mini Crime City, a chaotic open-world crime sandbox where every bad idea can become a great story! Team up with up to 10 friends online to steal cars, take on criminal jobs, customize your characters, and outrun the cops. Explore the city solo or unleash absolute chaos together!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T18:01:12.152Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Mini Crime City』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5102260/",
+        "attemptedAt": "2026-11-20T18:01:17.476Z",
+        "bufferPostId": "6b008aed861298c9b13f65cb",
+        "submittedAt": "2026-11-20T18:01:20.146Z",
+        "postedAt": "2026-11-20T18:01:20.146Z"
+      },
+      "bufferPostId": "6b008aed861298c9b13f65cb",
+      "postedAt": "2026-11-20T18:01:20.146Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-20T15:01:27.184Z",
+    "lastSuccessfulScanAt": "2026-11-20T18:01:12.152Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22835,6 +22903,7 @@
       "5095690": "2026-10-29T18:01:09.856Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
+      "5102260": "2026-11-20T18:01:12.152Z",
       "5105400": "2026-10-14T15:30:36.000Z",
       "5105650": "2026-11-11T03:01:13.820Z",
       "5108310": "2026-10-18T12:00:59.249Z",
@@ -23146,6 +23215,7 @@
       "5449680": "2026-11-18T15:01:17.672Z",
       "5450430": "2026-11-12T00:01:14.122Z",
       "5451420": "2026-11-17T06:01:08.190Z",
+      "5454640": "2026-11-20T18:01:12.152Z",
       "5454740": "2026-11-15T18:01:15.376Z",
       "5455560": "2026-11-08T12:01:09.576Z",
       "5456600": "2026-11-08T03:01:05.662Z",

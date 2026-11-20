@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44788689599",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T18:01:02.146Z",
+    "finishedAt": "2026-11-20T18:01:20.158Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44788689599"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5454640",
+      "title": "Perfect Pancakes",
+      "storeUrl": "https://store.steampowered.com/app/5454640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5454640/11d8b3d53e902fc5c2f5b958fc618e63054c2ca7/header.jpg?t=1795195056",
+      "officialDescription": "An experimental VR cooking game with liquid and soft-body physics."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5102260",
+      "title": "Mini Crime City",
+      "storeUrl": "https://store.steampowered.com/app/5102260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102260/f0359895d155e394dd3a90e855f6bf0dbad88dad/header.jpg?t=1795193665",
+      "officialDescription": "Welcome to Mini Crime City, a chaotic open-world crime sandbox where every bad idea can become a great story! Team up with up to 10 friends online to steal cars, take on criminal jobs, customize your characters, and outrun the cops. Explore the city solo or unleash absolute chaos together!"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5454640:permanent_free:1",
+      "productId": "5454640",
+      "title": "Perfect Pancakes",
+      "status": "sent",
+      "bufferPostId": "6b008aeae3772ee0cf55dd32"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5102260:permanent_free:1",
+      "productId": "5102260",
+      "title": "Mini Crime City",
+      "status": "sent",
+      "bufferPostId": "6b008aed861298c9b13f65cb"
+    }
+  ],
+  "errors": []
+}
