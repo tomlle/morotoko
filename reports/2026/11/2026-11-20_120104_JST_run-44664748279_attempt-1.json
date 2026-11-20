@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44664748279",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T03:01:04.053Z",
+    "finishedAt": "2026-11-20T03:01:21.401Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44664748279"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5087750",
+      "title": "オトメパーティー",
+      "storeUrl": "https://store.steampowered.com/app/5087750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087750/475463b2ea845ca74504abde3ef94d34ff01c38a/header_japanese.jpg?t=1795139421",
+      "officialDescription": "『Maiden Party』――美少女たちが織りなす放置型カードRPG！Live2Dで描かれる100人以上の美少女たちを集め、自由なデッキ構築で戦略バトルに挑もう。オフライン放置でも報酬を獲得可能！ファンタジーな秘境の探索や、ホームでの農作業・釣りを楽しんだり、ギルドに参加してワールドボスを討伐したり。少女たちと特別な絆を深めよう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5224490",
+      "title": "Imago.Zero",
+      "storeUrl": "https://store.steampowered.com/app/5224490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224490/4a9dfbbe0ecf909021b67b69300ae185efca69ab/header.jpg?t=1795138330",
+      "officialDescription": "This is a fan-made InaSure visual novel inspired by ALDNOAH.ZERO."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795111327",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5087750:permanent_free:1",
+      "productId": "5087750",
+      "title": "オトメパーティー",
+      "status": "sent",
+      "bufferPostId": "6affb7fe0f5eda1a57b7f474"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5224490:permanent_free:1",
+      "productId": "5224490",
+      "title": "Imago.Zero",
+      "status": "sent",
+      "bufferPostId": "6affb800738ce4635f7fae14"
+    }
+  ],
+  "errors": []
+}
