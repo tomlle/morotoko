@@ -2523,6 +2523,22 @@
     "steam:5324400:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5324400:permanent_free:1"
+    },
+    "steam:5068630:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5068630:permanent_free:1"
+    },
+    "steam:5407690:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5407690:permanent_free:1"
+    },
+    "steam:5218360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5218360:permanent_free:1"
+    },
+    "steam:5305760:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5305760:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21791,7 +21807,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-20T06:01:06.206Z",
+      "lastSeenAt": "2026-11-20T09:01:08.183Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22013,11 +22029,131 @@
       },
       "bufferPostId": "6affe224738ce4635f8e8eb0",
       "postedAt": "2026-11-20T06:01:10.212Z"
+    },
+    "steam:5068630:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5068630:permanent_free:1",
+      "store": "steam",
+      "productId": "5068630",
+      "generation": 1,
+      "title": "小星光 · 甜甜",
+      "storeUrl": "https://store.steampowered.com/app/5068630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T09:01:08.183Z",
+      "lastSeenAt": "2026-11-20T09:01:08.183Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Little Light - Tiantian brings live-action erhu performances and four companion moods to your desktop. Enjoy music as you work or unwind, check her live status and open her Douyin stream with a click. Use the app through Steam for a chance to earn tradable digital collectibles.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T09:01:08.183Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『小星光 · 甜甜』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5068630/",
+        "attemptedAt": "2026-11-20T09:01:09.492Z",
+        "bufferPostId": "6b000c55ca85ebefb00da65e",
+        "submittedAt": "2026-11-20T09:01:10.924Z",
+        "postedAt": "2026-11-20T09:01:10.924Z"
+      },
+      "bufferPostId": "6b000c55ca85ebefb00da65e",
+      "postedAt": "2026-11-20T09:01:10.924Z"
+    },
+    "steam:5407690:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5407690:permanent_free:1",
+      "store": "steam",
+      "productId": "5407690",
+      "generation": 1,
+      "title": "Catjong 7: Purradise Heights",
+      "storeUrl": "https://store.steampowered.com/app/5407690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T09:01:08.183Z",
+      "lastSeenAt": "2026-11-20T09:01:08.183Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "遊び好きな猫とPurradise Heightsへ！200の心地よいマージャン3レベルを解き、海を見下ろす陽光あふれる地中海リゾートを修復しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T09:01:08.183Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Catjong 7: Purradise Heights』\n✨ いつでも無料でプレイ\n\n遊び好きな猫とPurradise Heightsへ！200の心地よいマージャン3レベルを解き、海を見下ろす陽光あふれる地中海リゾートを修復しましょう。\n\nhttps://store.steampowered.com/app/5407690/",
+        "attemptedAt": "2026-11-20T09:01:10.934Z",
+        "bufferPostId": "6b000c57ca85ebefb00da7e5",
+        "submittedAt": "2026-11-20T09:01:12.454Z",
+        "postedAt": "2026-11-20T09:01:12.454Z"
+      },
+      "bufferPostId": "6b000c57ca85ebefb00da7e5",
+      "postedAt": "2026-11-20T09:01:12.454Z"
+    },
+    "steam:5218360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5218360:permanent_free:1",
+      "store": "steam",
+      "productId": "5218360",
+      "generation": 1,
+      "title": "Vector Quake",
+      "storeUrl": "https://store.steampowered.com/app/5218360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T09:01:08.183Z",
+      "lastSeenAt": "2026-11-20T09:01:08.183Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Vector Quake is a 3D puzzle-action game where the room itself rotates. Step off the edge and the wall becomes your floor. Every crate is a path, a key, and a weapon.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T09:01:08.183Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Vector Quake』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5218360/",
+        "attemptedAt": "2026-11-20T09:01:12.463Z",
+        "bufferPostId": "6b000c587b0a126cebc06c56",
+        "submittedAt": "2026-11-20T09:01:13.805Z",
+        "postedAt": "2026-11-20T09:01:13.805Z"
+      },
+      "bufferPostId": "6b000c587b0a126cebc06c56",
+      "postedAt": "2026-11-20T09:01:13.805Z"
+    },
+    "steam:5305760:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5305760:permanent_free:1",
+      "store": "steam",
+      "productId": "5305760",
+      "generation": 1,
+      "title": "Drawmaha",
+      "storeUrl": "https://store.steampowered.com/app/5305760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-20T09:01:08.183Z",
+      "lastSeenAt": "2026-11-20T09:01:08.183Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Private-table draw poker for short, sharp sessions. Invite friends or seat AI. Drawmaha plays out every draw; Stack Rush locks the pot after the flop and raises the pressure. Two boards, fast hands, clubs that keep your regular table intact.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-20T09:01:08.183Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Drawmaha』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5305760/",
+        "attemptedAt": "2026-11-20T09:01:13.814Z",
+        "bufferPostId": "6b000c59d5f8acdd0d866e11",
+        "submittedAt": "2026-11-20T09:01:15.228Z",
+        "postedAt": "2026-11-20T09:01:15.228Z"
+      },
+      "bufferPostId": "6b000c59d5f8acdd0d866e11",
+      "postedAt": "2026-11-20T09:01:15.228Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-20T06:01:06.206Z",
+    "lastSuccessfulScanAt": "2026-11-20T09:01:08.183Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22371,6 +22507,7 @@
       "5062730": "2026-11-03T09:01:07.048Z",
       "5064010": "2026-11-03T12:01:08.952Z",
       "5065190": "2026-11-06T06:01:16.414Z",
+      "5068630": "2026-11-20T09:01:08.183Z",
       "5073660": "2026-11-03T18:01:16.982Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
@@ -22460,6 +22597,7 @@
       "5213710": "2026-11-02T03:01:22.328Z",
       "5217620": "2026-10-14T15:30:36.000Z",
       "5218350": "2026-10-14T15:30:36.000Z",
+      "5218360": "2026-11-20T09:01:08.183Z",
       "5219930": "2026-11-06T09:01:10.595Z",
       "5220530": "2026-11-12T18:01:08.650Z",
       "5220890": "2026-10-16T18:01:10.079Z",
@@ -22562,6 +22700,7 @@
       "5302590": "2026-11-10T03:01:09.985Z",
       "5303740": "2026-10-14T15:30:36.000Z",
       "5303830": "2026-11-19T12:01:09.406Z",
+      "5305760": "2026-11-20T09:01:08.183Z",
       "5306270": "2026-10-14T15:30:36.000Z",
       "5308110": "2026-10-27T09:01:03.509Z",
       "5309680": "2026-10-14T15:30:36.000Z",
@@ -22662,6 +22801,7 @@
       "5402790": "2026-11-04T03:01:08.084Z",
       "5403440": "2026-11-14T09:01:05.364Z",
       "5405810": "2026-10-29T12:01:05.996Z",
+      "5407690": "2026-11-20T09:01:08.183Z",
       "5408030": "2026-11-15T06:01:04.768Z",
       "5409660": "2026-11-06T06:01:16.414Z",
       "5411640": "2026-10-29T15:01:15.623Z",

@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44707076424",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T09:00:58.885Z",
+    "finishedAt": "2026-11-20T09:01:15.246Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44707076424"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 4,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5068630",
+      "title": "小星光 · 甜甜",
+      "storeUrl": "https://store.steampowered.com/app/5068630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068630/c3837200ed7688f0bf1ae9ea65cf3001ab3fdcc2/header.jpg?t=1795161042",
+      "officialDescription": "Little Light - Tiantian brings live-action erhu performances and four companion moods to your desktop. Enjoy music as you work or unwind, check her live status and open her Douyin stream with a click. Use the app through Steam for a chance to earn tradable digital collectibles."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5407690",
+      "title": "Catjong 7: Purradise Heights",
+      "storeUrl": "https://store.steampowered.com/app/5407690/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5407690/af0f13cdb683136e1b396dd95597e52679f0b868/header.jpg?t=1795159344",
+      "officialDescription": "遊び好きな猫とPurradise Heightsへ！200の心地よいマージャン3レベルを解き、海を見下ろす陽光あふれる地中海リゾートを修復しましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5218360",
+      "title": "Vector Quake",
+      "storeUrl": "https://store.steampowered.com/app/5218360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5218360/1aa2be5a08da024040160f4ed2b7f05923c66569/header.jpg?t=1795155644",
+      "officialDescription": "Vector Quake is a 3D puzzle-action game where the room itself rotates. Step off the edge and the wall becomes your floor. Every crate is a path, a key, and a weapon."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5305760",
+      "title": "Drawmaha",
+      "storeUrl": "https://store.steampowered.com/app/5305760/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305760/3d9b9f57351734d5ad4913f2eb651341c59d30a2/header.jpg?t=1795075529",
+      "officialDescription": "Private-table draw poker for short, sharp sessions. Invite friends or seat AI. Drawmaha plays out every draw; Stack Rush locks the pot after the flop and raises the pressure. Two boards, fast hands, clubs that keep your regular table intact."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795111327",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5068630:permanent_free:1",
+      "productId": "5068630",
+      "title": "小星光 · 甜甜",
+      "status": "sent",
+      "bufferPostId": "6b000c55ca85ebefb00da65e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5407690:permanent_free:1",
+      "productId": "5407690",
+      "title": "Catjong 7: Purradise Heights",
+      "status": "sent",
+      "bufferPostId": "6b000c57ca85ebefb00da7e5"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5218360:permanent_free:1",
+      "productId": "5218360",
+      "title": "Vector Quake",
+      "status": "sent",
+      "bufferPostId": "6b000c587b0a126cebc06c56"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5305760:permanent_free:1",
+      "productId": "5305760",
+      "title": "Drawmaha",
+      "status": "sent",
+      "bufferPostId": "6b000c59d5f8acdd0d866e11"
+    }
+  ],
+  "errors": []
+}
