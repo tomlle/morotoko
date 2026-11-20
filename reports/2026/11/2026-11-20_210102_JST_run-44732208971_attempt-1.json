@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44732208971",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T12:01:02.702Z",
+    "finishedAt": "2026-11-20T12:01:16.491Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44732208971"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3517360",
+      "title": "Pathfinding",
+      "storeUrl": "https://store.steampowered.com/app/3517360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517360/9353c085d97b7fbd9fb4483491acc73c481ee6f3/header.jpg?t=1795173676",
+      "officialDescription": "Every day is a new chance to rise to the top of the leaderboard! Dodge those filthy squares, push your reflexes to the limit, and prove you’ve got what it takes to see the Matrix. Only the sharpest players will survive long enough to claim the crown. Can you outlast them all and become the one?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3953490",
+      "title": "Infinite Fantasy Battlefront",
+      "storeUrl": "https://store.steampowered.com/app/3953490/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953490/29d2616a720bdea6a9701ba71132c0d421d5cfb9/header.jpg?t=1795159243",
+      "officialDescription": "『インフィニット・ファンタジー・バトルフロント』は、SFとファンタジーの世界を舞台にしたリアルタイムストラテジーゲームです。様々なスタイルの文明や勢力が登場し、今後の運営やアップデートを通じて、続々と追加されていきます。プレイヤーは異なるヒーローや軍隊を率いて、多彩なPvPおよびPvEモードで、ソロプレイまたはフレンドとの協力プレイが楽しめます。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3517360:permanent_free:1",
+      "productId": "3517360",
+      "title": "Pathfinding",
+      "status": "sent",
+      "bufferPostId": "6b003689c1f33e2aa5bf3dc6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3953490:permanent_free:1",
+      "productId": "3953490",
+      "title": "Infinite Fantasy Battlefront",
+      "status": "sent",
+      "bufferPostId": "6b00368a0c6d6b9052848de5"
+    }
+  ],
+  "errors": []
+}
