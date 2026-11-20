@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44758961389",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-20T15:01:17.388Z",
+    "finishedAt": "2026-11-20T15:01:39.850Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44758961389"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 23,
+    "verified": 8,
+    "newPromotions": 7,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5373670",
+      "title": "Shards of Veyara",
+      "storeUrl": "https://store.steampowered.com/app/5373670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373670/84da5ce660a50bea3951c56ea0dfbde63899ee37/header.jpg?t=1795186472",
+      "officialDescription": "Shards of Veyara is an adventure game that blends farming with 3D platformer action. Explore the sky islands of Veyara—a world warped across space and time—gather seeds and resources, cultivate crops in your hub to grow stronger, and reclaim the shattered Dimensional Shards!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5125210",
+      "title": "THUD: Dicey Reload",
+      "storeUrl": "https://store.steampowered.com/app/5125210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125210/a77d825f5ddbd3b8ac65b4dcfc9cb66390efb3ce/header.jpg?t=1795184982",
+      "officialDescription": "OPEN cylinder. INSERT round. AIM well and SHOOT. COUNT your remaining rounds. Become a true gunslinger! Your revolver is not a toy, you MUST respect it in order to survive! Oh and you have a DICE too..."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5533130",
+      "title": "Apocalypse LootRunner",
+      "storeUrl": "https://store.steampowered.com/app/5533130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533130/b718ab6cbf0a3ba52ccc12112bed1c50c8996283/header.jpg?t=1795184824",
+      "officialDescription": "Fight endless hordes, collect epic loot, and grow ridiculously powerful in this post-apocalyptic idle survival RPG. Upgrade your gear, build your skills, defeat brutal bosses, and push deeper into the wasteland. Death is temporary. The loot obsession is forever."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3920400",
+      "title": "Land Of The Valiants",
+      "storeUrl": "https://store.steampowered.com/app/3920400/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920400/def7e298ac659914a01fc423963f1ce6afdc2189/header.jpg?t=1795182069",
+      "officialDescription": "Land of the Valiant blends RPG, survival, and life simulation in a multiplayer medieval world. Build, produce, trade, and survive in a player-driven economy where Khalendor becomes what its inhabitants make of it."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5422900",
+      "title": "Codys Collectathon",
+      "storeUrl": "https://store.steampowered.com/app/5422900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5422900/fee0903146b64e223bdb153be96fdbe0bcc710d0/header.jpg?t=1795178031",
+      "officialDescription": "Collect every item, dodge hazards and reach the portal before Cody runs out of oxygen. Explore 21 single-screen caverns in 8-bit or 16-bit graphics. Play the main campaign for free, with optional paid DLC for extra modes, the Level Editor and community-pack features."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5530970",
+      "title": "Task Bar Quest",
+      "storeUrl": "https://store.steampowered.com/app/5530970/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5530970/efcc00cb03ab5fae0ce3244bba92713e08647a25/header.jpg?t=1795100624",
+      "officialDescription": "デスクトップの片隅で進む無料の放置系RPG。ヒーローを選び、モンスターやボスと戦い、装備を集めよう。仲間、アイテム製作、採掘、釣りで強くなりながら、いつもの作業と冒険を楽しめます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4513210",
+      "title": "Maybe It Meant Something",
+      "storeUrl": "https://store.steampowered.com/app/4513210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513210/724beae550f4d98980849e323974bc313de78a21/header.jpg?t=1795094612",
+      "officialDescription": "Platform as a clumsy cat through several atmospheric environments in a potentially pointless effort to find the story."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5373670:permanent_free:1",
+      "productId": "5373670",
+      "title": "Shards of Veyara",
+      "status": "sent",
+      "bufferPostId": "6b0060c87efc64d5e42b7382"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5125210:permanent_free:1",
+      "productId": "5125210",
+      "title": "THUD: Dicey Reload",
+      "status": "sent",
+      "bufferPostId": "6b0060cafc5b97f0f815f35b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5533130:permanent_free:1",
+      "productId": "5533130",
+      "title": "Apocalypse LootRunner",
+      "status": "sent",
+      "bufferPostId": "6b0060cc77e195b7220f7fec"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3920400:permanent_free:1",
+      "productId": "3920400",
+      "title": "Land Of The Valiants",
+      "status": "sent",
+      "bufferPostId": "6b0060cefc5b97f0f815f63e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5422900:permanent_free:1",
+      "productId": "5422900",
+      "title": "Codys Collectathon",
+      "status": "sent",
+      "bufferPostId": "6b0060d0234b6bb6eea62717"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5530970:permanent_free:1",
+      "productId": "5530970",
+      "title": "Task Bar Quest",
+      "status": "sent",
+      "bufferPostId": "6b0060d17efc64d5e42b78b2"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4513210:permanent_free:1",
+      "productId": "4513210",
+      "title": "Maybe It Meant Something",
+      "status": "sent",
+      "bufferPostId": "6b0060d25d9549971cb56a93"
+    }
+  ],
+  "errors": []
+}
