@@ -2591,6 +2591,10 @@
     "steam:5338480:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5338480:permanent_free:1"
+    },
+    "steam:4293670:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4293670:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21859,7 +21863,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-20T21:01:15.221Z",
+      "lastSeenAt": "2026-11-21T00:01:10.448Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22591,11 +22595,41 @@
       },
       "bufferPostId": "6b00b51e5102766245d1a4e4",
       "postedAt": "2026-11-20T21:01:20.130Z"
+    },
+    "steam:4293670:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4293670:permanent_free:1",
+      "store": "steam",
+      "productId": "4293670",
+      "generation": 1,
+      "title": "QuadMerge",
+      "storeUrl": "https://store.steampowered.com/app/4293670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T00:01:10.448Z",
+      "lastSeenAt": "2026-11-21T00:01:10.448Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Think from all four sides. Quad-Merge is a dynamic puzzle game where you launch numbered blocks from the edges of the grid to combine them, build massive combos, and clear the board. Strategize your angles, unlock powerful boosters, and survive an ever-escalating challenge!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T00:01:10.448Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『QuadMerge』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4293670/",
+        "attemptedAt": "2026-11-21T00:01:10.988Z",
+        "bufferPostId": "6b00df475102766245e1ad5b",
+        "submittedAt": "2026-11-21T00:01:12.371Z",
+        "postedAt": "2026-11-21T00:01:12.371Z"
+      },
+      "bufferPostId": "6b00df475102766245e1ad5b",
+      "postedAt": "2026-11-21T00:01:12.371Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-20T21:01:15.221Z",
+    "lastSuccessfulScanAt": "2026-11-21T00:01:10.448Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22721,6 +22755,7 @@
       "4256040": "2026-10-14T15:30:36.000Z",
       "4262460": "2026-11-06T06:01:16.414Z",
       "4288780": "2026-11-02T12:01:08.821Z",
+      "4293670": "2026-11-21T00:01:10.448Z",
       "4338800": "2026-11-06T06:01:16.414Z",
       "4347270": "2026-10-14T15:30:36.000Z",
       "4348500": "2026-10-23T15:01:04.807Z",
