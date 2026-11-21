@@ -2623,6 +2623,14 @@
     "steam:4748680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4748680:permanent_free:1"
+    },
+    "steam:5256600:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5256600:permanent_free:1"
+    },
+    "steam:4946530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4946530:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21891,7 +21899,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T09:01:07.849Z",
+      "lastSeenAt": "2026-11-21T12:01:09.209Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22863,11 +22871,71 @@
       },
       "bufferPostId": "6b015dd451027662450c974a",
       "postedAt": "2026-11-21T09:01:09.726Z"
+    },
+    "steam:5256600:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5256600:permanent_free:1",
+      "store": "steam",
+      "productId": "5256600",
+      "generation": 1,
+      "title": "King's : The Eight Tribes",
+      "storeUrl": "https://store.steampowered.com/app/5256600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T12:01:09.209Z",
+      "lastSeenAt": "2026-11-21T12:01:09.209Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An online MMORPG where warriors and tribes clash in epic battles. Build your character, defeat monsters, fight other players, and become a legend.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T12:01:09.209Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『King's : The Eight Tribes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5256600/",
+        "attemptedAt": "2026-11-21T12:01:09.909Z",
+        "bufferPostId": "6b0188060247969092cba72a",
+        "submittedAt": "2026-11-21T12:01:12.331Z",
+        "postedAt": "2026-11-21T12:01:12.331Z"
+      },
+      "bufferPostId": "6b0188060247969092cba72a",
+      "postedAt": "2026-11-21T12:01:12.331Z"
+    },
+    "steam:4946530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4946530:permanent_free:1",
+      "store": "steam",
+      "productId": "4946530",
+      "generation": 1,
+      "title": "ULTRACRACK",
+      "storeUrl": "https://store.steampowered.com/app/4946530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T12:01:09.209Z",
+      "lastSeenAt": "2026-11-21T12:01:09.209Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A free word puzzle where a wall of letters slides toward the CRACK line. Spell words with ANY letters on the board to pop them, but every word pushes the wall closer! A 100-level Campaign, a new Daily Challenge every day, Endless and Ultra modes, power-ups, rooms and pets.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T12:01:09.209Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ULTRACRACK』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4946530/",
+        "attemptedAt": "2026-11-21T12:01:12.339Z",
+        "bufferPostId": "6b018808846b0ee907050e80",
+        "submittedAt": "2026-11-21T12:01:13.661Z",
+        "postedAt": "2026-11-21T12:01:13.661Z"
+      },
+      "bufferPostId": "6b018808846b0ee907050e80",
+      "postedAt": "2026-11-21T12:01:13.661Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T09:01:07.849Z",
+    "lastSuccessfulScanAt": "2026-11-21T12:01:09.209Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23161,6 +23229,7 @@
       "4941580": "2026-10-14T15:30:36.000Z",
       "4944360": "2026-10-14T15:30:36.000Z",
       "4946250": "2026-11-02T21:01:11.825Z",
+      "4946530": "2026-11-21T12:01:09.209Z",
       "4949930": "2026-10-26T18:01:07.648Z",
       "4952940": "2026-11-15T18:01:15.376Z",
       "4952950": "2026-10-15T18:01:01.152Z",
@@ -23369,6 +23438,7 @@
       "5255210": "2026-11-17T06:01:08.190Z",
       "5255280": "2026-10-14T15:30:36.000Z",
       "5256250": "2026-10-28T18:01:10.127Z",
+      "5256600": "2026-11-21T12:01:09.209Z",
       "5256770": "2026-10-16T15:01:11.993Z",
       "5257590": "2026-11-06T06:01:16.414Z",
       "5257930": "2026-10-16T00:01:03.084Z",

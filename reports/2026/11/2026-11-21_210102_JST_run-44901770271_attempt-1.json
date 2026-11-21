@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44901770271",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-21T12:01:02.102Z",
+    "finishedAt": "2026-11-21T12:01:13.677Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44901770271"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5256600",
+      "title": "King's : The Eight Tribes",
+      "storeUrl": "https://store.steampowered.com/app/5256600/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256600/3097ff152429dfcf3f188fa62d12a3e0ce4ae0ea/header.jpg?t=1795258200",
+      "officialDescription": "An online MMORPG where warriors and tribes clash in epic battles. Build your character, defeat monsters, fight other players, and become a legend."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4946530",
+      "title": "ULTRACRACK",
+      "storeUrl": "https://store.steampowered.com/app/4946530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946530/903fee72ba19fbc7fb2c148efe50126f99f6e9c8/header.jpg?t=1795123310",
+      "officialDescription": "A free word puzzle where a wall of letters slides toward the CRACK line. Spell words with ANY letters on the board to pop them, but every word pushes the wall closer! A 100-level Campaign, a new Daily Challenge every day, Endless and Ultra modes, power-ups, rooms and pets."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5256600:permanent_free:1",
+      "productId": "5256600",
+      "title": "King's : The Eight Tribes",
+      "status": "sent",
+      "bufferPostId": "6b0188060247969092cba72a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4946530:permanent_free:1",
+      "productId": "4946530",
+      "title": "ULTRACRACK",
+      "status": "sent",
+      "bufferPostId": "6b018808846b0ee907050e80"
+    }
+  ],
+  "errors": []
+}
