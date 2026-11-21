@@ -2619,6 +2619,10 @@
     "steam:5032040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5032040:permanent_free:1"
+    },
+    "steam:4748680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4748680:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21887,7 +21891,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T06:01:07.566Z",
+      "lastSeenAt": "2026-11-21T09:01:07.849Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22829,11 +22833,41 @@
       },
       "bufferPostId": "6b0133a7d9cbb430a1228836",
       "postedAt": "2026-11-21T06:01:12.779Z"
+    },
+    "steam:4748680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4748680:permanent_free:1",
+      "store": "steam",
+      "productId": "4748680",
+      "generation": 1,
+      "title": "Ballin Idle Pet Tycoon",
+      "storeUrl": "https://store.steampowered.com/app/4748680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T09:01:07.849Z",
+      "lastSeenAt": "2026-11-21T09:01:07.849Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Experience a deep incremental idle simulator built for fans of the genre! Drop, bounce, collect, upgrade, raid?! your way through a massive incremental ball drop arcade in this lengthy, content-rich idle tycoon game!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T09:01:07.849Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ballin Idle Pet Tycoon』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4748680/",
+        "attemptedAt": "2026-11-21T09:01:08.416Z",
+        "bufferPostId": "6b015dd451027662450c974a",
+        "submittedAt": "2026-11-21T09:01:09.726Z",
+        "postedAt": "2026-11-21T09:01:09.726Z"
+      },
+      "bufferPostId": "6b015dd451027662450c974a",
+      "postedAt": "2026-11-21T09:01:09.726Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T06:01:07.566Z",
+    "lastSuccessfulScanAt": "2026-11-21T09:01:07.849Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23052,6 +23086,7 @@
       "4744830": "2026-10-14T15:30:36.000Z",
       "4746110": "2026-10-16T09:01:06.129Z",
       "4747360": "2026-11-07T21:01:08.968Z",
+      "4748680": "2026-11-21T09:01:07.849Z",
       "4756450": "2026-10-22T18:01:09.344Z",
       "4757880": "2026-11-15T15:01:07.240Z",
       "4763980": "2026-11-12T18:01:08.650Z",
