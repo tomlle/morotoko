@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44933125261",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-21T18:00:55.360Z",
+    "finishedAt": "2026-11-21T18:01:09.514Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44933125261"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 17,
+    "verified": 2,
+    "newPromotions": 1,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5478080",
+      "title": "STRIKERS PRO LEAGUE",
+      "storeUrl": "https://store.steampowered.com/app/5478080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5478080/a40c48ee29429318cc8cf2f6d0df508651315ebd/header.jpg?t=1795128060",
+      "officialDescription": "STRIKERS PRO LEAGUE は、パスもシュートもタックルもすべて自分次第の基本プレイ無料 5v5 オンラインサッカー。エイムアシストなし：パワーは自分でチャージ、回転でカーブを操り、マーカーを振り切れ。選手を作り、クラブに入り、ランク戦で頂点を目指そう。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5478080:permanent_free:1",
+      "productId": "5478080",
+      "title": "STRIKERS PRO LEAGUE",
+      "status": "sent",
+      "bufferPostId": "6b01dc64142c95751932d006"
+    }
+  ],
+  "errors": []
+}

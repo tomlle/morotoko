@@ -2631,6 +2631,10 @@
     "steam:4946530:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4946530:permanent_free:1"
+    },
+    "steam:5478080:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5478080:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21899,7 +21903,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T15:01:07.579Z",
+      "lastSeenAt": "2026-11-21T18:01:06.068Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22931,11 +22935,41 @@
       },
       "bufferPostId": "6b018808846b0ee907050e80",
       "postedAt": "2026-11-21T12:01:13.661Z"
+    },
+    "steam:5478080:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5478080:permanent_free:1",
+      "store": "steam",
+      "productId": "5478080",
+      "generation": 1,
+      "title": "STRIKERS PRO LEAGUE",
+      "storeUrl": "https://store.steampowered.com/app/5478080/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T18:01:06.068Z",
+      "lastSeenAt": "2026-11-21T18:01:06.068Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "STRIKERS PRO LEAGUE は、パスもシュートもタックルもすべて自分次第の基本プレイ無料 5v5 オンラインサッカー。エイムアシストなし：パワーは自分でチャージ、回転でカーブを操り、マーカーを振り切れ。選手を作り、クラブに入り、ランク戦で頂点を目指そう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T18:01:06.068Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『STRIKERS PRO LEAGUE』\n✨ いつでも無料でプレイ\n\nSTRIKERS PRO LEAGUE は、パスもシュートもタックルもすべて自分次第の基本プレイ無料 5v5 オンラインサッカー。エイムアシストなし：パワーは自分でチャージ、回転でカーブを操り、マーカ…\n\nhttps://store.steampowered.com/app/5478080/",
+        "attemptedAt": "2026-11-21T18:01:08.036Z",
+        "bufferPostId": "6b01dc64142c95751932d006",
+        "submittedAt": "2026-11-21T18:01:09.495Z",
+        "postedAt": "2026-11-21T18:01:09.495Z"
+      },
+      "bufferPostId": "6b01dc64142c95751932d006",
+      "postedAt": "2026-11-21T18:01:09.495Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T15:01:07.579Z",
+    "lastSuccessfulScanAt": "2026-11-21T18:01:06.068Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23654,6 +23688,7 @@
       "5473010": "2026-11-06T06:01:16.414Z",
       "5473320": "2026-11-14T18:01:03.320Z",
       "5476640": "2026-11-11T21:01:10.292Z",
+      "5478080": "2026-11-21T18:01:06.068Z",
       "5478680": "2026-11-10T18:01:39.865Z",
       "5478700": "2026-11-15T09:01:06.193Z",
       "5479850": "2026-11-12T18:01:08.650Z",
