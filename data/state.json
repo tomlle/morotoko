@@ -2635,6 +2635,18 @@
     "steam:5478080:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5478080:permanent_free:1"
+    },
+    "steam:3990350:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3990350:permanent_free:1"
+    },
+    "steam:4913070:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4913070:permanent_free:1"
+    },
+    "steam:4724840:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4724840:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21903,7 +21915,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T18:01:06.068Z",
+      "lastSeenAt": "2026-11-21T21:01:12.797Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22965,11 +22977,101 @@
       },
       "bufferPostId": "6b01dc64142c95751932d006",
       "postedAt": "2026-11-21T18:01:09.495Z"
+    },
+    "steam:3990350:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3990350:permanent_free:1",
+      "store": "steam",
+      "productId": "3990350",
+      "generation": 1,
+      "title": "Arithmetic Arena",
+      "storeUrl": "https://store.steampowered.com/app/3990350/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T21:01:12.797Z",
+      "lastSeenAt": "2026-11-21T21:01:12.797Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Arithmetic Arena』 は、ELO ランキングシステムを基盤に構築された算術バトルゲームです。 各チャレンジでは、あなたのスピードと正確さだけでなく、冷静さと忍耐力も試されます。 自信と落ち着きを持って臨むことで、ゲームをより深く楽しみ、挑戦そのものに楽しさを見出すことができるでしょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T21:01:12.797Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Arithmetic Arena』\n✨ いつでも無料でプレイ\n\n『Arithmetic Arena』 は、ELO ランキングシステムを基盤に構築された算術バトルゲームです。 各チャレンジでは、あなたのスピードと正確さだけでなく、冷静さと忍耐力も試されます。 自信と…\n\nhttps://store.steampowered.com/app/3990350/",
+        "attemptedAt": "2026-11-21T21:01:15.629Z",
+        "bufferPostId": "6b02069bcc364169c1055478",
+        "submittedAt": "2026-11-21T21:01:17.102Z",
+        "postedAt": "2026-11-21T21:01:17.102Z"
+      },
+      "bufferPostId": "6b02069bcc364169c1055478",
+      "postedAt": "2026-11-21T21:01:17.102Z"
+    },
+    "steam:4913070:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4913070:permanent_free:1",
+      "store": "steam",
+      "productId": "4913070",
+      "generation": 1,
+      "title": "World of Mythos",
+      "storeUrl": "https://store.steampowered.com/app/4913070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T21:01:12.797Z",
+      "lastSeenAt": "2026-11-21T21:01:12.797Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The world's first turn-based battle royale. Attack, defend or gamble at the Well – then team up, lie and scheme to be the last one standing. Trade in the Market, fight Hades, and play cross-platform with your friends.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T21:01:12.797Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『World of Mythos』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4913070/",
+        "attemptedAt": "2026-11-21T21:01:17.109Z",
+        "bufferPostId": "6b02069dd5eabfb8cc5e73f1",
+        "submittedAt": "2026-11-21T21:01:18.549Z",
+        "postedAt": "2026-11-21T21:01:18.549Z"
+      },
+      "bufferPostId": "6b02069dd5eabfb8cc5e73f1",
+      "postedAt": "2026-11-21T21:01:18.549Z"
+    },
+    "steam:4724840:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4724840:permanent_free:1",
+      "store": "steam",
+      "productId": "4724840",
+      "generation": 1,
+      "title": "Legacy of Legend",
+      "storeUrl": "https://store.steampowered.com/app/4724840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T21:01:12.797Z",
+      "lastSeenAt": "2026-11-21T21:01:12.797Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Face-down bluffing and piercing strikes! 1v1 tactical turn-based card battle.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T21:01:12.797Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Legacy of Legend』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4724840/",
+        "attemptedAt": "2026-11-21T21:01:18.557Z",
+        "bufferPostId": "6b02069ec72676f5e9debe2a",
+        "submittedAt": "2026-11-21T21:01:19.949Z",
+        "postedAt": "2026-11-21T21:01:19.949Z"
+      },
+      "bufferPostId": "6b02069ec72676f5e9debe2a",
+      "postedAt": "2026-11-21T21:01:19.949Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T18:01:06.068Z",
+    "lastSuccessfulScanAt": "2026-11-21T21:01:12.797Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23062,6 +23164,7 @@
       "3963000": "2026-11-16T06:01:09.607Z",
       "3976340": "2026-10-20T18:01:06.119Z",
       "3983230": "2026-11-09T12:01:11.937Z",
+      "3990350": "2026-11-21T21:01:12.797Z",
       "3999990": "2026-11-02T15:01:13.453Z",
       "4010820": "2026-11-10T00:01:13.317Z",
       "4020220": "2026-10-31T00:01:08.172Z",
@@ -23178,6 +23281,7 @@
       "4713410": "2026-10-30T18:01:08.710Z",
       "4714620": "2026-10-19T06:01:01.979Z",
       "4719360": "2026-10-16T12:01:06.356Z",
+      "4724840": "2026-11-21T21:01:12.797Z",
       "4725520": "2026-10-14T15:30:36.000Z",
       "4729580": "2026-10-17T06:01:00.886Z",
       "4731030": "2026-10-14T15:30:36.000Z",
@@ -23247,6 +23351,7 @@
       "4910060": "2026-10-20T09:01:01.492Z",
       "4910940": "2026-11-17T18:01:08.800Z",
       "4911480": "2026-11-13T09:01:08.396Z",
+      "4913070": "2026-11-21T21:01:12.797Z",
       "4914650": "2026-11-10T18:01:39.865Z",
       "4914750": "2026-11-06T06:01:16.414Z",
       "4921720": "2026-11-06T09:01:10.595Z",

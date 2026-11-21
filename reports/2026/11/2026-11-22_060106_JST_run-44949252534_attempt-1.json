@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44949252534",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-21T21:01:06.154Z",
+    "finishedAt": "2026-11-21T21:01:19.964Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44949252534"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 19,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3990350",
+      "title": "Arithmetic Arena",
+      "storeUrl": "https://store.steampowered.com/app/3990350/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990350/9d96f233c491637aeb1013413511a246bc9beba8/header.jpg?t=1795292234",
+      "officialDescription": "『Arithmetic Arena』 は、ELO ランキングシステムを基盤に構築された算術バトルゲームです。 各チャレンジでは、あなたのスピードと正確さだけでなく、冷静さと忍耐力も試されます。 自信と落ち着きを持って臨むことで、ゲームをより深く楽しみ、挑戦そのものに楽しさを見出すことができるでしょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4913070",
+      "title": "World of Mythos",
+      "storeUrl": "https://store.steampowered.com/app/4913070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913070/1a2355527c579992f22fd88b3fd7ea469f8ec8fd/header.jpg?t=1795209235",
+      "officialDescription": "The world's first turn-based battle royale. Attack, defend or gamble at the Well – then team up, lie and scheme to be the last one standing. Trade in the Market, fight Hades, and play cross-platform with your friends."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4724840",
+      "title": "Legacy of Legend",
+      "storeUrl": "https://store.steampowered.com/app/4724840/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724840/3d69891ba70d37c05094e96f7a28965d0376dfa7/header.jpg?t=1795176487",
+      "officialDescription": "Face-down bluffing and piercing strikes! 1v1 tactical turn-based card battle."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3990350:permanent_free:1",
+      "productId": "3990350",
+      "title": "Arithmetic Arena",
+      "status": "sent",
+      "bufferPostId": "6b02069bcc364169c1055478"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4913070:permanent_free:1",
+      "productId": "4913070",
+      "title": "World of Mythos",
+      "status": "sent",
+      "bufferPostId": "6b02069dd5eabfb8cc5e73f1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4724840:permanent_free:1",
+      "productId": "4724840",
+      "title": "Legacy of Legend",
+      "status": "sent",
+      "bufferPostId": "6b02069ec72676f5e9debe2a"
+    }
+  ],
+  "errors": []
+}
