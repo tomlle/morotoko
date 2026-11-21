@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44858879649",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-21T03:00:56.267Z",
+    "finishedAt": "2026-11-21T03:01:13.326Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44858879649"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5306710",
+      "title": "Idol On Duty",
+      "storeUrl": "https://store.steampowered.com/app/5306710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306710/05b15fa9add48d369a663883e00fd73ef9fc38b8/header.jpg?t=1795229745",
+      "officialDescription": "A Beat-Em-Up starring a J-Pop-inspired magical girl Aiko who bashes corporate demons over the head while swapping between a Pop mode and a Metal mode."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4671660",
+      "title": "战地风暴之第三次世界大战",
+      "storeUrl": "https://store.steampowered.com/app/4671660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671660/a7e8f1f526fd588ddd3375e4647a518520a78822/header.jpg?t=1795226376",
+      "officialDescription": "从一座基地开始，建立你的钢铁军团 ⚙️。这是一款现代战争题材的多人在线策略游戏 🎮 发展资源与科技，搭配英雄、坦克和空军，培养各具用途的机甲，与盟友集结出征，在世界地图上争夺资源与战略主动权 🗺️"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4242850",
+      "title": "Deluge: Raintime",
+      "storeUrl": "https://store.steampowered.com/app/4242850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242850/2af887146e59cfc63825231c221fcd18dd7f494a/header.jpg?t=1795221402",
+      "officialDescription": "人の遊戯に進んで従うことのないものもある。そうした存在は、やがて大地の下で何十年も眠る怨念を育てる——心理的、そしてラヴクラフト的な要素を帯びた、インタラクティブなビジュアルノベル。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5306710:permanent_free:1",
+      "productId": "5306710",
+      "title": "Idol On Duty",
+      "status": "sent",
+      "bufferPostId": "6b010975d9cbb430a11519ed"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4671660:permanent_free:1",
+      "productId": "4671660",
+      "title": "战地风暴之第三次世界大战",
+      "status": "sent",
+      "bufferPostId": "6b010976dd205ed779b478d6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4242850:permanent_free:1",
+      "productId": "4242850",
+      "title": "Deluge: Raintime",
+      "status": "sent",
+      "bufferPostId": "6b01097820a2d09a0acb8ed4"
+    }
+  ],
+  "errors": []
+}

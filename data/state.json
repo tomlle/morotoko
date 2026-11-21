@@ -2595,6 +2595,18 @@
     "steam:4293670:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4293670:permanent_free:1"
+    },
+    "steam:5306710:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5306710:permanent_free:1"
+    },
+    "steam:4671660:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4671660:permanent_free:1"
+    },
+    "steam:4242850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4242850:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21863,7 +21875,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T00:01:10.448Z",
+      "lastSeenAt": "2026-11-21T03:01:07.171Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22625,11 +22637,101 @@
       },
       "bufferPostId": "6b00df475102766245e1ad5b",
       "postedAt": "2026-11-21T00:01:12.371Z"
+    },
+    "steam:5306710:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5306710:permanent_free:1",
+      "store": "steam",
+      "productId": "5306710",
+      "generation": 1,
+      "title": "Idol On Duty",
+      "storeUrl": "https://store.steampowered.com/app/5306710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T03:01:07.171Z",
+      "lastSeenAt": "2026-11-21T03:01:07.171Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A Beat-Em-Up starring a J-Pop-inspired magical girl Aiko who bashes corporate demons over the head while swapping between a Pop mode and a Metal mode.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T03:01:07.171Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Idol On Duty』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5306710/",
+        "attemptedAt": "2026-11-21T03:01:08.959Z",
+        "bufferPostId": "6b010975d9cbb430a11519ed",
+        "submittedAt": "2026-11-21T03:01:10.380Z",
+        "postedAt": "2026-11-21T03:01:10.380Z"
+      },
+      "bufferPostId": "6b010975d9cbb430a11519ed",
+      "postedAt": "2026-11-21T03:01:10.380Z"
+    },
+    "steam:4671660:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4671660:permanent_free:1",
+      "store": "steam",
+      "productId": "4671660",
+      "generation": 1,
+      "title": "战地风暴之第三次世界大战",
+      "storeUrl": "https://store.steampowered.com/app/4671660/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T03:01:07.171Z",
+      "lastSeenAt": "2026-11-21T03:01:07.171Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "从一座基地开始，建立你的钢铁军团 ⚙️。这是一款现代战争题材的多人在线策略游戏 🎮 发展资源与科技，搭配英雄、坦克和空军，培养各具用途的机甲，与盟友集结出征，在世界地图上争夺资源与战略主动权 🗺️",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T03:01:07.171Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『战地风暴之第三次世界大战』\n✨ いつでも無料でプレイ\n\n从一座基地开始，建立你的钢铁军团 ⚙️。这是一款现代战争题材的多人在线策略游戏 🎮 发展资源与科技，搭配英雄、坦克和空军，培养各具用途的机甲，与盟友集结出征，在世界地图上争…\n\nhttps://store.steampowered.com/app/4671660/",
+        "attemptedAt": "2026-11-21T03:01:10.393Z",
+        "bufferPostId": "6b010976dd205ed779b478d6",
+        "submittedAt": "2026-11-21T03:01:11.994Z",
+        "postedAt": "2026-11-21T03:01:11.994Z"
+      },
+      "bufferPostId": "6b010976dd205ed779b478d6",
+      "postedAt": "2026-11-21T03:01:11.994Z"
+    },
+    "steam:4242850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4242850:permanent_free:1",
+      "store": "steam",
+      "productId": "4242850",
+      "generation": 1,
+      "title": "Deluge: Raintime",
+      "storeUrl": "https://store.steampowered.com/app/4242850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T03:01:07.171Z",
+      "lastSeenAt": "2026-11-21T03:01:07.171Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "人の遊戯に進んで従うことのないものもある。そうした存在は、やがて大地の下で何十年も眠る怨念を育てる——心理的、そしてラヴクラフト的な要素を帯びた、インタラクティブなビジュアルノベル。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T03:01:07.171Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Deluge: Raintime』\n✨ いつでも無料でプレイ\n\n人の遊戯に進んで従うことのないものもある。そうした存在は、やがて大地の下で何十年も眠る怨念を育てる——心理的、そしてラヴクラフト的な要素を帯びた、インタラクティブなビジュアルノベ…\n\nhttps://store.steampowered.com/app/4242850/",
+        "attemptedAt": "2026-11-21T03:01:12.001Z",
+        "bufferPostId": "6b01097820a2d09a0acb8ed4",
+        "submittedAt": "2026-11-21T03:01:13.313Z",
+        "postedAt": "2026-11-21T03:01:13.313Z"
+      },
+      "bufferPostId": "6b01097820a2d09a0acb8ed4",
+      "postedAt": "2026-11-21T03:01:13.313Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T00:01:10.448Z",
+    "lastSuccessfulScanAt": "2026-11-21T03:01:07.171Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22748,6 +22850,7 @@
       "4197210": "2026-10-29T18:01:09.856Z",
       "4217360": "2026-11-01T18:01:03.136Z",
       "4223760": "2026-11-07T12:38:12.800Z",
+      "4242850": "2026-11-21T03:01:07.171Z",
       "4246850": "2026-10-21T18:01:08.108Z",
       "4248630": "2026-10-28T03:01:23.689Z",
       "4251070": "2026-10-15T18:01:01.152Z",
@@ -22825,6 +22928,7 @@
       "4651700": "2026-10-27T21:01:04.552Z",
       "4666760": "2026-10-14T15:30:36.000Z",
       "4667790": "2026-10-15T15:01:06.493Z",
+      "4671660": "2026-11-21T03:01:07.171Z",
       "4693550": "2026-10-30T15:01:09.322Z",
       "4694770": "2026-10-19T03:01:01.402Z",
       "4704760": "2026-10-29T15:01:15.623Z",
@@ -23186,6 +23290,7 @@
       "5303830": "2026-11-19T12:01:09.406Z",
       "5305760": "2026-11-20T09:01:08.183Z",
       "5306270": "2026-10-14T15:30:36.000Z",
+      "5306710": "2026-11-21T03:01:07.171Z",
       "5308110": "2026-10-27T09:01:03.509Z",
       "5309680": "2026-10-14T15:30:36.000Z",
       "5310070": "2026-10-22T00:00:57.495Z",
