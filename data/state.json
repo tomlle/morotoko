@@ -2607,6 +2607,18 @@
     "steam:4242850:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4242850:permanent_free:1"
+    },
+    "steam:5087470:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5087470:permanent_free:1"
+    },
+    "steam:4440750:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4440750:permanent_free:1"
+    },
+    "steam:5032040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5032040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21875,7 +21887,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-21T03:01:07.171Z",
+      "lastSeenAt": "2026-11-21T06:01:07.566Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -22727,11 +22739,101 @@
       },
       "bufferPostId": "6b01097820a2d09a0acb8ed4",
       "postedAt": "2026-11-21T03:01:13.313Z"
+    },
+    "steam:5087470:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5087470:permanent_free:1",
+      "store": "steam",
+      "productId": "5087470",
+      "generation": 1,
+      "title": "Party Link",
+      "storeUrl": "https://store.steampowered.com/app/5087470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T06:01:07.566Z",
+      "lastSeenAt": "2026-11-21T06:01:07.566Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Party Link is a collection of Russian party games for groups. Launch on a big screen, connect friends from their phones via QR, and pick a show — drawing, bluffing, and guessing games. Original modes with Russian voice-over — ready in a minute, no installs on phones.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T06:01:07.566Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Party Link』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5087470/",
+        "attemptedAt": "2026-11-21T06:01:08.807Z",
+        "bufferPostId": "6b0133a4dd205ed779c1ad17",
+        "submittedAt": "2026-11-21T06:01:10.171Z",
+        "postedAt": "2026-11-21T06:01:10.171Z"
+      },
+      "bufferPostId": "6b0133a4dd205ed779c1ad17",
+      "postedAt": "2026-11-21T06:01:10.171Z"
+    },
+    "steam:4440750:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4440750:permanent_free:1",
+      "store": "steam",
+      "productId": "4440750",
+      "generation": 1,
+      "title": "Aftertaste",
+      "storeUrl": "https://store.steampowered.com/app/4440750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T06:01:07.566Z",
+      "lastSeenAt": "2026-11-21T06:01:07.566Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Aftertaste is a 2.5D indie platformer game where you play as Tami, the tongue of a burned-out chef, Keh, and rediscover her lost passion. Let’s embark on a journey of regaining her taste through adventure and puzzles!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T06:01:07.566Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Aftertaste』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4440750/",
+        "attemptedAt": "2026-11-21T06:01:10.178Z",
+        "bufferPostId": "6b0133a620a2d09a0ad8d381",
+        "submittedAt": "2026-11-21T06:01:11.459Z",
+        "postedAt": "2026-11-21T06:01:11.459Z"
+      },
+      "bufferPostId": "6b0133a620a2d09a0ad8d381",
+      "postedAt": "2026-11-21T06:01:11.459Z"
+    },
+    "steam:5032040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5032040:permanent_free:1",
+      "store": "steam",
+      "productId": "5032040",
+      "generation": 1,
+      "title": "100个师兄爱上我",
+      "storeUrl": "https://store.steampowered.com/app/5032040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-21T06:01:07.566Z",
+      "lastSeenAt": "2026-11-21T06:01:07.566Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Join the Jiuxiao Sword Sect as its youngest junior sister and pursue five distinctive senior brothers in an AI-driven xianxia romance. Speak freely, learn their preferences, respect their boundaries, and shape each relationship before the countdown to losing your cultivation reaches zero.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-21T06:01:07.566Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『100个师兄爱上我』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5032040/",
+        "attemptedAt": "2026-11-21T06:01:11.468Z",
+        "bufferPostId": "6b0133a7d9cbb430a1228836",
+        "submittedAt": "2026-11-21T06:01:12.779Z",
+        "postedAt": "2026-11-21T06:01:12.779Z"
+      },
+      "bufferPostId": "6b0133a7d9cbb430a1228836",
+      "postedAt": "2026-11-21T06:01:12.779Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-21T03:01:07.171Z",
+    "lastSuccessfulScanAt": "2026-11-21T06:01:07.566Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -22885,6 +22987,7 @@
       "4437290": "2026-11-13T00:01:07.533Z",
       "4437450": "2026-11-18T12:01:09.615Z",
       "4437770": "2026-10-17T21:01:00.535Z",
+      "4440750": "2026-11-21T06:01:07.566Z",
       "4450900": "2026-11-03T21:01:10.649Z",
       "4452480": "2026-11-03T06:01:07.148Z",
       "4463860": "2026-10-30T12:01:07.408Z",
@@ -23070,6 +23173,7 @@
       "5021660": "2026-11-10T12:01:08.585Z",
       "5023780": "2026-10-14T15:30:36.000Z",
       "5027890": "2026-11-18T00:01:16.673Z",
+      "5032040": "2026-11-21T06:01:07.566Z",
       "5033020": "2026-11-19T06:01:04.315Z",
       "5033230": "2026-11-06T06:01:16.414Z",
       "5034400": "2026-10-30T15:01:09.322Z",
@@ -23101,6 +23205,7 @@
       "5082910": "2026-11-10T00:01:13.317Z",
       "5083880": "2026-10-30T21:01:07.872Z",
       "5084200": "2026-10-25T12:01:01.232Z",
+      "5087470": "2026-11-21T06:01:07.566Z",
       "5087750": "2026-11-20T03:01:16.802Z",
       "5088140": "2026-10-26T12:01:07.373Z",
       "5089050": "2026-10-28T21:01:20.934Z",

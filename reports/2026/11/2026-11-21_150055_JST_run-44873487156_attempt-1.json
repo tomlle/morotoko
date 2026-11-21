@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44873487156",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-21T06:00:55.972Z",
+    "finishedAt": "2026-11-21T06:01:12.805Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44873487156"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5087470",
+      "title": "Party Link",
+      "storeUrl": "https://store.steampowered.com/app/5087470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087470/0f79355d4d3876114ccab5f77f91505a8e363fbf/header.jpg?t=1795240658",
+      "officialDescription": "Party Link is a collection of Russian party games for groups. Launch on a big screen, connect friends from their phones via QR, and pick a show — drawing, bluffing, and guessing games. Original modes with Russian voice-over — ready in a minute, no installs on phones."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4440750",
+      "title": "Aftertaste",
+      "storeUrl": "https://store.steampowered.com/app/4440750/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440750/0b2a9ee2acbf1386e32b91a5f9171277f4d867cf/header.jpg?t=1795240255",
+      "officialDescription": "Aftertaste is a 2.5D indie platformer game where you play as Tami, the tongue of a burned-out chef, Keh, and rediscover her lost passion. Let’s embark on a journey of regaining her taste through adventure and puzzles!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5032040",
+      "title": "100个师兄爱上我",
+      "storeUrl": "https://store.steampowered.com/app/5032040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032040/fb7a94938cdef87f61d74f6147311c0d8218c052/header.jpg?t=1795231163",
+      "officialDescription": "Join the Jiuxiao Sword Sect as its youngest junior sister and pursue five distinctive senior brothers in an AI-driven xianxia romance. Speak freely, learn their preferences, respect their boundaries, and shape each relationship before the countdown to losing your cultivation reaches zero."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5087470:permanent_free:1",
+      "productId": "5087470",
+      "title": "Party Link",
+      "status": "sent",
+      "bufferPostId": "6b0133a4dd205ed779c1ad17"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4440750:permanent_free:1",
+      "productId": "4440750",
+      "title": "Aftertaste",
+      "status": "sent",
+      "bufferPostId": "6b0133a620a2d09a0ad8d381"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5032040:permanent_free:1",
+      "productId": "5032040",
+      "title": "100个师兄爱上我",
+      "status": "sent",
+      "bufferPostId": "6b0133a7d9cbb430a1228836"
+    }
+  ],
+  "errors": []
+}
