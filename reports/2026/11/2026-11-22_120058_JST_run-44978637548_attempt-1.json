@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44978637548",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-22T03:00:58.655Z",
+    "finishedAt": "2026-11-22T03:01:19.883Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44978637548"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 20,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5248030",
+      "title": "FishIdle",
+      "storeUrl": "https://store.steampowered.com/app/5248030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248030/da9535ddbf3e2275ec74331ec060d080a6406476/header.jpg?t=1795312537",
+      "officialDescription": "A multiplayer idle RPG. Queue gathering, crafting, and combat — your character keeps going on the server. Standard and Hardcore are separate paths; five classes fight on autopilot."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5111020",
+      "title": "Lost Gateways",
+      "storeUrl": "https://store.steampowered.com/app/5111020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111020/d720dae7125bf21c86095dd17be54f6418e5c7e1/header.jpg?t=1795308056",
+      "officialDescription": "The world beyond the gate is rolled fresh for every soul — ring after ring of wilds, delves, and buried gold, each one deadlier than the last. Take a contract, read the map, bring a shovel. Bring friends: everyone gets their own loot, and nobody fights over a chest."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4947000",
+      "title": "Idle Minertia",
+      "storeUrl": "https://store.steampowered.com/app/4947000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947000/1756fc3ecf52c29171a4fc0903b23cd5065a8aab/header.jpg?t=1795306121",
+      "officialDescription": "Idle Minertiaは自動で洞窟を掘り進める採掘Idle Game。採掘道具とエンチャントの組み合わせで深く深くへ。 戦略的シナジーを生むのも良し。コツコツ永続報酬を集めるのも良し。そして、その先に、10種類を超える多様なコンテンツが待っています。 Idle Minertiaは日々の心地よい放置体験をお届けします。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5248030:permanent_free:1",
+      "productId": "5248030",
+      "title": "FishIdle",
+      "status": "sent",
+      "bufferPostId": "6b025afcd864a011059181ba"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5111020:permanent_free:1",
+      "productId": "5111020",
+      "title": "Lost Gateways",
+      "status": "sent",
+      "bufferPostId": "6b025afdd5eabfb8cc7a6aaf"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4947000:permanent_free:1",
+      "productId": "4947000",
+      "title": "Idle Minertia",
+      "status": "sent",
+      "bufferPostId": "6b025afecc364169c122448f"
+    }
+  ],
+  "errors": []
+}

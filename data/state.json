@@ -2647,6 +2647,18 @@
     "steam:4724840:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4724840:permanent_free:1"
+    },
+    "steam:5248030:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5248030:permanent_free:1"
+    },
+    "steam:5111020:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5111020:permanent_free:1"
+    },
+    "steam:4947000:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4947000:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21915,7 +21927,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-22T00:01:10.381Z",
+      "lastSeenAt": "2026-11-22T03:01:13.730Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23067,11 +23079,101 @@
       },
       "bufferPostId": "6b02069ec72676f5e9debe2a",
       "postedAt": "2026-11-21T21:01:19.949Z"
+    },
+    "steam:5248030:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5248030:permanent_free:1",
+      "store": "steam",
+      "productId": "5248030",
+      "generation": 1,
+      "title": "FishIdle",
+      "storeUrl": "https://store.steampowered.com/app/5248030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T03:01:13.730Z",
+      "lastSeenAt": "2026-11-22T03:01:13.730Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A multiplayer idle RPG. Queue gathering, crafting, and combat — your character keeps going on the server. Standard and Hardcore are separate paths; five classes fight on autopilot.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T03:01:13.730Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『FishIdle』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5248030/",
+        "attemptedAt": "2026-11-22T03:01:16.063Z",
+        "bufferPostId": "6b025afcd864a011059181ba",
+        "submittedAt": "2026-11-22T03:01:17.410Z",
+        "postedAt": "2026-11-22T03:01:17.410Z"
+      },
+      "bufferPostId": "6b025afcd864a011059181ba",
+      "postedAt": "2026-11-22T03:01:17.410Z"
+    },
+    "steam:5111020:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5111020:permanent_free:1",
+      "store": "steam",
+      "productId": "5111020",
+      "generation": 1,
+      "title": "Lost Gateways",
+      "storeUrl": "https://store.steampowered.com/app/5111020/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T03:01:13.730Z",
+      "lastSeenAt": "2026-11-22T03:01:13.730Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The world beyond the gate is rolled fresh for every soul — ring after ring of wilds, delves, and buried gold, each one deadlier than the last. Take a contract, read the map, bring a shovel. Bring friends: everyone gets their own loot, and nobody fights over a chest.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T03:01:13.730Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Lost Gateways』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5111020/",
+        "attemptedAt": "2026-11-22T03:01:17.419Z",
+        "bufferPostId": "6b025afdd5eabfb8cc7a6aaf",
+        "submittedAt": "2026-11-22T03:01:18.587Z",
+        "postedAt": "2026-11-22T03:01:18.587Z"
+      },
+      "bufferPostId": "6b025afdd5eabfb8cc7a6aaf",
+      "postedAt": "2026-11-22T03:01:18.587Z"
+    },
+    "steam:4947000:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4947000:permanent_free:1",
+      "store": "steam",
+      "productId": "4947000",
+      "generation": 1,
+      "title": "Idle Minertia",
+      "storeUrl": "https://store.steampowered.com/app/4947000/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T03:01:13.730Z",
+      "lastSeenAt": "2026-11-22T03:01:13.730Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Idle Minertiaは自動で洞窟を掘り進める採掘Idle Game。採掘道具とエンチャントの組み合わせで深く深くへ。 戦略的シナジーを生むのも良し。コツコツ永続報酬を集めるのも良し。そして、その先に、10種類を超える多様なコンテンツが待っています。 Idle Minertiaは日々の心地よい放置体験をお届けします。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T03:01:13.730Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Idle Minertia』\n✨ いつでも無料でプレイ\n\nIdle Minertiaは自動で洞窟を掘り進める採掘Idle Game。採掘道具とエンチャントの組み合わせで深く深くへ。 戦略的シナジーを生むのも良し。コツコツ永続報酬を集めるのも良し。そして、その先に…\n\nhttps://store.steampowered.com/app/4947000/",
+        "attemptedAt": "2026-11-22T03:01:18.607Z",
+        "bufferPostId": "6b025afecc364169c122448f",
+        "submittedAt": "2026-11-22T03:01:19.863Z",
+        "postedAt": "2026-11-22T03:01:19.863Z"
+      },
+      "bufferPostId": "6b025afecc364169c122448f",
+      "postedAt": "2026-11-22T03:01:19.863Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-22T00:01:10.381Z",
+    "lastSuccessfulScanAt": "2026-11-22T03:01:13.730Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23369,6 +23471,7 @@
       "4944360": "2026-10-14T15:30:36.000Z",
       "4946250": "2026-11-02T21:01:11.825Z",
       "4946530": "2026-11-21T12:01:09.209Z",
+      "4947000": "2026-11-22T03:01:13.730Z",
       "4949930": "2026-10-26T18:01:07.648Z",
       "4952940": "2026-11-15T18:01:15.376Z",
       "4952950": "2026-10-15T18:01:01.152Z",
@@ -23464,6 +23567,7 @@
       "5105650": "2026-11-11T03:01:13.820Z",
       "5108310": "2026-10-18T12:00:59.249Z",
       "5109640": "2026-10-16T00:01:03.084Z",
+      "5111020": "2026-11-22T03:01:13.730Z",
       "5111880": "2026-11-06T06:01:16.414Z",
       "5112180": "2026-10-27T06:01:12.023Z",
       "5114130": "2026-10-17T12:01:03.272Z",
@@ -23566,6 +23670,7 @@
       "5246960": "2026-11-08T12:01:09.576Z",
       "5247100": "2026-10-14T15:30:36.000Z",
       "5247120": "2026-11-06T06:01:16.414Z",
+      "5248030": "2026-11-22T03:01:13.730Z",
       "5248290": "2026-11-19T03:01:06.773Z",
       "5249380": "2026-11-12T21:01:09.146Z",
       "5249390": "2026-10-14T15:30:36.000Z",
