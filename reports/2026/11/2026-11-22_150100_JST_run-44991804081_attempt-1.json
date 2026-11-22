@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "44991804081",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-22T06:01:00.183Z",
+    "finishedAt": "2026-11-22T06:01:19.120Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/44991804081"
+  },
+  "detection": {
+    "searched": 166,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5010870",
+      "title": "IdleBound",
+      "storeUrl": "https://store.steampowered.com/app/5010870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010870/a86da6375bcc1de983c40bf1097e295ffa996e6f/header.jpg?t=1795321633",
+      "officialDescription": "A dark fantasy idle RPG where every skill matters. Mine, fish, chop, forge, and fight your way from a grim frontier village to a tear in reality itself, even when you're not playing."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5198440",
+      "title": "並行世界の僕ら ～Parallel Hearts～",
+      "storeUrl": "https://store.steampowered.com/app/5198440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5198440/28fad980c64af7067cabb6b25f93ee3e2700bb23/header_japanese.jpg?t=1795237018",
+      "officialDescription": "幼なじみとの恋と、個性豊かな仲間たちとの日々を描く学園青春群像ビジュアルノベル。主人公・日向響の視点で、元気いっぱいの七瀬たちと、騒がしくも温かな高校生活を過ごします。桜の通学路、旧校舎の実験室、冬の旅行、そして試験の危機。全26章の物語を読み進め、一部の場面では選択肢を通じて彼らのさまざまな反応を楽しめます。立ち絵やCG、一部キャラクターの中国語ボイスとともに、冗談の奥に隠れた想いに触れてください。もし別の世界で出会わなかったら、この青春は何色だったのだろう。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5010870:permanent_free:1",
+      "productId": "5010870",
+      "title": "IdleBound",
+      "status": "sent",
+      "bufferPostId": "6b02852cc72676f5e908608f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5198440:permanent_free:1",
+      "productId": "5198440",
+      "title": "並行世界の僕ら ～Parallel Hearts～",
+      "status": "sent",
+      "bufferPostId": "6b02852dd5eabfb8cc8718a7"
+    }
+  ],
+  "errors": []
+}

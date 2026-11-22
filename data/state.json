@@ -2659,6 +2659,14 @@
     "steam:4947000:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4947000:permanent_free:1"
+    },
+    "steam:5010870:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5010870:permanent_free:1"
+    },
+    "steam:5198440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5198440:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21927,7 +21935,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-22T03:01:13.730Z",
+      "lastSeenAt": "2026-11-22T06:01:14.120Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23169,11 +23177,71 @@
       },
       "bufferPostId": "6b025afecc364169c122448f",
       "postedAt": "2026-11-22T03:01:19.863Z"
+    },
+    "steam:5010870:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5010870:permanent_free:1",
+      "store": "steam",
+      "productId": "5010870",
+      "generation": 1,
+      "title": "IdleBound",
+      "storeUrl": "https://store.steampowered.com/app/5010870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T06:01:14.120Z",
+      "lastSeenAt": "2026-11-22T06:01:14.120Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A dark fantasy idle RPG where every skill matters. Mine, fish, chop, forge, and fight your way from a grim frontier village to a tear in reality itself, even when you're not playing.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T06:01:14.120Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『IdleBound』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5010870/",
+        "attemptedAt": "2026-11-22T06:01:16.302Z",
+        "bufferPostId": "6b02852cc72676f5e908608f",
+        "submittedAt": "2026-11-22T06:01:17.723Z",
+        "postedAt": "2026-11-22T06:01:17.723Z"
+      },
+      "bufferPostId": "6b02852cc72676f5e908608f",
+      "postedAt": "2026-11-22T06:01:17.723Z"
+    },
+    "steam:5198440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5198440:permanent_free:1",
+      "store": "steam",
+      "productId": "5198440",
+      "generation": 1,
+      "title": "並行世界の僕ら ～Parallel Hearts～",
+      "storeUrl": "https://store.steampowered.com/app/5198440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T06:01:14.120Z",
+      "lastSeenAt": "2026-11-22T06:01:14.120Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "幼なじみとの恋と、個性豊かな仲間たちとの日々を描く学園青春群像ビジュアルノベル。主人公・日向響の視点で、元気いっぱいの七瀬たちと、騒がしくも温かな高校生活を過ごします。桜の通学路、旧校舎の実験室、冬の旅行、そして試験の危機。全26章の物語を読み進め、一部の場面では選択肢を通じて彼らのさまざまな反応を楽しめます。立ち絵やCG、一部キャラクターの中国語ボイスとともに、冗談の奥に隠れた想いに触れてください。もし別の世界で出会わなかったら、この青春は何色だったのだろう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T06:01:14.120Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『並行世界の僕ら ～Parallel Hearts～』\n✨ いつでも無料でプレイ\n\n幼なじみとの恋と、個性豊かな仲間たちとの日々を描く学園青春群像ビジュアルノベル。主人公・日向響の視点で、元気いっぱいの七瀬たちと、騒がしくも温かな高校生活を過ご…\n\nhttps://store.steampowered.com/app/5198440/",
+        "attemptedAt": "2026-11-22T06:01:17.741Z",
+        "bufferPostId": "6b02852dd5eabfb8cc8718a7",
+        "submittedAt": "2026-11-22T06:01:19.102Z",
+        "postedAt": "2026-11-22T06:01:19.102Z"
+      },
+      "bufferPostId": "6b02852dd5eabfb8cc8718a7",
+      "postedAt": "2026-11-22T06:01:19.102Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-22T03:01:13.730Z",
+    "lastSuccessfulScanAt": "2026-11-22T06:01:14.120Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23508,6 +23576,7 @@
       "5006800": "2026-11-02T12:01:08.821Z",
       "5007010": "2026-10-30T15:01:09.322Z",
       "5010310": "2026-10-26T06:01:04.083Z",
+      "5010870": "2026-11-22T06:01:14.120Z",
       "5011370": "2026-11-13T15:01:22.449Z",
       "5012600": "2026-10-31T00:01:08.172Z",
       "5013770": "2026-11-09T18:01:24.470Z",
@@ -23627,6 +23696,7 @@
       "5195600": "2026-10-24T03:00:59.931Z",
       "5196280": "2026-10-31T09:00:59.059Z",
       "5196510": "2026-10-15T21:00:58.160Z",
+      "5198440": "2026-11-22T06:01:14.120Z",
       "5198690": "2026-10-25T18:01:03.590Z",
       "5198770": "2026-11-11T18:01:09.437Z",
       "5199830": "2026-10-16T15:01:11.993Z",
