@@ -2667,6 +2667,10 @@
     "steam:5198440:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5198440:permanent_free:1"
+    },
+    "steam:5438380:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5438380:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21935,7 +21939,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-22T06:01:14.120Z",
+      "lastSeenAt": "2026-11-22T09:01:12.161Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23237,11 +23241,41 @@
       },
       "bufferPostId": "6b02852dd5eabfb8cc8718a7",
       "postedAt": "2026-11-22T06:01:19.102Z"
+    },
+    "steam:5438380:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5438380:permanent_free:1",
+      "store": "steam",
+      "productId": "5438380",
+      "generation": 1,
+      "title": "Sail Onward! Scion of the Sward",
+      "storeUrl": "https://store.steampowered.com/app/5438380/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-22T09:01:12.161Z",
+      "lastSeenAt": "2026-11-22T09:01:12.161Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A small green voyage with a long shadow. Sunlit, unhurried, and not remotely safe.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-22T09:01:12.161Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Sail Onward! Scion of the Sward』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5438380/",
+        "attemptedAt": "2026-11-22T09:01:13.717Z",
+        "bufferPostId": "6b02af59c72676f5e9168dba",
+        "submittedAt": "2026-11-22T09:01:15.054Z",
+        "postedAt": "2026-11-22T09:01:15.054Z"
+      },
+      "bufferPostId": "6b02af59c72676f5e9168dba",
+      "postedAt": "2026-11-22T09:01:15.054Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-22T06:01:14.120Z",
+    "lastSuccessfulScanAt": "2026-11-22T09:01:12.161Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23940,6 +23974,7 @@
       "5435190": "2026-11-07T15:01:11.737Z",
       "5435270": "2026-11-14T12:01:04.545Z",
       "5437650": "2026-11-10T18:01:39.865Z",
+      "5438380": "2026-11-22T09:01:12.161Z",
       "5442520": "2026-11-03T21:01:10.649Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446260": "2026-11-10T15:01:08.654Z",
