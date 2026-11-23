@@ -2695,6 +2695,14 @@
     "steam:5043620:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5043620:permanent_free:1"
+    },
+    "steam:4250170:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4250170:permanent_free:1"
+    },
+    "steam:5006120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5006120:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21963,7 +21971,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-23T06:01:07.559Z",
+      "lastSeenAt": "2026-11-23T09:01:10.531Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23487,11 +23495,71 @@
       },
       "bufferPostId": "6b03d6aad864a0110525ce40",
       "postedAt": "2026-11-23T06:01:15.611Z"
+    },
+    "steam:4250170:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4250170:permanent_free:1",
+      "store": "steam",
+      "productId": "4250170",
+      "generation": 1,
+      "title": "FAT HOBO: Hobocop Saves Christmas",
+      "storeUrl": "https://store.steampowered.com/app/4250170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T09:01:10.531Z",
+      "lastSeenAt": "2026-11-23T09:01:10.531Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Fat Hobo is a first-person RPG adventure game about an ex-cop, turned vagrant hunting a killer. Convince, steal and piss your way to the bottom of an unbelievable mystery.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T09:01:10.531Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『FAT HOBO: Hobocop Saves Christmas』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4250170/",
+        "attemptedAt": "2026-11-23T09:01:13.777Z",
+        "bufferPostId": "6b0400d99c207fed958ae26e",
+        "submittedAt": "2026-11-23T09:01:15.598Z",
+        "postedAt": "2026-11-23T09:01:15.598Z"
+      },
+      "bufferPostId": "6b0400d99c207fed958ae26e",
+      "postedAt": "2026-11-23T09:01:15.598Z"
+    },
+    "steam:5006120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5006120:permanent_free:1",
+      "store": "steam",
+      "productId": "5006120",
+      "generation": 1,
+      "title": "シロクアライブ！",
+      "storeUrl": "https://store.steampowered.com/app/5006120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T09:01:10.531Z",
+      "lastSeenAt": "2026-11-23T09:01:10.531Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "奇妙な電話に導かれ夜の病院に潜り込んだ主人公は、そこで事故死したはずの同居人が成れ果てたものを発見する。同居人の葬式にすら参列できなかった主人公は、知人の誰にも内緒で彼女を部屋に連れ帰り、後悔を拭うための生活を再開した。重く切なく、しかし最後には希望もある彼女達の三ヶ月を追体験するアドベンチャー。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T09:01:10.531Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『シロクアライブ！』\n✨ いつでも無料でプレイ\n\n奇妙な電話に導かれ夜の病院に潜り込んだ主人公は、そこで事故死したはずの同居人が成れ果てたものを発見する。同居人の葬式にすら参列できなかった主人公は、知人の誰にも内緒で彼女を部屋に…\n\nhttps://store.steampowered.com/app/5006120/",
+        "attemptedAt": "2026-11-23T09:01:15.621Z",
+        "bufferPostId": "6b0400db4d584ce268358f57",
+        "submittedAt": "2026-11-23T09:01:17.085Z",
+        "postedAt": "2026-11-23T09:01:17.085Z"
+      },
+      "bufferPostId": "6b0400db4d584ce268358f57",
+      "postedAt": "2026-11-23T09:01:17.085Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T06:01:07.559Z",
+    "lastSuccessfulScanAt": "2026-11-23T09:01:10.531Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23615,6 +23683,7 @@
       "4242850": "2026-11-21T03:01:07.171Z",
       "4246850": "2026-10-21T18:01:08.108Z",
       "4248630": "2026-10-28T03:01:23.689Z",
+      "4250170": "2026-11-23T09:01:10.531Z",
       "4251070": "2026-10-15T18:01:01.152Z",
       "4252340": "2026-10-14T15:30:36.000Z",
       "4256040": "2026-10-14T15:30:36.000Z",
@@ -23823,6 +23892,7 @@
       "5002430": "2026-11-03T18:01:16.982Z",
       "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",
+      "5006120": "2026-11-23T09:01:10.531Z",
       "5006180": "2026-10-14T15:30:36.000Z",
       "5006630": "2026-11-19T21:01:06.896Z",
       "5006800": "2026-11-02T12:01:08.821Z",
