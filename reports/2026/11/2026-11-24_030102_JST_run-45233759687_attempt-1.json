@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45233759687",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T18:01:02.091Z",
+    "finishedAt": "2026-11-23T18:01:24.059Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45233759687"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4268170",
+      "title": "Pekka Kana 2",
+      "storeUrl": "https://store.steampowered.com/app/4268170/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268170/bf31e25349ab5826ee621b4df2f73ae16539696b/header.jpg?t=1795453335",
+      "officialDescription": "Pekka Kana 2 (Pekka the Rooster 2) is a classic 2D platformer where you play as a fearless rooster on a colorful, old-school adventure inspired by legendary platform games of the 90s. Your mission is to rescue chickens kidnapped and imprisoned by an evil crow known as “The Evil One.”"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3757940",
+      "title": "StarFront: Lancers",
+      "storeUrl": "https://store.steampowered.com/app/3757940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757940/331d861345eca22fa0e0d7fe1c2f11bd0c7bf2dd/header.jpg?t=1795450931",
+      "officialDescription": "Spaceship combat sim arcade shooter. Rogue-like and other game modes. Character collection."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4395610",
+      "title": "Deilist: And Nothing Remains",
+      "storeUrl": "https://store.steampowered.com/app/4395610/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395610/9bc0eca6ff4a568a84254b54f9f14822dc0c0430/header.jpg?t=1795450340",
+      "officialDescription": "Deilist: And Nothing Remains is a boss fight where you play as an evil force determined to destroy the gods. Dodge, fight back, do everything necessary to survive, for the odds are definitively against you."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4855670",
+      "title": "idle koi!",
+      "storeUrl": "https://store.steampowered.com/app/4855670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855670/ae73d6c2698c18c232d60884074cfdfbf42e0410/header.jpg?t=1795449894",
+      "officialDescription": "鯉の卵を孵化し、血統を交配し、希少な進化を狙い、3匹編成のチームで放置バトルへ。遺伝子、レア度、世代、成長、戦闘履歴がそれぞれの鯉の価値を決めます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2269500",
+      "title": "Leap of Legends",
+      "storeUrl": "https://store.steampowered.com/app/2269500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269500/426b5316991b81dc96ed014f843ce07926a2278c/header.jpg?t=1795448738",
+      "officialDescription": "かわいい動物たちの基本プレイ無料マルチプレイアクション。ライバルの頭を踏んで、1v1・2v2・3v3のランクマッチでブロンズからレジェンドを目指そう。PC、Mac、スマホでフレンドとクロスプレイ。家族みんなで安心して遊べます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4268170:permanent_free:1",
+      "productId": "4268170",
+      "title": "Pekka Kana 2",
+      "status": "sent",
+      "bufferPostId": "6b047f6d83d02a1633813197"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3757940:permanent_free:1",
+      "productId": "3757940",
+      "title": "StarFront: Lancers",
+      "status": "sent",
+      "bufferPostId": "6b047f6e76f8581f138bd201"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4395610:permanent_free:1",
+      "productId": "4395610",
+      "title": "Deilist: And Nothing Remains",
+      "status": "sent",
+      "bufferPostId": "6b047f7076f8581f138bd2cb"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4855670:permanent_free:1",
+      "productId": "4855670",
+      "title": "idle koi!",
+      "status": "sent",
+      "bufferPostId": "6b047f710191a6ffcb81355e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2269500:permanent_free:1",
+      "productId": "2269500",
+      "title": "Leap of Legends",
+      "status": "sent",
+      "bufferPostId": "6b047f720720ccb673fd161d"
+    }
+  ],
+  "errors": []
+}
