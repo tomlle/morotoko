@@ -2671,6 +2671,14 @@
     "steam:5438380:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5438380:permanent_free:1"
+    },
+    "steam:4920640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4920640:permanent_free:1"
+    },
+    "steam:5043790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5043790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21939,7 +21947,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-23T00:01:06.994Z",
+      "lastSeenAt": "2026-11-23T03:01:11.455Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23271,11 +23279,71 @@
       },
       "bufferPostId": "6b02af59c72676f5e9168dba",
       "postedAt": "2026-11-22T09:01:15.054Z"
+    },
+    "steam:4920640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4920640:permanent_free:1",
+      "store": "steam",
+      "productId": "4920640",
+      "generation": 1,
+      "title": "プレア・チェスト",
+      "storeUrl": "https://store.steampowered.com/app/4920640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T03:01:11.455Z",
+      "lastSeenAt": "2026-11-23T03:01:11.455Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "人々の心の闇を消し去るため、少年少女たちは冒険に出る──。 2000年代のような懐かしい雰囲気の3DファンタジーRPG。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T03:01:11.455Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『プレア・チェスト』\n✨ いつでも無料でプレイ\n\n人々の心の闇を消し去るため、少年少女たちは冒険に出る──。 2000年代のような懐かしい雰囲気の3DファンタジーRPG。\n\nhttps://store.steampowered.com/app/4920640/",
+        "attemptedAt": "2026-11-23T03:01:12.600Z",
+        "bufferPostId": "6b03ac78a6de38de9eb36883",
+        "submittedAt": "2026-11-23T03:01:13.960Z",
+        "postedAt": "2026-11-23T03:01:13.960Z"
+      },
+      "bufferPostId": "6b03ac78a6de38de9eb36883",
+      "postedAt": "2026-11-23T03:01:13.960Z"
+    },
+    "steam:5043790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5043790:permanent_free:1",
+      "store": "steam",
+      "productId": "5043790",
+      "generation": 1,
+      "title": "UniversiaTCG",
+      "storeUrl": "https://store.steampowered.com/app/5043790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T03:01:11.455Z",
+      "lastSeenAt": "2026-11-23T03:01:11.455Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "UniversiaTCG is a strategy game, based around a digital trading card game with solo campaigns, and casual or ranked 1v1, 2v2, and 4 player free-for-all game modes.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T03:01:11.455Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『UniversiaTCG』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5043790/",
+        "attemptedAt": "2026-11-23T03:01:13.972Z",
+        "bufferPostId": "6b03ac7acc364169c1a60c0d",
+        "submittedAt": "2026-11-23T03:01:15.458Z",
+        "postedAt": "2026-11-23T03:01:15.458Z"
+      },
+      "bufferPostId": "6b03ac7acc364169c1a60c0d",
+      "postedAt": "2026-11-23T03:01:15.458Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T00:01:06.994Z",
+    "lastSuccessfulScanAt": "2026-11-23T03:01:11.455Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23558,6 +23626,7 @@
       "4913070": "2026-11-21T21:01:12.797Z",
       "4914650": "2026-11-10T18:01:39.865Z",
       "4914750": "2026-11-06T06:01:16.414Z",
+      "4920640": "2026-11-23T03:01:11.455Z",
       "4921720": "2026-11-06T09:01:10.595Z",
       "4926310": "2026-10-26T18:01:07.648Z",
       "4927770": "2026-11-14T00:01:17.704Z",
@@ -23634,6 +23703,7 @@
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
       "5041320": "2026-11-19T15:01:07.664Z",
+      "5043790": "2026-11-23T03:01:11.455Z",
       "5043860": "2026-10-21T00:01:08.212Z",
       "5045330": "2026-11-16T21:01:09.959Z",
       "5048390": "2026-11-16T06:01:09.607Z",

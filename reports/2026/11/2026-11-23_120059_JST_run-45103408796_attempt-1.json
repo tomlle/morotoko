@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45103408796",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T03:00:59.025Z",
+    "finishedAt": "2026-11-23T03:01:15.479Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45103408796"
+  },
+  "detection": {
+    "searched": 116,
+    "candidates": 19,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 16,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4920640",
+      "title": "プレア・チェスト",
+      "storeUrl": "https://store.steampowered.com/app/4920640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920640/b5dbb5a52349d984ce7bffa5ae1efcc308f57517/header_japanese.jpg?t=1795395052",
+      "officialDescription": "人々の心の闇を消し去るため、少年少女たちは冒険に出る──。 2000年代のような懐かしい雰囲気の3DファンタジーRPG。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5043790",
+      "title": "UniversiaTCG",
+      "storeUrl": "https://store.steampowered.com/app/5043790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043790/8c01e427a60eb7f78bf8a68eed79aa1aa8140f31/header.jpg?t=1795306277",
+      "officialDescription": "UniversiaTCG is a strategy game, based around a digital trading card game with solo campaigns, and casual or ranked 1v1, 2v2, and 4 player free-for-all game modes."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4920640:permanent_free:1",
+      "productId": "4920640",
+      "title": "プレア・チェスト",
+      "status": "sent",
+      "bufferPostId": "6b03ac78a6de38de9eb36883"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5043790:permanent_free:1",
+      "productId": "5043790",
+      "title": "UniversiaTCG",
+      "status": "sent",
+      "bufferPostId": "6b03ac7acc364169c1a60c0d"
+    }
+  ],
+  "errors": []
+}
