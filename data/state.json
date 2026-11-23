@@ -2703,6 +2703,18 @@
     "steam:5006120:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5006120:permanent_free:1"
+    },
+    "steam:4136550:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4136550:permanent_free:1"
+    },
+    "steam:3690730:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3690730:permanent_free:1"
+    },
+    "steam:5425700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5425700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21971,7 +21983,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-23T09:01:10.531Z",
+      "lastSeenAt": "2026-11-23T12:01:07.122Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23555,11 +23567,101 @@
       },
       "bufferPostId": "6b0400db4d584ce268358f57",
       "postedAt": "2026-11-23T09:01:17.085Z"
+    },
+    "steam:4136550:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4136550:permanent_free:1",
+      "store": "steam",
+      "productId": "4136550",
+      "generation": 1,
+      "title": "Javi Romero of the Dead",
+      "storeUrl": "https://store.steampowered.com/app/4136550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T12:01:07.122Z",
+      "lastSeenAt": "2026-11-23T12:01:07.122Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "全50ステージ、10の恐怖のワールドで、押し寄せるアンデッドの大群に立ち向かえ。野球バット、奇想天外な武器、貴重な弾薬を駆使して戦おう。生存者を救出し、恐ろしいボスを倒し、永遠の闇の起源を解き明かせ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T12:01:07.122Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Javi Romero of the Dead』\n✨ いつでも無料でプレイ\n\n全50ステージ、10の恐怖のワールドで、押し寄せるアンデッドの大群に立ち向かえ。野球バット、奇想天外な武器、貴重な弾薬を駆使して戦おう。生存者を救出し、恐ろしいボスを倒し、永…\n\nhttps://store.steampowered.com/app/4136550/",
+        "attemptedAt": "2026-11-23T12:01:09.567Z",
+        "bufferPostId": "6b042b0582bb5ae3b373ba2a",
+        "submittedAt": "2026-11-23T12:01:11.039Z",
+        "postedAt": "2026-11-23T12:01:11.039Z"
+      },
+      "bufferPostId": "6b042b0582bb5ae3b373ba2a",
+      "postedAt": "2026-11-23T12:01:11.039Z"
+    },
+    "steam:3690730:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3690730:permanent_free:1",
+      "store": "steam",
+      "productId": "3690730",
+      "generation": 1,
+      "title": "野棋",
+      "storeUrl": "https://store.steampowered.com/app/3690730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T12:01:07.122Z",
+      "lastSeenAt": "2026-11-23T12:01:07.122Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Wild Chess is a 1v1 online turn-based tactical board game. On a hex battlefield you spend energy to spawn, move and attack, then evolve your pieces into 20 specialized forms such as ghosts, cannons and ice mages. Online matches only. Simplified Chinese interface.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T12:01:07.122Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『野棋』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3690730/",
+        "attemptedAt": "2026-11-23T12:01:11.048Z",
+        "bufferPostId": "6b042b077eae78cd9a97ce58",
+        "submittedAt": "2026-11-23T12:01:12.497Z",
+        "postedAt": "2026-11-23T12:01:12.497Z"
+      },
+      "bufferPostId": "6b042b077eae78cd9a97ce58",
+      "postedAt": "2026-11-23T12:01:12.497Z"
+    },
+    "steam:5425700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5425700:permanent_free:1",
+      "store": "steam",
+      "productId": "5425700",
+      "generation": 1,
+      "title": "Bouture",
+      "storeUrl": "https://store.steampowered.com/app/5425700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T12:01:07.122Z",
+      "lastSeenAt": "2026-11-23T12:01:07.122Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Windowsのデスクトップで育つ鉢植えの植物。日ごとに育ち、水やりを忘れると葉がしおれ、世話を続けると花を咲かせます。ダブルクリックで水やり。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T12:01:07.122Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bouture』\n✨ いつでも無料でプレイ\n\nWindowsのデスクトップで育つ鉢植えの植物。日ごとに育ち、水やりを忘れると葉がしおれ、世話を続けると花を咲かせます。ダブルクリックで水やり。\n\nhttps://store.steampowered.com/app/5425700/",
+        "attemptedAt": "2026-11-23T12:01:12.506Z",
+        "bufferPostId": "6b042b087eae78cd9a97cf35",
+        "submittedAt": "2026-11-23T12:01:13.945Z",
+        "postedAt": "2026-11-23T12:01:13.945Z"
+      },
+      "bufferPostId": "6b042b087eae78cd9a97cf35",
+      "postedAt": "2026-11-23T12:01:13.945Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T09:01:10.531Z",
+    "lastSuccessfulScanAt": "2026-11-23T12:01:07.122Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23631,6 +23733,7 @@
       "3662680": "2026-11-12T09:01:05.060Z",
       "3665700": "2026-10-21T18:01:08.108Z",
       "3681220": "2026-11-08T00:01:08.929Z",
+      "3690730": "2026-11-23T12:01:07.122Z",
       "3693930": "2026-10-21T03:01:00.123Z",
       "3701290": "2026-10-30T15:01:09.322Z",
       "3703550": "2026-10-17T15:01:03.979Z",
@@ -23669,6 +23772,7 @@
       "4112730": "2026-10-14T15:30:36.000Z",
       "4126400": "2026-11-13T18:01:06.687Z",
       "4127390": "2026-10-30T18:01:08.710Z",
+      "4136550": "2026-11-23T12:01:07.122Z",
       "4140580": "2026-10-27T18:01:06.530Z",
       "4146650": "2026-11-06T06:01:16.414Z",
       "4150920": "2026-10-14T15:30:36.000Z",
@@ -24255,6 +24359,7 @@
       "5423320": "2026-11-14T03:01:11.349Z",
       "5424590": "2026-11-23T06:01:07.559Z",
       "5425530": "2026-11-06T06:01:16.414Z",
+      "5425700": "2026-11-23T12:01:07.122Z",
       "5427960": "2026-11-09T18:01:24.470Z",
       "5429100": "2026-11-19T06:01:04.315Z",
       "5431590": "2026-10-31T21:01:15.957Z",

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45170269090",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T12:00:59.125Z",
+    "finishedAt": "2026-11-23T12:01:13.962Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45170269090"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 19,
+    "verified": 4,
+    "newPromotions": 3,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4136550",
+      "title": "Javi Romero of the Dead",
+      "storeUrl": "https://store.steampowered.com/app/4136550/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4136550/519be2dfc2b2854d2591055761a4f205e5527a7e/header.jpg?t=1795434334",
+      "officialDescription": "全50ステージ、10の恐怖のワールドで、押し寄せるアンデッドの大群に立ち向かえ。野球バット、奇想天外な武器、貴重な弾薬を駆使して戦おう。生存者を救出し、恐ろしいボスを倒し、永遠の闇の起源を解き明かせ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3690730",
+      "title": "野棋",
+      "storeUrl": "https://store.steampowered.com/app/3690730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690730/9bf27545b489253920ffdb92c4d24c7b8309b846/header.jpg?t=1795429841",
+      "officialDescription": "Wild Chess is a 1v1 online turn-based tactical board game. On a hex battlefield you spend energy to spawn, move and attack, then evolve your pieces into 20 specialized forms such as ghosts, cannons and ice mages. Online matches only. Simplified Chinese interface."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5425700",
+      "title": "Bouture",
+      "storeUrl": "https://store.steampowered.com/app/5425700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425700/5b40df9f46767c5018cf3fb83b51dc7c51f2d014/header.jpg?t=1795427947",
+      "officialDescription": "Windowsのデスクトップで育つ鉢植えの植物。日ごとに育ち、水やりを忘れると葉がしおれ、世話を続けると花を咲かせます。ダブルクリックで水やり。"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4136550:permanent_free:1",
+      "productId": "4136550",
+      "title": "Javi Romero of the Dead",
+      "status": "sent",
+      "bufferPostId": "6b042b0582bb5ae3b373ba2a"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3690730:permanent_free:1",
+      "productId": "3690730",
+      "title": "野棋",
+      "status": "sent",
+      "bufferPostId": "6b042b077eae78cd9a97ce58"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5425700:permanent_free:1",
+      "productId": "5425700",
+      "title": "Bouture",
+      "status": "sent",
+      "bufferPostId": "6b042b087eae78cd9a97cf35"
+    }
+  ],
+  "errors": []
+}
