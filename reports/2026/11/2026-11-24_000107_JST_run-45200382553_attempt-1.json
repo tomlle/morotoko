@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45200382553",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T15:01:07.675Z",
+    "finishedAt": "2026-11-23T15:01:26.802Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45200382553"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 18,
+    "verified": 3,
+    "newPromotions": 2,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4610030",
+      "title": "Forest Of Horror",
+      "storeUrl": "https://store.steampowered.com/app/4610030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610030/bc63b7590dbfa1425f5c0a54eb51a9cc9c04c5a9/header.jpg?t=1795358130",
+      "officialDescription": "Evil Ghost chose to do some trickery on you when you were about to jump onto your bed; now you're in the middle of a foggy forest with no help with one goal in mind: return to your house and get back to bed"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4716340",
+      "title": "Hadamantia: Polychromatic Kingdom",
+      "storeUrl": "https://store.steampowered.com/app/4716340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716340/34d1676b50a0f311ba1e9ea0409da50de00ecadc/header.jpg?t=1795357424",
+      "officialDescription": "誰かが、あなたの大切な家宝を盗んでしまいました！ 犯人は、遠くで逃げようとしているあのフードを被った人物です！ 何としてもその家宝を取り戻さなければなりません！"
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4610030:permanent_free:1",
+      "productId": "4610030",
+      "title": "Forest Of Horror",
+      "status": "sent",
+      "bufferPostId": "6b04554395a2771f4abf7943"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4716340:permanent_free:1",
+      "productId": "4716340",
+      "title": "Hadamantia: Polychromatic Kingdom",
+      "status": "sent",
+      "bufferPostId": "6b04554595a2771f4abf7a32"
+    }
+  ],
+  "errors": []
+}

@@ -2715,6 +2715,14 @@
     "steam:5425700:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5425700:permanent_free:1"
+    },
+    "steam:4610030:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4610030:permanent_free:1"
+    },
+    "steam:4716340:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4716340:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21983,7 +21991,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-23T12:01:07.122Z",
+      "lastSeenAt": "2026-11-23T15:01:20.190Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -23657,11 +23665,71 @@
       },
       "bufferPostId": "6b042b087eae78cd9a97cf35",
       "postedAt": "2026-11-23T12:01:13.945Z"
+    },
+    "steam:4610030:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4610030:permanent_free:1",
+      "store": "steam",
+      "productId": "4610030",
+      "generation": 1,
+      "title": "Forest Of Horror",
+      "storeUrl": "https://store.steampowered.com/app/4610030/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T15:01:20.190Z",
+      "lastSeenAt": "2026-11-23T15:01:20.190Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Evil Ghost chose to do some trickery on you when you were about to jump onto your bed; now you're in the middle of a foggy forest with no help with one goal in mind: return to your house and get back to bed",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T15:01:20.190Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Forest Of Horror』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4610030/",
+        "attemptedAt": "2026-11-23T15:01:23.471Z",
+        "bufferPostId": "6b04554395a2771f4abf7943",
+        "submittedAt": "2026-11-23T15:01:25.394Z",
+        "postedAt": "2026-11-23T15:01:25.394Z"
+      },
+      "bufferPostId": "6b04554395a2771f4abf7943",
+      "postedAt": "2026-11-23T15:01:25.394Z"
+    },
+    "steam:4716340:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4716340:permanent_free:1",
+      "store": "steam",
+      "productId": "4716340",
+      "generation": 1,
+      "title": "Hadamantia: Polychromatic Kingdom",
+      "storeUrl": "https://store.steampowered.com/app/4716340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T15:01:20.190Z",
+      "lastSeenAt": "2026-11-23T15:01:20.190Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "誰かが、あなたの大切な家宝を盗んでしまいました！ 犯人は、遠くで逃げようとしているあのフードを被った人物です！ 何としてもその家宝を取り戻さなければなりません！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T15:01:20.190Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Hadamantia: Polychromatic Kingdom』\n✨ いつでも無料でプレイ\n\n誰かが、あなたの大切な家宝を盗んでしまいました！ 犯人は、遠くで逃げようとしているあのフードを被った人物です！ 何としてもその家宝を取り戻さなければなりません！\n\nhttps://store.steampowered.com/app/4716340/",
+        "attemptedAt": "2026-11-23T15:01:25.404Z",
+        "bufferPostId": "6b04554595a2771f4abf7a32",
+        "submittedAt": "2026-11-23T15:01:26.782Z",
+        "postedAt": "2026-11-23T15:01:26.782Z"
+      },
+      "bufferPostId": "6b04554595a2771f4abf7a32",
+      "postedAt": "2026-11-23T15:01:26.782Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T12:01:07.122Z",
+    "lastSuccessfulScanAt": "2026-11-23T15:01:20.190Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23850,6 +23918,7 @@
       "4604010": "2026-11-15T12:01:04.799Z",
       "4607460": "2026-11-04T00:01:23.910Z",
       "4607590": "2026-10-28T15:01:16.098Z",
+      "4610030": "2026-11-23T15:01:20.190Z",
       "4610720": "2026-10-31T18:01:01.493Z",
       "4611710": "2026-10-14T15:30:36.000Z",
       "4620120": "2026-11-19T03:01:06.773Z",
@@ -23874,6 +23943,7 @@
       "4711830": "2026-10-14T15:30:36.000Z",
       "4713410": "2026-10-30T18:01:08.710Z",
       "4714620": "2026-10-19T06:01:01.979Z",
+      "4716340": "2026-11-23T15:01:20.190Z",
       "4719360": "2026-10-16T12:01:06.356Z",
       "4724840": "2026-11-21T21:01:12.797Z",
       "4725520": "2026-10-14T15:30:36.000Z",
