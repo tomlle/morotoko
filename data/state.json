@@ -2679,6 +2679,22 @@
     "steam:5043790:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5043790:permanent_free:1"
+    },
+    "steam:5424590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5424590:permanent_free:1"
+    },
+    "steam:4026430:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4026430:permanent_free:1"
+    },
+    "steam:5390670:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5390670:permanent_free:1"
+    },
+    "steam:5043620:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5043620:permanent_free:1"
     }
   },
   "campaigns": {
@@ -21947,7 +21963,7 @@
       "currency": "JPY",
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
-      "lastSeenAt": "2026-11-23T03:01:11.455Z",
+      "lastSeenAt": "2026-11-23T06:01:07.559Z",
       "active": true,
       "consecutiveMisses": 0,
       "postStatus": "sent",
@@ -21988,7 +22004,19 @@
         "postedAt": "2026-11-19T21:01:14.227Z"
       },
       "bufferPostId": "6aff6399373c7db3cb522f35",
-      "postedAt": "2026-11-19T21:01:14.227Z"
+      "postedAt": "2026-11-19T21:01:14.227Z",
+      "endingReminderAttempts": 1,
+      "endingReminderDelivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T06:01:15.625Z",
+        "postText": "⏰ 無料期間、まもなく終了！\n\n『Crusader Kings III』\n🎮 無料プレイは 11/24 03:00まで\n\n愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世…\n\n🚨 遊ぶなら今！\nhttps://store.steampowered.com/app/1158310/",
+        "attemptedAt": "2026-11-23T06:01:15.637Z",
+        "bufferPostId": "6b03d6abd864a0110525d0a3",
+        "submittedAt": "2026-11-23T06:01:16.894Z",
+        "postedAt": "2026-11-23T06:01:16.894Z"
+      },
+      "endingReminderBufferPostId": "6b03d6abd864a0110525d0a3",
+      "endingReminderPostedAt": "2026-11-23T06:01:16.894Z"
     },
     "steam:5230330:permanent_free:1": {
       "kind": "permanent_free",
@@ -23339,11 +23367,131 @@
       },
       "bufferPostId": "6b03ac7acc364169c1a60c0d",
       "postedAt": "2026-11-23T03:01:15.458Z"
+    },
+    "steam:5424590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5424590:permanent_free:1",
+      "store": "steam",
+      "productId": "5424590",
+      "generation": 1,
+      "title": "尾刀Tail Blade",
+      "storeUrl": "https://store.steampowered.com/app/5424590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T06:01:07.559Z",
+      "lastSeenAt": "2026-11-23T06:01:07.559Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An ink-wash survival-action game: drag your mouse to draw ink lines and lure minor demons into them. Slay three Inkstone Beasts in the Ink Sea Gauntlet, or survive three minutes in Endless, to unlock the next Ink Bane tier.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T06:01:07.559Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『尾刀Tail Blade』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5424590/",
+        "attemptedAt": "2026-11-23T06:01:08.817Z",
+        "bufferPostId": "6b03d6a4cc364169c1b509c8",
+        "submittedAt": "2026-11-23T06:01:10.187Z",
+        "postedAt": "2026-11-23T06:01:10.187Z"
+      },
+      "bufferPostId": "6b03d6a4cc364169c1b509c8",
+      "postedAt": "2026-11-23T06:01:10.187Z"
+    },
+    "steam:4026430:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4026430:permanent_free:1",
+      "store": "steam",
+      "productId": "4026430",
+      "generation": 1,
+      "title": "Pop Corner",
+      "storeUrl": "https://store.steampowered.com/app/4026430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T06:01:07.559Z",
+      "lastSeenAt": "2026-11-23T06:01:07.559Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A relaxing match-3 that floats in a corner of your screen with a transparent background. Match coffee mugs, folders and sticky notes while you work, without leaving what you're doing.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T06:01:07.559Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pop Corner』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4026430/",
+        "attemptedAt": "2026-11-23T06:01:10.193Z",
+        "bufferPostId": "6b03d6a6a6de38de9ec22013",
+        "submittedAt": "2026-11-23T06:01:11.846Z",
+        "postedAt": "2026-11-23T06:01:11.847Z"
+      },
+      "bufferPostId": "6b03d6a6a6de38de9ec22013",
+      "postedAt": "2026-11-23T06:01:11.847Z"
+    },
+    "steam:5390670:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5390670:permanent_free:1",
+      "store": "steam",
+      "productId": "5390670",
+      "generation": 1,
+      "title": "Deeper...",
+      "storeUrl": "https://store.steampowered.com/app/5390670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T06:01:07.559Z",
+      "lastSeenAt": "2026-11-23T06:01:07.559Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "\"Deeper...\" is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T06:01:07.559Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Deeper...』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5390670/",
+        "attemptedAt": "2026-11-23T06:01:11.853Z",
+        "bufferPostId": "6b03d6a7d5eabfb8cc0ca791",
+        "submittedAt": "2026-11-23T06:01:14.115Z",
+        "postedAt": "2026-11-23T06:01:14.115Z"
+      },
+      "bufferPostId": "6b03d6a7d5eabfb8cc0ca791",
+      "postedAt": "2026-11-23T06:01:14.115Z"
+    },
+    "steam:5043620:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5043620:permanent_free:1",
+      "store": "steam",
+      "productId": "5043620",
+      "generation": 1,
+      "title": "Simple Wars",
+      "storeUrl": "https://store.steampowered.com/app/5043620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T06:01:07.559Z",
+      "lastSeenAt": "2026-11-23T06:01:07.559Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Command a moving frontline in this real-time strategy wargame. Build your economy, cut supply lines, and fight across land and sea. Lead a persistent campaign army, tackle historical missions, battle online, and choose from distinct battlefield art packs.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T06:01:07.559Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Simple Wars』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5043620/",
+        "attemptedAt": "2026-11-23T06:01:14.122Z",
+        "bufferPostId": "6b03d6aad864a0110525ce40",
+        "submittedAt": "2026-11-23T06:01:15.611Z",
+        "postedAt": "2026-11-23T06:01:15.611Z"
+      },
+      "bufferPostId": "6b03d6aad864a0110525ce40",
+      "postedAt": "2026-11-23T06:01:15.611Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T03:01:11.455Z",
+    "lastSuccessfulScanAt": "2026-11-23T06:01:07.559Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23441,6 +23589,7 @@
       "4010820": "2026-11-10T00:01:13.317Z",
       "4020220": "2026-10-31T00:01:08.172Z",
       "4022530": "2026-10-15T21:00:58.160Z",
+      "4026430": "2026-11-23T06:01:07.559Z",
       "4036370": "2026-10-22T12:01:30.927Z",
       "4078690": "2026-11-18T15:01:17.672Z",
       "4079960": "2026-10-19T00:01:02.686Z",
@@ -23703,6 +23852,7 @@
       "5039290": "2026-10-23T12:01:18.754Z",
       "5040660": "2026-10-28T06:01:11.657Z",
       "5041320": "2026-11-19T15:01:07.664Z",
+      "5043620": "2026-11-23T06:01:07.559Z",
       "5043790": "2026-11-23T03:01:11.455Z",
       "5043860": "2026-10-21T00:01:08.212Z",
       "5045330": "2026-11-16T21:01:09.959Z",
@@ -24006,6 +24156,7 @@
       "5387790": "2026-10-30T21:01:07.872Z",
       "5389120": "2026-11-02T15:01:13.453Z",
       "5389200": "2026-11-11T12:01:11.916Z",
+      "5390670": "2026-11-23T06:01:07.559Z",
       "5390960": "2026-11-10T18:01:39.865Z",
       "5391500": "2026-10-26T15:01:10.225Z",
       "5391510": "2026-11-09T21:01:13.739Z",
@@ -24032,6 +24183,7 @@
       "5421960": "2026-11-14T12:01:04.545Z",
       "5422900": "2026-11-20T15:01:27.184Z",
       "5423320": "2026-11-14T03:01:11.349Z",
+      "5424590": "2026-11-23T06:01:07.559Z",
       "5425530": "2026-11-06T06:01:16.414Z",
       "5427960": "2026-11-09T18:01:24.470Z",
       "5429100": "2026-11-19T06:01:04.315Z",

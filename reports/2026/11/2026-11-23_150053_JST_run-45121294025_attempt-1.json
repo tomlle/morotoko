@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45121294025",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T06:00:53.509Z",
+    "finishedAt": "2026-11-23T06:01:16.922Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45121294025"
+  },
+  "detection": {
+    "searched": 165,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 4,
+    "knownPromotions": 1,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5424590",
+      "title": "尾刀Tail Blade",
+      "storeUrl": "https://store.steampowered.com/app/5424590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424590/7ff922e8e31cbae86dc9dfe18ea26821f33f5476/header.jpg?t=1795412403",
+      "officialDescription": "An ink-wash survival-action game: drag your mouse to draw ink lines and lure minor demons into them. Slay three Inkstone Beasts in the Ink Sea Gauntlet, or survive three minutes in Endless, to unlock the next Ink Bane tier."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4026430",
+      "title": "Pop Corner",
+      "storeUrl": "https://store.steampowered.com/app/4026430/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026430/0bfc8c00e5e049538f5f25efbce881e31a984851/header.jpg?t=1795410934",
+      "officialDescription": "A relaxing match-3 that floats in a corner of your screen with a transparent background. Match coffee mugs, folders and sticky notes while you work, without leaving what you're doing."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5390670",
+      "title": "Deeper...",
+      "storeUrl": "https://store.steampowered.com/app/5390670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390670/61de00a6a19c8186b2651cc264cdc09416e314ba/header.jpg?t=1795405954",
+      "officialDescription": "\"Deeper...\" is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5043620",
+      "title": "Simple Wars",
+      "storeUrl": "https://store.steampowered.com/app/5043620/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043620/0e468a8543ad8f4710d7d54cc2834a29858cb944/header.jpg?t=1795333241",
+      "officialDescription": "Command a moving frontline in this real-time strategy wargame. Build your economy, cut supply lines, and fight across land and sea. Lead a persistent campaign army, tackle historical missions, battle online, and choose from distinct battlefield art packs."
+    },
+    {
+      "kind": "temporary_play",
+      "store": "steam",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "storeUrl": "https://store.steampowered.com/app/1158310/",
+      "initialPrice": 699000,
+      "currency": "JPY",
+      "discountPercent": 70,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/882d03bcd957316ebbe733a58c923714008e40ed/header_alt_assets_12_japanese.jpg?t=1795167672",
+      "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
+      "tags": [
+        "ストラテジー",
+        "中世",
+        "大戦略",
+        "シミュレーション",
+        "RPG",
+        "歴史",
+        "管理",
+        "キャラクターカスタマイズ",
+        "人生シミュレーション",
+        "サンドボックス",
+        "選択型進行",
+        "戦争",
+        "RTS",
+        "シングルプレイヤー",
+        "経済",
+        "マルチプレイヤー",
+        "MOD導入可能",
+        "4X",
+        "ポーズありのリアルタイム",
+        "性的表現",
+        "+"
+      ],
+      "startsAt": "2026-11-19T18:00:00.000Z",
+      "endsAt": "2026-11-23T18:00:00.000Z"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5424590:permanent_free:1",
+      "productId": "5424590",
+      "title": "尾刀Tail Blade",
+      "status": "sent",
+      "bufferPostId": "6b03d6a4cc364169c1b509c8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4026430:permanent_free:1",
+      "productId": "4026430",
+      "title": "Pop Corner",
+      "status": "sent",
+      "bufferPostId": "6b03d6a6a6de38de9ec22013"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5390670:permanent_free:1",
+      "productId": "5390670",
+      "title": "Deeper...",
+      "status": "sent",
+      "bufferPostId": "6b03d6a7d5eabfb8cc0ca791"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5043620:permanent_free:1",
+      "productId": "5043620",
+      "title": "Simple Wars",
+      "status": "sent",
+      "bufferPostId": "6b03d6aad864a0110525ce40"
+    },
+    {
+      "type": "ending_reminder",
+      "campaignId": "steam:1158310:temporary_play:1",
+      "productId": "1158310",
+      "title": "Crusader Kings III",
+      "status": "sent",
+      "bufferPostId": "6b03d6abd864a0110525d0a3"
+    }
+  ],
+  "errors": []
+}
