@@ -2497,8 +2497,7 @@
       "activeCampaignId": "steam:5175130:permanent_free:1"
     },
     "steam:1158310:temporary_play": {
-      "generation": 1,
-      "activeCampaignId": "steam:1158310:temporary_play:1"
+      "generation": 1
     },
     "steam:5230330:permanent_free": {
       "generation": 1,
@@ -2743,6 +2742,26 @@
     "steam:2269500:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:2269500:permanent_free:1"
+    },
+    "steam:3026390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3026390:permanent_free:1"
+    },
+    "steam:5510730:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5510730:permanent_free:1"
+    },
+    "steam:2928640:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2928640:permanent_free:1"
+    },
+    "steam:5517900:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5517900:permanent_free:1"
+    },
+    "steam:5123580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5123580:permanent_free:1"
     }
   },
   "campaigns": {
@@ -22012,8 +22031,8 @@
       "discountPercent": 70,
       "firstSeenAt": "2026-11-19T21:01:06.896Z",
       "lastSeenAt": "2026-11-23T15:01:20.190Z",
-      "active": true,
-      "consecutiveMisses": 1,
+      "active": false,
+      "consecutiveMisses": 2,
       "postStatus": "sent",
       "postAttempts": 1,
       "officialDescription": "愛と戦い、策略の果てに名声を手に入れる。壮大かつ荘厳な『Crusader Kings III』の世界で自らの一族が何を残せるか、それはあなた次第。生き生きと描かれる中世世界で、繁栄を極める王朝を築く長い旅。死はその始まりに過ぎません。",
@@ -23895,11 +23914,161 @@
       },
       "bufferPostId": "6b047f720720ccb673fd161d",
       "postedAt": "2026-11-23T18:01:24.032Z"
+    },
+    "steam:3026390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3026390:permanent_free:1",
+      "store": "steam",
+      "productId": "3026390",
+      "generation": 1,
+      "title": "Bomb And Conquer",
+      "storeUrl": "https://store.steampowered.com/app/3026390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T21:01:10.377Z",
+      "lastSeenAt": "2026-11-23T21:01:10.377Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "爆弾を置いて盤面を自分の色に塗り、フレンドより多くの土地を奪おう！1～4人で遊べる基本プレイ無料のオンラインパーティーゲーム。9つのモードで旗を奪い、宝石を集め、チームで巨大なボスに挑め。空いた席はボットが埋め、スマホのプレイヤーも同じ対戦に参加します。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T21:01:10.377Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bomb And Conquer』\n✨ いつでも無料でプレイ\n\n爆弾を置いて盤面を自分の色に塗り、フレンドより多くの土地を奪おう！1～4人で遊べる基本プレイ無料のオンラインパーティーゲーム。9つのモードで旗を奪い、宝石を集め、チームで巨大なボス…\n\nhttps://store.steampowered.com/app/3026390/",
+        "attemptedAt": "2026-11-23T21:01:10.924Z",
+        "bufferPostId": "6b04a997f72f10e188314dbc",
+        "submittedAt": "2026-11-23T21:01:12.441Z",
+        "postedAt": "2026-11-23T21:01:12.441Z"
+      },
+      "bufferPostId": "6b04a997f72f10e188314dbc",
+      "postedAt": "2026-11-23T21:01:12.441Z"
+    },
+    "steam:5510730:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5510730:permanent_free:1",
+      "store": "steam",
+      "productId": "5510730",
+      "generation": 1,
+      "title": "Arena Mayhem",
+      "storeUrl": "https://store.steampowered.com/app/5510730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T21:01:10.377Z",
+      "lastSeenAt": "2026-11-23T21:01:10.377Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Battle in chaotic fantasy melee arenas! Grab weapons, block, kick and turn deadly traps against your rivals in Free For All or Team Deathmatch. Explore changing battlegrounds, play online, or sharpen your skills against bots.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T21:01:10.377Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Arena Mayhem』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5510730/",
+        "attemptedAt": "2026-11-23T21:01:12.453Z",
+        "bufferPostId": "6b04a99807fee37ee60008bf",
+        "submittedAt": "2026-11-23T21:01:13.902Z",
+        "postedAt": "2026-11-23T21:01:13.902Z"
+      },
+      "bufferPostId": "6b04a99807fee37ee60008bf",
+      "postedAt": "2026-11-23T21:01:13.902Z"
+    },
+    "steam:2928640:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2928640:permanent_free:1",
+      "store": "steam",
+      "productId": "2928640",
+      "generation": 1,
+      "title": "Countryball: World 1930",
+      "storeUrl": "https://store.steampowered.com/app/2928640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T21:01:10.377Z",
+      "lastSeenAt": "2026-11-23T21:01:10.377Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "第二次世界大戦に着想を得たターン制グランドストラテジーで、カントリーボールを栄光へ導こう。国家を築き、資源を管理し、軍隊と将軍を集め、同盟を結び、複数の歴史キャンペーンで領土を征服しよう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T21:01:10.377Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Countryball: World 1930』\n✨ いつでも無料でプレイ\n\n第二次世界大戦に着想を得たターン制グランドストラテジーで、カントリーボールを栄光へ導こう。国家を築き、資源を管理し、軍隊と将軍を集め、同盟を結び、複数の歴史キャンペーンで…\n\nhttps://store.steampowered.com/app/2928640/",
+        "attemptedAt": "2026-11-23T21:01:13.914Z",
+        "bufferPostId": "6b04a99a07fee37ee60009f6",
+        "submittedAt": "2026-11-23T21:01:15.489Z",
+        "postedAt": "2026-11-23T21:01:15.489Z"
+      },
+      "bufferPostId": "6b04a99a07fee37ee60009f6",
+      "postedAt": "2026-11-23T21:01:15.489Z"
+    },
+    "steam:5517900:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5517900:permanent_free:1",
+      "store": "steam",
+      "productId": "5517900",
+      "generation": 1,
+      "title": "Yeat",
+      "storeUrl": "https://store.steampowered.com/app/5517900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T21:01:10.377Z",
+      "lastSeenAt": "2026-11-23T21:01:10.377Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Yeat is a minimalist clicker game where every click counts. Choose between TONKA and YEAT, build up your individual and combined click totals, and watch your numbers grow. Your progress is saved locally, so you can continue clicking whenever you return.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T21:01:10.377Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Yeat』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5517900/",
+        "attemptedAt": "2026-11-23T21:01:15.499Z",
+        "bufferPostId": "6b04a99b18db0405bda37d9c",
+        "submittedAt": "2026-11-23T21:01:17.039Z",
+        "postedAt": "2026-11-23T21:01:17.039Z"
+      },
+      "bufferPostId": "6b04a99b18db0405bda37d9c",
+      "postedAt": "2026-11-23T21:01:17.039Z"
+    },
+    "steam:5123580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5123580:permanent_free:1",
+      "store": "steam",
+      "productId": "5123580",
+      "generation": 1,
+      "title": "Alienshire",
+      "storeUrl": "https://store.steampowered.com/app/5123580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-23T21:01:10.377Z",
+      "lastSeenAt": "2026-11-23T21:01:10.377Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Command alien fighters in intense real-time battles. Use tactical pause to plan your moves, manage limited resources, and outsmart the enemy in short, replayable RTS scenarios.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-23T21:01:10.377Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Alienshire』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5123580/",
+        "attemptedAt": "2026-11-23T21:01:17.050Z",
+        "bufferPostId": "6b04a99dc0a1a00006dfcf96",
+        "submittedAt": "2026-11-23T21:01:18.390Z",
+        "postedAt": "2026-11-23T21:01:18.390Z"
+      },
+      "bufferPostId": "6b04a99dc0a1a00006dfcf96",
+      "postedAt": "2026-11-23T21:01:18.390Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T18:01:14.768Z",
+    "lastSuccessfulScanAt": "2026-11-23T21:01:10.377Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -23941,10 +24110,12 @@
       "2906990": "2026-10-23T12:01:18.754Z",
       "2919410": "2026-11-20T21:01:15.221Z",
       "2920710": "2026-11-16T03:01:14.549Z",
+      "2928640": "2026-11-23T21:01:10.377Z",
       "2967590": "2026-11-07T15:01:11.737Z",
       "2982680": "2026-10-27T00:01:18.126Z",
       "2986590": "2026-10-31T09:00:59.059Z",
       "3017040": "2026-11-01T21:01:00.687Z",
+      "3026390": "2026-11-23T21:01:10.377Z",
       "3046540": "2026-11-17T18:01:08.800Z",
       "3063380": "2026-10-28T06:01:11.657Z",
       "3081070": "2026-11-09T18:01:24.470Z",
@@ -24320,6 +24491,7 @@
       "5120560": "2026-10-23T03:01:08.088Z",
       "5121140": "2026-11-06T06:01:16.414Z",
       "5123480": "2026-10-14T15:30:36.000Z",
+      "5123580": "2026-11-23T21:01:10.377Z",
       "5125210": "2026-11-20T15:01:27.184Z",
       "5126160": "2026-10-19T15:01:14.718Z",
       "5126170": "2026-10-20T00:01:05.177Z",
@@ -24666,9 +24838,11 @@
       "5502850": "2026-11-11T15:01:08.794Z",
       "5505310": "2026-11-19T18:01:18.855Z",
       "5507480": "2026-11-17T18:01:08.800Z",
+      "5510730": "2026-11-23T21:01:10.377Z",
       "5512840": "2026-11-15T09:01:06.193Z",
       "5515850": "2026-11-16T18:01:09.149Z",
       "5516180": "2026-11-18T00:01:16.673Z",
+      "5517900": "2026-11-23T21:01:10.377Z",
       "5518020": "2026-11-18T03:01:11.268Z",
       "5520310": "2026-11-18T03:01:11.268Z",
       "5530970": "2026-11-20T15:01:27.184Z",

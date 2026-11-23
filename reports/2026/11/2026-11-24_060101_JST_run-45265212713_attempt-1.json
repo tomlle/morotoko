@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45265212713",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-23T21:01:01.709Z",
+    "finishedAt": "2026-11-23T21:01:18.412Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45265212713"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 20,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3026390",
+      "title": "Bomb And Conquer",
+      "storeUrl": "https://store.steampowered.com/app/3026390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026390/ae02c42658827acbce5c0f0351c7ed95765f76d7/header.jpg?t=1795467607",
+      "officialDescription": "爆弾を置いて盤面を自分の色に塗り、フレンドより多くの土地を奪おう！1～4人で遊べる基本プレイ無料のオンラインパーティーゲーム。9つのモードで旗を奪い、宝石を集め、チームで巨大なボスに挑め。空いた席はボットが埋め、スマホのプレイヤーも同じ対戦に参加します。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5510730",
+      "title": "Arena Mayhem",
+      "storeUrl": "https://store.steampowered.com/app/5510730/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5510730/54cc907be20f7094b36849004192cb4664a90bd3/header.jpg?t=1795466159",
+      "officialDescription": "Battle in chaotic fantasy melee arenas! Grab weapons, block, kick and turn deadly traps against your rivals in Free For All or Team Deathmatch. Explore changing battlegrounds, play online, or sharpen your skills against bots."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2928640",
+      "title": "Countryball: World 1930",
+      "storeUrl": "https://store.steampowered.com/app/2928640/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928640/12b870f6b411fa32ae31e689d2d386202a408dc5/header.jpg?t=1795461040",
+      "officialDescription": "第二次世界大戦に着想を得たターン制グランドストラテジーで、カントリーボールを栄光へ導こう。国家を築き、資源を管理し、軍隊と将軍を集め、同盟を結び、複数の歴史キャンペーンで領土を征服しよう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5517900",
+      "title": "Yeat",
+      "storeUrl": "https://store.steampowered.com/app/5517900/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5517900/c7c6071aea0eaaa50e5a23eecb0fe903a2941764/header.jpg?t=1795458966",
+      "officialDescription": "Yeat is a minimalist clicker game where every click counts. Choose between TONKA and YEAT, build up your individual and combined click totals, and watch your numbers grow. Your progress is saved locally, so you can continue clicking whenever you return."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5123580",
+      "title": "Alienshire",
+      "storeUrl": "https://store.steampowered.com/app/5123580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123580/96b31299c3dc594ef2bce73d6b2da6e3edea8c37/header.jpg?t=1795457150",
+      "officialDescription": "Command alien fighters in intense real-time battles. Use tactical pause to plan your moves, manage limited resources, and outsmart the enemy in short, replayable RTS scenarios."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3026390:permanent_free:1",
+      "productId": "3026390",
+      "title": "Bomb And Conquer",
+      "status": "sent",
+      "bufferPostId": "6b04a997f72f10e188314dbc"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5510730:permanent_free:1",
+      "productId": "5510730",
+      "title": "Arena Mayhem",
+      "status": "sent",
+      "bufferPostId": "6b04a99807fee37ee60008bf"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2928640:permanent_free:1",
+      "productId": "2928640",
+      "title": "Countryball: World 1930",
+      "status": "sent",
+      "bufferPostId": "6b04a99a07fee37ee60009f6"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5517900:permanent_free:1",
+      "productId": "5517900",
+      "title": "Yeat",
+      "status": "sent",
+      "bufferPostId": "6b04a99b18db0405bda37d9c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5123580:permanent_free:1",
+      "productId": "5123580",
+      "title": "Alienshire",
+      "status": "sent",
+      "bufferPostId": "6b04a99dc0a1a00006dfcf96"
+    }
+  ],
+  "errors": []
+}
