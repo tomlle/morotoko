@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45337265444",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T06:00:54.802Z",
+    "finishedAt": "2026-11-24T06:01:06.468Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45337265444"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 15,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4789870",
+      "title": "Muv-Luv Girls Garden",
+      "storeUrl": "https://store.steampowered.com/app/4789870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789870/17dbbc46f316e98e55c6c00c9af2eeedc55d4f87/header.jpg?t=1795496736",
+      "officialDescription": "The latest Muv-Luv title, with over 800,000 copies sold worldwide! Become an amnesiac commander and lead girls piloting giant humanoid machines called \"MGs\" in this full-auto idle RPG. Explore the underground abyss known as the Maze and uncover the hidden truth behind the world."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5559200",
+      "title": "Dice Survivors",
+      "storeUrl": "https://store.steampowered.com/app/5559200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5559200/0db032ef356206d4f0891e851eec5aee4aa2a006/header.jpg?t=1795491414",
+      "officialDescription": "レベルアップのたびにサイコロを振る、1プレイ3分のローグライト。専用武器を持つ5人のヒーロー、呪われた3つのステージ、1つの武器を画面一掃の切り札に育てる熟練、そして武器同士のコンボ。ずっと無料で、ソロでも最大3人のフレンドとのオンラインでも遊べます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4789870:permanent_free:1",
+      "productId": "4789870",
+      "title": "Muv-Luv Girls Garden",
+      "status": "sent",
+      "bufferPostId": "6b05281f286252d73839007c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5559200:permanent_free:1",
+      "productId": "5559200",
+      "title": "Dice Survivors",
+      "status": "sent",
+      "bufferPostId": "6b052821f1f04351232350ed"
+    }
+  ],
+  "errors": []
+}

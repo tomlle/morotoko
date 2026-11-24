@@ -2790,6 +2790,14 @@
     "steam:4416390:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4416390:permanent_free:1"
+    },
+    "steam:4789870:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4789870:permanent_free:1"
+    },
+    "steam:5559200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5559200:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24302,11 +24310,71 @@
       },
       "bufferPostId": "6b04fdfddb52b449cf1d7027",
       "postedAt": "2026-11-24T03:01:18.902Z"
+    },
+    "steam:4789870:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4789870:permanent_free:1",
+      "store": "steam",
+      "productId": "4789870",
+      "generation": 1,
+      "title": "Muv-Luv Girls Garden",
+      "storeUrl": "https://store.steampowered.com/app/4789870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T06:01:02.972Z",
+      "lastSeenAt": "2026-11-24T06:01:02.972Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The latest Muv-Luv title, with over 800,000 copies sold worldwide! Become an amnesiac commander and lead girls piloting giant humanoid machines called \"MGs\" in this full-auto idle RPG. Explore the underground abyss known as the Maze and uncover the hidden truth behind the world.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T06:01:02.972Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Muv-Luv Girls Garden』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4789870/",
+        "attemptedAt": "2026-11-24T06:01:03.543Z",
+        "bufferPostId": "6b05281f286252d73839007c",
+        "submittedAt": "2026-11-24T06:01:04.802Z",
+        "postedAt": "2026-11-24T06:01:04.802Z"
+      },
+      "bufferPostId": "6b05281f286252d73839007c",
+      "postedAt": "2026-11-24T06:01:04.802Z"
+    },
+    "steam:5559200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5559200:permanent_free:1",
+      "store": "steam",
+      "productId": "5559200",
+      "generation": 1,
+      "title": "Dice Survivors",
+      "storeUrl": "https://store.steampowered.com/app/5559200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T06:01:02.972Z",
+      "lastSeenAt": "2026-11-24T06:01:02.972Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "レベルアップのたびにサイコロを振る、1プレイ3分のローグライト。専用武器を持つ5人のヒーロー、呪われた3つのステージ、1つの武器を画面一掃の切り札に育てる熟練、そして武器同士のコンボ。ずっと無料で、ソロでも最大3人のフレンドとのオンラインでも遊べます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T06:01:02.972Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Dice Survivors』\n✨ いつでも無料でプレイ\n\nレベルアップのたびにサイコロを振る、1プレイ3分のローグライト。専用武器を持つ5人のヒーロー、呪われた3つのステージ、1つの武器を画面一掃の切り札に育てる熟練、そして武器同士のコンボ。…\n\nhttps://store.steampowered.com/app/5559200/",
+        "attemptedAt": "2026-11-24T06:01:04.823Z",
+        "bufferPostId": "6b052821f1f04351232350ed",
+        "submittedAt": "2026-11-24T06:01:06.445Z",
+        "postedAt": "2026-11-24T06:01:06.445Z"
+      },
+      "bufferPostId": "6b052821f1f04351232350ed",
+      "postedAt": "2026-11-24T06:01:06.445Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-24T03:01:13.098Z",
+    "lastSuccessfulScanAt": "2026-11-24T06:01:02.972Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -24553,6 +24621,7 @@
       "4775990": "2026-10-24T00:01:05.299Z",
       "4776360": "2026-11-02T06:01:05.538Z",
       "4788590": "2026-11-17T21:01:07.295Z",
+      "4789870": "2026-11-24T06:01:02.972Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
@@ -25094,7 +25163,8 @@
       "5532770": "2026-11-18T03:01:11.268Z",
       "5533130": "2026-11-20T15:01:27.184Z",
       "5533560": "2026-11-24T03:01:13.098Z",
-      "5541800": "2026-11-17T09:01:05.156Z"
+      "5541800": "2026-11-17T09:01:05.156Z",
+      "5559200": "2026-11-24T06:01:02.972Z"
     }
   }
 }
