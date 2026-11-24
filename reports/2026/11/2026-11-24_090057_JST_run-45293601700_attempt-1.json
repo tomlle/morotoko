@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45293601700",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T00:00:57.122Z",
+    "finishedAt": "2026-11-24T00:01:18.006Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45293601700"
+  },
+  "detection": {
+    "searched": 164,
+    "candidates": 19,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 15,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5354090",
+      "title": "Clash of Boats",
+      "storeUrl": "https://store.steampowered.com/app/5354090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354090/0239c5e287282bc82676c202e26129837bd1c852/header.jpg?t=1795476963",
+      "officialDescription": "Speedboats that race, jump and fight on the water, then open their wings and take the battle into the sky. Up to four players online or against bots, real physics, a crown on the leader that everyone hunts, and full gamepad support."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5504190",
+      "title": "Zero Mass",
+      "storeUrl": "https://store.steampowered.com/app/5504190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5504190/b3a7ddca30b20c638597db3109658a36d2a64f69/header.jpg?t=1795476658",
+      "officialDescription": "巨大な小惑星を、跡形もなく掘り尽くそう！自動生成される宇宙の岩塊を採掘・解体し、質量を100%から0%へ。貴重な資源を集め、採掘船を強化し、ドローンを配備して作業を自動化。成長と採掘の爽快感が味わえる宇宙採掘インクリメンタルゲーム。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5442940",
+      "title": "Fishbobble",
+      "storeUrl": "https://store.steampowered.com/app/5442940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442940/f5ea92d5ce77e615b7028daf2424900870152348/header.jpg?t=1795468970",
+      "officialDescription": "A cozy pond that sits in the corner of your screen: your fisher fishes on their own while you work or play. Clear each pond's stages, upgrade your gear, adopt a pet and build a collection of one-of-a-kind fish."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5159010",
+      "title": "Overboost: Carball",
+      "storeUrl": "https://store.steampowered.com/app/5159010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5159010/ba399a86f8511e0be57bb357a8f4ffd3eb885de9/header.jpg?t=1795471769",
+      "officialDescription": "Car football for up to six teams at once. Boost, jump and dodge into the ball in an arena that reshapes itself for every team count. Take on bots, play four to a screen on gamepads or one keyboard, or go online with a code. Free to play. The whole world is ray-marched from signed distance fields."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5354090:permanent_free:1",
+      "productId": "5354090",
+      "title": "Clash of Boats",
+      "status": "sent",
+      "bufferPostId": "6b04d3c7bc151fa8ad0a7e18"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5504190:permanent_free:1",
+      "productId": "5504190",
+      "title": "Zero Mass",
+      "status": "sent",
+      "bufferPostId": "6b04d3c9c43c1f2f5c722ad7"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5442940:permanent_free:1",
+      "productId": "5442940",
+      "title": "Fishbobble",
+      "status": "sent",
+      "bufferPostId": "6b04d3cbf0d7b1e0de981482"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5159010:permanent_free:1",
+      "productId": "5159010",
+      "title": "Overboost: Carball",
+      "status": "sent",
+      "bufferPostId": "6b04d3ccdb52b449cf0d17f7"
+    }
+  ],
+  "errors": []
+}

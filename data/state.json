@@ -2762,6 +2762,22 @@
     "steam:5123580:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5123580:permanent_free:1"
+    },
+    "steam:5354090:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5354090:permanent_free:1"
+    },
+    "steam:5504190:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5504190:permanent_free:1"
+    },
+    "steam:5442940:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5442940:permanent_free:1"
+    },
+    "steam:5159010:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5159010:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24064,11 +24080,131 @@
       },
       "bufferPostId": "6b04a99dc0a1a00006dfcf96",
       "postedAt": "2026-11-23T21:01:18.390Z"
+    },
+    "steam:5354090:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5354090:permanent_free:1",
+      "store": "steam",
+      "productId": "5354090",
+      "generation": 1,
+      "title": "Clash of Boats",
+      "storeUrl": "https://store.steampowered.com/app/5354090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T00:01:09.151Z",
+      "lastSeenAt": "2026-11-24T00:01:09.151Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Speedboats that race, jump and fight on the water, then open their wings and take the battle into the sky. Up to four players online or against bots, real physics, a crown on the leader that everyone hunts, and full gamepad support.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T00:01:09.151Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Clash of Boats』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5354090/",
+        "attemptedAt": "2026-11-24T00:01:11.146Z",
+        "bufferPostId": "6b04d3c7bc151fa8ad0a7e18",
+        "submittedAt": "2026-11-24T00:01:12.917Z",
+        "postedAt": "2026-11-24T00:01:12.917Z"
+      },
+      "bufferPostId": "6b04d3c7bc151fa8ad0a7e18",
+      "postedAt": "2026-11-24T00:01:12.917Z"
+    },
+    "steam:5504190:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5504190:permanent_free:1",
+      "store": "steam",
+      "productId": "5504190",
+      "generation": 1,
+      "title": "Zero Mass",
+      "storeUrl": "https://store.steampowered.com/app/5504190/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T00:01:09.151Z",
+      "lastSeenAt": "2026-11-24T00:01:09.151Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "巨大な小惑星を、跡形もなく掘り尽くそう！自動生成される宇宙の岩塊を採掘・解体し、質量を100%から0%へ。貴重な資源を集め、採掘船を強化し、ドローンを配備して作業を自動化。成長と採掘の爽快感が味わえる宇宙採掘インクリメンタルゲーム。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T00:01:09.151Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Zero Mass』\n✨ いつでも無料でプレイ\n\n巨大な小惑星を、跡形もなく掘り尽くそう！自動生成される宇宙の岩塊を採掘・解体し、質量を100%から0%へ。貴重な資源を集め、採掘船を強化し、ドローンを配備して作業を自動化。成長と採掘の爽快感…\n\nhttps://store.steampowered.com/app/5504190/",
+        "attemptedAt": "2026-11-24T00:01:12.931Z",
+        "bufferPostId": "6b04d3c9c43c1f2f5c722ad7",
+        "submittedAt": "2026-11-24T00:01:15.011Z",
+        "postedAt": "2026-11-24T00:01:15.011Z"
+      },
+      "bufferPostId": "6b04d3c9c43c1f2f5c722ad7",
+      "postedAt": "2026-11-24T00:01:15.011Z"
+    },
+    "steam:5442940:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5442940:permanent_free:1",
+      "store": "steam",
+      "productId": "5442940",
+      "generation": 1,
+      "title": "Fishbobble",
+      "storeUrl": "https://store.steampowered.com/app/5442940/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T00:01:09.151Z",
+      "lastSeenAt": "2026-11-24T00:01:09.151Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A cozy pond that sits in the corner of your screen: your fisher fishes on their own while you work or play. Clear each pond's stages, upgrade your gear, adopt a pet and build a collection of one-of-a-kind fish.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T00:01:09.151Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Fishbobble』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5442940/",
+        "attemptedAt": "2026-11-24T00:01:15.018Z",
+        "bufferPostId": "6b04d3cbf0d7b1e0de981482",
+        "submittedAt": "2026-11-24T00:01:16.423Z",
+        "postedAt": "2026-11-24T00:01:16.423Z"
+      },
+      "bufferPostId": "6b04d3cbf0d7b1e0de981482",
+      "postedAt": "2026-11-24T00:01:16.423Z"
+    },
+    "steam:5159010:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5159010:permanent_free:1",
+      "store": "steam",
+      "productId": "5159010",
+      "generation": 1,
+      "title": "Overboost: Carball",
+      "storeUrl": "https://store.steampowered.com/app/5159010/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T00:01:09.151Z",
+      "lastSeenAt": "2026-11-24T00:01:09.151Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Car football for up to six teams at once. Boost, jump and dodge into the ball in an arena that reshapes itself for every team count. Take on bots, play four to a screen on gamepads or one keyboard, or go online with a code. Free to play. The whole world is ray-marched from signed distance fields.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T00:01:09.151Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Overboost: Carball』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5159010/",
+        "attemptedAt": "2026-11-24T00:01:16.431Z",
+        "bufferPostId": "6b04d3ccdb52b449cf0d17f7",
+        "submittedAt": "2026-11-24T00:01:17.984Z",
+        "postedAt": "2026-11-24T00:01:17.984Z"
+      },
+      "bufferPostId": "6b04d3ccdb52b449cf0d17f7",
+      "postedAt": "2026-11-24T00:01:17.984Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-23T21:01:10.377Z",
+    "lastSuccessfulScanAt": "2026-11-24T00:01:09.151Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -24509,6 +24645,7 @@
       "5151020": "2026-11-17T15:01:11.620Z",
       "5156550": "2026-10-21T06:00:58.776Z",
       "5158710": "2026-11-10T03:01:09.985Z",
+      "5159010": "2026-11-24T00:01:09.151Z",
       "5159730": "2026-10-14T15:30:36.000Z",
       "5162260": "2026-10-14T15:30:36.000Z",
       "5164130": "2026-10-21T12:01:06.252Z",
@@ -24705,6 +24842,7 @@
       "5352150": "2026-11-07T21:01:08.968Z",
       "5352470": "2026-11-09T18:01:24.470Z",
       "5353310": "2026-10-26T21:01:09.019Z",
+      "5354090": "2026-11-24T00:01:09.151Z",
       "5354880": "2026-10-22T15:01:07.818Z",
       "5354940": "2026-11-06T06:01:16.414Z",
       "5356470": "2026-10-26T15:01:10.225Z",
@@ -24790,6 +24928,7 @@
       "5437650": "2026-11-10T18:01:39.865Z",
       "5438380": "2026-11-22T09:01:12.161Z",
       "5442520": "2026-11-03T21:01:10.649Z",
+      "5442940": "2026-11-24T00:01:09.151Z",
       "5446230": "2026-11-06T09:01:10.595Z",
       "5446260": "2026-11-10T15:01:08.654Z",
       "5446390": "2026-11-18T00:01:16.673Z",
@@ -24836,6 +24975,7 @@
       "5501320": "2026-11-13T09:01:08.396Z",
       "5502460": "2026-11-14T03:01:11.349Z",
       "5502850": "2026-11-11T15:01:08.794Z",
+      "5504190": "2026-11-24T00:01:09.151Z",
       "5505310": "2026-11-19T18:01:18.855Z",
       "5507480": "2026-11-17T18:01:08.800Z",
       "5510730": "2026-11-23T21:01:10.377Z",
