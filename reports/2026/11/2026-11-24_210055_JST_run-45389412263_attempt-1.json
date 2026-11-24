@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45389412263",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T12:00:55.872Z",
+    "finishedAt": "2026-11-24T12:01:18.257Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45389412263"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 20,
+    "verified": 7,
+    "newPromotions": 7,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 7,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5515070",
+      "title": "Heroes of the Void",
+      "storeUrl": "https://store.steampowered.com/app/5515070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515070/c30d944d934714ee36aeac8b1b326479e361ba35/header.jpg?t=1795520692",
+      "officialDescription": "Beneath the City lies the Pit — a bottomless chasm full of monsters, artifacts and secrets. Assemble a squad of four heroes, combine six elements, descend into random dungeons and fight for your place in the leagues against other explorers of the deep."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5161340",
+      "title": "江湖客栈-单人闯江湖",
+      "storeUrl": "https://store.steampowered.com/app/5161340/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5161340/c2f67a8553b0ecfaf6ba5fb655296a332eb7b79c/header.jpg?t=1795519972",
+      "officialDescription": "嘿，说你呢！这可不是尔等丐帮能随便进来讨口子的地儿！没有十万银币，休要打这“江湖客栈”招牌的主意。什么？居然凑齐了！但我必须提醒你，鬼方域内弱肉强食，适者生存。一旦回不来，全身行囊、武具都将留在鬼方。汝辈当真要试试？ 单人模式群：879639005"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4961260",
+      "title": "Gateway to Headquarters City",
+      "storeUrl": "https://store.steampowered.com/app/4961260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961260/23f7dbb7c0037ac25f9208d13e48d1b132fa4b5b/header.jpg?t=1795519203",
+      "officialDescription": "Take a peek into the war history exhibitions of Mikkeli, Finland – the headquarters city of the Finnish army during World War II."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5521040",
+      "title": "Koyland",
+      "storeUrl": "https://store.steampowered.com/app/5521040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5521040/d1844fdbf0d622a0a6b6bf1d2c08fec33ac84b20/header.jpg?t=1795519026",
+      "officialDescription": "Found your village on the real map of Istanbul. Send caravans over real bridges and ferry lines, raise walls, train soldiers and grow from a humble village into a beylik in a free online strategy game where every street and landmark is the real city."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5203260",
+      "title": "Card Dice",
+      "storeUrl": "https://store.steampowered.com/app/5203260/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5203260/6714109bdd095cc0b577fed3574e7d707272924b/header.jpg?t=1795518013",
+      "officialDescription": "カジノのダイスをテーマにした放置系ステージ攻略ゲーム。カード型ダイスを自動で振り、制限時間付きの対戦で相手に勝とう。宝石と刻印を集めてさまざまなビルドを組み、交換で装備をアップグレードして、より高レベルのテーブルに挑もう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3148090",
+      "title": "Safe House",
+      "storeUrl": "https://store.steampowered.com/app/3148090/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3148090/7c1125ee4c0b3a821f9f7777562715e803692428/header.jpg?t=1795511192",
+      "officialDescription": "Survive the plague. Manage the Safe House. Decide who to trust. A cinematic, story-driven psychological horror."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4894680",
+      "title": "RiverStones",
+      "storeUrl": "https://store.steampowered.com/app/4894680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894680/6bd344c8016fc94941e0601a11eafda7626ea7f9/header.jpg?t=1795510863",
+      "officialDescription": "Four stones, one river, and every current is called a turn ahead. All four players choose at the same moment, in the blind — so the question is never \"where do I go now\", it's \"where do I need to be when it changes\"."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5515070:permanent_free:1",
+      "productId": "5515070",
+      "title": "Heroes of the Void",
+      "status": "sent",
+      "bufferPostId": "6b057c8358db0b423cddadb8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5161340:permanent_free:1",
+      "productId": "5161340",
+      "title": "江湖客栈-单人闯江湖",
+      "status": "sent",
+      "bufferPostId": "6b057c84422b57d965535ea0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4961260:permanent_free:1",
+      "productId": "4961260",
+      "title": "Gateway to Headquarters City",
+      "status": "sent",
+      "bufferPostId": "6b057c856ef6ae340287f102"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5521040:permanent_free:1",
+      "productId": "5521040",
+      "title": "Koyland",
+      "status": "sent",
+      "bufferPostId": "6b057c87bc0aa08294541b99"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5203260:permanent_free:1",
+      "productId": "5203260",
+      "title": "Card Dice",
+      "status": "sent",
+      "bufferPostId": "6b057c88422b57d9655360e4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3148090:permanent_free:1",
+      "productId": "3148090",
+      "title": "Safe House",
+      "status": "sent",
+      "bufferPostId": "6b057c8a422b57d96553632e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4894680:permanent_free:1",
+      "productId": "4894680",
+      "title": "RiverStones",
+      "status": "sent",
+      "bufferPostId": "6b057c8df1b8d614351a47d8"
+    }
+  ],
+  "errors": []
+}
