@@ -2834,6 +2834,18 @@
     "steam:5303440:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5303440:permanent_free:1"
+    },
+    "steam:4188150:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4188150:permanent_free:1"
+    },
+    "steam:3918850:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3918850:permanent_free:1"
+    },
+    "steam:5303520:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5303520:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24676,11 +24688,101 @@
       },
       "bufferPostId": "6b05a6b94d531e79e19e05ef",
       "postedAt": "2026-11-24T15:01:14.946Z"
+    },
+    "steam:4188150:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4188150:permanent_free:1",
+      "store": "steam",
+      "productId": "4188150",
+      "generation": 1,
+      "title": "Atomic Brain",
+      "storeUrl": "https://store.steampowered.com/app/4188150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T18:01:08.103Z",
+      "lastSeenAt": "2026-11-24T18:01:08.103Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Restore the KGB lieutenant's good name! Fight your way through hordes of rebellious robots at the Atomic Brain factory. Save every bullet, find the coveted flash drive, and disable the machines' insane minds.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T18:01:08.103Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Atomic Brain』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4188150/",
+        "attemptedAt": "2026-11-24T18:01:10.705Z",
+        "bufferPostId": "6b05d0e69694e6b567086ce1",
+        "submittedAt": "2026-11-24T18:01:12.217Z",
+        "postedAt": "2026-11-24T18:01:12.217Z"
+      },
+      "bufferPostId": "6b05d0e69694e6b567086ce1",
+      "postedAt": "2026-11-24T18:01:12.217Z"
+    },
+    "steam:3918850:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3918850:permanent_free:1",
+      "store": "steam",
+      "productId": "3918850",
+      "generation": 1,
+      "title": "マイト・アンド・マジック：カードゲーム",
+      "storeUrl": "https://store.steampowered.com/app/3918850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T18:01:08.103Z",
+      "lastSeenAt": "2026-11-24T18:01:08.103Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Might & Magic Fates TCG は、ヒーローを指揮し、伝説のクリーチャーを召喚し、強力な呪文を使い、戦術的な建築物を建てて戦うオリジナルの戦略カードゲーム。カードを集め、独自のデッキを作り、運命の海で伝説となれ！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T18:01:08.103Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『マイト・アンド・マジック：カードゲーム』\n✨ いつでも無料でプレイ\n\nMight & Magic Fates TCG は、ヒーローを指揮し、伝説のクリーチャーを召喚し、強力な呪文を使い、戦術的な建築物を建てて戦うオリジナルの戦略カードゲーム。カードを…\n\nhttps://store.steampowered.com/app/3918850/",
+        "attemptedAt": "2026-11-24T18:01:12.238Z",
+        "bufferPostId": "6b05d0e8bd6e90a3281ed57b",
+        "submittedAt": "2026-11-24T18:01:14.032Z",
+        "postedAt": "2026-11-24T18:01:14.032Z"
+      },
+      "bufferPostId": "6b05d0e8bd6e90a3281ed57b",
+      "postedAt": "2026-11-24T18:01:14.032Z"
+    },
+    "steam:5303520:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5303520:permanent_free:1",
+      "store": "steam",
+      "productId": "5303520",
+      "generation": 1,
+      "title": "Amber Eyes",
+      "storeUrl": "https://store.steampowered.com/app/5303520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T18:01:08.103Z",
+      "lastSeenAt": "2026-11-24T18:01:08.103Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T18:01:08.103Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Amber Eyes』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5303520/",
+        "attemptedAt": "2026-11-24T18:01:14.043Z",
+        "bufferPostId": "6b05d0eaa1fe31a32b313232",
+        "submittedAt": "2026-11-24T18:01:15.645Z",
+        "postedAt": "2026-11-24T18:01:15.645Z"
+      },
+      "bufferPostId": "6b05d0eaa1fe31a32b313232",
+      "postedAt": "2026-11-24T18:01:15.645Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-24T15:01:08.043Z",
+    "lastSuccessfulScanAt": "2026-11-24T18:01:08.103Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -24772,6 +24874,7 @@
       "3851950": "2026-10-31T03:11:06.746Z",
       "3858540": "2026-10-14T15:30:36.000Z",
       "3873120": "2026-11-02T15:01:13.453Z",
+      "3918850": "2026-11-24T18:01:08.103Z",
       "3920400": "2026-11-20T15:01:27.184Z",
       "3923300": "2026-10-14T15:30:36.000Z",
       "3945720": "2026-10-15T09:01:04.942Z",
@@ -24804,6 +24907,7 @@
       "4170240": "2026-10-30T21:01:07.872Z",
       "4182680": "2026-11-13T03:01:05.989Z",
       "4183850": "2026-11-07T12:38:12.800Z",
+      "4188150": "2026-11-24T18:01:08.103Z",
       "4190960": "2026-10-14T15:30:36.000Z",
       "4195620": "2026-11-01T18:01:03.136Z",
       "4197210": "2026-10-29T18:01:09.856Z",
@@ -25277,6 +25381,7 @@
       "5302340": "2026-11-19T03:01:06.773Z",
       "5302590": "2026-11-10T03:01:09.985Z",
       "5303440": "2026-11-24T15:01:08.043Z",
+      "5303520": "2026-11-24T18:01:08.103Z",
       "5303740": "2026-10-14T15:30:36.000Z",
       "5303830": "2026-11-19T12:01:09.406Z",
       "5305760": "2026-11-20T09:01:08.183Z",

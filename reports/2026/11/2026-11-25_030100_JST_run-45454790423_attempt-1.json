@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45454790423",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T18:01:00.050Z",
+    "finishedAt": "2026-11-24T18:01:15.666Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45454790423"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4188150",
+      "title": "Atomic Brain",
+      "storeUrl": "https://store.steampowered.com/app/4188150/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188150/cc2c4947359f2ca913b4df93f6a233cf99fb8e91/header.jpg?t=1795537800",
+      "officialDescription": "Restore the KGB lieutenant's good name! Fight your way through hordes of rebellious robots at the Atomic Brain factory. Save every bullet, find the coveted flash drive, and disable the machines' insane minds."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3918850",
+      "title": "マイト・アンド・マジック：カードゲーム",
+      "storeUrl": "https://store.steampowered.com/app/3918850/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3918850/67121365c0521073b5e0ad00a8d0b2c6fdfac32b/header.jpg?t=1795534463",
+      "officialDescription": "Might & Magic Fates TCG は、ヒーローを指揮し、伝説のクリーチャーを召喚し、強力な呪文を使い、戦術的な建築物を建てて戦うオリジナルの戦略カードゲーム。カードを集め、独自のデッキを作り、運命の海で伝説となれ！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5303520",
+      "title": "Amber Eyes",
+      "storeUrl": "https://store.steampowered.com/app/5303520/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303520/6c95a076a88a22a9941214477b1c4cc97f949560/header.jpg?t=1795532440",
+      "officialDescription": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4188150:permanent_free:1",
+      "productId": "4188150",
+      "title": "Atomic Brain",
+      "status": "sent",
+      "bufferPostId": "6b05d0e69694e6b567086ce1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3918850:permanent_free:1",
+      "productId": "3918850",
+      "title": "マイト・アンド・マジック：カードゲーム",
+      "status": "sent",
+      "bufferPostId": "6b05d0e8bd6e90a3281ed57b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5303520:permanent_free:1",
+      "productId": "5303520",
+      "title": "Amber Eyes",
+      "status": "sent",
+      "bufferPostId": "6b05d0eaa1fe31a32b313232"
+    }
+  ],
+  "errors": []
+}
