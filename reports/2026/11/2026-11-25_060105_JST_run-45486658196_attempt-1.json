@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45486658196",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T21:01:05.802Z",
+    "finishedAt": "2026-11-24T21:01:24.444Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45486658196"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2716120",
+      "title": "Kaetram",
+      "storeUrl": "https://store.steampowered.com/app/2716120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2716120/header.jpg?t=1795553343",
+      "officialDescription": "A cross-platform 2D pixel-based MMORPG set in medieval times with many turns and twists to spice up your adventure. Join other players in your adventure of defeating bosses, completing quests, discovering achievements, and so much more."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5401070",
+      "title": "Kingdom of Pieces",
+      "storeUrl": "https://store.steampowered.com/app/5401070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5401070/0dfbf412528365f3a83bcd58bbb6ce1b978f9626/header.jpg?t=1795552321",
+      "officialDescription": "Relax with 20 free jigsaw puzzles and difficulties ranging from 24 to 500 pieces. Explore animals, nature, Japan, travel and fantasy at your own pace."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5567470",
+      "title": "Day of the Smudgies",
+      "storeUrl": "https://store.steampowered.com/app/5567470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567470/cea07a6bc24a7b32a0774ac147261e1933d969bc/header.jpg?t=1795543301",
+      "officialDescription": "A sponge drank the wrong puddle. Now he's the Blot, and he's eating your verbs. Bounce through 1826, 2226 and yesterday at 12:46 AM to un-ink him in this free, fully voiced point-and-click comedy."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:2716120:permanent_free:1",
+      "productId": "2716120",
+      "title": "Kaetram",
+      "status": "sent",
+      "bufferPostId": "6b05fb20bc79b3715eabbc06"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5401070:permanent_free:1",
+      "productId": "5401070",
+      "title": "Kingdom of Pieces",
+      "status": "sent",
+      "bufferPostId": "6b05fb219dd8377af11eba7e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5567470:permanent_free:1",
+      "productId": "5567470",
+      "title": "Day of the Smudgies",
+      "status": "sent",
+      "bufferPostId": "6b05fb23e57cd4af41f3fd06"
+    }
+  ],
+  "errors": []
+}

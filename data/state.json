@@ -2846,6 +2846,18 @@
     "steam:5303520:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5303520:permanent_free:1"
+    },
+    "steam:2716120:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2716120:permanent_free:1"
+    },
+    "steam:5401070:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5401070:permanent_free:1"
+    },
+    "steam:5567470:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5567470:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24778,11 +24790,101 @@
       },
       "bufferPostId": "6b05d0eaa1fe31a32b313232",
       "postedAt": "2026-11-24T18:01:15.645Z"
+    },
+    "steam:2716120:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2716120:permanent_free:1",
+      "store": "steam",
+      "productId": "2716120",
+      "generation": 1,
+      "title": "Kaetram",
+      "storeUrl": "https://store.steampowered.com/app/2716120/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T21:01:16.703Z",
+      "lastSeenAt": "2026-11-24T21:01:16.703Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A cross-platform 2D pixel-based MMORPG set in medieval times with many turns and twists to spice up your adventure. Join other players in your adventure of defeating bosses, completing quests, discovering achievements, and so much more.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T21:01:16.703Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Kaetram』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2716120/",
+        "attemptedAt": "2026-11-24T21:01:20.606Z",
+        "bufferPostId": "6b05fb20bc79b3715eabbc06",
+        "submittedAt": "2026-11-24T21:01:21.852Z",
+        "postedAt": "2026-11-24T21:01:21.852Z"
+      },
+      "bufferPostId": "6b05fb20bc79b3715eabbc06",
+      "postedAt": "2026-11-24T21:01:21.852Z"
+    },
+    "steam:5401070:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5401070:permanent_free:1",
+      "store": "steam",
+      "productId": "5401070",
+      "generation": 1,
+      "title": "Kingdom of Pieces",
+      "storeUrl": "https://store.steampowered.com/app/5401070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T21:01:16.703Z",
+      "lastSeenAt": "2026-11-24T21:01:16.703Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Relax with 20 free jigsaw puzzles and difficulties ranging from 24 to 500 pieces. Explore animals, nature, Japan, travel and fantasy at your own pace.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T21:01:16.703Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Kingdom of Pieces』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5401070/",
+        "attemptedAt": "2026-11-24T21:01:21.861Z",
+        "bufferPostId": "6b05fb219dd8377af11eba7e",
+        "submittedAt": "2026-11-24T21:01:23.145Z",
+        "postedAt": "2026-11-24T21:01:23.145Z"
+      },
+      "bufferPostId": "6b05fb219dd8377af11eba7e",
+      "postedAt": "2026-11-24T21:01:23.145Z"
+    },
+    "steam:5567470:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5567470:permanent_free:1",
+      "store": "steam",
+      "productId": "5567470",
+      "generation": 1,
+      "title": "Day of the Smudgies",
+      "storeUrl": "https://store.steampowered.com/app/5567470/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T21:01:16.703Z",
+      "lastSeenAt": "2026-11-24T21:01:16.703Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A sponge drank the wrong puddle. Now he's the Blot, and he's eating your verbs. Bounce through 1826, 2226 and yesterday at 12:46 AM to un-ink him in this free, fully voiced point-and-click comedy.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T21:01:16.703Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Day of the Smudgies』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5567470/",
+        "attemptedAt": "2026-11-24T21:01:23.153Z",
+        "bufferPostId": "6b05fb23e57cd4af41f3fd06",
+        "submittedAt": "2026-11-24T21:01:24.418Z",
+        "postedAt": "2026-11-24T21:01:24.418Z"
+      },
+      "bufferPostId": "6b05fb23e57cd4af41f3fd06",
+      "postedAt": "2026-11-24T21:01:24.418Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-24T18:01:08.103Z",
+    "lastSuccessfulScanAt": "2026-11-24T21:01:16.703Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -24819,6 +24921,7 @@
       "2582880": "2026-10-21T12:01:06.252Z",
       "2622100": "2026-10-28T03:01:23.689Z",
       "2700640": "2026-10-28T15:01:16.098Z",
+      "2716120": "2026-11-24T21:01:16.703Z",
       "2772070": "2026-11-14T21:01:09.395Z",
       "2902720": "2026-10-14T15:30:36.000Z",
       "2906990": "2026-10-23T12:01:18.754Z",
@@ -25485,6 +25588,7 @@
       "5394530": "2026-10-23T09:01:01.018Z",
       "5396440": "2026-11-11T09:01:07.205Z",
       "5397330": "2026-10-28T15:01:16.098Z",
+      "5401070": "2026-11-24T21:01:16.703Z",
       "5402200": "2026-10-30T15:01:09.322Z",
       "5402310": "2026-11-16T21:01:09.959Z",
       "5402790": "2026-11-04T03:01:08.084Z",
@@ -25584,7 +25688,8 @@
       "5533560": "2026-11-24T03:01:13.098Z",
       "5541800": "2026-11-17T09:01:05.156Z",
       "5558370": "2026-11-24T15:01:08.043Z",
-      "5559200": "2026-11-24T06:01:02.972Z"
+      "5559200": "2026-11-24T06:01:02.972Z",
+      "5567470": "2026-11-24T21:01:16.703Z"
     }
   }
 }
