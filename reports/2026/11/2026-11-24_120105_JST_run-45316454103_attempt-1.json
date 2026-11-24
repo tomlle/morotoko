@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45316454103",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-24T03:01:05.758Z",
+    "finishedAt": "2026-11-24T03:01:18.924Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45316454103"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5533560",
+      "title": "NAILONG BATTLE",
+      "storeUrl": "https://store.steampowered.com/app/5533560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533560/ad419e53c37a8a6f7d97fa2b732ceff27c9237e4/header.jpg?t=1795486607",
+      "officialDescription": "Nailong Battle is a lighthearted 2D survival shooter. Your round Nailong auto-fires at endless waves while you dodge, growing stronger with gold and XP. Pick two of five active skills, then take on bosses and Steam leaderboards."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3441590",
+      "title": "HinterGald",
+      "storeUrl": "https://store.steampowered.com/app/3441590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3441590/33b37a8dc84842ad615606b326e84ea646401a86/header.jpg?t=1795486019",
+      "officialDescription": "A hack and slash dungeon crawler with class system, skills, and leveling."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4416390",
+      "title": "Terminus: Day Zero",
+      "storeUrl": "https://store.steampowered.com/app/4416390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416390/40e0a1dd657fd5c7d7c23bb365c92811a9bdc205/header.jpg?t=1795480354",
+      "officialDescription": "『Terminus: Day Zero』は、『Terminus: Zombie Survivors』の世界を舞台にした、無料の短編ゾンビサバイバルアドベンチャーです。感染が始まった最初の日、デイジーは家にひとりきり。死者たちが、刻一刻と近づいてきます。隠れて、ドアを閉めて、逃げましょう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5533560:permanent_free:1",
+      "productId": "5533560",
+      "title": "NAILONG BATTLE",
+      "status": "sent",
+      "bufferPostId": "6b04fdfa6734c08a26a833ae"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3441590:permanent_free:1",
+      "productId": "3441590",
+      "title": "HinterGald",
+      "status": "sent",
+      "bufferPostId": "6b04fdfcbc151fa8ad1a8f2e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4416390:permanent_free:1",
+      "productId": "4416390",
+      "title": "Terminus: Day Zero",
+      "status": "sent",
+      "bufferPostId": "6b04fdfddb52b449cf1d7027"
+    }
+  ],
+  "errors": []
+}

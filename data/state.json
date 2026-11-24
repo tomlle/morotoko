@@ -2778,6 +2778,18 @@
     "steam:5159010:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5159010:permanent_free:1"
+    },
+    "steam:5533560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5533560:permanent_free:1"
+    },
+    "steam:3441590:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3441590:permanent_free:1"
+    },
+    "steam:4416390:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4416390:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24200,11 +24212,101 @@
       },
       "bufferPostId": "6b04d3ccdb52b449cf0d17f7",
       "postedAt": "2026-11-24T00:01:17.984Z"
+    },
+    "steam:5533560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5533560:permanent_free:1",
+      "store": "steam",
+      "productId": "5533560",
+      "generation": 1,
+      "title": "NAILONG BATTLE",
+      "storeUrl": "https://store.steampowered.com/app/5533560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T03:01:13.098Z",
+      "lastSeenAt": "2026-11-24T03:01:13.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Nailong Battle is a lighthearted 2D survival shooter. Your round Nailong auto-fires at endless waves while you dodge, growing stronger with gold and XP. Pick two of five active skills, then take on bosses and Steam leaderboards.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T03:01:13.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『NAILONG BATTLE』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5533560/",
+        "attemptedAt": "2026-11-24T03:01:14.713Z",
+        "bufferPostId": "6b04fdfa6734c08a26a833ae",
+        "submittedAt": "2026-11-24T03:01:16.179Z",
+        "postedAt": "2026-11-24T03:01:16.179Z"
+      },
+      "bufferPostId": "6b04fdfa6734c08a26a833ae",
+      "postedAt": "2026-11-24T03:01:16.179Z"
+    },
+    "steam:3441590:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3441590:permanent_free:1",
+      "store": "steam",
+      "productId": "3441590",
+      "generation": 1,
+      "title": "HinterGald",
+      "storeUrl": "https://store.steampowered.com/app/3441590/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T03:01:13.098Z",
+      "lastSeenAt": "2026-11-24T03:01:13.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A hack and slash dungeon crawler with class system, skills, and leveling.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T03:01:13.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『HinterGald』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3441590/",
+        "attemptedAt": "2026-11-24T03:01:16.190Z",
+        "bufferPostId": "6b04fdfcbc151fa8ad1a8f2e",
+        "submittedAt": "2026-11-24T03:01:17.559Z",
+        "postedAt": "2026-11-24T03:01:17.559Z"
+      },
+      "bufferPostId": "6b04fdfcbc151fa8ad1a8f2e",
+      "postedAt": "2026-11-24T03:01:17.559Z"
+    },
+    "steam:4416390:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4416390:permanent_free:1",
+      "store": "steam",
+      "productId": "4416390",
+      "generation": 1,
+      "title": "Terminus: Day Zero",
+      "storeUrl": "https://store.steampowered.com/app/4416390/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-24T03:01:13.098Z",
+      "lastSeenAt": "2026-11-24T03:01:13.098Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『Terminus: Day Zero』は、『Terminus: Zombie Survivors』の世界を舞台にした、無料の短編ゾンビサバイバルアドベンチャーです。感染が始まった最初の日、デイジーは家にひとりきり。死者たちが、刻一刻と近づいてきます。隠れて、ドアを閉めて、逃げましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-24T03:01:13.098Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Terminus: Day Zero』\n✨ いつでも無料でプレイ\n\n『Terminus: Day Zero』は、『Terminus: Zombie Survivors』の世界を舞台にした、無料の短編ゾンビサバイバルアドベンチャーです。感染が始まった最初の日、デイジーは家にひとりきり。死者…\n\nhttps://store.steampowered.com/app/4416390/",
+        "attemptedAt": "2026-11-24T03:01:17.580Z",
+        "bufferPostId": "6b04fdfddb52b449cf1d7027",
+        "submittedAt": "2026-11-24T03:01:18.902Z",
+        "postedAt": "2026-11-24T03:01:18.902Z"
+      },
+      "bufferPostId": "6b04fdfddb52b449cf1d7027",
+      "postedAt": "2026-11-24T03:01:18.902Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-24T00:01:09.151Z",
+    "lastSuccessfulScanAt": "2026-11-24T03:01:13.098Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -24264,6 +24366,7 @@
       "3339970": "2026-11-04T06:01:02.326Z",
       "3354290": "2026-11-12T21:01:09.146Z",
       "3371490": "2026-10-14T15:30:36.000Z",
+      "3441590": "2026-11-24T03:01:13.098Z",
       "3466220": "2026-10-29T09:01:05.116Z",
       "3484110": "2026-11-03T06:01:07.148Z",
       "3517360": "2026-11-20T12:01:11.705Z",
@@ -24358,6 +24461,7 @@
       "4399360": "2026-11-11T03:01:13.820Z",
       "4408850": "2026-11-18T06:01:05.627Z",
       "4410900": "2026-10-18T00:01:08.594Z",
+      "4416390": "2026-11-24T03:01:13.098Z",
       "4424740": "2026-11-02T18:01:16.242Z",
       "4429430": "2026-10-27T18:01:06.530Z",
       "4430560": "2026-11-11T03:01:13.820Z",
@@ -24989,6 +25093,7 @@
       "5532190": "2026-11-19T00:01:12.361Z",
       "5532770": "2026-11-18T03:01:11.268Z",
       "5533130": "2026-11-20T15:01:27.184Z",
+      "5533560": "2026-11-24T03:01:13.098Z",
       "5541800": "2026-11-17T09:01:05.156Z"
     }
   }
