@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45609677615",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-25T12:00:57.715Z",
+    "finishedAt": "2026-11-25T12:01:08.003Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45609677615"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5489480",
+      "title": "JustLayIt",
+      "storeUrl": "https://store.steampowered.com/app/5489480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5489480/ccc968056611c68fe0443b4048f838ffcb477dfa/header.jpg?t=1795598576",
+      "officialDescription": "Just Lay It is a train survival strategy game where you lay tracks, gather resources, and fight monsters to keep a train running across the desert. Defend against waves of enemies and design efficient routes to reach your destination safely. The moment the train stops, survival ends."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5489480:permanent_free:1",
+      "productId": "5489480",
+      "title": "JustLayIt",
+      "status": "sent",
+      "bufferPostId": "6b06ce028617f140ca1b6671"
+    }
+  ],
+  "errors": []
+}

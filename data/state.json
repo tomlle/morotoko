@@ -2874,6 +2874,10 @@
     "steam:4818210:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4818210:permanent_free:1"
+    },
+    "steam:5489480:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5489480:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25016,11 +25020,41 @@
       },
       "bufferPostId": "6b06799fd8874a038cf7e621",
       "postedAt": "2026-11-25T06:01:04.877Z"
+    },
+    "steam:5489480:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5489480:permanent_free:1",
+      "store": "steam",
+      "productId": "5489480",
+      "generation": 1,
+      "title": "JustLayIt",
+      "storeUrl": "https://store.steampowered.com/app/5489480/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T12:01:04.968Z",
+      "lastSeenAt": "2026-11-25T12:01:04.968Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Just Lay It is a train survival strategy game where you lay tracks, gather resources, and fight monsters to keep a train running across the desert. Defend against waves of enemies and design efficient routes to reach your destination safely. The moment the train stops, survival ends.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T12:01:04.968Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『JustLayIt』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5489480/",
+        "attemptedAt": "2026-11-25T12:01:06.591Z",
+        "bufferPostId": "6b06ce028617f140ca1b6671",
+        "submittedAt": "2026-11-25T12:01:07.985Z",
+        "postedAt": "2026-11-25T12:01:07.985Z"
+      },
+      "bufferPostId": "6b06ce028617f140ca1b6671",
+      "postedAt": "2026-11-25T12:01:07.985Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-25T09:01:07.145Z",
+    "lastSuccessfulScanAt": "2026-11-25T12:01:04.968Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25801,6 +25835,7 @@
       "5487790": "2026-11-15T09:01:06.193Z",
       "5487820": "2026-11-14T06:01:15.741Z",
       "5488370": "2026-11-18T18:01:04.021Z",
+      "5489480": "2026-11-25T12:01:04.968Z",
       "5490450": "2026-11-15T00:01:05.244Z",
       "5490870": "2026-11-08T06:01:05.672Z",
       "5494850": "2026-11-17T09:01:05.156Z",
