@@ -2878,6 +2878,18 @@
     "steam:5489480:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5489480:permanent_free:1"
+    },
+    "steam:5015630:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5015630:permanent_free:1"
+    },
+    "steam:3572070:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3572070:permanent_free:1"
+    },
+    "steam:5520650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5520650:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25050,11 +25062,101 @@
       },
       "bufferPostId": "6b06ce028617f140ca1b6671",
       "postedAt": "2026-11-25T12:01:07.985Z"
+    },
+    "steam:5015630:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5015630:permanent_free:1",
+      "store": "steam",
+      "productId": "5015630",
+      "generation": 1,
+      "title": "Last Contract",
+      "storeUrl": "https://store.steampowered.com/app/5015630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T18:01:07.624Z",
+      "lastSeenAt": "2026-11-25T18:01:07.624Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Last Contract is a fast paced 2D action game set in a pixel art cyberpunk world that you need katanas, shurikens and quick reflexes to survive.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T18:01:07.624Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Last Contract』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5015630/",
+        "attemptedAt": "2026-11-25T18:01:09.093Z",
+        "bufferPostId": "6b07226552de4830633ee838",
+        "submittedAt": "2026-11-25T18:01:10.408Z",
+        "postedAt": "2026-11-25T18:01:10.408Z"
+      },
+      "bufferPostId": "6b07226552de4830633ee838",
+      "postedAt": "2026-11-25T18:01:10.408Z"
+    },
+    "steam:3572070:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3572070:permanent_free:1",
+      "store": "steam",
+      "productId": "3572070",
+      "generation": 1,
+      "title": "Athelan Battlegrounds",
+      "storeUrl": "https://store.steampowered.com/app/3572070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T18:01:07.624Z",
+      "lastSeenAt": "2026-11-25T18:01:07.624Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Made by 2 people, Athelan Battlegrounds is an old school PvP turn-based tactics where player skill matters most. Build your team and engage in a meaningful battle of wits against other players in this \"Chess meets LoL\" indie game!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T18:01:07.624Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Athelan Battlegrounds』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3572070/",
+        "attemptedAt": "2026-11-25T18:01:10.416Z",
+        "bufferPostId": "6b0722662b79e58457ebf847",
+        "submittedAt": "2026-11-25T18:01:11.709Z",
+        "postedAt": "2026-11-25T18:01:11.709Z"
+      },
+      "bufferPostId": "6b0722662b79e58457ebf847",
+      "postedAt": "2026-11-25T18:01:11.709Z"
+    },
+    "steam:5520650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5520650:permanent_free:1",
+      "store": "steam",
+      "productId": "5520650",
+      "generation": 1,
+      "title": "Clip Out: Backrooms",
+      "storeUrl": "https://store.steampowered.com/app/5520650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T18:01:07.624Z",
+      "lastSeenAt": "2026-11-25T18:01:07.624Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Backrooms を題材にした PS1 風の脱出型ローグライト。ソロでも 2 人オンライン協力プレイでも遊べる。プロシージャル生成のレベルを探索し、戦利品を集め、生きて脱出して装備を強化しよう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T18:01:07.624Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Clip Out: Backrooms』\n✨ いつでも無料でプレイ\n\nBackrooms を題材にした PS1 風の脱出型ローグライト。ソロでも 2 人オンライン協力プレイでも遊べる。プロシージャル生成のレベルを探索し、戦利品を集め、生きて脱出して装備を強化しよ…\n\nhttps://store.steampowered.com/app/5520650/",
+        "attemptedAt": "2026-11-25T18:01:11.724Z",
+        "bufferPostId": "6b0722672b79e58457ebf98b",
+        "submittedAt": "2026-11-25T18:01:13.044Z",
+        "postedAt": "2026-11-25T18:01:13.044Z"
+      },
+      "bufferPostId": "6b0722672b79e58457ebf98b",
+      "postedAt": "2026-11-25T18:01:13.044Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-25T15:01:22.916Z",
+    "lastSuccessfulScanAt": "2026-11-25T18:01:07.624Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25124,6 +25226,7 @@
       "3543960": "2026-11-06T06:01:16.414Z",
       "3558100": "2026-10-23T00:01:04.971Z",
       "3571980": "2026-10-31T21:01:15.957Z",
+      "3572070": "2026-11-25T18:01:07.624Z",
       "3587480": "2026-11-12T18:01:08.650Z",
       "3613080": "2026-10-31T00:01:08.172Z",
       "3618810": "2026-11-14T18:01:03.320Z",
@@ -25419,6 +25522,7 @@
       "5011370": "2026-11-13T15:01:22.449Z",
       "5012600": "2026-10-31T00:01:08.172Z",
       "5013770": "2026-11-09T18:01:24.470Z",
+      "5015630": "2026-11-25T18:01:07.624Z",
       "5016240": "2026-11-18T21:01:08.756Z",
       "5017520": "2026-10-30T15:01:09.322Z",
       "5019180": "2026-10-29T09:01:05.116Z",
@@ -25855,6 +25959,7 @@
       "5517900": "2026-11-23T21:01:10.377Z",
       "5518020": "2026-11-18T03:01:11.268Z",
       "5520310": "2026-11-18T03:01:11.268Z",
+      "5520650": "2026-11-25T18:01:07.624Z",
       "5521040": "2026-11-24T12:01:05.527Z",
       "5530970": "2026-11-20T15:01:27.184Z",
       "5532190": "2026-11-19T00:01:12.361Z",

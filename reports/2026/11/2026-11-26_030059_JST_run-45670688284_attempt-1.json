@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45670688284",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-25T18:00:59.816Z",
+    "finishedAt": "2026-11-25T18:01:13.071Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45670688284"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5015630",
+      "title": "Last Contract",
+      "storeUrl": "https://store.steampowered.com/app/5015630/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015630/49b853f4da0d942702d5484bb2148dbbb184e3bc/header.jpg?t=1795626108",
+      "officialDescription": "Last Contract is a fast paced 2D action game set in a pixel art cyberpunk world that you need katanas, shurikens and quick reflexes to survive."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3572070",
+      "title": "Athelan Battlegrounds",
+      "storeUrl": "https://store.steampowered.com/app/3572070/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/a18386f22fd485ee5e6e4ed1e22eef2987d070da/header.jpg?t=1795622019",
+      "officialDescription": "Made by 2 people, Athelan Battlegrounds is an old school PvP turn-based tactics where player skill matters most. Build your team and engage in a meaningful battle of wits against other players in this \"Chess meets LoL\" indie game!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5520650",
+      "title": "Clip Out: Backrooms",
+      "storeUrl": "https://store.steampowered.com/app/5520650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520650/4f60be24cf7c682b8682f04cec4c4fc98ae55ab2/header.jpg?t=1795620321",
+      "officialDescription": "Backrooms を題材にした PS1 風の脱出型ローグライト。ソロでも 2 人オンライン協力プレイでも遊べる。プロシージャル生成のレベルを探索し、戦利品を集め、生きて脱出して装備を強化しよう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5015630:permanent_free:1",
+      "productId": "5015630",
+      "title": "Last Contract",
+      "status": "sent",
+      "bufferPostId": "6b07226552de4830633ee838"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3572070:permanent_free:1",
+      "productId": "3572070",
+      "title": "Athelan Battlegrounds",
+      "status": "sent",
+      "bufferPostId": "6b0722662b79e58457ebf847"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5520650:permanent_free:1",
+      "productId": "5520650",
+      "title": "Clip Out: Backrooms",
+      "status": "sent",
+      "bufferPostId": "6b0722672b79e58457ebf98b"
+    }
+  ],
+  "errors": []
+}
