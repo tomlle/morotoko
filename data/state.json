@@ -2870,6 +2870,10 @@
     "steam:5290560:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5290560:permanent_free:1"
+    },
+    "steam:4818210:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4818210:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24982,11 +24986,41 @@
       },
       "bufferPostId": "6b064f76608549ccf2580933",
       "postedAt": "2026-11-25T03:01:11.738Z"
+    },
+    "steam:4818210:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4818210:permanent_free:1",
+      "store": "steam",
+      "productId": "4818210",
+      "generation": 1,
+      "title": "GodParty",
+      "storeUrl": "https://store.steampowered.com/app/4818210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T06:01:02.790Z",
+      "lastSeenAt": "2026-11-25T06:01:02.790Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "GodParty is a multiplayer social deduction game about hidden identities and faction conflict. Move freely, complete tasks, use role abilities, trigger or resolve sabotage, report bodies, debate and vote to expose enemies. Position-based voice chat makes every encounter, alliance and deception matter",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T06:01:02.790Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GodParty』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4818210/",
+        "attemptedAt": "2026-11-25T06:01:03.238Z",
+        "bufferPostId": "6b06799fd8874a038cf7e621",
+        "submittedAt": "2026-11-25T06:01:04.877Z",
+        "postedAt": "2026-11-25T06:01:04.877Z"
+      },
+      "bufferPostId": "6b06799fd8874a038cf7e621",
+      "postedAt": "2026-11-25T06:01:04.877Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-25T03:01:07.315Z",
+    "lastSuccessfulScanAt": "2026-11-25T06:01:02.790Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25246,6 +25280,7 @@
       "4807880": "2026-10-16T09:01:06.129Z",
       "4813620": "2026-10-22T00:00:57.495Z",
       "4813930": "2026-11-03T09:01:07.048Z",
+      "4818210": "2026-11-25T06:01:02.790Z",
       "4821590": "2026-11-13T03:01:05.989Z",
       "4823850": "2026-10-14T15:30:36.000Z",
       "4833750": "2026-11-13T09:01:08.396Z",

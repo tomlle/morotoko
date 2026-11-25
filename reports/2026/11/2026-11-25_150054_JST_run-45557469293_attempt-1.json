@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45557469293",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-25T06:00:54.362Z",
+    "finishedAt": "2026-11-25T06:01:04.897Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45557469293"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 14,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4818210",
+      "title": "GodParty",
+      "storeUrl": "https://store.steampowered.com/app/4818210/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4818210/018d99104389d0c9f075ec5e16ea75144bc8ed67/header.jpg?t=1795582847",
+      "officialDescription": "GodParty is a multiplayer social deduction game about hidden identities and faction conflict. Move freely, complete tasks, use role abilities, trigger or resolve sabotage, report bodies, debate and vote to expose enemies. Position-based voice chat makes every encounter, alliance and deception matter"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4818210:permanent_free:1",
+      "productId": "4818210",
+      "title": "GodParty",
+      "status": "sent",
+      "bufferPostId": "6b06799fd8874a038cf7e621"
+    }
+  ],
+  "errors": []
+}
