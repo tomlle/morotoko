@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45536936394",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-25T03:00:55.501Z",
+    "finishedAt": "2026-11-25T03:01:11.750Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45536936394"
+  },
+  "detection": {
+    "searched": 162,
+    "candidates": 16,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5268650",
+      "title": "CatchCatch",
+      "storeUrl": "https://store.steampowered.com/app/5268650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268650/48a5329423f94124677f26dcff188aa9b2618fd3/header.jpg?t=1795574062",
+      "officialDescription": "3～10人で遊べるオンライン鬼ごっこゲームです。 逃げる側は鬼から逃げながらオブジェクトを集め、鬼は逃げるプレイヤーを呪ったり、オブジェクトを汚染したりできます！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4790710",
+      "title": "Shanhai Phantasm",
+      "storeUrl": "https://store.steampowered.com/app/4790710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790710/d49d7959b42e9de1c01c8dece6ed5c43f20fe1a0/header.jpg?t=1795575641",
+      "officialDescription": "《山海幻境：无限篇》是一款像素风卡牌RPG游戏，融合了三消特色玩法，放置挂机收益稳定，主打一个白嫖很舒服，微氪会更爽！上班摸鱼很爽，下班放空也很爽！登录直接百抽，每周8张自选英雄保底，所有养成资源均有免费产出途径，一起来沉浸体验探索山海神话的快感吧！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5290560",
+      "title": "Tichu",
+      "storeUrl": "https://store.steampowered.com/app/5290560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5290560/61a34d00af6980e826b0e2c8c6ead0512aa95ac5/header.jpg?t=1795543160",
+      "officialDescription": "Play Tichu in a polished digital adaptation of the 2v2 partnership card game. Compete in Ranked or Unranked online matches, challenge AI opponents across three difficulties, master special cards, and track your progress through stats, leaderboards and achievements."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5268650:permanent_free:1",
+      "productId": "5268650",
+      "title": "CatchCatch",
+      "status": "sent",
+      "bufferPostId": "6b064f74608549ccf258082b"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4790710:permanent_free:1",
+      "productId": "4790710",
+      "title": "Shanhai Phantasm",
+      "status": "sent",
+      "bufferPostId": "6b064f7522dfb7833a74ecc4"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5290560:permanent_free:1",
+      "productId": "5290560",
+      "title": "Tichu",
+      "status": "sent",
+      "bufferPostId": "6b064f76608549ccf2580933"
+    }
+  ],
+  "errors": []
+}

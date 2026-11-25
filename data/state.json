@@ -2858,6 +2858,18 @@
     "steam:5567470:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5567470:permanent_free:1"
+    },
+    "steam:5268650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5268650:permanent_free:1"
+    },
+    "steam:4790710:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4790710:permanent_free:1"
+    },
+    "steam:5290560:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5290560:permanent_free:1"
     }
   },
   "campaigns": {
@@ -24880,11 +24892,101 @@
       },
       "bufferPostId": "6b05fb23e57cd4af41f3fd06",
       "postedAt": "2026-11-24T21:01:24.418Z"
+    },
+    "steam:5268650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5268650:permanent_free:1",
+      "store": "steam",
+      "productId": "5268650",
+      "generation": 1,
+      "title": "CatchCatch",
+      "storeUrl": "https://store.steampowered.com/app/5268650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T03:01:07.315Z",
+      "lastSeenAt": "2026-11-25T03:01:07.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "3～10人で遊べるオンライン鬼ごっこゲームです。 逃げる側は鬼から逃げながらオブジェクトを集め、鬼は逃げるプレイヤーを呪ったり、オブジェクトを汚染したりできます！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T03:01:07.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『CatchCatch』\n✨ いつでも無料でプレイ\n\n3～10人で遊べるオンライン鬼ごっこゲームです。 逃げる側は鬼から逃げながらオブジェクトを集め、鬼は逃げるプレイヤーを呪ったり、オブジェクトを汚染したりできます！\n\nhttps://store.steampowered.com/app/5268650/",
+        "attemptedAt": "2026-11-25T03:01:07.910Z",
+        "bufferPostId": "6b064f74608549ccf258082b",
+        "submittedAt": "2026-11-25T03:01:09.195Z",
+        "postedAt": "2026-11-25T03:01:09.195Z"
+      },
+      "bufferPostId": "6b064f74608549ccf258082b",
+      "postedAt": "2026-11-25T03:01:09.195Z"
+    },
+    "steam:4790710:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4790710:permanent_free:1",
+      "store": "steam",
+      "productId": "4790710",
+      "generation": 1,
+      "title": "Shanhai Phantasm",
+      "storeUrl": "https://store.steampowered.com/app/4790710/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T03:01:07.315Z",
+      "lastSeenAt": "2026-11-25T03:01:07.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "《山海幻境：无限篇》是一款像素风卡牌RPG游戏，融合了三消特色玩法，放置挂机收益稳定，主打一个白嫖很舒服，微氪会更爽！上班摸鱼很爽，下班放空也很爽！登录直接百抽，每周8张自选英雄保底，所有养成资源均有免费产出途径，一起来沉浸体验探索山海神话的快感吧！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T03:01:07.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Shanhai Phantasm』\n✨ いつでも無料でプレイ\n\n《山海幻境：无限篇》是一款像素风卡牌RPG游戏，融合了三消特色玩法，放置挂机收益稳定，主打一个白嫖很舒服，微氪会更爽！上班摸鱼很爽，下班放空也很爽！登录直接百抽，每周8张自选英雄保底…\n\nhttps://store.steampowered.com/app/4790710/",
+        "attemptedAt": "2026-11-25T03:01:09.207Z",
+        "bufferPostId": "6b064f7522dfb7833a74ecc4",
+        "submittedAt": "2026-11-25T03:01:10.427Z",
+        "postedAt": "2026-11-25T03:01:10.428Z"
+      },
+      "bufferPostId": "6b064f7522dfb7833a74ecc4",
+      "postedAt": "2026-11-25T03:01:10.428Z"
+    },
+    "steam:5290560:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5290560:permanent_free:1",
+      "store": "steam",
+      "productId": "5290560",
+      "generation": 1,
+      "title": "Tichu",
+      "storeUrl": "https://store.steampowered.com/app/5290560/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T03:01:07.315Z",
+      "lastSeenAt": "2026-11-25T03:01:07.315Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Play Tichu in a polished digital adaptation of the 2v2 partnership card game. Compete in Ranked or Unranked online matches, challenge AI opponents across three difficulties, master special cards, and track your progress through stats, leaderboards and achievements.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T03:01:07.315Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Tichu』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5290560/",
+        "attemptedAt": "2026-11-25T03:01:10.434Z",
+        "bufferPostId": "6b064f76608549ccf2580933",
+        "submittedAt": "2026-11-25T03:01:11.738Z",
+        "postedAt": "2026-11-25T03:01:11.738Z"
+      },
+      "bufferPostId": "6b064f76608549ccf2580933",
+      "postedAt": "2026-11-25T03:01:11.738Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-25T00:01:08.345Z",
+    "lastSuccessfulScanAt": "2026-11-25T03:01:07.315Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25136,6 +25238,7 @@
       "4776360": "2026-11-02T06:01:05.538Z",
       "4788590": "2026-11-17T21:01:07.295Z",
       "4789870": "2026-11-24T06:01:02.972Z",
+      "4790710": "2026-11-25T03:01:07.315Z",
       "4795350": "2026-10-18T15:01:01.771Z",
       "4795560": "2026-10-16T18:01:10.079Z",
       "4801520": "2026-10-15T15:01:06.493Z",
@@ -25439,6 +25542,7 @@
       "5265570": "2026-11-07T15:01:11.737Z",
       "5266600": "2026-10-15T15:01:06.493Z",
       "5266980": "2026-11-01T00:01:08.629Z",
+      "5268650": "2026-11-25T03:01:07.315Z",
       "5269000": "2026-10-14T15:30:36.000Z",
       "5269430": "2026-10-20T09:01:01.492Z",
       "5270020": "2026-10-14T15:30:36.000Z",
@@ -25467,6 +25571,7 @@
       "5289540": "2026-10-14T15:30:36.000Z",
       "5289710": "2026-11-07T15:01:11.737Z",
       "5289970": "2026-10-14T15:30:36.000Z",
+      "5290560": "2026-11-25T03:01:07.315Z",
       "5291650": "2026-10-14T15:30:36.000Z",
       "5292650": "2026-10-29T00:01:06.982Z",
       "5293850": "2026-11-10T09:01:12.446Z",
