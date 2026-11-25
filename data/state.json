@@ -2890,6 +2890,10 @@
     "steam:5520650:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5520650:permanent_free:1"
+    },
+    "steam:3058500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3058500:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25152,11 +25156,41 @@
       },
       "bufferPostId": "6b0722672b79e58457ebf98b",
       "postedAt": "2026-11-25T18:01:13.044Z"
+    },
+    "steam:3058500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3058500:permanent_free:1",
+      "store": "steam",
+      "productId": "3058500",
+      "generation": 1,
+      "title": "Cucumber",
+      "storeUrl": "https://store.steampowered.com/app/3058500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-25T21:01:01.066Z",
+      "lastSeenAt": "2026-11-25T21:01:01.066Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "One cucumber. One space bar. Suddenly, a collection. Make your cucumber jump, collect designs through activity in the game, combine cucumbers through crafting and display your favourites. A free meme game with optional cosmetic shop items.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-25T21:01:01.066Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Cucumber』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3058500/",
+        "attemptedAt": "2026-11-25T21:01:02.519Z",
+        "bufferPostId": "6b074c8e209be591e2e0dee8",
+        "submittedAt": "2026-11-25T21:01:05.503Z",
+        "postedAt": "2026-11-25T21:01:05.503Z"
+      },
+      "bufferPostId": "6b074c8e209be591e2e0dee8",
+      "postedAt": "2026-11-25T21:01:05.503Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-25T18:01:07.624Z",
+    "lastSuccessfulScanAt": "2026-11-25T21:01:01.066Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25206,6 +25240,7 @@
       "3017040": "2026-11-01T21:01:00.687Z",
       "3026390": "2026-11-23T21:01:10.377Z",
       "3046540": "2026-11-17T18:01:08.800Z",
+      "3058500": "2026-11-25T21:01:01.066Z",
       "3063380": "2026-10-28T06:01:11.657Z",
       "3081070": "2026-11-09T18:01:24.470Z",
       "3120010": "2026-10-30T03:01:09.846Z",
