@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45844718680",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-26T15:01:11.790Z",
+    "finishedAt": "2026-11-26T15:01:25.071Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45844718680"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 15,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 12,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5553820",
+      "title": "沫引 Moyin",
+      "storeUrl": "https://store.steampowered.com/app/5553820/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553820/a9e202224054206c7470ead529f4532e0e1e8c86/header.jpg?t=1795702303",
+      "officialDescription": "「いちご牛乳の約束」か、「雨の日の研究室」か——大学二年のこの一年、残る春はひとつだけ。全編中国語ボイスの無料ビジュアルノベル。ダンス部の同級生・張媛英と、データ構造の授業を担当する大学院生TA・李妍英。2つの恋愛ルートと8つのエンディング。あなたの選択が、春に残る人を決める。※音声は中国語のみ。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5407720",
+      "title": "Cozy Cat Match 2",
+      "storeUrl": "https://store.steampowered.com/app/5407720/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5407720/af139508a6d6756858d49296d53d5acc36bc49b0/header.jpg?t=1795700844",
+      "officialDescription": "A free-to-start match-3 puzzle game with cozy cat-themed art and relaxing puzzles. Play the first 20 levels, create satisfying combos, and unlock the full experience through DLC."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4360100",
+      "title": "Pinion Tales",
+      "storeUrl": "https://store.steampowered.com/app/4360100/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360100/cd2c1f5eeb1fcea4577f2621426ac586d33209f8/header.jpg?t=1795699164",
+      "officialDescription": "Pinion Tales is a whimsical physics-based puzzle adventure where nature and machines coexist in a relaxing, immersive world brought to life through hand-crafted visuals. You need to guide the Keeper through tricky obstacles, solve playful mini-tasks, and befriend quirky companions along the way."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5553820:permanent_free:1",
+      "productId": "5553820",
+      "title": "沫引 Moyin",
+      "status": "sent",
+      "bufferPostId": "6b0849c04a47eaba731f1bc0"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5407720:permanent_free:1",
+      "productId": "5407720",
+      "title": "Cozy Cat Match 2",
+      "status": "sent",
+      "bufferPostId": "6b0849c2404f3f41a3dbb739"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4360100:permanent_free:1",
+      "productId": "4360100",
+      "title": "Pinion Tales",
+      "status": "sent",
+      "bufferPostId": "6b0849c3c5e15da60dcbd6e1"
+    }
+  ],
+  "errors": []
+}
