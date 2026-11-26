@@ -2934,6 +2934,22 @@
     "steam:4360100:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4360100:permanent_free:1"
+    },
+    "steam:871460:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:871460:permanent_free:1"
+    },
+    "steam:4054580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4054580:permanent_free:1"
+    },
+    "steam:5015050:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5015050:permanent_free:1"
+    },
+    "steam:5514130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5514130:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25526,13 +25542,134 @@
       },
       "bufferPostId": "6b0849c3c5e15da60dcbd6e1",
       "postedAt": "2026-11-26T15:01:25.054Z"
+    },
+    "steam:871460:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:871460:permanent_free:1",
+      "store": "steam",
+      "productId": "871460",
+      "generation": 1,
+      "title": "Beryl",
+      "storeUrl": "https://store.steampowered.com/app/871460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T18:01:03.997Z",
+      "lastSeenAt": "2026-11-26T18:01:03.997Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Team up with up to three friends in a free-to-play action RPG. Build your hero from 720 skills, find rare gear, socket gems into your gear, and fight through 840 kinds of monsters and 14 colossal bosses on ever-harder world difficulties.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T18:01:03.997Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Beryl』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/871460/",
+        "attemptedAt": "2026-11-26T18:01:06.552Z",
+        "bufferPostId": "6b0873e21fa4091582864200",
+        "submittedAt": "2026-11-26T18:01:08.230Z",
+        "postedAt": "2026-11-26T18:01:08.231Z"
+      },
+      "bufferPostId": "6b0873e21fa4091582864200",
+      "postedAt": "2026-11-26T18:01:08.231Z"
+    },
+    "steam:4054580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4054580:permanent_free:1",
+      "store": "steam",
+      "productId": "4054580",
+      "generation": 1,
+      "title": "Sharkbaked",
+      "storeUrl": "https://store.steampowered.com/app/4054580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T18:01:03.997Z",
+      "lastSeenAt": "2026-11-26T18:01:03.997Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "あなたは友好的なサメの役です。友達がお腹を空かせたら、あなたの任務は彼らのために料理を作ることです。材料を探し、混ぜ合わせ、創作しましょう。簡単です。しかし、友達はできるだけ早く料理を作れるように「手伝って」くれます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T18:01:03.997Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Sharkbaked』\n✨ いつでも無料でプレイ\n\nあなたは友好的なサメの役です。友達がお腹を空かせたら、あなたの任務は彼らのために料理を作ることです。材料を探し、混ぜ合わせ、創作しましょう。簡単です。しかし、友達はできるだけ早く料理を…\n\nhttps://store.steampowered.com/app/4054580/",
+        "attemptedAt": "2026-11-26T18:01:08.253Z",
+        "bufferPostId": "6b0873e4f0a96d0f217ae3d8",
+        "submittedAt": "2026-11-26T18:01:09.890Z",
+        "postedAt": "2026-11-26T18:01:09.890Z"
+      },
+      "bufferPostId": "6b0873e4f0a96d0f217ae3d8",
+      "postedAt": "2026-11-26T18:01:09.890Z"
+    },
+    "steam:5015050:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5015050:permanent_free:1",
+      "store": "steam",
+      "productId": "5015050",
+      "generation": 1,
+      "title": "Apocalypticlick",
+      "storeUrl": "https://store.steampowered.com/app/5015050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T18:01:03.997Z",
+      "lastSeenAt": "2026-11-26T18:01:03.997Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An incremental apocalyptic survival builder with research, expeditions, events, raids, and resource balancing. Found a settlement, gather resources, and try to keep the roof on while the wasteland keeps knocking.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T18:01:03.997Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Apocalypticlick』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5015050/",
+        "attemptedAt": "2026-11-26T18:01:09.902Z",
+        "bufferPostId": "6b0873e6f0a96d0f217ae4bf",
+        "submittedAt": "2026-11-26T18:01:11.252Z",
+        "postedAt": "2026-11-26T18:01:11.252Z"
+      },
+      "bufferPostId": "6b0873e6f0a96d0f217ae4bf",
+      "postedAt": "2026-11-26T18:01:11.252Z"
+    },
+    "steam:5514130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5514130:permanent_free:1",
+      "store": "steam",
+      "productId": "5514130",
+      "generation": 1,
+      "title": "ループマインスイーパー",
+      "storeUrl": "https://store.steampowered.com/app/5514130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T18:01:03.997Z",
+      "lastSeenAt": "2026-11-26T18:01:03.997Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "従来のマインスイーパーにはもう飽きた？『ループマインスイーパー』で遊んでみよう！数字を見て、旗を立てて、地雷を探す。おなじみの遊び方だけど、今回は盤面に終わりがないよ。平面のループに飽きても大丈夫。球面もあるから、盤面を回しながら立体空間でマインスイーパーを楽しもう。もっと変わった遊び方も試してみたい？負の曲率を持つ空間でのマインスイーパーも試してみよう。盤面はポアンカレ円盤で表示されるよ。超クールだよ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T18:01:03.997Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ループマインスイーパー』\n✨ いつでも無料でプレイ\n\n従来のマインスイーパーにはもう飽きた？『ループマインスイーパー』で遊んでみよう！数字を見て、旗を立てて、地雷を探す。おなじみの遊び方だけど、今回は盤面に終わりがないよ。平面…\n\nhttps://store.steampowered.com/app/5514130/",
+        "attemptedAt": "2026-11-26T18:01:11.263Z",
+        "bufferPostId": "6b0873e73accdac92cea3d3a",
+        "submittedAt": "2026-11-26T18:01:12.562Z",
+        "postedAt": "2026-11-26T18:01:12.562Z"
+      },
+      "bufferPostId": "6b0873e73accdac92cea3d3a",
+      "postedAt": "2026-11-26T18:01:12.562Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-26T15:01:17.545Z",
+    "lastSuccessfulScanAt": "2026-11-26T18:01:03.997Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
+      "871460": "2026-11-26T18:01:03.997Z",
       "1118300": "2026-11-10T18:01:39.865Z",
       "1149050": "2026-10-29T00:01:06.982Z",
       "1191830": "2026-10-14T15:30:36.000Z",
@@ -25643,6 +25780,7 @@
       "4022530": "2026-10-15T21:00:58.160Z",
       "4026430": "2026-11-23T06:01:07.559Z",
       "4036370": "2026-10-22T12:01:30.927Z",
+      "4054580": "2026-11-26T18:01:03.997Z",
       "4078690": "2026-11-18T15:01:17.672Z",
       "4079960": "2026-10-19T00:01:02.686Z",
       "4080860": "2026-10-14T15:30:36.000Z",
@@ -25901,6 +26039,7 @@
       "5011370": "2026-11-13T15:01:22.449Z",
       "5012600": "2026-10-31T00:01:08.172Z",
       "5013770": "2026-11-09T18:01:24.470Z",
+      "5015050": "2026-11-26T18:01:03.997Z",
       "5015630": "2026-11-25T18:01:07.624Z",
       "5016240": "2026-11-18T21:01:08.756Z",
       "5017520": "2026-10-30T15:01:09.322Z",
@@ -26336,6 +26475,7 @@
       "5507480": "2026-11-17T18:01:08.800Z",
       "5510730": "2026-11-23T21:01:10.377Z",
       "5512840": "2026-11-15T09:01:06.193Z",
+      "5514130": "2026-11-26T18:01:03.997Z",
       "5515070": "2026-11-24T12:01:05.527Z",
       "5515850": "2026-11-16T18:01:09.149Z",
       "5516180": "2026-11-18T00:01:16.673Z",

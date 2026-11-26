@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45872439733",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-26T18:00:58.904Z",
+    "finishedAt": "2026-11-26T18:01:12.584Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45872439733"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 13,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "871460",
+      "title": "Beryl",
+      "storeUrl": "https://store.steampowered.com/app/871460/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871460/5193eb7de2b8e0e26f45022522af00be8acd3c4e/header.jpg?t=1795715517",
+      "officialDescription": "Team up with up to three friends in a free-to-play action RPG. Build your hero from 720 skills, find rare gear, socket gems into your gear, and fight through 840 kinds of monsters and 14 colossal bosses on ever-harder world difficulties."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4054580",
+      "title": "Sharkbaked",
+      "storeUrl": "https://store.steampowered.com/app/4054580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054580/3d7d0c048fb80b13ff6d62d36c1148529fd95a14/header.jpg?t=1795710609",
+      "officialDescription": "あなたは友好的なサメの役です。友達がお腹を空かせたら、あなたの任務は彼らのために料理を作ることです。材料を探し、混ぜ合わせ、創作しましょう。簡単です。しかし、友達はできるだけ早く料理を作れるように「手伝って」くれます。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5015050",
+      "title": "Apocalypticlick",
+      "storeUrl": "https://store.steampowered.com/app/5015050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015050/8223cd833b6547ce01125f86bafac1d42e424a49/header.jpg?t=1795706261",
+      "officialDescription": "An incremental apocalyptic survival builder with research, expeditions, events, raids, and resource balancing. Found a settlement, gather resources, and try to keep the roof on while the wasteland keeps knocking."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5514130",
+      "title": "ループマインスイーパー",
+      "storeUrl": "https://store.steampowered.com/app/5514130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514130/0eb472893a3f0dc1216b68cbc5ae84558c116d59/header.jpg?t=1795705442",
+      "officialDescription": "従来のマインスイーパーにはもう飽きた？『ループマインスイーパー』で遊んでみよう！数字を見て、旗を立てて、地雷を探す。おなじみの遊び方だけど、今回は盤面に終わりがないよ。平面のループに飽きても大丈夫。球面もあるから、盤面を回しながら立体空間でマインスイーパーを楽しもう。もっと変わった遊び方も試してみたい？負の曲率を持つ空間でのマインスイーパーも試してみよう。盤面はポアンカレ円盤で表示されるよ。超クールだよ。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:871460:permanent_free:1",
+      "productId": "871460",
+      "title": "Beryl",
+      "status": "sent",
+      "bufferPostId": "6b0873e21fa4091582864200"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4054580:permanent_free:1",
+      "productId": "4054580",
+      "title": "Sharkbaked",
+      "status": "sent",
+      "bufferPostId": "6b0873e4f0a96d0f217ae3d8"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5015050:permanent_free:1",
+      "productId": "5015050",
+      "title": "Apocalypticlick",
+      "status": "sent",
+      "bufferPostId": "6b0873e6f0a96d0f217ae4bf"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5514130:permanent_free:1",
+      "productId": "5514130",
+      "title": "ループマインスイーパー",
+      "status": "sent",
+      "bufferPostId": "6b0873e73accdac92cea3d3a"
+    }
+  ],
+  "errors": []
+}
