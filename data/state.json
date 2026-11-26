@@ -2898,6 +2898,18 @@
     "steam:5070720:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5070720:permanent_free:1"
+    },
+    "steam:5284880:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5284880:permanent_free:1"
+    },
+    "steam:3308580:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3308580:permanent_free:1"
+    },
+    "steam:5045040:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5045040:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25220,11 +25232,101 @@
       },
       "bufferPostId": "6b0776c99f6dda31cca99039",
       "postedAt": "2026-11-26T00:01:14.741Z"
+    },
+    "steam:5284880:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5284880:permanent_free:1",
+      "store": "steam",
+      "productId": "5284880",
+      "generation": 1,
+      "title": "Star Imperium",
+      "storeUrl": "https://store.steampowered.com/app/5284880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T03:01:07.768Z",
+      "lastSeenAt": "2026-11-26T03:01:07.768Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Star Imperiumは、2人の指揮官が星々を股にかけて戦い、それぞれが母星を守るSFの集めるカード・デッキ構築ストラテジーゲームです。反物質、クリスタル、光、メタル、有機物という5つの資源勢力を力に、艦船、兵士、フォース、アクションを指揮しましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T03:01:07.768Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Star Imperium』\n✨ いつでも無料でプレイ\n\nStar Imperiumは、2人の指揮官が星々を股にかけて戦い、それぞれが母星を守るSFの集めるカード・デッキ構築ストラテジーゲームです。反物質、クリスタル、光、メタル、有機物という5つの資源勢力…\n\nhttps://store.steampowered.com/app/5284880/",
+        "attemptedAt": "2026-11-26T03:01:09.548Z",
+        "bufferPostId": "6b07a0f5b96dd8d351834ef1",
+        "submittedAt": "2026-11-26T03:01:11.064Z",
+        "postedAt": "2026-11-26T03:01:11.064Z"
+      },
+      "bufferPostId": "6b07a0f5b96dd8d351834ef1",
+      "postedAt": "2026-11-26T03:01:11.064Z"
+    },
+    "steam:3308580:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3308580:permanent_free:1",
+      "store": "steam",
+      "productId": "3308580",
+      "generation": 1,
+      "title": "360 HEXA WORLD",
+      "storeUrl": "https://store.steampowered.com/app/3308580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T03:01:07.768Z",
+      "lastSeenAt": "2026-11-26T03:01:07.768Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Another world 360Hexaworld is a Web 3.0 metaverse world platform",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T03:01:07.768Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『360 HEXA WORLD』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3308580/",
+        "attemptedAt": "2026-11-26T03:01:11.073Z",
+        "bufferPostId": "6b07a0f7a791bea1b24b14ed",
+        "submittedAt": "2026-11-26T03:01:12.446Z",
+        "postedAt": "2026-11-26T03:01:12.446Z"
+      },
+      "bufferPostId": "6b07a0f7a791bea1b24b14ed",
+      "postedAt": "2026-11-26T03:01:12.446Z"
+    },
+    "steam:5045040:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5045040:permanent_free:1",
+      "store": "steam",
+      "productId": "5045040",
+      "generation": 1,
+      "title": "トレイモンワールド：タスクバーモンスターRPG",
+      "storeUrl": "https://store.steampowered.com/app/5045040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T03:01:07.768Z",
+      "lastSeenAt": "2026-11-26T03:01:07.768Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "世界でいちばん小さな放置系モンスター収集RPG。タマゴから特別なモンスターをかえし、世界中のプレイヤーと取引しましょう。バトルは自動で進むので、最強のチームを組むまで立ち止まらないでください！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T03:01:07.768Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『トレイモンワールド：タスクバーモンスターRPG』\n✨ いつでも無料でプレイ\n\n世界でいちばん小さな放置系モンスター収集RPG。タマゴから特別なモンスターをかえし、世界中のプレイヤーと取引しましょう。バトルは自動で進むので、最強のチー…\n\nhttps://store.steampowered.com/app/5045040/",
+        "attemptedAt": "2026-11-26T03:01:12.456Z",
+        "bufferPostId": "6b07a0f807071a60674c6425",
+        "submittedAt": "2026-11-26T03:01:13.753Z",
+        "postedAt": "2026-11-26T03:01:13.753Z"
+      },
+      "bufferPostId": "6b07a0f807071a60674c6425",
+      "postedAt": "2026-11-26T03:01:13.753Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-26T00:01:11.247Z",
+    "lastSuccessfulScanAt": "2026-11-26T03:01:07.768Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25283,6 +25385,7 @@
       "3199110": "2026-10-30T21:01:07.872Z",
       "3249730": "2026-11-18T00:01:16.673Z",
       "3301840": "2026-11-06T06:01:16.414Z",
+      "3308580": "2026-11-26T03:01:07.768Z",
       "3323980": "2026-10-21T15:01:01.280Z",
       "3339970": "2026-11-04T06:01:02.326Z",
       "3354290": "2026-11-12T21:01:09.146Z",
@@ -25615,6 +25718,7 @@
       "5043620": "2026-11-23T06:01:07.559Z",
       "5043790": "2026-11-23T03:01:11.455Z",
       "5043860": "2026-10-21T00:01:08.212Z",
+      "5045040": "2026-11-26T03:01:07.768Z",
       "5045330": "2026-11-16T21:01:09.959Z",
       "5048390": "2026-11-16T06:01:09.607Z",
       "5049260": "2026-11-10T12:01:08.585Z",
@@ -25805,6 +25909,7 @@
       "5283320": "2026-11-12T18:01:08.650Z",
       "5283330": "2026-10-27T09:01:03.509Z",
       "5284190": "2026-10-14T15:30:36.000Z",
+      "5284880": "2026-11-26T03:01:07.768Z",
       "5285020": "2026-10-30T03:01:09.846Z",
       "5285500": "2026-11-19T09:01:07.481Z",
       "5287260": "2026-10-31T09:00:59.059Z",

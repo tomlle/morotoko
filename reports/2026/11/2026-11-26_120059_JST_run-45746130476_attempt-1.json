@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45746130476",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-26T03:00:59.711Z",
+    "finishedAt": "2026-11-26T03:01:13.772Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45746130476"
+  },
+  "detection": {
+    "searched": 112,
+    "candidates": 15,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 12,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5284880",
+      "title": "Star Imperium",
+      "storeUrl": "https://store.steampowered.com/app/5284880/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5284880/3b6d2b69b38264f918b832bca675ae4c4ee1f87f/header.jpg?t=1795661111",
+      "officialDescription": "Star Imperiumは、2人の指揮官が星々を股にかけて戦い、それぞれが母星を守るSFの集めるカード・デッキ構築ストラテジーゲームです。反物質、クリスタル、光、メタル、有機物という5つの資源勢力を力に、艦船、兵士、フォース、アクションを指揮しましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3308580",
+      "title": "360 HEXA WORLD",
+      "storeUrl": "https://store.steampowered.com/app/3308580/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3308580/d618cd20776bac3529de02d219fee55fd9d76da2/header.jpg?t=1795658638",
+      "officialDescription": "Another world 360Hexaworld is a Web 3.0 metaverse world platform"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5045040",
+      "title": "トレイモンワールド：タスクバーモンスターRPG",
+      "storeUrl": "https://store.steampowered.com/app/5045040/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045040/726c32358aca78abd26e706530dc40e96bdfebf4/header.jpg?t=1795655721",
+      "officialDescription": "世界でいちばん小さな放置系モンスター収集RPG。タマゴから特別なモンスターをかえし、世界中のプレイヤーと取引しましょう。バトルは自動で進むので、最強のチームを組むまで立ち止まらないでください！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5284880:permanent_free:1",
+      "productId": "5284880",
+      "title": "Star Imperium",
+      "status": "sent",
+      "bufferPostId": "6b07a0f5b96dd8d351834ef1"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3308580:permanent_free:1",
+      "productId": "3308580",
+      "title": "360 HEXA WORLD",
+      "status": "sent",
+      "bufferPostId": "6b07a0f7a791bea1b24b14ed"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5045040:permanent_free:1",
+      "productId": "5045040",
+      "title": "トレイモンワールド：タスクバーモンスターRPG",
+      "status": "sent",
+      "bufferPostId": "6b07a0f807071a60674c6425"
+    }
+  ],
+  "errors": []
+}
