@@ -2910,6 +2910,10 @@
     "steam:5045040:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5045040:permanent_free:1"
+    },
+    "steam:4946790:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4946790:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25322,11 +25326,41 @@
       },
       "bufferPostId": "6b07a0f807071a60674c6425",
       "postedAt": "2026-11-26T03:01:13.753Z"
+    },
+    "steam:4946790:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4946790:permanent_free:1",
+      "store": "steam",
+      "productId": "4946790",
+      "generation": 1,
+      "title": "ファイナルゴールド",
+      "storeUrl": "https://store.steampowered.com/app/4946790/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T09:01:04.504Z",
+      "lastSeenAt": "2026-11-26T09:01:04.504Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "『ファイナルゴールド』は、極寒のサバイバルをテーマにした経営＆放置ゲームです。氷雪に覆われた世界に錬金都市を築き、炉に火を灯し、生存者を迎え入れて人類最後の希望を守り抜きましょう。本作はデスクトップ常駐型の放置プレイにも対応しており、オンライン状態を保つだけで手軽に収益を獲得できます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T09:01:04.504Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『ファイナルゴールド』\n✨ いつでも無料でプレイ\n\n『ファイナルゴールド』は、極寒のサバイバルをテーマにした経営＆放置ゲームです。氷雪に覆われた世界に錬金都市を築き、炉に火を灯し、生存者を迎え入れて人類最後の希望を守り抜きましょ…\n\nhttps://store.steampowered.com/app/4946790/",
+        "attemptedAt": "2026-11-26T09:01:07.886Z",
+        "bufferPostId": "6b07f55363939e1d0088fd2b",
+        "submittedAt": "2026-11-26T09:01:09.218Z",
+        "postedAt": "2026-11-26T09:01:09.218Z"
+      },
+      "bufferPostId": "6b07f55363939e1d0088fd2b",
+      "postedAt": "2026-11-26T09:01:09.218Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-26T06:01:03.877Z",
+    "lastSuccessfulScanAt": "2026-11-26T09:01:04.504Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25651,6 +25685,7 @@
       "4944360": "2026-10-14T15:30:36.000Z",
       "4946250": "2026-11-02T21:01:11.825Z",
       "4946530": "2026-11-21T12:01:09.209Z",
+      "4946790": "2026-11-26T09:01:04.504Z",
       "4947000": "2026-11-22T03:01:13.730Z",
       "4949930": "2026-10-26T18:01:07.648Z",
       "4952940": "2026-11-15T18:01:15.376Z",
