@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45815666119",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-26T12:01:00.099Z",
+    "finishedAt": "2026-11-26T12:01:15.977Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45815666119"
+  },
+  "detection": {
+    "searched": 113,
+    "candidates": 15,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 13,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3456950",
+      "title": "Pixel Gun 2",
+      "storeUrl": "https://store.steampowered.com/app/3456950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456950/e52e0cc9c67e43afa9b6a0b98ba64fb241cda279/header.jpg?t=1795693890",
+      "officialDescription": "破壊可能なアリーナ、ぶっ飛んだビルド、そして毎回展開が変わるマッチが魅力のハイスピード対戦シューター。マップをぶち壊し、その場で立ち回りを変えながら、短くカオスなPvPバトルで相手を出し抜け。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5531990",
+      "title": "Rare on the Line",
+      "storeUrl": "https://store.steampowered.com/app/5531990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531990/81de5dbda6b5a1febd2af48660763e2a43abeb99/header_alt_assets_0.jpg?t=1795607015",
+      "officialDescription": "糸を垂らし、ケースを釣り上げ、釣り道具を集めよう。レアな仕上げ、模様、摩耗度にこだわって、お気に入りの装備を揃え、フレンドとケース開封を楽しもう。Steamワークショップでオリジナルの仕上げを作って共有し、コミュニティと一緒にゲームの未来を形にしよう。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3456950:permanent_free:1",
+      "productId": "3456950",
+      "title": "Pixel Gun 2",
+      "status": "sent",
+      "bufferPostId": "6b081f8659e1aba44496b117"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5531990:permanent_free:1",
+      "productId": "5531990",
+      "title": "Rare on the Line",
+      "status": "sent",
+      "bufferPostId": "6b081f8a96d200044e429dd5"
+    }
+  ],
+  "errors": []
+}

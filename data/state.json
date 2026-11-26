@@ -2914,6 +2914,14 @@
     "steam:4946790:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4946790:permanent_free:1"
+    },
+    "steam:3456950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3456950:permanent_free:1"
+    },
+    "steam:5531990:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5531990:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25356,11 +25364,71 @@
       },
       "bufferPostId": "6b07f55363939e1d0088fd2b",
       "postedAt": "2026-11-26T09:01:09.218Z"
+    },
+    "steam:3456950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3456950:permanent_free:1",
+      "store": "steam",
+      "productId": "3456950",
+      "generation": 1,
+      "title": "Pixel Gun 2",
+      "storeUrl": "https://store.steampowered.com/app/3456950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T12:01:06.959Z",
+      "lastSeenAt": "2026-11-26T12:01:06.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "破壊可能なアリーナ、ぶっ飛んだビルド、そして毎回展開が変わるマッチが魅力のハイスピード対戦シューター。マップをぶち壊し、その場で立ち回りを変えながら、短くカオスなPvPバトルで相手を出し抜け。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T12:01:06.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pixel Gun 2』\n✨ いつでも無料でプレイ\n\n破壊可能なアリーナ、ぶっ飛んだビルド、そして毎回展開が変わるマッチが魅力のハイスピード対戦シューター。マップをぶち壊し、その場で立ち回りを変えながら、短くカオスなPvPバトルで相手を出し…\n\nhttps://store.steampowered.com/app/3456950/",
+        "attemptedAt": "2026-11-26T12:01:10.470Z",
+        "bufferPostId": "6b081f8659e1aba44496b117",
+        "submittedAt": "2026-11-26T12:01:14.377Z",
+        "postedAt": "2026-11-26T12:01:14.377Z"
+      },
+      "bufferPostId": "6b081f8659e1aba44496b117",
+      "postedAt": "2026-11-26T12:01:14.377Z"
+    },
+    "steam:5531990:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5531990:permanent_free:1",
+      "store": "steam",
+      "productId": "5531990",
+      "generation": 1,
+      "title": "Rare on the Line",
+      "storeUrl": "https://store.steampowered.com/app/5531990/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T12:01:06.959Z",
+      "lastSeenAt": "2026-11-26T12:01:06.959Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "糸を垂らし、ケースを釣り上げ、釣り道具を集めよう。レアな仕上げ、模様、摩耗度にこだわって、お気に入りの装備を揃え、フレンドとケース開封を楽しもう。Steamワークショップでオリジナルの仕上げを作って共有し、コミュニティと一緒にゲームの未来を形にしよう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T12:01:06.959Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Rare on the Line』\n✨ いつでも無料でプレイ\n\n糸を垂らし、ケースを釣り上げ、釣り道具を集めよう。レアな仕上げ、模様、摩耗度にこだわって、お気に入りの装備を揃え、フレンドとケース開封を楽しもう。Steamワークショップでオリジナル…\n\nhttps://store.steampowered.com/app/5531990/",
+        "attemptedAt": "2026-11-26T12:01:14.387Z",
+        "bufferPostId": "6b081f8a96d200044e429dd5",
+        "submittedAt": "2026-11-26T12:01:15.958Z",
+        "postedAt": "2026-11-26T12:01:15.958Z"
+      },
+      "bufferPostId": "6b081f8a96d200044e429dd5",
+      "postedAt": "2026-11-26T12:01:15.958Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-26T09:01:04.504Z",
+    "lastSuccessfulScanAt": "2026-11-26T12:01:06.959Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "1118300": "2026-11-10T18:01:39.865Z",
@@ -25425,6 +25493,7 @@
       "3354290": "2026-11-12T21:01:09.146Z",
       "3371490": "2026-10-14T15:30:36.000Z",
       "3441590": "2026-11-24T03:01:13.098Z",
+      "3456950": "2026-11-26T12:01:06.959Z",
       "3466220": "2026-10-29T09:01:05.116Z",
       "3484110": "2026-11-03T06:01:07.148Z",
       "3517360": "2026-11-20T12:01:11.705Z",
@@ -26172,6 +26241,7 @@
       "5520650": "2026-11-25T18:01:07.624Z",
       "5521040": "2026-11-24T12:01:05.527Z",
       "5530970": "2026-11-20T15:01:27.184Z",
+      "5531990": "2026-11-26T12:01:06.959Z",
       "5532190": "2026-11-19T00:01:12.361Z",
       "5532770": "2026-11-18T03:01:11.268Z",
       "5533130": "2026-11-20T15:01:27.184Z",
