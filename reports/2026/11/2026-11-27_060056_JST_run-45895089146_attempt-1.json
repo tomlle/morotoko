@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45895089146",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-26T21:00:56.912Z",
+    "finishedAt": "2026-11-26T21:01:09.882Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45895089146"
+  },
+  "detection": {
+    "searched": 159,
+    "candidates": 14,
+    "verified": 4,
+    "newPromotions": 4,
+    "knownPromotions": 0,
+    "excluded": 10,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 4,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5095450",
+      "title": "The Funeral of Kay",
+      "storeUrl": "https://store.steampowered.com/app/5095450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5095450/acb8ec5feeba0f232cc2af4d3c0aca1b18edd679/header.jpg?t=1795718416",
+      "officialDescription": "The Funeral of Kay is a visual novel style adventure game. Exiled noble Jun need to launch a space burial for his guardian Kay who died for protecting him. Guide him to the launch site, and reminisce about memories with Kay."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "2331930",
+      "title": "VOIDRUSH",
+      "storeUrl": "https://store.steampowered.com/app/2331930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331930/76a4f953111e45b9800a1d336fa488a970ec5122/header.jpg?t=1795717383",
+      "officialDescription": "An action roguelite, solo or co-op with up to 10 players. Face endless hordes, combine 52 weapons and 161 items into devastating evolutions, unions and synergies, and hold on until the end as the Void awakens beyond the map."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5518570",
+      "title": "TrapRush",
+      "storeUrl": "https://store.steampowered.com/app/5518570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5518570/e5514d9fadf89626fd120be895dbd43540648e52/header.jpg?t=1795716979",
+      "officialDescription": "TrapRush is an online party platformer for 2 to 12 players. Each round, everyone places one item on the same course: a bridge, a spring, or a saw hidden under it. Then you all race to the flag at once. Make it while your friends don't, and you score."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5467680",
+      "title": "Charmosaic",
+      "storeUrl": "https://store.steampowered.com/app/5467680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467680/5e93c00bf11b6d4cde23f651c8af7ae42f42bf8f/header.jpg?t=1795716166",
+      "officialDescription": "Charmosaicで、くつろぎのダイヤモンドアートを楽しもう。色と記号を合わせ、小さなダイヤを何千個も並べて、美しい絵を完成させる基本プレイ無料のゲームです。3つの難易度を選べて、毎月新しい無料作品も追加されます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5095450:permanent_free:1",
+      "productId": "5095450",
+      "title": "The Funeral of Kay",
+      "status": "sent",
+      "bufferPostId": "6b089e109068b6e07964c74c"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:2331930:permanent_free:1",
+      "productId": "2331930",
+      "title": "VOIDRUSH",
+      "status": "sent",
+      "bufferPostId": "6b089e11f0a96d0f218e85ff"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5518570:permanent_free:1",
+      "productId": "5518570",
+      "title": "TrapRush",
+      "status": "sent",
+      "bufferPostId": "6b089e13f0a96d0f218e86c9"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5467680:permanent_free:1",
+      "productId": "5467680",
+      "title": "Charmosaic",
+      "status": "sent",
+      "bufferPostId": "6b089e14c81617797de2c2b7"
+    }
+  ],
+  "errors": []
+}

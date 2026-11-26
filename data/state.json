@@ -2950,6 +2950,22 @@
     "steam:5514130:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5514130:permanent_free:1"
+    },
+    "steam:5095450:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5095450:permanent_free:1"
+    },
+    "steam:2331930:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:2331930:permanent_free:1"
+    },
+    "steam:5518570:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5518570:permanent_free:1"
+    },
+    "steam:5467680:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5467680:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25662,11 +25678,131 @@
       },
       "bufferPostId": "6b0873e73accdac92cea3d3a",
       "postedAt": "2026-11-26T18:01:12.562Z"
+    },
+    "steam:5095450:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5095450:permanent_free:1",
+      "store": "steam",
+      "productId": "5095450",
+      "generation": 1,
+      "title": "The Funeral of Kay",
+      "storeUrl": "https://store.steampowered.com/app/5095450/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T21:01:02.600Z",
+      "lastSeenAt": "2026-11-26T21:01:02.600Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "The Funeral of Kay is a visual novel style adventure game. Exiled noble Jun need to launch a space burial for his guardian Kay who died for protecting him. Guide him to the launch site, and reminisce about memories with Kay.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T21:01:02.600Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Funeral of Kay』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5095450/",
+        "attemptedAt": "2026-11-26T21:01:04.378Z",
+        "bufferPostId": "6b089e109068b6e07964c74c",
+        "submittedAt": "2026-11-26T21:01:05.688Z",
+        "postedAt": "2026-11-26T21:01:05.688Z"
+      },
+      "bufferPostId": "6b089e109068b6e07964c74c",
+      "postedAt": "2026-11-26T21:01:05.688Z"
+    },
+    "steam:2331930:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:2331930:permanent_free:1",
+      "store": "steam",
+      "productId": "2331930",
+      "generation": 1,
+      "title": "VOIDRUSH",
+      "storeUrl": "https://store.steampowered.com/app/2331930/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T21:01:02.600Z",
+      "lastSeenAt": "2026-11-26T21:01:02.600Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An action roguelite, solo or co-op with up to 10 players. Face endless hordes, combine 52 weapons and 161 items into devastating evolutions, unions and synergies, and hold on until the end as the Void awakens beyond the map.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T21:01:02.600Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『VOIDRUSH』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/2331930/",
+        "attemptedAt": "2026-11-26T21:01:05.699Z",
+        "bufferPostId": "6b089e11f0a96d0f218e85ff",
+        "submittedAt": "2026-11-26T21:01:07.013Z",
+        "postedAt": "2026-11-26T21:01:07.013Z"
+      },
+      "bufferPostId": "6b089e11f0a96d0f218e85ff",
+      "postedAt": "2026-11-26T21:01:07.013Z"
+    },
+    "steam:5518570:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5518570:permanent_free:1",
+      "store": "steam",
+      "productId": "5518570",
+      "generation": 1,
+      "title": "TrapRush",
+      "storeUrl": "https://store.steampowered.com/app/5518570/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T21:01:02.600Z",
+      "lastSeenAt": "2026-11-26T21:01:02.600Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "TrapRush is an online party platformer for 2 to 12 players. Each round, everyone places one item on the same course: a bridge, a spring, or a saw hidden under it. Then you all race to the flag at once. Make it while your friends don't, and you score.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T21:01:02.600Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『TrapRush』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5518570/",
+        "attemptedAt": "2026-11-26T21:01:07.024Z",
+        "bufferPostId": "6b089e13f0a96d0f218e86c9",
+        "submittedAt": "2026-11-26T21:01:08.543Z",
+        "postedAt": "2026-11-26T21:01:08.543Z"
+      },
+      "bufferPostId": "6b089e13f0a96d0f218e86c9",
+      "postedAt": "2026-11-26T21:01:08.543Z"
+    },
+    "steam:5467680:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5467680:permanent_free:1",
+      "store": "steam",
+      "productId": "5467680",
+      "generation": 1,
+      "title": "Charmosaic",
+      "storeUrl": "https://store.steampowered.com/app/5467680/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-26T21:01:02.600Z",
+      "lastSeenAt": "2026-11-26T21:01:02.600Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Charmosaicで、くつろぎのダイヤモンドアートを楽しもう。色と記号を合わせ、小さなダイヤを何千個も並べて、美しい絵を完成させる基本プレイ無料のゲームです。3つの難易度を選べて、毎月新しい無料作品も追加されます。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-26T21:01:02.600Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Charmosaic』\n✨ いつでも無料でプレイ\n\nCharmosaicで、くつろぎのダイヤモンドアートを楽しもう。色と記号を合わせ、小さなダイヤを何千個も並べて、美しい絵を完成させる基本プレイ無料のゲームです。3つの難易度を選べて、毎月新しい無…\n\nhttps://store.steampowered.com/app/5467680/",
+        "attemptedAt": "2026-11-26T21:01:08.564Z",
+        "bufferPostId": "6b089e14c81617797de2c2b7",
+        "submittedAt": "2026-11-26T21:01:09.860Z",
+        "postedAt": "2026-11-26T21:01:09.860Z"
+      },
+      "bufferPostId": "6b089e14c81617797de2c2b7",
+      "postedAt": "2026-11-26T21:01:09.860Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-26T18:01:03.997Z",
+    "lastSuccessfulScanAt": "2026-11-26T21:01:02.600Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -25694,6 +25830,7 @@
       "2213580": "2026-10-28T15:01:16.098Z",
       "2269500": "2026-11-23T18:01:14.768Z",
       "2331730": "2026-10-14T15:30:36.000Z",
+      "2331930": "2026-11-26T21:01:02.600Z",
       "2350690": "2026-11-11T03:01:13.820Z",
       "2365370": "2026-11-14T12:01:04.545Z",
       "2415210": "2026-11-16T18:01:09.149Z",
@@ -26093,6 +26230,7 @@
       "5090350": "2026-10-14T18:01:12.359Z",
       "5093040": "2026-11-13T12:01:06.895Z",
       "5094790": "2026-11-13T09:01:08.396Z",
+      "5095450": "2026-11-26T21:01:02.600Z",
       "5095690": "2026-10-29T18:01:09.856Z",
       "5099990": "2026-10-14T15:30:36.000Z",
       "5100440": "2026-10-14T18:01:12.359Z",
@@ -26444,6 +26582,7 @@
       "5465830": "2026-11-16T18:01:09.149Z",
       "5465860": "2026-11-06T06:01:16.414Z",
       "5466110": "2026-11-10T06:01:08.537Z",
+      "5467680": "2026-11-26T21:01:02.600Z",
       "5468140": "2026-11-12T06:01:04.893Z",
       "5471210": "2026-11-20T06:01:06.206Z",
       "5472990": "2026-11-19T18:01:18.855Z",
@@ -26481,6 +26620,7 @@
       "5516180": "2026-11-18T00:01:16.673Z",
       "5517900": "2026-11-23T21:01:10.377Z",
       "5518020": "2026-11-18T03:01:11.268Z",
+      "5518570": "2026-11-26T21:01:02.600Z",
       "5520310": "2026-11-18T03:01:11.268Z",
       "5520650": "2026-11-25T18:01:07.624Z",
       "5521040": "2026-11-24T12:01:05.527Z",
