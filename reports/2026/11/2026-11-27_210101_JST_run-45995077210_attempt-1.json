@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45995077210",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-27T12:01:01.833Z",
+    "finishedAt": "2026-11-27T12:01:11.106Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45995077210"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 10,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4781060",
+      "title": "三国权谋模拟器",
+      "storeUrl": "https://store.steampowered.com/app/4781060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781060/e8588b84e5e8f2c162063b71a5b75efc55590264/header.jpg?t=1795775457",
+      "officialDescription": "Three Kingdoms Strategy SimulatorはAIネイティブの歴史ストラテジー。すべてのNPCが独立した認知と長期にわたる永続記憶を持ち、地方の諸侯はいずれもエンジンに埋め込まれた固定スクリプトではありません。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4781060:permanent_free:1",
+      "productId": "4781060",
+      "title": "三国权谋模拟器",
+      "status": "sent",
+      "bufferPostId": "6b097105e94385a8fd9ff717"
+    }
+  ],
+  "errors": []
+}

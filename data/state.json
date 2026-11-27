@@ -2982,6 +2982,10 @@
     "steam:5000500:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5000500:permanent_free:1"
+    },
+    "steam:4781060:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4781060:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25934,11 +25938,41 @@
       },
       "bufferPostId": "6b0946d31fd46e62e72b86ac",
       "postedAt": "2026-11-27T09:01:08.685Z"
+    },
+    "steam:4781060:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4781060:permanent_free:1",
+      "store": "steam",
+      "productId": "4781060",
+      "generation": 1,
+      "title": "三国权谋模拟器",
+      "storeUrl": "https://store.steampowered.com/app/4781060/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T12:01:07.353Z",
+      "lastSeenAt": "2026-11-27T12:01:07.353Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Three Kingdoms Strategy SimulatorはAIネイティブの歴史ストラテジー。すべてのNPCが独立した認知と長期にわたる永続記憶を持ち、地方の諸侯はいずれもエンジンに埋め込まれた固定スクリプトではありません。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T12:01:07.353Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『三国权谋模拟器』\n✨ いつでも無料でプレイ\n\nThree Kingdoms Strategy SimulatorはAIネイティブの歴史ストラテジー。すべてのNPCが独立した認知と長期にわたる永続記憶を持ち、地方の諸侯はいずれもエンジンに埋め込まれた固定スクリプトで…\n\nhttps://store.steampowered.com/app/4781060/",
+        "attemptedAt": "2026-11-27T12:01:09.462Z",
+        "bufferPostId": "6b097105e94385a8fd9ff717",
+        "submittedAt": "2026-11-27T12:01:11.084Z",
+        "postedAt": "2026-11-27T12:01:11.084Z"
+      },
+      "bufferPostId": "6b097105e94385a8fd9ff717",
+      "postedAt": "2026-11-27T12:01:11.084Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T09:01:05.408Z",
+    "lastSuccessfulScanAt": "2026-11-27T12:01:07.353Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26197,6 +26231,7 @@
       "4773930": "2026-10-23T03:01:08.088Z",
       "4775990": "2026-10-24T00:01:05.299Z",
       "4776360": "2026-11-02T06:01:05.538Z",
+      "4781060": "2026-11-27T12:01:07.353Z",
       "4788590": "2026-11-17T21:01:07.295Z",
       "4789870": "2026-11-24T06:01:02.972Z",
       "4790710": "2026-11-25T03:01:07.315Z",
