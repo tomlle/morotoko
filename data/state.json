@@ -3010,6 +3010,14 @@
     "steam:5591420:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5591420:permanent_free:1"
+    },
+    "steam:5475670:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5475670:permanent_free:1"
+    },
+    "steam:3242050:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3242050:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26172,11 +26180,71 @@
       },
       "bufferPostId": "6b09c574d5bf252ef5406586",
       "postedAt": "2026-11-27T18:01:25.817Z"
+    },
+    "steam:5475670:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5475670:permanent_free:1",
+      "store": "steam",
+      "productId": "5475670",
+      "generation": 1,
+      "title": "Peer Into The Void",
+      "storeUrl": "https://store.steampowered.com/app/5475670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T21:01:06.735Z",
+      "lastSeenAt": "2026-11-27T21:01:06.735Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Catch what moved. The moves get smaller and smaller. Test your perception.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T21:01:06.735Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Peer Into The Void』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5475670/",
+        "attemptedAt": "2026-11-27T21:01:08.568Z",
+        "bufferPostId": "6b09ef94b5cd052fe28f0b9e",
+        "submittedAt": "2026-11-27T21:01:10.014Z",
+        "postedAt": "2026-11-27T21:01:10.014Z"
+      },
+      "bufferPostId": "6b09ef94b5cd052fe28f0b9e",
+      "postedAt": "2026-11-27T21:01:10.014Z"
+    },
+    "steam:3242050:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3242050:permanent_free:1",
+      "store": "steam",
+      "productId": "3242050",
+      "generation": 1,
+      "title": "Sort It Together",
+      "storeUrl": "https://store.steampowered.com/app/3242050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T21:01:06.735Z",
+      "lastSeenAt": "2026-11-27T21:01:06.735Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "PLAY FOR FREE WITH FRIENDS! Clean, sort, and restore messy places together. Enjoy a relaxing tidy-up experience or turn up the chaos! Take on jobs, earn money, and build your own cleaning business. Just leave every place cleaner than you found it. How hard could that be?",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T21:01:06.735Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Sort It Together』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3242050/",
+        "attemptedAt": "2026-11-27T21:01:10.024Z",
+        "bufferPostId": "6b09ef96b5cd052fe28f0c56",
+        "submittedAt": "2026-11-27T21:01:11.422Z",
+        "postedAt": "2026-11-27T21:01:11.422Z"
+      },
+      "bufferPostId": "6b09ef96b5cd052fe28f0c56",
+      "postedAt": "2026-11-27T21:01:11.422Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T18:01:15.297Z",
+    "lastSuccessfulScanAt": "2026-11-27T21:01:06.735Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26236,6 +26304,7 @@
       "3138080": "2026-10-25T09:01:01.104Z",
       "3148090": "2026-11-24T12:01:05.527Z",
       "3199110": "2026-10-30T21:01:07.872Z",
+      "3242050": "2026-11-27T21:01:06.735Z",
       "3249730": "2026-11-18T00:01:16.673Z",
       "3301840": "2026-11-06T06:01:16.414Z",
       "3308580": "2026-11-26T03:01:07.768Z",
@@ -26969,6 +27038,7 @@
       "5472990": "2026-11-19T18:01:18.855Z",
       "5473010": "2026-11-06T06:01:16.414Z",
       "5473320": "2026-11-14T18:01:03.320Z",
+      "5475670": "2026-11-27T21:01:06.735Z",
       "5476640": "2026-11-11T21:01:10.292Z",
       "5478080": "2026-11-21T18:01:06.068Z",
       "5478680": "2026-11-10T18:01:39.865Z",

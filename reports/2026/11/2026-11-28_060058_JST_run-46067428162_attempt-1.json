@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46067428162",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-27T21:00:58.902Z",
+    "finishedAt": "2026-11-27T21:01:11.440Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46067428162"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 11,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5475670",
+      "title": "Peer Into The Void",
+      "storeUrl": "https://store.steampowered.com/app/5475670/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475670/ef8e7dffc414af6d9031a3db876ae00559ed3850/header.jpg?t=1795809561",
+      "officialDescription": "Catch what moved. The moves get smaller and smaller. Test your perception."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3242050",
+      "title": "Sort It Together",
+      "storeUrl": "https://store.steampowered.com/app/3242050/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3242050/951d81fa1c6e1386376ac91860db633afcb1c77a/header.jpg?t=1795810259",
+      "officialDescription": "PLAY FOR FREE WITH FRIENDS! Clean, sort, and restore messy places together. Enjoy a relaxing tidy-up experience or turn up the chaos! Take on jobs, earn money, and build your own cleaning business. Just leave every place cleaner than you found it. How hard could that be?"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5475670:permanent_free:1",
+      "productId": "5475670",
+      "title": "Peer Into The Void",
+      "status": "sent",
+      "bufferPostId": "6b09ef94b5cd052fe28f0b9e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:3242050:permanent_free:1",
+      "productId": "3242050",
+      "title": "Sort It Together",
+      "status": "sent",
+      "bufferPostId": "6b09ef96b5cd052fe28f0c56"
+    }
+  ],
+  "errors": []
+}
