@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46046187170",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-27T18:01:05.938Z",
+    "finishedAt": "2026-11-27T18:01:25.846Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46046187170"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 14,
+    "verified": 5,
+    "newPromotions": 5,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 5,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5448310",
+      "title": "Rune Nest",
+      "storeUrl": "https://store.steampowered.com/app/5448310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448310/3dada863d00d9a05901cd04f3252589403e05401/header.jpg?t=1795802375",
+      "officialDescription": "Collect charming companions, build a five-member team, and master turn-based battles in a lush fantasy world. Shape your team with runes, challenge dungeon bosses, and face player defenses in the Colosseum. A little home. A wild adventure."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4606530",
+      "title": "Pushlings",
+      "storeUrl": "https://store.steampowered.com/app/4606530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4606530/c193d14ae81660172379494f80d1463349e945e5/header.jpg?t=1795800644",
+      "officialDescription": "Pushlings is a competitive multiplayer game where players compete to accumulate the highest number of points through movement. Each step counts toward the score, while enemies appear throughout the match and other players compete for space by pushing each other."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4601360",
+      "title": "Magic Quest Online",
+      "storeUrl": "https://store.steampowered.com/app/4601360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601360/a7ba83723337df86edb4de06ed2a90cce9c9ccfa/header.jpg?t=1795798186",
+      "officialDescription": "A bright, colorful game full of unexpected surprises and offbeat humor. Here, anyone can become a hero by battling the environment and rivals alike. Join right now!"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5567360",
+      "title": "Summonforge: Idle RPG",
+      "storeUrl": "https://store.steampowered.com/app/5567360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567360/7643239a397fee4d4bfd47c1a63e892a5dad3883/header.jpg?t=1795795258",
+      "officialDescription": "ランキングの頂点を目指して、ほかのプレイヤーと競い合おう！80人の個性的な英雄を召喚し、最強のチームを編成して無限に続く世界へ挑むファンタジー放置RPG。英雄の融合、スキル進化、伝説の装備集めを楽しみ、オフライン中も成長しよう！"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5591420",
+      "title": "WRECKRUN RACING",
+      "storeUrl": "https://store.steampowered.com/app/5591420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5591420/30e2aaa459ab9f922163f9df36b658a5ff4fffb1/header.jpg?t=1795791659",
+      "officialDescription": "Free arcade racing with competitive AI, 14 race maps, a rally stage and a sandbox. Race five rivals, beat the clock and hold the perfect line. Keyboard, gamepad and steering wheel supported. A high school graduation project."
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5448310:permanent_free:1",
+      "productId": "5448310",
+      "title": "Rune Nest",
+      "status": "sent",
+      "bufferPostId": "6b09c56ef34d25de1e361a0e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4606530:permanent_free:1",
+      "productId": "4606530",
+      "title": "Pushlings",
+      "status": "sent",
+      "bufferPostId": "6b09c56ff34d25de1e361aaf"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:4601360:permanent_free:1",
+      "productId": "4601360",
+      "title": "Magic Quest Online",
+      "status": "sent",
+      "bufferPostId": "6b09c570f34d25de1e361e8f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5567360:permanent_free:1",
+      "productId": "5567360",
+      "title": "Summonforge: Idle RPG",
+      "status": "sent",
+      "bufferPostId": "6b09c5722b8a129ed817a82d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5591420:permanent_free:1",
+      "productId": "5591420",
+      "title": "WRECKRUN RACING",
+      "status": "sent",
+      "bufferPostId": "6b09c574d5bf252ef5406586"
+    }
+  ],
+  "errors": []
+}

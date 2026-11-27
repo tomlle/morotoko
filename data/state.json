@@ -2990,6 +2990,26 @@
     "steam:1622130:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:1622130:permanent_free:1"
+    },
+    "steam:5448310:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5448310:permanent_free:1"
+    },
+    "steam:4606530:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4606530:permanent_free:1"
+    },
+    "steam:4601360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4601360:permanent_free:1"
+    },
+    "steam:5567360:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5567360:permanent_free:1"
+    },
+    "steam:5591420:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5591420:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26002,11 +26022,161 @@
       },
       "bufferPostId": "6b099b35bb117e5ba756536b",
       "postedAt": "2026-11-27T15:01:11.204Z"
+    },
+    "steam:5448310:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5448310:permanent_free:1",
+      "store": "steam",
+      "productId": "5448310",
+      "generation": 1,
+      "title": "Rune Nest",
+      "storeUrl": "https://store.steampowered.com/app/5448310/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T18:01:15.297Z",
+      "lastSeenAt": "2026-11-27T18:01:15.297Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Collect charming companions, build a five-member team, and master turn-based battles in a lush fantasy world. Shape your team with runes, challenge dungeon bosses, and face player defenses in the Colosseum. A little home. A wild adventure.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T18:01:15.297Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Rune Nest』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5448310/",
+        "attemptedAt": "2026-11-27T18:01:18.075Z",
+        "bufferPostId": "6b09c56ef34d25de1e361a0e",
+        "submittedAt": "2026-11-27T18:01:19.578Z",
+        "postedAt": "2026-11-27T18:01:19.578Z"
+      },
+      "bufferPostId": "6b09c56ef34d25de1e361a0e",
+      "postedAt": "2026-11-27T18:01:19.578Z"
+    },
+    "steam:4606530:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4606530:permanent_free:1",
+      "store": "steam",
+      "productId": "4606530",
+      "generation": 1,
+      "title": "Pushlings",
+      "storeUrl": "https://store.steampowered.com/app/4606530/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T18:01:15.297Z",
+      "lastSeenAt": "2026-11-27T18:01:15.297Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Pushlings is a competitive multiplayer game where players compete to accumulate the highest number of points through movement. Each step counts toward the score, while enemies appear throughout the match and other players compete for space by pushing each other.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T18:01:15.297Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Pushlings』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4606530/",
+        "attemptedAt": "2026-11-27T18:01:19.587Z",
+        "bufferPostId": "6b09c56ff34d25de1e361aaf",
+        "submittedAt": "2026-11-27T18:01:20.865Z",
+        "postedAt": "2026-11-27T18:01:20.865Z"
+      },
+      "bufferPostId": "6b09c56ff34d25de1e361aaf",
+      "postedAt": "2026-11-27T18:01:20.865Z"
+    },
+    "steam:4601360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4601360:permanent_free:1",
+      "store": "steam",
+      "productId": "4601360",
+      "generation": 1,
+      "title": "Magic Quest Online",
+      "storeUrl": "https://store.steampowered.com/app/4601360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T18:01:15.297Z",
+      "lastSeenAt": "2026-11-27T18:01:15.297Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A bright, colorful game full of unexpected surprises and offbeat humor. Here, anyone can become a hero by battling the environment and rivals alike. Join right now!",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T18:01:15.297Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Magic Quest Online』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/4601360/",
+        "attemptedAt": "2026-11-27T18:01:20.875Z",
+        "bufferPostId": "6b09c570f34d25de1e361e8f",
+        "submittedAt": "2026-11-27T18:01:22.523Z",
+        "postedAt": "2026-11-27T18:01:22.523Z"
+      },
+      "bufferPostId": "6b09c570f34d25de1e361e8f",
+      "postedAt": "2026-11-27T18:01:22.523Z"
+    },
+    "steam:5567360:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5567360:permanent_free:1",
+      "store": "steam",
+      "productId": "5567360",
+      "generation": 1,
+      "title": "Summonforge: Idle RPG",
+      "storeUrl": "https://store.steampowered.com/app/5567360/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T18:01:15.297Z",
+      "lastSeenAt": "2026-11-27T18:01:15.297Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "ランキングの頂点を目指して、ほかのプレイヤーと競い合おう！80人の個性的な英雄を召喚し、最強のチームを編成して無限に続く世界へ挑むファンタジー放置RPG。英雄の融合、スキル進化、伝説の装備集めを楽しみ、オフライン中も成長しよう！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T18:01:15.297Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Summonforge: Idle RPG』\n✨ いつでも無料でプレイ\n\nランキングの頂点を目指して、ほかのプレイヤーと競い合おう！80人の個性的な英雄を召喚し、最強のチームを編成して無限に続く世界へ挑むファンタジー放置RPG。英雄の融合、スキル進化、…\n\nhttps://store.steampowered.com/app/5567360/",
+        "attemptedAt": "2026-11-27T18:01:22.539Z",
+        "bufferPostId": "6b09c5722b8a129ed817a82d",
+        "submittedAt": "2026-11-27T18:01:24.151Z",
+        "postedAt": "2026-11-27T18:01:24.151Z"
+      },
+      "bufferPostId": "6b09c5722b8a129ed817a82d",
+      "postedAt": "2026-11-27T18:01:24.151Z"
+    },
+    "steam:5591420:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5591420:permanent_free:1",
+      "store": "steam",
+      "productId": "5591420",
+      "generation": 1,
+      "title": "WRECKRUN RACING",
+      "storeUrl": "https://store.steampowered.com/app/5591420/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T18:01:15.297Z",
+      "lastSeenAt": "2026-11-27T18:01:15.297Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Free arcade racing with competitive AI, 14 race maps, a rally stage and a sandbox. Race five rivals, beat the clock and hold the perfect line. Keyboard, gamepad and steering wheel supported. A high school graduation project.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T18:01:15.297Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『WRECKRUN RACING』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5591420/",
+        "attemptedAt": "2026-11-27T18:01:24.168Z",
+        "bufferPostId": "6b09c574d5bf252ef5406586",
+        "submittedAt": "2026-11-27T18:01:25.817Z",
+        "postedAt": "2026-11-27T18:01:25.817Z"
+      },
+      "bufferPostId": "6b09c574d5bf252ef5406586",
+      "postedAt": "2026-11-27T18:01:25.817Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T15:01:06.653Z",
+    "lastSuccessfulScanAt": "2026-11-27T18:01:15.297Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26213,7 +26383,9 @@
       "4578590": "2026-11-14T03:01:11.349Z",
       "4594300": "2026-10-27T09:01:03.509Z",
       "4597820": "2026-10-27T00:01:18.126Z",
+      "4601360": "2026-11-27T18:01:15.297Z",
       "4604010": "2026-11-15T12:01:04.799Z",
+      "4606530": "2026-11-27T18:01:15.297Z",
       "4607460": "2026-11-04T00:01:23.910Z",
       "4607590": "2026-10-28T15:01:16.098Z",
       "4610030": "2026-11-23T15:01:20.190Z",
@@ -26774,6 +26946,7 @@
       "5446390": "2026-11-18T00:01:16.673Z",
       "5446410": "2026-11-06T12:01:14.375Z",
       "5447060": "2026-11-09T12:01:11.937Z",
+      "5448310": "2026-11-27T18:01:15.297Z",
       "5449680": "2026-11-18T15:01:17.672Z",
       "5450430": "2026-11-12T00:01:14.122Z",
       "5451420": "2026-11-17T06:01:08.190Z",
@@ -26842,9 +27015,11 @@
       "5553820": "2026-11-26T15:01:17.545Z",
       "5558370": "2026-11-24T15:01:08.043Z",
       "5559200": "2026-11-24T06:01:02.972Z",
+      "5567360": "2026-11-27T18:01:15.297Z",
       "5567470": "2026-11-24T21:01:16.703Z",
       "5577110": "2026-11-27T03:01:10.348Z",
-      "5579870": "2026-11-27T03:01:10.348Z"
+      "5579870": "2026-11-27T03:01:10.348Z",
+      "5591420": "2026-11-27T18:01:15.297Z"
     }
   }
 }
