@@ -2974,6 +2974,10 @@
     "steam:5577110:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5577110:permanent_free:1"
+    },
+    "steam:4750950:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:4750950:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25866,11 +25870,41 @@
       },
       "bufferPostId": "6b08f279e94385a8fd6a6fe6",
       "postedAt": "2026-11-27T03:01:15.127Z"
+    },
+    "steam:4750950:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:4750950:permanent_free:1",
+      "store": "steam",
+      "productId": "4750950",
+      "generation": 1,
+      "title": "The Last Deadline",
+      "storeUrl": "https://store.steampowered.com/app/4750950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T06:01:05.348Z",
+      "lastSeenAt": "2026-11-27T06:01:05.348Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "午後11時50分、課題の締切は深夜0時。なのに君は、外に出してくれないクラブに閉じ込められている。4つのゲームに勝って、0時までに裏口へたどり着こう。負けたら飲む。その気持ちをよく知る大学生4人が作った、短くてかなりおバカなピクセルアートコメディ。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T06:01:05.348Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『The Last Deadline』\n✨ いつでも無料でプレイ\n\n午後11時50分、課題の締切は深夜0時。なのに君は、外に出してくれないクラブに閉じ込められている。4つのゲームに勝って、0時までに裏口へたどり着こう。負けたら飲む。その気持ちをよく知る…\n\nhttps://store.steampowered.com/app/4750950/",
+        "attemptedAt": "2026-11-27T06:01:07.368Z",
+        "bufferPostId": "6b091ca3049983dcfb9143e8",
+        "submittedAt": "2026-11-27T06:01:08.749Z",
+        "postedAt": "2026-11-27T06:01:08.749Z"
+      },
+      "bufferPostId": "6b091ca3049983dcfb9143e8",
+      "postedAt": "2026-11-27T06:01:08.749Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T03:01:10.348Z",
+    "lastSuccessfulScanAt": "2026-11-27T06:01:05.348Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26118,6 +26152,7 @@
       "4746110": "2026-10-16T09:01:06.129Z",
       "4747360": "2026-11-07T21:01:08.968Z",
       "4748680": "2026-11-21T09:01:07.849Z",
+      "4750950": "2026-11-27T06:01:05.348Z",
       "4756450": "2026-10-22T18:01:09.344Z",
       "4757880": "2026-11-15T15:01:07.240Z",
       "4763980": "2026-11-12T18:01:08.650Z",

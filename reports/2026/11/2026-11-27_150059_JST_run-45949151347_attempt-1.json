@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45949151347",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-27T06:00:59.959Z",
+    "finishedAt": "2026-11-27T06:01:08.771Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45949151347"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 10,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "4750950",
+      "title": "The Last Deadline",
+      "storeUrl": "https://store.steampowered.com/app/4750950/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750950/079f5232b0679e6c6b6c62792bd2a1aedf8a1932/header.jpg?t=1795759259",
+      "officialDescription": "午後11時50分、課題の締切は深夜0時。なのに君は、外に出してくれないクラブに閉じ込められている。4つのゲームに勝って、0時までに裏口へたどり着こう。負けたら飲む。その気持ちをよく知る大学生4人が作った、短くてかなりおバカなピクセルアートコメディ。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:4750950:permanent_free:1",
+      "productId": "4750950",
+      "title": "The Last Deadline",
+      "status": "sent",
+      "bufferPostId": "6b091ca3049983dcfb9143e8"
+    }
+  ],
+  "errors": []
+}
