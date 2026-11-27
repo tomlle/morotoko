@@ -2966,6 +2966,14 @@
     "steam:5467680:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5467680:permanent_free:1"
+    },
+    "steam:5579870:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5579870:permanent_free:1"
+    },
+    "steam:5577110:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5577110:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25798,11 +25806,71 @@
       },
       "bufferPostId": "6b089e14c81617797de2c2b7",
       "postedAt": "2026-11-26T21:01:09.860Z"
+    },
+    "steam:5579870:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5579870:permanent_free:1",
+      "store": "steam",
+      "productId": "5579870",
+      "generation": 1,
+      "title": "Satu GANG!",
+      "storeUrl": "https://store.steampowered.com/app/5579870/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T03:01:10.348Z",
+      "lastSeenAt": "2026-11-27T03:01:10.348Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "A 2D pixel-art fighting game with Indonesian neighborhood chaos. Pick one of four fighters, chain combos, and unleash cinematic supers. Play character stories, local 1 vs 1, Survival, and Training. In-game text is Indonesian.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T03:01:10.348Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Satu GANG!』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5579870/",
+        "attemptedAt": "2026-11-27T03:01:11.715Z",
+        "bufferPostId": "6b08f277e94385a8fd6a6f1a",
+        "submittedAt": "2026-11-27T03:01:13.315Z",
+        "postedAt": "2026-11-27T03:01:13.315Z"
+      },
+      "bufferPostId": "6b08f277e94385a8fd6a6f1a",
+      "postedAt": "2026-11-27T03:01:13.315Z"
+    },
+    "steam:5577110:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5577110:permanent_free:1",
+      "store": "steam",
+      "productId": "5577110",
+      "generation": 1,
+      "title": "Bowlo",
+      "storeUrl": "https://store.steampowered.com/app/5577110/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T03:01:10.348Z",
+      "lastSeenAt": "2026-11-27T03:01:10.348Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "BOWLO is a 3D bowling roguelike where every throw is an attack. Your ball carries a gun that fires down the lane on its own, the pins answer with bullet-hell patterns, and you steer the rolling ball through the fire while it's on its way to the pocket.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T03:01:10.348Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Bowlo』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5577110/",
+        "attemptedAt": "2026-11-27T03:01:13.324Z",
+        "bufferPostId": "6b08f279e94385a8fd6a6fe6",
+        "submittedAt": "2026-11-27T03:01:15.127Z",
+        "postedAt": "2026-11-27T03:01:15.127Z"
+      },
+      "bufferPostId": "6b08f279e94385a8fd6a6fe6",
+      "postedAt": "2026-11-27T03:01:15.127Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T00:01:06.581Z",
+    "lastSuccessfulScanAt": "2026-11-27T03:01:10.348Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26634,7 +26702,9 @@
       "5553820": "2026-11-26T15:01:17.545Z",
       "5558370": "2026-11-24T15:01:08.043Z",
       "5559200": "2026-11-24T06:01:02.972Z",
-      "5567470": "2026-11-24T21:01:16.703Z"
+      "5567470": "2026-11-24T21:01:16.703Z",
+      "5577110": "2026-11-27T03:01:10.348Z",
+      "5579870": "2026-11-27T03:01:10.348Z"
     }
   }
 }
