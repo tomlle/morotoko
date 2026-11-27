@@ -2978,6 +2978,10 @@
     "steam:4750950:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:4750950:permanent_free:1"
+    },
+    "steam:5000500:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5000500:permanent_free:1"
     }
   },
   "campaigns": {
@@ -25900,11 +25904,41 @@
       },
       "bufferPostId": "6b091ca3049983dcfb9143e8",
       "postedAt": "2026-11-27T06:01:08.749Z"
+    },
+    "steam:5000500:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5000500:permanent_free:1",
+      "store": "steam",
+      "productId": "5000500",
+      "generation": 1,
+      "title": "少女三国志",
+      "storeUrl": "https://store.steampowered.com/app/5000500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-27T09:01:05.408Z",
+      "lastSeenAt": "2026-11-27T09:01:05.408Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "《少女三国志》是一款融合三国历史与异世界幻想的二次元策略RPG。三国英魂因时空裂隙降临星魂大陆，以少女之身重获力量，与魔魇军团展开跨越世界的战争。收集传奇英魂，组建最强阵容，探索隐藏真相，开启属于你的全新三国篇章。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-27T09:01:05.408Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『少女三国志』\n✨ いつでも無料でプレイ\n\n《少女三国志》是一款融合三国历史与异世界幻想的二次元策略RPG。三国英魂因时空裂隙降临星魂大陆，以少女之身重获力量，与魔魇军团展开跨越世界的战争。收集传奇英魂，组建最强阵容，探索隐藏真相…\n\nhttps://store.steampowered.com/app/5000500/",
+        "attemptedAt": "2026-11-27T09:01:07.384Z",
+        "bufferPostId": "6b0946d31fd46e62e72b86ac",
+        "submittedAt": "2026-11-27T09:01:08.685Z",
+        "postedAt": "2026-11-27T09:01:08.685Z"
+      },
+      "bufferPostId": "6b0946d31fd46e62e72b86ac",
+      "postedAt": "2026-11-27T09:01:08.685Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-27T06:01:05.348Z",
+    "lastSuccessfulScanAt": "2026-11-27T09:01:05.408Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26266,6 +26300,7 @@
       "4994410": "2026-10-14T15:30:36.000Z",
       "4997370": "2026-10-28T09:01:06.160Z",
       "4997960": "2026-10-23T21:00:59.012Z",
+      "5000500": "2026-11-27T09:01:05.408Z",
       "5002430": "2026-11-03T18:01:16.982Z",
       "5004590": "2026-10-27T21:01:04.552Z",
       "5005680": "2026-10-14T15:30:36.000Z",

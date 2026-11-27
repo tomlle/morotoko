@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "45970137504",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-27T09:00:59.599Z",
+    "finishedAt": "2026-11-27T09:01:08.709Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/45970137504"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 10,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5000500",
+      "title": "少女三国志",
+      "storeUrl": "https://store.steampowered.com/app/5000500/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000500/794fdefd08046edc436d6865d1b57e925684bb05/header.jpg?t=1795762963",
+      "officialDescription": "《少女三国志》是一款融合三国历史与异世界幻想的二次元策略RPG。三国英魂因时空裂隙降临星魂大陆，以少女之身重获力量，与魔魇军团展开跨越世界的战争。收集传奇英魂，组建最强阵容，探索隐藏真相，开启属于你的全新三国篇章。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5000500:permanent_free:1",
+      "productId": "5000500",
+      "title": "少女三国志",
+      "status": "sent",
+      "bufferPostId": "6b0946d31fd46e62e72b86ac"
+    }
+  ],
+  "errors": []
+}
