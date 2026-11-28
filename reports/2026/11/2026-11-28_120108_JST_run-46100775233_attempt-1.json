@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46100775233",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-28T03:01:08.336Z",
+    "finishedAt": "2026-11-28T03:01:22.046Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46100775233"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 12,
+    "verified": 3,
+    "newPromotions": 3,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 3,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5420230",
+      "title": "DualBeats",
+      "storeUrl": "https://store.steampowered.com/app/5420230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5420230/dfae288a9ed444a48b7c409a7455c5a164cf6e80/header.jpg?t=1795834627",
+      "officialDescription": "画面の中央に向かって左右から流れてくるノーツを、1人なら両手で、2人なら 1台を挟んで協力して叩くリズムゲーム。 流れてくるノーツ自体を叩く必要がないため、より純粋に音に集中して遊ぶことができます。 内蔵の譜面エディタで手持ちの曲から譜面を作り、QR画像にして簡単にシェアすることが可能です。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5578650",
+      "title": "Lumanto",
+      "storeUrl": "https://store.steampowered.com/app/5578650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5578650/6cb674769e56d62e6df641136e779cee79239617/header.jpg?t=1795830511",
+      "officialDescription": "英雄と350種類以上の魔法生物が登場する無料のファンタジーRPGです。いつでもソロで遊べるほか、SteamやTwitch、Kickのチャットから配信のキャラバンに参加することもできます。英雄を育成し、魔法生物をなだめ、装備を鍛え上げましょう。"
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5071200",
+      "title": "仙帝神兵",
+      "storeUrl": "https://store.steampowered.com/app/5071200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071200/f8c506c9529d68f554ce0d32176901f39a7b7146/header.jpg?t=1795825401",
+      "officialDescription": "《仙帝神兵》是一款国风神话题材的史诗级3D动作游戏。游戏以中国古代神话为背景，打造恢弘壮阔 的六界战场，采用高品质3D画面，呈现震撼唯美的仙侠世界。上古神兵现世，六界风云再起，群雄争 霸，强者为尊！你将化身天命修行者，从凡尘崛起，历经重重试炼，收神兵、斩妖魔、破苍穹，一路 杀上巅峰，成就属于你的不朽传说！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5420230:permanent_free:1",
+      "productId": "5420230",
+      "title": "DualBeats",
+      "status": "sent",
+      "bufferPostId": "6b0a43fe70e80ae8f1c91051"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5578650:permanent_free:1",
+      "productId": "5578650",
+      "title": "Lumanto",
+      "status": "sent",
+      "bufferPostId": "6b0a43ff41454797eae6013f"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5071200:permanent_free:1",
+      "productId": "5071200",
+      "title": "仙帝神兵",
+      "status": "sent",
+      "bufferPostId": "6b0a4400eab081a3f51a9b0a"
+    }
+  ],
+  "errors": []
+}

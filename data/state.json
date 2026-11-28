@@ -3022,6 +3022,18 @@
     "steam:5584920:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5584920:permanent_free:1"
+    },
+    "steam:5420230:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5420230:permanent_free:1"
+    },
+    "steam:5578650:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5578650:permanent_free:1"
+    },
+    "steam:5071200:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5071200:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26274,11 +26286,101 @@
       },
       "bufferPostId": "6b0a19c42a2e4f66cae36d1d",
       "postedAt": "2026-11-28T00:01:09.536Z"
+    },
+    "steam:5420230:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5420230:permanent_free:1",
+      "store": "steam",
+      "productId": "5420230",
+      "generation": 1,
+      "title": "DualBeats",
+      "storeUrl": "https://store.steampowered.com/app/5420230/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T03:01:15.269Z",
+      "lastSeenAt": "2026-11-28T03:01:15.269Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "画面の中央に向かって左右から流れてくるノーツを、1人なら両手で、2人なら 1台を挟んで協力して叩くリズムゲーム。 流れてくるノーツ自体を叩く必要がないため、より純粋に音に集中して遊ぶことができます。 内蔵の譜面エディタで手持ちの曲から譜面を作り、QR画像にして簡単にシェアすることが可能です。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T03:01:15.269Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『DualBeats』\n✨ いつでも無料でプレイ\n\n画面の中央に向かって左右から流れてくるノーツを、1人なら両手で、2人なら 1台を挟んで協力して叩くリズムゲーム。 流れてくるノーツ自体を叩く必要がないため、より純粋に音に集中して遊ぶことがで…\n\nhttps://store.steampowered.com/app/5420230/",
+        "attemptedAt": "2026-11-28T03:01:17.905Z",
+        "bufferPostId": "6b0a43fe70e80ae8f1c91051",
+        "submittedAt": "2026-11-28T03:01:19.341Z",
+        "postedAt": "2026-11-28T03:01:19.341Z"
+      },
+      "bufferPostId": "6b0a43fe70e80ae8f1c91051",
+      "postedAt": "2026-11-28T03:01:19.341Z"
+    },
+    "steam:5578650:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5578650:permanent_free:1",
+      "store": "steam",
+      "productId": "5578650",
+      "generation": 1,
+      "title": "Lumanto",
+      "storeUrl": "https://store.steampowered.com/app/5578650/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T03:01:15.269Z",
+      "lastSeenAt": "2026-11-28T03:01:15.269Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "英雄と350種類以上の魔法生物が登場する無料のファンタジーRPGです。いつでもソロで遊べるほか、SteamやTwitch、Kickのチャットから配信のキャラバンに参加することもできます。英雄を育成し、魔法生物をなだめ、装備を鍛え上げましょう。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T03:01:15.269Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Lumanto』\n✨ いつでも無料でプレイ\n\n英雄と350種類以上の魔法生物が登場する無料のファンタジーRPGです。いつでもソロで遊べるほか、SteamやTwitch、Kickのチャットから配信のキャラバンに参加することもできます。英雄を育成し、魔法生物…\n\nhttps://store.steampowered.com/app/5578650/",
+        "attemptedAt": "2026-11-28T03:01:19.351Z",
+        "bufferPostId": "6b0a43ff41454797eae6013f",
+        "submittedAt": "2026-11-28T03:01:20.670Z",
+        "postedAt": "2026-11-28T03:01:20.670Z"
+      },
+      "bufferPostId": "6b0a43ff41454797eae6013f",
+      "postedAt": "2026-11-28T03:01:20.670Z"
+    },
+    "steam:5071200:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5071200:permanent_free:1",
+      "store": "steam",
+      "productId": "5071200",
+      "generation": 1,
+      "title": "仙帝神兵",
+      "storeUrl": "https://store.steampowered.com/app/5071200/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T03:01:15.269Z",
+      "lastSeenAt": "2026-11-28T03:01:15.269Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "《仙帝神兵》是一款国风神话题材的史诗级3D动作游戏。游戏以中国古代神话为背景，打造恢弘壮阔 的六界战场，采用高品质3D画面，呈现震撼唯美的仙侠世界。上古神兵现世，六界风云再起，群雄争 霸，强者为尊！你将化身天命修行者，从凡尘崛起，历经重重试炼，收神兵、斩妖魔、破苍穹，一路 杀上巅峰，成就属于你的不朽传说！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T03:01:15.269Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『仙帝神兵』\n✨ いつでも無料でプレイ\n\n《仙帝神兵》是一款国风神话题材的史诗级3D动作游戏。游戏以中国古代神话为背景，打造恢弘壮阔 的六界战场，采用高品质3D画面，呈现震撼唯美的仙侠世界。上古神兵现世，六界风云再起，群雄争 霸，强者…\n\nhttps://store.steampowered.com/app/5071200/",
+        "attemptedAt": "2026-11-28T03:01:20.680Z",
+        "bufferPostId": "6b0a4400eab081a3f51a9b0a",
+        "submittedAt": "2026-11-28T03:01:22.029Z",
+        "postedAt": "2026-11-28T03:01:22.029Z"
+      },
+      "bufferPostId": "6b0a4400eab081a3f51a9b0a",
+      "postedAt": "2026-11-28T03:01:22.029Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-28T00:01:07.706Z",
+    "lastSuccessfulScanAt": "2026-11-28T03:01:15.269Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26698,6 +26800,7 @@
       "5065190": "2026-11-06T06:01:16.414Z",
       "5068630": "2026-11-20T09:01:08.183Z",
       "5070720": "2026-11-26T00:01:11.247Z",
+      "5071200": "2026-11-28T03:01:15.269Z",
       "5073660": "2026-11-03T18:01:16.982Z",
       "5074450": "2026-11-03T03:01:07.417Z",
       "5075110": "2026-10-16T03:01:04.575Z",
@@ -27024,6 +27127,7 @@
       "5415410": "2026-11-06T06:01:16.414Z",
       "5416440": "2026-11-04T03:01:08.084Z",
       "5418360": "2026-11-13T18:01:06.687Z",
+      "5420230": "2026-11-28T03:01:15.269Z",
       "5421960": "2026-11-14T12:01:04.545Z",
       "5422900": "2026-11-20T15:01:27.184Z",
       "5423320": "2026-11-14T03:01:11.349Z",
@@ -27122,6 +27226,7 @@
       "5567360": "2026-11-27T18:01:15.297Z",
       "5567470": "2026-11-24T21:01:16.703Z",
       "5577110": "2026-11-27T03:01:10.348Z",
+      "5578650": "2026-11-28T03:01:15.269Z",
       "5579870": "2026-11-27T03:01:10.348Z",
       "5584920": "2026-11-28T00:01:07.706Z",
       "5591420": "2026-11-27T18:01:15.297Z"
