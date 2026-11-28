@@ -3050,6 +3050,10 @@
     "steam:5553700:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5553700:permanent_free:1"
+    },
+    "steam:5406780:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5406780:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26512,11 +26516,41 @@
       },
       "bufferPostId": "6b0ac28476150372101ea75e",
       "postedAt": "2026-11-28T12:01:10.151Z"
+    },
+    "steam:5406780:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5406780:permanent_free:1",
+      "store": "steam",
+      "productId": "5406780",
+      "generation": 1,
+      "title": "Ludo Wala 3D & Action",
+      "storeUrl": "https://store.steampowered.com/app/5406780/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T15:01:05.698Z",
+      "lastSeenAt": "2026-11-28T15:01:05.698Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "Play Ludo, Snakes & Ladders and Stairs in 3D with 2 to 4 players. Share a screen for local play or meet friends online across PC, mobile and browser. Throw toys, send reactions and choose your table's look",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T15:01:05.698Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『Ludo Wala 3D & Action』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/5406780/",
+        "attemptedAt": "2026-11-28T15:01:08.260Z",
+        "bufferPostId": "6b0aecb4c6d7f1e7225029f6",
+        "submittedAt": "2026-11-28T15:01:09.860Z",
+        "postedAt": "2026-11-28T15:01:09.860Z"
+      },
+      "bufferPostId": "6b0aecb4c6d7f1e7225029f6",
+      "postedAt": "2026-11-28T15:01:09.860Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-28T12:01:05.137Z",
+    "lastSuccessfulScanAt": "2026-11-28T15:01:05.698Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -27255,6 +27289,7 @@
       "5402790": "2026-11-04T03:01:08.084Z",
       "5403440": "2026-11-14T09:01:05.364Z",
       "5405810": "2026-10-29T12:01:05.996Z",
+      "5406780": "2026-11-28T15:01:05.698Z",
       "5407690": "2026-11-20T09:01:08.183Z",
       "5407720": "2026-11-26T15:01:17.545Z",
       "5408030": "2026-11-15T06:01:04.768Z",
