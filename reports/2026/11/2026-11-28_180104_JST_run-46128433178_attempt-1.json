@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46128433178",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-28T09:01:04.082Z",
+    "finishedAt": "2026-11-28T09:01:11.329Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46128433178"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 10,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5437770",
+      "title": "牛来沉默",
+      "storeUrl": "https://store.steampowered.com/app/5437770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437770/7817bff72534825b83224a6cc6a859d52a089ae2/header.jpg?t=1795845520",
+      "officialDescription": "无套路、无强制消费 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5344130:permanent_free:1",
+      "productId": "5344130",
+      "title": "1000王子様と中国語を学ぼう",
+      "status": "sent",
+      "bufferPostId": "6b0a6e22cf6d91773002ea8d"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5437770:permanent_free:1",
+      "productId": "5437770",
+      "title": "牛来沉默",
+      "status": "sent",
+      "bufferPostId": "6b0a9855c84d4c572b4b6732"
+    }
+  ],
+  "errors": []
+}

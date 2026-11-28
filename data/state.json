@@ -3038,6 +3038,10 @@
     "steam:5344130:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5344130:permanent_free:1"
+    },
+    "steam:5437770:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5437770:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26396,23 +26400,55 @@
       "lastSeenAt": "2026-11-28T06:01:05.005Z",
       "active": true,
       "consecutiveMisses": 0,
-      "postStatus": "submitted",
-      "postAttempts": 1,
+      "postStatus": "sent",
+      "postAttempts": 2,
       "officialDescription": "1000人の王子様と一緒に、ゼロから中国語を学ぼう！王子先生たちが用意したさまざまなレベルの中国語コースやテーマ別コースを選び、王子先生に質問して答えをもらうことができます。それぞれの王子先生が自分自身の物語を語りながら、中国語を教えてくれます。",
       "delivery": {
-        "status": "submitted",
+        "status": "sent",
         "firstSeenAt": "2026-11-28T06:01:05.005Z",
         "postText": "🎮 新作の無料ゲームを発見！\n\n『1000王子様と中国語を学ぼう』\n✨ いつでも無料でプレイ\n\n1000人の王子様と一緒に、ゼロから中国語を学ぼう！王子先生たちが用意したさまざまなレベルの中国語コースやテーマ別コースを選び、王子先生に質問して答えをもらうことができます…\n\nhttps://store.steampowered.com/app/5344130/",
         "attemptedAt": "2026-11-28T06:01:05.994Z",
         "bufferPostId": "6b0a6e22cf6d91773002ea8d",
-        "submittedAt": "2026-11-28T06:01:17.110Z"
+        "submittedAt": "2026-11-28T06:01:17.110Z",
+        "postedAt": "2026-11-28T06:06:17.161Z"
       },
-      "bufferPostId": "6b0a6e22cf6d91773002ea8d"
+      "bufferPostId": "6b0a6e22cf6d91773002ea8d",
+      "postedAt": "2026-11-28T06:06:17.161Z"
+    },
+    "steam:5437770:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5437770:permanent_free:1",
+      "store": "steam",
+      "productId": "5437770",
+      "generation": 1,
+      "title": "牛来沉默",
+      "storeUrl": "https://store.steampowered.com/app/5437770/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T09:01:08.784Z",
+      "lastSeenAt": "2026-11-28T09:01:08.784Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "无套路、无强制消费 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T09:01:08.784Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『牛来沉默』\n✨ いつでも無料でプレイ\n\n无套路、无强制消费 耐玩性佳：海量特色玩法持续更新，长久陪伴乐趣无穷！ 匠心巨制：团队潜心一年重磅打造，热血体验诚意奉上！ 人气保障：专注打造火爆大服，激情永不落幕！\n\nhttps://store.steampowered.com/app/5437770/",
+        "attemptedAt": "2026-11-28T09:01:09.772Z",
+        "bufferPostId": "6b0a9855c84d4c572b4b6732",
+        "submittedAt": "2026-11-28T09:01:11.307Z",
+        "postedAt": "2026-11-28T09:01:11.307Z"
+      },
+      "bufferPostId": "6b0a9855c84d4c572b4b6732",
+      "postedAt": "2026-11-28T09:01:11.307Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-28T06:01:05.005Z",
+    "lastSuccessfulScanAt": "2026-11-28T09:01:08.784Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -27178,6 +27214,7 @@
       "5435190": "2026-11-07T15:01:11.737Z",
       "5435270": "2026-11-14T12:01:04.545Z",
       "5437650": "2026-11-10T18:01:39.865Z",
+      "5437770": "2026-11-28T09:01:08.784Z",
       "5438380": "2026-11-22T09:01:12.161Z",
       "5442520": "2026-11-03T21:01:10.649Z",
       "5442940": "2026-11-24T00:01:09.151Z",
