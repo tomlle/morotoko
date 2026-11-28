@@ -3034,6 +3034,10 @@
     "steam:5071200:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5071200:permanent_free:1"
+    },
+    "steam:5344130:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5344130:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26376,11 +26380,39 @@
       },
       "bufferPostId": "6b0a4400eab081a3f51a9b0a",
       "postedAt": "2026-11-28T03:01:22.029Z"
+    },
+    "steam:5344130:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5344130:permanent_free:1",
+      "store": "steam",
+      "productId": "5344130",
+      "generation": 1,
+      "title": "1000王子様と中国語を学ぼう",
+      "storeUrl": "https://store.steampowered.com/app/5344130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T06:01:05.005Z",
+      "lastSeenAt": "2026-11-28T06:01:05.005Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "submitted",
+      "postAttempts": 1,
+      "officialDescription": "1000人の王子様と一緒に、ゼロから中国語を学ぼう！王子先生たちが用意したさまざまなレベルの中国語コースやテーマ別コースを選び、王子先生に質問して答えをもらうことができます。それぞれの王子先生が自分自身の物語を語りながら、中国語を教えてくれます。",
+      "delivery": {
+        "status": "submitted",
+        "firstSeenAt": "2026-11-28T06:01:05.005Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『1000王子様と中国語を学ぼう』\n✨ いつでも無料でプレイ\n\n1000人の王子様と一緒に、ゼロから中国語を学ぼう！王子先生たちが用意したさまざまなレベルの中国語コースやテーマ別コースを選び、王子先生に質問して答えをもらうことができます…\n\nhttps://store.steampowered.com/app/5344130/",
+        "attemptedAt": "2026-11-28T06:01:05.994Z",
+        "bufferPostId": "6b0a6e22cf6d91773002ea8d",
+        "submittedAt": "2026-11-28T06:01:17.110Z"
+      },
+      "bufferPostId": "6b0a6e22cf6d91773002ea8d"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-28T03:01:15.269Z",
+    "lastSuccessfulScanAt": "2026-11-28T06:01:05.005Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -27048,6 +27080,7 @@
       "5341010": "2026-11-02T06:01:05.538Z",
       "5342780": "2026-11-09T09:01:07.965Z",
       "5343970": "2026-10-16T09:01:06.129Z",
+      "5344130": "2026-11-28T06:01:05.005Z",
       "5345030": "2026-10-18T09:00:58.727Z",
       "5345880": "2026-11-16T03:01:14.549Z",
       "5348940": "2026-11-14T00:01:17.704Z",

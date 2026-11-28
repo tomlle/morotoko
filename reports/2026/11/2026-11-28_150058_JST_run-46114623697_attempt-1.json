@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46114623697",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-28T06:00:58.586Z",
+    "finishedAt": "2026-11-28T06:01:17.142Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46114623697"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 10,
+    "verified": 1,
+    "newPromotions": 1,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 0,
+    "failed": 0,
+    "skipped": 0,
+    "submitted": 1
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5344130",
+      "title": "1000王子様と中国語を学ぼう",
+      "storeUrl": "https://store.steampowered.com/app/5344130/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5344130/da175c8376fc625623a1ff5fb271193fe9854d3d/header.jpg?t=1795844356",
+      "officialDescription": "1000人の王子様と一緒に、ゼロから中国語を学ぼう！王子先生たちが用意したさまざまなレベルの中国語コースやテーマ別コースを選び、王子先生に質問して答えをもらうことができます。それぞれの王子先生が自分自身の物語を語りながら、中国語を教えてくれます。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:5344130:permanent_free:1",
+      "productId": "5344130",
+      "title": "1000王子様と中国語を学ぼう",
+      "status": "submitted",
+      "bufferPostId": "6b0a6e22cf6d91773002ea8d"
+    }
+  ],
+  "errors": []
+}
