@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "run": {
+    "runId": "46142535473",
+    "attempt": 1,
+    "event": "workflow_dispatch",
+    "startedAt": "2026-11-28T12:00:58.799Z",
+    "finishedAt": "2026-11-28T12:01:10.178Z",
+    "timezone": "Asia/Tokyo",
+    "status": "success",
+    "actionsUrl": "https://github.com/tomlle/morotoko/actions/runs/46142535473"
+  },
+  "detection": {
+    "searched": 109,
+    "candidates": 11,
+    "verified": 2,
+    "newPromotions": 2,
+    "knownPromotions": 0,
+    "excluded": 9,
+    "sourceHealthy": true,
+    "emptyResultValidated": true
+  },
+  "posting": {
+    "succeeded": 2,
+    "failed": 0,
+    "skipped": 0
+  },
+  "activePromotions": [
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "3463440",
+      "title": "GridController",
+      "storeUrl": "https://store.steampowered.com/app/3463440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3463440/e993489ff8e436845afa297cbb2ed6e3cb887c56/header.jpg?t=1795867175",
+      "officialDescription": "An online power company tycoon. Start with an exercise bike wired to a car battery and a street full of dark houses, and grow it into a utility that lights whole regions with solar, wind, gas, hydro and nuclear, on a grid you wire yourself."
+    },
+    {
+      "kind": "permanent_free",
+      "store": "steam",
+      "productId": "5553700",
+      "title": "世界樹と護符の約束",
+      "storeUrl": "https://store.steampowered.com/app/5553700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5553700/33b37fe3d40f97464bd91e0a581fc9477895d2d8/header_japanese.jpg?t=1795767370",
+      "officialDescription": "世界樹を探索し、素材を集め、護符を作り、さらに深層へ。ランダムに変化する探索ルート、迫りくる樹圧、そして敗北しても続く冒険。仲間を育て、装備を強化しながら世界樹の秘密に迫る、探索型ファンタジーRPG。"
+    }
+  ],
+  "posts": [
+    {
+      "type": "campaign",
+      "campaignId": "steam:3463440:permanent_free:1",
+      "productId": "3463440",
+      "title": "GridController",
+      "status": "sent",
+      "bufferPostId": "6b0ac281e7fdbc6af928528e"
+    },
+    {
+      "type": "campaign",
+      "campaignId": "steam:5553700:permanent_free:1",
+      "productId": "5553700",
+      "title": "世界樹と護符の約束",
+      "status": "sent",
+      "bufferPostId": "6b0ac28476150372101ea75e"
+    }
+  ],
+  "errors": []
+}

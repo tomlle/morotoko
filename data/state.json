@@ -3042,6 +3042,14 @@
     "steam:5437770:permanent_free": {
       "generation": 1,
       "activeCampaignId": "steam:5437770:permanent_free:1"
+    },
+    "steam:3463440:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:3463440:permanent_free:1"
+    },
+    "steam:5553700:permanent_free": {
+      "generation": 1,
+      "activeCampaignId": "steam:5553700:permanent_free:1"
     }
   },
   "campaigns": {
@@ -26444,11 +26452,71 @@
       },
       "bufferPostId": "6b0a9855c84d4c572b4b6732",
       "postedAt": "2026-11-28T09:01:11.307Z"
+    },
+    "steam:3463440:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:3463440:permanent_free:1",
+      "store": "steam",
+      "productId": "3463440",
+      "generation": 1,
+      "title": "GridController",
+      "storeUrl": "https://store.steampowered.com/app/3463440/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T12:01:05.137Z",
+      "lastSeenAt": "2026-11-28T12:01:05.137Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "An online power company tycoon. Start with an exercise bike wired to a car battery and a street full of dark houses, and grow it into a utility that lights whole regions with solar, wind, gas, hydro and nuclear, on a grid you wire yourself.",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T12:01:05.137Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『GridController』\n✨ いつでも無料でプレイ\n\nhttps://store.steampowered.com/app/3463440/",
+        "attemptedAt": "2026-11-28T12:01:05.683Z",
+        "bufferPostId": "6b0ac281e7fdbc6af928528e",
+        "submittedAt": "2026-11-28T12:01:07.926Z",
+        "postedAt": "2026-11-28T12:01:07.926Z"
+      },
+      "bufferPostId": "6b0ac281e7fdbc6af928528e",
+      "postedAt": "2026-11-28T12:01:07.926Z"
+    },
+    "steam:5553700:permanent_free:1": {
+      "kind": "permanent_free",
+      "id": "steam:5553700:permanent_free:1",
+      "store": "steam",
+      "productId": "5553700",
+      "generation": 1,
+      "title": "世界樹と護符の約束",
+      "storeUrl": "https://store.steampowered.com/app/5553700/",
+      "initialPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "firstSeenAt": "2026-11-28T12:01:05.137Z",
+      "lastSeenAt": "2026-11-28T12:01:05.137Z",
+      "active": true,
+      "consecutiveMisses": 0,
+      "postStatus": "sent",
+      "postAttempts": 1,
+      "officialDescription": "世界樹を探索し、素材を集め、護符を作り、さらに深層へ。ランダムに変化する探索ルート、迫りくる樹圧、そして敗北しても続く冒険。仲間を育て、装備を強化しながら世界樹の秘密に迫る、探索型ファンタジーRPG。",
+      "delivery": {
+        "status": "sent",
+        "firstSeenAt": "2026-11-28T12:01:05.137Z",
+        "postText": "🎮 新作の無料ゲームを発見！\n\n『世界樹と護符の約束』\n✨ いつでも無料でプレイ\n\n世界樹を探索し、素材を集め、護符を作り、さらに深層へ。ランダムに変化する探索ルート、迫りくる樹圧、そして敗北しても続く冒険。仲間を育て、装備を強化しながら世界樹の秘密に迫る、探…\n\nhttps://store.steampowered.com/app/5553700/",
+        "attemptedAt": "2026-11-28T12:01:07.948Z",
+        "bufferPostId": "6b0ac28476150372101ea75e",
+        "submittedAt": "2026-11-28T12:01:10.151Z",
+        "postedAt": "2026-11-28T12:01:10.151Z"
+      },
+      "bufferPostId": "6b0ac28476150372101ea75e",
+      "postedAt": "2026-11-28T12:01:10.151Z"
     }
   },
   "permanentFreeBaseline": {
     "initializedAt": "2026-10-14T15:30:36.000Z",
-    "lastSuccessfulScanAt": "2026-11-28T09:01:08.784Z",
+    "lastSuccessfulScanAt": "2026-11-28T12:01:05.137Z",
     "seenProductIds": {
       "839140": "2026-10-14T15:30:36.000Z",
       "871460": "2026-11-26T18:01:03.997Z",
@@ -26518,6 +26586,7 @@
       "3371490": "2026-10-14T15:30:36.000Z",
       "3441590": "2026-11-24T03:01:13.098Z",
       "3456950": "2026-11-26T12:01:06.959Z",
+      "3463440": "2026-11-28T12:01:05.137Z",
       "3466220": "2026-10-29T09:01:05.116Z",
       "3484110": "2026-11-03T06:01:07.148Z",
       "3517360": "2026-11-20T12:01:11.705Z",
@@ -27290,6 +27359,7 @@
       "5533130": "2026-11-20T15:01:27.184Z",
       "5533560": "2026-11-24T03:01:13.098Z",
       "5541800": "2026-11-17T09:01:05.156Z",
+      "5553700": "2026-11-28T12:01:05.137Z",
       "5553820": "2026-11-26T15:01:17.545Z",
       "5558370": "2026-11-24T15:01:08.043Z",
       "5559200": "2026-11-24T06:01:02.972Z",
